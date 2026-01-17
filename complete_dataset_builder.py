@@ -173,6 +173,40 @@ class ComprehensiveDatasetBuilder:
                 except Exception as e:
                     console.print(f"  [red]Failed: {filename} - {e}[/red]")
     
+    def add_tutorial_videos(self):
+        """Add tutorial-style videos to the tutorials folder."""
+        console.print("\n[bold cyan]Adding Tutorial Videos...[/bold cyan]")
+        
+        output_dir = DATA_DIR / "videos/tutorials"
+        output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Tutorial video sources
+        tutorial_urls = [
+            ("Python_Basics_Tutorial.mp4", "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"),
+            ("Data_Analysis_Pandas_Tutorial.mp4", "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"),
+            ("Neural_Networks_Implementation.mp4", "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"),
+        ]
+        
+        for filename, url in tutorial_urls:
+            filepath = output_dir / filename
+            
+            if not filepath.exists():
+                try:
+                    console.print(f"  Downloading: {filename}...")
+                    response = requests.get(url, stream=True, timeout=30)
+                    response.raise_for_status()
+                    
+                    with open(filepath, 'wb') as f:
+                        for chunk in response.iter_content(chunk_size=8192):
+                            f.write(chunk)
+                    
+                    size_mb = filepath.stat().st_size / (1024 * 1024)
+                    console.print(f"  [green]Success: {filename} ({size_mb:.1f} MB)[/green]")
+                    self.stats["files_created"] += 1
+                    self.stats["total_size_mb"] += size_mb
+                except Exception as e:
+                    console.print(f"  [red]Failed: {filename} - {e}[/red]")
+    
     def _generate_ml_textbook_content(self, title):
         return f"""# {title}
         
@@ -368,7 +402,56 @@ In-depth exploration of neural network architectures, training techniques, and m
 """
     
     def _generate_lecture_notes(self, course_name, lecture_num):
-        return f"""# {course_name} - Lecture {lecture_num}
+        # Unique content per course and lecture
+        lecture_content = {
+            "Machine Learning": {
+                1: ("Linear Regression", "y = mx + b, gradient descent, MSE optimization"),
+                2: ("Logistic Regression", "sigmoid function, binary classification, log-loss"),
+                3: ("Decision Trees", "CART algorithm, Gini impurity, tree pruning"),
+                4: ("Random Forests", "ensemble methods, bagging, feature importance"),
+                5: ("Support Vector Machines", "margin maximization, kernel trick, soft margins"),
+                6: ("Naive Bayes", "probabilistic classifiers, Bayes theorem, independence"),
+                7: ("K-Nearest Neighbors", "distance metrics, hyperparameter tuning, curse of dimensionality"),
+                8: ("Clustering", "K-means, hierarchical clustering, DBSCAN"),
+                9: ("Dimensionality Reduction", "PCA, t-SNE, autoencoders"),
+                10: ("Model Evaluation", "cross-validation, ROC curves, precision-recall tradeoffs")
+            },
+            "Deep Learning": {
+                1: ("Neural Network Fundamentals", "perceptron, activation functions, forward propagation"),
+                2: ("Backpropagation", "chain rule, gradient computation, weight updates"),
+                3: ("Optimization Algorithms", "SGD, Adam, learning rate schedules"),
+                4: ("Convolutional Networks", "convolution operation, pooling, CNN architectures"),
+                5: ("Recurrent Networks", "LSTM, GRU, handling sequences"),
+                6: ("Attention Mechanisms", "self-attention, transformer architecture"),
+                7: ("Generative Models", "GANs, VAEs, diffusion models"),
+                8: ("Transfer Learning", "fine-tuning, domain adaptation, pre-trained models")
+            },
+            "NLP": {
+                1: ("Text Preprocessing", "tokenization, stemming, lemmatization, stop words"),
+                2: ("Word Embeddings", "Word2Vec, GloVe, contextual embeddings"),
+                3: ("Language Models", "N-grams, perplexity, LSTM language models"),
+                4: ("Transformers", "BERT, GPT, attention is all you need"),
+                5: ("Text Classification", "sentiment analysis, document categorization"),
+                6: ("Named Entity Recognition", "sequence tagging, BIO format, CRF")
+            },
+            "Computer Vision": {
+                1: ("Image Basics", "pixels, channels, convolution filters"),
+                2: ("CNN Architectures", "AlexNet, VGG, ResNet, EfficientNet"),
+                3: ("Object Detection", "R-CNN, YOLO, SSD, anchor boxes"),
+                4: ("Semantic Segmentation", "FCN, U-Net, DeepLab"),
+                5: ("Image Generation", "StyleGAN, conditional GANs, image-to-image translation")
+            },
+            "Reinforcement Learning": {
+                1: ("MDP Fundamentals", "states, actions, rewards, Bellman equations"),
+                2: ("Value Iteration", "dynamic programming, policy iteration, optimal policies"),
+                3: ("Q-Learning", "temporal difference learning, exploration vs exploitation"),
+                4: ("Deep Q-Networks", "DQN, experience replay, target networks")
+            }
+        }
+        
+        topic, details = lecture_content[course_name].get(lecture_num, ("Advanced Topics", "Selected research areas"))
+        
+        return f"""# {course_name} - Lecture {lecture_num}: {topic}
 
 Date: 2026-01-{lecture_num:02d}
 Instructor: Dr. Sarah Chen
@@ -376,30 +459,82 @@ Duration: 90 minutes
 
 ## Lecture Overview
 
-This lecture covers fundamental concepts in {course_name}, building on previous material and 
-introducing advanced topics relevant to modern applications.
+Today's focus: **{topic}**
 
-## Key Topics
+This lecture explores {details}, with theoretical foundations, 
+practical implementations, and real-world applications.
 
-1. **Topic 1**: Introduction and motivation
-2. **Topic 2**: Theoretical foundations
-3. **Topic 3**: Practical applications
-4. **Topic 4**: Recent research developments
+## Key Learning Outcomes
 
-## Detailed Notes
+By the end of this lecture, students will be able to:
+1. Understand the core concepts of {topic}
+2. Implement algorithms related to {details}
+3. Apply these techniques to real datasets
+4. Recognize when to use these methods in practice
 
-[Comprehensive lecture content with examples, code snippets, mathematical derivations, and 
-real-world case studies...]
+## Detailed Content
+
+### Part 1: Theoretical Foundation ({topic})
+
+{details}
+
+Mathematical formulation and algorithmic principles demonstrated through step-by-step derivations.
+Complexity analysis: Time O(n²), Space O(n) for typical implementations.
+
+### Part 2: Implementation
+
+```python
+# Example code for {topic}
+import numpy as np
+
+def example_algorithm(data, params):
+    # Core implementation of {topic}
+    result = process(data)
+    return result
+```
+
+### Part 3: Real-World Applications
+
+Case study: How {topic} is used in industry applications including:
+- E-commerce recommendation systems
+- Medical imaging diagnostics
+- Financial fraud detection
+- Autonomous vehicle perception
+
+### Part 4: Advanced Considerations
+
+- Handling edge cases and corner scenarios
+- Performance optimization techniques
+- Recent research developments in {topic}
+- Comparison with alternative approaches
+
+## Hands-On Exercise
+
+Dataset: UCI Machine Learning Repository - {course_name} Dataset
+Task: Implement {topic} and achieve >85% accuracy on test set
 
 ## Homework Assignment
 
-Problems due next week focusing on applying concepts learned today.
+Due: Next week before lecture
+
+1. Implement the {topic} algorithm from scratch
+2. Compare performance with sklearn/PyTorch implementation
+3. Write a 2-page analysis of results
+4. Prepare questions for next lecture
 
 ## Additional Resources
 
-- Research papers
-- Online tutorials
-- Practice datasets
+- Paper: "Advances in {topic}" (2024)
+- Tutorial: https://example.com/{course_name.lower()}/{lecture_num}
+- Dataset: Kaggle {course_name} Competition
+
+## Next Lecture Preview
+
+We'll build upon {topic} to explore more advanced concepts in {course_name}.
+
+---
+Office Hours: Wednesdays 3-5 PM, Room 302
+Discussion Forum: course-platform.edu/ml{lecture_num}
 """
     
     def _generate_synthetic_dataset(self, dataset_info):
@@ -456,6 +591,7 @@ Problems due next week focusing on applying concepts learned today.
             self.add_lecture_notes()
             self.add_kaggle_datasets()
             self.add_more_videos()
+            self.add_tutorial_videos()
             
             progress.update(task, completed=True)
         
