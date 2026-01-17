@@ -380,28 +380,6 @@ Compatible with:
 - Google Cloud (Compute Engine, Cloud Run)
 - Azure (VMs, Container Instances)
 
-## Contributing
-
-This project represents a hackathon submission for NavGurukul's ML Engineer challenge. It demonstrates production-level engineering practices and cutting-edge ML techniques.
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Acknowledgments
-
-- Built for NavGurukul Hackathon Challenge 6
-- Utilizes state-of-the-art open-source ML models
-- Inspired by modern educational technology needs
-
 ## Author
 
 Vasista CV
-
-## Support
-
-For issues, questions, or contributions, please open an issue on GitHub.
-
----
-
-**Built with excellence for transforming education through AI**
