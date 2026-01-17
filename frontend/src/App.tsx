@@ -5,10 +5,8 @@ import {
   Search,
   Network,
   Database,
-  BookOpen,
   Settings,
   Menu,
-  X,
   Cpu
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';

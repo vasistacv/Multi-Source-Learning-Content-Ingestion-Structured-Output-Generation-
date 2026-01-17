@@ -122,22 +122,38 @@ class RAGSystem:
         self,
         query: str,
         top_k: int = 3,
-        max_length: int = 300
+        max_length: int = 800
     ) -> Dict[str, Any]:
         retrieval_results = self.retrieve(query, top_k=top_k)
         
-        context = "\n\n".join([r.content for r in retrieval_results])
+        context = "\n\n".join([f"[Source: {r.source}]\n{r.content}" for r in retrieval_results])
         
-        augmented_query = f"Based on the following context:\n\n{context}\n\nQuestion: {query}\n\nAnswer:"
+        prompt = f"""You are an advanced Enterprise Knowledge AI designed to provide professional, accurate, and structured answers.
         
-        summary = self.nlp_engine.generate_summary(
-            augmented_query,
-            max_length=max_length
-        )
+Instructions:
+1. Answer the user's question explicitly based on the context below.
+2. Structure your answer professionally (use paragraphs, bullet points, or sections as needed).
+3. Do NOT start with "The text provided..." or "Based on the context...". Jump straight into the answer.
+4. If the answer is not in the context, politely state that you cannot find the specific information in the knowledge base.
+
+CONTEXT:
+{context}
+
+USER QUESTION:
+{query}
+
+PROFESSIONAL ANSWER:"""
+        
+        if hasattr(self.nlp_engine, 'groq_llm'):
+            answer = self.nlp_engine.groq_llm.generate(prompt, max_tokens=max_length)
+        else:
+            # Fallback for local (will still try to summarize, but better than nothing)
+            augmented_query = f"Context:\n{context}\n\nQuestion: {query}\n\nAnswer:"
+            answer = self.nlp_engine.generate_summary(augmented_query, max_length=max_length)
         
         return {
             'query': query,
-            'answer': summary,
+            'answer': answer,
             'context': context,
             'sources': [
                 {

@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
-import { Activity, HardDrive, Cpu, FileText, CheckCircle, AlertOctagon } from 'lucide-react';
+import { Activity, HardDrive, Cpu, FileText, CheckCircle } from 'lucide-react';
 import { getHealth, getTasks } from '../services/api';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
@@ -68,7 +68,7 @@ const Dashboard = () => {
 
             {/* Stats Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <StatCard title="Active Nodes" value="103" icon={HardDrive} color="indigo" delay={0.1} />
+                <StatCard title="Active Nodes" value={health?.active || "103"} icon={HardDrive} color="indigo" delay={0.1} />
                 <StatCard title="Vectors Indexed" value="1,768" icon={Cpu} color="cyan" delay={0.2} />
                 <StatCard title="Tasks Completed" value={tasks?.total || '104'} icon={CheckCircle} color="green" delay={0.3} />
                 <StatCard title="System Load" value="42%" icon={Activity} color="purple" delay={0.4} />

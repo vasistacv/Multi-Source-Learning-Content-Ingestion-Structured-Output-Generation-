@@ -10,7 +10,7 @@ export const api = axios.create({
 });
 
 export interface Task {
-    task_id: str;
+    task_id: string;
     status: 'queued' | 'processing' | 'completed' | 'failed';
     file_id: string;
     created_at: string;
@@ -40,8 +40,17 @@ export const getTasks = async (status?: string) => {
 };
 
 export const queryContent = async (query: string, top_k: number = 5) => {
-    const response = await api.post<QueryResponse>('/query', { query, top_k });
-    return response.data;
+    try {
+        const response = await api.post<QueryResponse>('/query', { query, top_k });
+        return response.data;
+    } catch (error) {
+        console.error("API Error in queryContent:", error);
+        return {
+            query: query,
+            answer: "", // Empty answer triggers the fallback logic in SearchPage
+            sources: []
+        };
+    }
 };
 
 export const uploadFile = async (file: File) => {
