@@ -1,9 +1,12 @@
 torch>=2.1.0
 torchvision>=0.16.0
+torchaudio>=2.1.0
 transformers>=4.35.0
 sentence-transformers>=2.2.2
 accelerate>=0.25.0
 bitsandbytes>=0.41.0
+
+peft>=0.7.0
 
 fastapi>=0.104.0
 uvicorn[standard]>=0.24.0
@@ -29,7 +32,6 @@ opencv-python>=4.8.1
 opencv-contrib-python>=4.8.1
 ffmpeg-python>=0.2.0
 
-whisper>=1.1.10
 openai-whisper>=20231117
 librosa>=0.10.1
 soundfile>=0.12.1
@@ -94,3 +96,10 @@ redis-om>=0.2.1
 sqlalchemy>=2.0.23
 alembic>=1.13.0
 asyncpg>=0.29.0
+
+rouge-score>=0.1.2
+
+yt-dlp>=2024.1.1
+arxiv>=2.1.0
+datasets>=2.16.0
+wikipedia-api>=0.6.0
