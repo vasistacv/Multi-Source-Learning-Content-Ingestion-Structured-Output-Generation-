@@ -1,0 +1,39 @@
+Enterprise Knowledge Hub
+By Vasista CV
+
+Why I Built This
+
+I realized that we are all drowning in PDFs, videos, and documents. Whenever I needed to find a specific concept—like something mentioned 15 minutes into a lecture video—I had to painfully watch the whole thing again. I thought: "Why can't I just talk to my data?"
+
+That was the spark for the Enterprise Knowledge Hub. I wanted to build a "Second Brain" that listens, reads, and understands everything I throw at it, so I never lose knowledge again.
+
+What It Does
+
+My project is an AI-powered engine that takes messy, unstructured files (PDFs, Videos, Text) and turns them into a structured, searchable knowledge base.
+
+It Watches Videos: I integrated OpenAI Whisper, so if you upload a lecture, my system transcribes the audio. You can search for a spoken sentence, and it finds it.
+
+It Thinks, It Doesn't Just Search: Instead of simple keyword matching, I used Vector Embeddings. This means if you search for "neural networks", it understands distinct concepts related to it, even if the exact keywords aren't present.
+
+It Visualizes: I didn't want a boring list. Because I love data visualization, I built a "Knowledge Universe"—a 3D graph that shows how all my documents are connected.
+
+How I Built It (Tech Stack)
+
+I used a modern stack to make this production-ready:
+
+The Brain (Backend): Python & FastAPI. I used FAISS for the vector database because it's incredibly fast at similarity search.
+
+The Intelligence (AI): I connected the system to Groq's Llama-3-70B. I chose Groq because its speed gives a "real-time" feeling.
+
+The Look (Frontend): React, Vite, and my favorite—Glassmorphism styling with TailwindCSS. I wanted it to look like a tool from the future, not a boring dashboard.
+
+The Result
+
+What started as a simple search tool became a full RAG (Retrieval Augmented Generation) pipeline. Now, when I ask: "What is a kernel in deep learning?" the system:
+
+1. Scans my PDFs and Video Transcripts.
+2. Finds the relevant paragraph.
+3. Streams the answer back to me word-by-word.
+4. Cites the sources so I know it's not hallucinating.
+
+This was a challenging but incredibly rewarding build. It proves that with the right tools, we can turn information into actual intelligence.

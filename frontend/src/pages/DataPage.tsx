@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import { getTasks } from '../services/api';
-import { FileText, Film, Download, CheckCircle, XCircle, Clock, Search } from 'lucide-react';
+import { getTasks, uploadFile, processFile } from '../services/api';
+import { FileText, Film, Download, CheckCircle, XCircle, Clock, Search, Upload } from 'lucide-react';
 
 const DataPage = () => {
     const [tasks, setTasks] = useState<any[]>([]);
@@ -30,15 +30,42 @@ const DataPage = () => {
         <div className="space-y-6">
             <div className="flex justify-between items-center">
                 <h1 className="text-3xl font-bold title-gradient">Data Sources</h1>
-                <div className="relative">
-                    <Search className="absolute left-3 top-2.5 text-gray-500" size={18} />
-                    <input
-                        type="text"
-                        placeholder="Filter sources..."
-                        className="pl-10 pr-4 py-2 bg-surfaceLight border border-white/10 rounded-lg focus:outline-none focus:border-indigo-500 text-sm w-64"
-                        value={filter}
-                        onChange={e => setFilter(e.target.value)}
-                    />
+                <div className="flex items-center space-x-4">
+                    <div className="relative">
+                        <Search className="absolute left-3 top-2.5 text-gray-500" size={18} />
+                        <input
+                            type="text"
+                            placeholder="Filter sources..."
+                            className="pl-10 pr-4 py-2 bg-surfaceLight border border-white/10 rounded-lg focus:outline-none focus:border-indigo-500 text-sm w-64"
+                            value={filter}
+                            onChange={e => setFilter(e.target.value)}
+                        />
+                    </div>
+                    <label className="flex items-center space-x-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg cursor-pointer transition-colors">
+                        <Upload size={18} />
+                        <span className="text-sm font-medium">Ingest New File</span>
+                        <input
+                            type="file"
+                            className="hidden"
+                            onChange={async (e) => {
+                                if (e.target.files?.[0]) {
+                                    try {
+                                        const file = e.target.files[0];
+                                        // Upload
+                                        const uploadRes = await uploadFile(file);
+                                        // Process
+                                        await processFile(uploadRes.file_id);
+                                        // Refresh list
+                                        getTasks().then(res => setTasks(res.tasks));
+                                        alert('Ingestion started for: ' + file.name);
+                                    } catch (err) {
+                                        console.error(err);
+                                        alert('Upload failed');
+                                    }
+                                }
+                            }}
+                        />
+                    </label>
                 </div>
             </div>
 
