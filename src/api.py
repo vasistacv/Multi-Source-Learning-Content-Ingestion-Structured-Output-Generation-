@@ -29,6 +29,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+from fastapi.staticfiles import StaticFiles
+output_dir = Path("outputs")
+output_dir.mkdir(exist_ok=True)
+app.mount("/outputs", StaticFiles(directory="outputs"), name="outputs")
+
 pipeline = ContentIngestionPipeline(use_gpu=True)
 
 processing_tasks = {}
