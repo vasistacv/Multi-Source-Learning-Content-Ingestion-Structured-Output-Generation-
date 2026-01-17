@@ -20,8 +20,11 @@ const TypewriterText = ({ text }: { text: string }) => {
 
         const interval = setInterval(() => {
             if (indexRef.current < words.length) {
-                setDisplayedText((prev) => prev + (indexRef.current === 0 ? '' : ' ') + words[indexRef.current]);
-                indexRef.current++;
+                const word = words[indexRef.current];
+                if (word !== undefined) {
+                    setDisplayedText((prev) => prev + (indexRef.current === 0 ? '' : ' ') + word);
+                    indexRef.current++;
+                }
                 const scrollContainer = document.getElementById('chat-scroll-container');
                 if (scrollContainer) scrollContainer.scrollTop = scrollContainer.scrollHeight;
             } else {
@@ -120,9 +123,15 @@ const SearchPage = () => {
         try {
             const result = await queryContent(userMsg.content);
 
-            // Strict validation of the answer
             let finalAnswer = result.answer;
-            if (!finalAnswer || finalAnswer === 'undefined' || finalAnswer === 'None' || finalAnswer.length < 5) {
+
+            // Clean up: Remove Markdown stars (bolding)
+            if (finalAnswer) {
+                finalAnswer = finalAnswer.replace(/\*\*/g, '');
+            }
+
+            // Strict validation
+            if (!finalAnswer || finalAnswer === 'undefined' || finalAnswer === 'None' || finalAnswer.trim().length < 5) {
                 finalAnswer = "I found these relevant sources for you. The synthesis engine is optimizing, but you can access the raw documents below.";
             }
 
