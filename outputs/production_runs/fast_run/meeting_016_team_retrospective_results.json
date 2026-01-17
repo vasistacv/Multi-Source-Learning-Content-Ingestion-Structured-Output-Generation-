@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_016_team_retrospective.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:38:05.639751",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_016_team_retrospective.txt",
+    "file_type": ".txt",
+    "file_size": 1700,
+    "processed_at": "2026-01-17T13:38:04.165090",
+    "content_hash": "6eba5018c3cea18f4e63b774eaf7206c7e117c48cff8dd7ea695f19aa3fbc2f4",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 226,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Items",
+    "Went",
+    "Action",
+    "Action Items",
+    "Improvements"
+  ],
+  "key_concepts": [
+    "discussed",
+    "items",
+    "action",
+    "action items",
+    "alice",
+    "went",
+    "improvements",
+    "kudos",
+    "charlie",
+    "meeting",
+    "bob",
+    "team",
+    "follow",
+    "progress",
+    "proposed"
+  ],
+  "entity_count": 44,
+  "word_count": 226,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 217,
+      "density": 0.7233333333333334,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.2833333333333334,
+      "average_clustering": 0.9045295106622337,
+      "most_central_concepts": [
+        [
+          "team",
+          0.9583333333333333
+        ],
+        [
+          "items",
+          0.9166666666666666
+        ],
+        [
+          "action",
+          0.9166666666666666
+        ],
+        [
+          "action items",
+          0.9166666666666666
+        ],
+        [
+          "went",
+          0.9166666666666666
+        ],
+        [
+          "discussion",
+          0.9166666666666666
+        ],
+        [
+          "improvements",
+          0.875
+        ],
+        [
+          "meeting",
+          0.875
+        ],
+        [
+          "01",
+          0.875
+        ],
+        [
+          "2026",
+          0.875
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "team",
+        "items"
+      ],
+      [
+        "team",
+        "action"
+      ],
+      [
+        "team",
+        "action items"
+      ],
+      [
+        "team",
+        "went"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_016_team_retrospective"
+  },
+  "rag_document_id": "6a060b70-6c5f-4eff-9ee4-d8b8af76b245",
+  "processing_time_seconds": 4.215116
+}

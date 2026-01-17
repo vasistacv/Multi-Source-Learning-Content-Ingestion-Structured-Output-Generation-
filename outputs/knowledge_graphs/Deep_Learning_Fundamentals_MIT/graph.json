@@ -1,0 +1,1588 @@
+{
+  "nodes": [
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 12.042062834034498,
+      "degree_centrality": 0.9285714285714285,
+      "betweenness_centrality": 0.028487128685541385,
+      "eigenvector_centrality": 0.24199073671086085
+    },
+    {
+      "id": "loss",
+      "label": "loss",
+      "weight": 7.08370115698571,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.007461608056846152,
+      "eigenvector_centrality": 0.14500948097910907
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 6.2290760984799185,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.010066333578238341,
+      "eigenvector_centrality": 0.20819675740697816
+    },
+    {
+      "id": "self",
+      "label": "self",
+      "weight": 6.006486323007115,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.008601073382819414,
+      "eigenvector_centrality": 0.15549977370911672
+    },
+    {
+      "id": "layer",
+      "label": "layer",
+      "weight": 4.927920205315205,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.023647039321642496,
+      "eigenvector_centrality": 0.22510938701576252
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 4.616108944995192,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.015918296870677816,
+      "eigenvector_centrality": 0.22339417497356537
+    },
+    {
+      "id": "gradients",
+      "label": "gradients",
+      "weight": 4.449464308968743,
+      "degree_centrality": 0.39285714285714285,
+      "betweenness_centrality": 0.0018851225200431545,
+      "eigenvector_centrality": 0.11040445497902991
+    },
+    {
+      "id": "training",
+      "label": "training",
+      "weight": 4.2457365774058164,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.01864190336412558,
+      "eigenvector_centrality": 0.20709533098509061
+    },
+    {
+      "id": "function",
+      "label": "function",
+      "weight": 4.210166771061196,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.024234011138773038,
+      "eigenvector_centrality": 0.20832688555036413
+    },
+    {
+      "id": "let",
+      "label": "let",
+      "weight": 3.9117564531098217,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.009321917060012296,
+      "eigenvector_centrality": 0.18806219855059586
+    },
+    {
+      "id": "neural",
+      "label": "neural",
+      "weight": 3.878629983107556,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.01426229928214055,
+      "eigenvector_centrality": 0.20389246032795427
+    },
+    {
+      "id": "weights",
+      "label": "weights",
+      "weight": 3.8491459054719623,
+      "degree_centrality": 0.2857142857142857,
+      "betweenness_centrality": 0.0004094230284706475,
+      "eigenvector_centrality": 0.08170190064475687
+    },
+    {
+      "id": "forward",
+      "label": "forward",
+      "weight": 3.7938593476790063,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.00338860140447442,
+      "eigenvector_centrality": 0.14051428487559603
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 3.7917251439360884,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.010823013699997825,
+      "eigenvector_centrality": 0.2067018002126484
+    },
+    {
+      "id": "network",
+      "label": "network",
+      "weight": 3.5380445831359912,
+      "degree_centrality": 0.9285714285714285,
+      "betweenness_centrality": 0.038891950201474,
+      "eigenvector_centrality": 0.23737916246707672
+    },
+    {
+      "id": "use",
+      "label": "use",
+      "weight": 3.522380002382004,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.008900362570997489,
+      "eigenvector_centrality": 0.13047165510337885
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 3.5119411300870844,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.0034821696528045737,
+      "eigenvector_centrality": 0.18741958471062084
+    },
+    {
+      "id": "linear",
+      "label": "linear",
+      "weight": 3.414253909001544,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0008388877436496483,
+      "eigenvector_centrality": 0.0690365561450521
+    },
+    {
+      "id": "relu",
+      "label": "relu",
+      "weight": 3.39335569126724,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.007719899882598295,
+      "eigenvector_centrality": 0.16697206049578658
+    },
+    {
+      "id": "activation",
+      "label": "activation",
+      "weight": 3.3116117424337816,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.006440245527547114,
+      "eigenvector_centrality": 0.14434456536245502
+    },
+    {
+      "id": "simple",
+      "label": "simple",
+      "weight": 3.0828767174415623,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.005102540023174944,
+      "eigenvector_centrality": 0.19591026568681333
+    },
+    {
+      "id": "hidden_dim",
+      "label": "hidden_dim",
+      "weight": 3.0819098858117324,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.0059291237862666435,
+      "eigenvector_centrality": 0.15384933174713383
+    },
+    {
+      "id": "learn",
+      "label": "learn",
+      "weight": 3.079737292723488,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.01462202186408535,
+      "eigenvector_centrality": 0.22311923525261232
+    },
+    {
+      "id": "networks",
+      "label": "networks",
+      "weight": 3.0756543766091085,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.015918296870677816,
+      "eigenvector_centrality": 0.22339417497356537
+    },
+    {
+      "id": "batch",
+      "label": "batch",
+      "weight": 3.0615575454558552,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.006354536116440878,
+      "eigenvector_centrality": 0.1572252904991511
+    },
+    {
+      "id": "layers",
+      "label": "layers",
+      "weight": 2.7987129460114035,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.023647039321642496,
+      "eigenvector_centrality": 0.2251093870157625
+    },
+    {
+      "id": "neural network",
+      "label": "neural network",
+      "weight": 2.6579464616617314,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.007941892763321334,
+      "eigenvector_centrality": 0.17026311747033146
+    },
+    {
+      "id": "output",
+      "label": "output",
+      "weight": 2.614844912403383,
+      "degree_centrality": 0.9285714285714285,
+      "betweenness_centrality": 0.0351421506183411,
+      "eigenvector_centrality": 0.23951717864129685
+    },
+    {
+      "id": "learning rate",
+      "label": "learning rate",
+      "weight": 2.2230843639725455,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.004354974097037587,
+      "eigenvector_centrality": 0.14925350974003226
+    }
+  ],
+  "edges": [
+    {
+      "source": "00",
+      "target": "let",
+      "weight": 6
+    },
+    {
+      "source": "00",
+      "target": "forward",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "neural",
+      "weight": 5
+    },
+    {
+      "source": "00",
+      "target": "network",
+      "weight": 7
+    },
+    {
+      "source": "00",
+      "target": "neural network",
+      "weight": 4
+    },
+    {
+      "source": "00",
+      "target": "function",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "layer",
+      "weight": 5
+    },
+    {
+      "source": "00",
+      "target": "relu",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "layers",
+      "weight": 4
+    },
+    {
+      "source": "00",
+      "target": "data",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "learn",
+      "weight": 6
+    },
+    {
+      "source": "00",
+      "target": "output",
+      "weight": 4
+    },
+    {
+      "source": "00",
+      "target": "training",
+      "weight": 5
+    },
+    {
+      "source": "00",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "learning",
+      "weight": 5
+    },
+    {
+      "source": "00",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "batch",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "learning rate",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "networks",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "self",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "layer",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "gradients",
+      "weight": 2
+    },
+    {
+      "source": "loss",
+      "target": "let",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "loss",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 7
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 7
+    },
+    {
+      "source": "learning",
+      "target": "learn",
+      "weight": 12
+    },
+    {
+      "source": "learning",
+      "target": "training",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "learning rate",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "layer",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "let",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "network",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "self",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "hidden_dim",
+      "weight": 4
+    },
+    {
+      "source": "self",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "self",
+      "target": "linear",
+      "weight": 3
+    },
+    {
+      "source": "self",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "relu",
+      "weight": 3
+    },
+    {
+      "source": "self",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "network",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "neural",
+      "weight": 2
+    },
+    {
+      "source": "layer",
+      "target": "network",
+      "weight": 5
+    },
+    {
+      "source": "layer",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "layer",
+      "target": "neural network",
+      "weight": 2
+    },
+    {
+      "source": "layer",
+      "target": "let",
+      "weight": 4
+    },
+    {
+      "source": "layer",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "layers",
+      "weight": 7
+    },
+    {
+      "source": "layer",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "learn",
+      "weight": 3
+    },
+    {
+      "source": "layer",
+      "target": "output",
+      "weight": 3
+    },
+    {
+      "source": "layer",
+      "target": "simple",
+      "weight": 2
+    },
+    {
+      "source": "layer",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "layer",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "weights",
+      "weight": 2
+    },
+    {
+      "source": "layer",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "gradients",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 7
+    },
+    {
+      "source": "deep",
+      "target": "learn",
+      "weight": 7
+    },
+    {
+      "source": "deep",
+      "target": "network",
+      "weight": 5
+    },
+    {
+      "source": "deep",
+      "target": "networks",
+      "weight": 5
+    },
+    {
+      "source": "deep",
+      "target": "neural",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "gradients",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "let",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "let",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "network",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "gradients",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "gradients",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "network",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "layers",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "let",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "learn",
+      "weight": 4
+    },
+    {
+      "source": "training",
+      "target": "batch",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "learning rate",
+      "weight": 3
+    },
+    {
+      "source": "training",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "simple",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "learn",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "neural",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "network",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "activation",
+      "weight": 4
+    },
+    {
+      "source": "function",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "neural",
+      "weight": 2
+    },
+    {
+      "source": "let",
+      "target": "network",
+      "weight": 3
+    },
+    {
+      "source": "let",
+      "target": "neural network",
+      "weight": 2
+    },
+    {
+      "source": "let",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "layers",
+      "weight": 3
+    },
+    {
+      "source": "let",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "let",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "let",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "network",
+      "weight": 10
+    },
+    {
+      "source": "neural",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "learn",
+      "weight": 3
+    },
+    {
+      "source": "neural",
+      "target": "neural network",
+      "weight": 9
+    },
+    {
+      "source": "neural",
+      "target": "networks",
+      "weight": 4
+    },
+    {
+      "source": "neural",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "weights",
+      "target": "network",
+      "weight": 1
+    },
+    {
+      "source": "weights",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "weights",
+      "target": "layers",
+      "weight": 2
+    },
+    {
+      "source": "weights",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "forward",
+      "target": "network",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "forward",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "network",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "learn",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "simple",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "learn",
+      "weight": 5
+    },
+    {
+      "source": "network",
+      "target": "neural network",
+      "weight": 9
+    },
+    {
+      "source": "network",
+      "target": "networks",
+      "weight": 7
+    },
+    {
+      "source": "network",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "layers",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "deep learning",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "relu",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "learn",
+      "weight": 2
+    },
+    {
+      "source": "use",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "learn",
+      "weight": 7
+    },
+    {
+      "source": "deep learning",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "hidden_dim",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "relu",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "activation",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "activation",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "activation",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "activation",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "learn",
+      "weight": 3
+    },
+    {
+      "source": "simple",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "hidden_dim",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "hidden_dim",
+      "target": "output",
+      "weight": 3
+    },
+    {
+      "source": "hidden_dim",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "hidden_dim",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "hidden_dim",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "neural network",
+      "weight": 2
+    },
+    {
+      "source": "learn",
+      "target": "layers",
+      "weight": 3
+    },
+    {
+      "source": "learn",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "learn",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "learning rate",
+      "weight": 5
+    },
+    {
+      "source": "learn",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "neural network",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "batch",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "layers",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "batch",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "batch",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "batch",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "layers",
+      "target": "neural network",
+      "weight": 1
+    },
+    {
+      "source": "layers",
+      "target": "output",
+      "weight": 3
+    },
+    {
+      "source": "neural network",
+      "target": "output",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 269,
+    "is_connected": true
+  }
+}

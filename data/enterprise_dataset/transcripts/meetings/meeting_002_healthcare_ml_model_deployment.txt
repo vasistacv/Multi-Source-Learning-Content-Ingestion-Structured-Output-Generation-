@@ -1,0 +1,98 @@
+MEETING TRANSCRIPT: Healthcare ML Model Deployment Review
+=====================================
+Date: 2026-01-12
+Duration: 75 minutes
+Attendees: Dr. Rachel Martinez (Clinical Lead), James Thompson (ML Engineer), Lisa Wang (Compliance Officer), 
+Robert Chen (DevOps Lead)
+
+CONTEXT
+-------
+Review deployment readiness of ML model for predicting patient readmission risk. Model must meet FDA regulations 
+and HIPAA compliance before production deployment.
+
+KEY DISCUSSION POINTS
+---------------------
+
+[00:00] Dr. Rachel Martinez:
+"Before we discuss technical implementation, I need everyone to understand the clinical stakes. This model will 
+influence discharge decisions for 5,000 patients monthly. A false negative means a patient goes home who should 
+stay - potential readmission or worse. A false positive means we keep someone overnight unnecessarily - waste of 
+resources and patient distress."
+
+[08:45] James Thompson:
+"Our final model achieved 87% AUC-ROC on the held-out test set. That's competitive with published research. 
+The model uses:
+- Vital signs from last 48 hours
+- Lab results (12 key biomarkers)
+- Diagnosis codes
+- Medication history
+- Prior admission frequency
+
+We used gradient boosting (XGBoost) rather than deep learning because it's interpretable. SHAP values show which 
+features drive each prediction."
+
+[18:20] Dr. Rachel Martinez:
+"87% sounds good but what does it mean practically? Walk me through an example."
+
+[19:00] James Thompson:
+"For a patient with our median risk score of 0.25, the model predicts 25% chance of readmission within 30 days. 
+At our chosen threshold of 0.4, we flag high-risk patients. This gives us 82% sensitivity and 79% specificity. 
+In practical terms: of 100 actual readmissions, we catch 82. Of 100 patients who won't be readmitted, we correctly 
+clear 79."
+
+[25:30] Lisa Wang (Compliance):
+"From a regulatory standpoint, we need to address three things:
+1. Model bias - have we validated performance across demographic groups?
+2. Data privacy - is PHI properly de-identified in training data?
+3. Change management - how do we retrain when data distribution shifts?
+
+The FDA's guidance on AI/ML medical devices requires continuous monitoring."
+
+[30:15] James Thompson:
+"Great questions. On bias: we specifically tested model performance across age groups, gender, and race. No 
+significant disparities detected. However, we're underrepresented in patients over 80 - only 8% of training data. 
+I recommend we flag this demographic for human review."
+
+[40:00] Robert Chen (DevOps):
+"Deployment architecture: we'll run the model on Kubernetes with GPU acceleration. Average inference time is 45ms. 
+We've implemented A/B testing infrastructure so we can deploy to 10% of patients first, monitor for a week, then 
+full rollout if metrics look good."
+
+[52:10] Dr. Rachel Martinez:
+"I like the phased approach. But I'm concerned about alert fatigue. If we're flagging 20% of patients as high-risk, 
+nurses will start ignoring alerts."
+
+[53:00] James Thompson:
+"Valid concern. Current flagging rate at 0.4 threshold is 18%. We could increase threshold to 0.5, which drops to 
+12% flagged but reduces sensitivity to 75%. It's a trade-off."
+
+[58:30] Lisa Wang:
+"We need an audit log. Every prediction must be logged with model version, input features, output score, and 
+timestamp. For FDA compliance."
+
+FINAL DECISIONS
+---------------
+1. Deploy model with 0.4 threshold initially
+2. Phased rollout: 10% traffic week 1, 25% week 2, 50% week 3, 100% week 4
+3. Mandate human review for patients age 80+
+4. Implement comprehensive logging and monitoring
+5. Monthly model performance reviews with clinical team
+6. Retrain model quarterly with new data
+
+SUCCESS METRICS
+---------------
+- Readmission rate reduction: Target 15% decrease
+- Physician override rate: Target <5%
+- Model accuracy drift: Alert if AUC drops below 0.85
+- System uptime: 99.9% SLA
+
+COMPLIANCE REQUIREMENTS MET
+---------------------------
+✓ HIPAA data de-identification
+✓ Bias testing across demographics
+✓ Interpretable model architecture
+✓ Comprehensive audit logging
+✓ Human oversight mechanism
+✓ Continuous monitoring plan
+
+NEXT MEETING: January 26th - Post-deployment review

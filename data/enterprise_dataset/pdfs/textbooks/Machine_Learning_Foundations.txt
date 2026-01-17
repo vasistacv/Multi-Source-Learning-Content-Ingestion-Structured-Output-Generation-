@@ -1,0 +1,3 @@
+# Machine Learning Foundations
+
+A comprehensive guide covering mathematical foundations, statistical concepts, and algorithmic thinking...

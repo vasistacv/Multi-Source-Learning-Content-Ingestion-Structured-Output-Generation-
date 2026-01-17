@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_03.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:48:34.694484",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_03.txt",
+    "file_type": ".txt",
+    "file_size": 2519,
+    "processed_at": "2026-01-17T13:48:33.252579",
+    "content_hash": "1cae91ffd4c45f917b03fcd1b76547d502373f35aa503c9c9497d84fd5dbffa6",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Optimization",
+    "Algorithms",
+    "Optimization Algorithms",
+    "Learning",
+    "Lecture"
+  ],
+  "key_concepts": [
+    "optimization",
+    "optimization algorithms",
+    "algorithms",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "deep",
+    "deep learning",
+    "adam",
+    "adam learning",
+    "adam learning rate",
+    "learning rate",
+    "learning rate schedules",
+    "rate"
+  ],
+  "entity_count": 72,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 229,
+      "density": 0.8297101449275363,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1702898550724639,
+      "average_clustering": 0.9115020623972031,
+      "most_central_concepts": [
+        [
+          "optimization",
+          1.0
+        ],
+        [
+          "optimization algorithms",
+          1.0
+        ],
+        [
+          "algorithms",
+          1.0
+        ],
+        [
+          "learning",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9565217391304348
+        ],
+        [
+          "real",
+          0.9565217391304348
+        ],
+        [
+          "implement",
+          0.9565217391304348
+        ],
+        [
+          "implementation",
+          0.9565217391304348
+        ],
+        [
+          "applications",
+          0.9565217391304348
+        ],
+        [
+          "world",
+          0.9565217391304348
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "optimization",
+        "optimization algorithms"
+      ],
+      [
+        "optimization",
+        "algorithms"
+      ],
+      [
+        "optimization",
+        "learning"
+      ],
+      [
+        "optimization",
+        "lecture"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_03"
+  },
+  "rag_document_id": "24b09e87-4efa-4072-82d7-7b99d0d68eb0",
+  "processing_time_seconds": 4.177128
+}

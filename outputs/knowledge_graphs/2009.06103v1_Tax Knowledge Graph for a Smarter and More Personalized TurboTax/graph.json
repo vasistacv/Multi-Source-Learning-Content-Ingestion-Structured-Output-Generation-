@@ -1,0 +1,2171 @@
+{
+  "nodes": [
+    {
+      "id": "tax",
+      "label": "tax",
+      "weight": 28.13629686777201,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.00954586121898336,
+      "eigenvector_centrality": 0.19967459919219477
+    },
+    {
+      "id": "graph",
+      "label": "graph",
+      "weight": 17.97337214638643,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.00954586121898336,
+      "eigenvector_centrality": 0.19967459919219477
+    },
+    {
+      "id": "knowledge",
+      "label": "knowledge",
+      "weight": 15.483120232113919,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "knowledge graph",
+      "label": "knowledge graph",
+      "weight": 11.349866733472696,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "calc",
+      "label": "calc",
+      "weight": 10.114319665970934,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.00954586121898336,
+      "eigenvector_centrality": 0.19967459919219477
+    },
+    {
+      "id": "logic",
+      "label": "logic",
+      "weight": 9.706225070310728,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.00954586121898336,
+      "eigenvector_centrality": 0.19967459919219477
+    },
+    {
+      "id": "tax knowledge",
+      "label": "tax knowledge",
+      "weight": 8.583086526779436,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "forms",
+      "label": "forms",
+      "weight": 8.07941368114285,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.001395072135437247,
+      "eigenvector_centrality": 0.16560454124021187
+    },
+    {
+      "id": "user",
+      "label": "user",
+      "weight": 8.054104456450386,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.002061600534563301,
+      "eigenvector_centrality": 0.1862413174793061
+    },
+    {
+      "id": "calculation",
+      "label": "calculation",
+      "weight": 7.731788190481708,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "turbotax",
+      "label": "turbotax",
+      "weight": 7.6000491766783425,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.004903707041855405,
+      "eigenvector_centrality": 0.16081495206312832
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 6.939753817827008,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.002061600534563301,
+      "eigenvector_centrality": 0.18624131747930614
+    },
+    {
+      "id": "figure",
+      "label": "figure",
+      "weight": 6.634748849700563,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.007097637938030437,
+      "eigenvector_centrality": 0.1886469349400409
+    },
+    {
+      "id": "domain",
+      "label": "domain",
+      "weight": 6.582795927557315,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.001172420901484941,
+      "eigenvector_centrality": 0.18030197099464793
+    },
+    {
+      "id": "input",
+      "label": "input",
+      "weight": 6.371432084755931,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.002501642800163376,
+      "eigenvector_centrality": 0.18537677770816868
+    },
+    {
+      "id": "engine",
+      "label": "engine",
+      "weight": 6.015469966526852,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.003296226568885076,
+      "eigenvector_centrality": 0.1841606193397409
+    },
+    {
+      "id": "scale",
+      "label": "scale",
+      "weight": 5.9137599514054555,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.0005463502015226152,
+      "eigenvector_centrality": 0.17440760565438576
+    },
+    {
+      "id": "gist",
+      "label": "gist",
+      "weight": 5.906846817025052,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.002086051276197468,
+      "eigenvector_centrality": 0.18626539780277915
+    },
+    {
+      "id": "code",
+      "label": "code",
+      "weight": 5.767777179416956,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.00032243618450515004,
+      "eigenvector_centrality": 0.1606883695383992
+    },
+    {
+      "id": "tax knowledge graph",
+      "label": "tax knowledge graph",
+      "weight": 5.724633813349993,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "intuit",
+      "label": "intuit",
+      "weight": 5.608790384162571,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.003205988224193407,
+      "eigenvector_centrality": 0.13380060227112262
+    },
+    {
+      "id": "experience",
+      "label": "experience",
+      "weight": 5.475803176210822,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.002619095709941928,
+      "eigenvector_centrality": 0.18525888652256436
+    },
+    {
+      "id": "completeness",
+      "label": "completeness",
+      "weight": 5.428265861725324,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0006982223174127222,
+      "eigenvector_centrality": 0.1600341189741399
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "weight": 5.427250153693019,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.004502547077619837,
+      "eigenvector_centrality": 0.16112775486951778
+    },
+    {
+      "id": "calculations",
+      "label": "calculations",
+      "weight": 5.145145414848432,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "calc graph",
+      "label": "calc graph",
+      "weight": 5.013942290750363,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.008781110172716723,
+      "eigenvector_centrality": 0.19375146448646252
+    },
+    {
+      "id": "use",
+      "label": "use",
+      "weight": 4.9064887951875855,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.004174057325011979,
+      "eigenvector_centrality": 0.19708790930548764
+    },
+    {
+      "id": "tax domain",
+      "label": "tax domain",
+      "weight": 4.67552833777772,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.001172420901484941,
+      "eigenvector_centrality": 0.18030197099464795
+    },
+    {
+      "id": "form",
+      "label": "form",
+      "weight": 4.573435482878464,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.00954586121898336,
+      "eigenvector_centrality": 0.19967459919219477
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "weight": 3.0,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.0002439256562195093,
+      "eigenvector_centrality": 0.0702290640225431
+    }
+  ],
+  "edges": [
+    {
+      "source": "tax",
+      "target": "graph",
+      "weight": 36
+    },
+    {
+      "source": "tax",
+      "target": "knowledge",
+      "weight": 37
+    },
+    {
+      "source": "tax",
+      "target": "knowledge graph",
+      "weight": 27
+    },
+    {
+      "source": "tax",
+      "target": "tax knowledge",
+      "weight": 24
+    },
+    {
+      "source": "tax",
+      "target": "turbotax",
+      "weight": 16
+    },
+    {
+      "source": "tax",
+      "target": "tax knowledge graph",
+      "weight": 14
+    },
+    {
+      "source": "tax",
+      "target": "intuit",
+      "weight": 7
+    },
+    {
+      "source": "tax",
+      "target": "data",
+      "weight": 13
+    },
+    {
+      "source": "tax",
+      "target": "use",
+      "weight": 22
+    },
+    {
+      "source": "tax",
+      "target": "logic",
+      "weight": 17
+    },
+    {
+      "source": "tax",
+      "target": "calc",
+      "weight": 31
+    },
+    {
+      "source": "tax",
+      "target": "calculation",
+      "weight": 19
+    },
+    {
+      "source": "tax",
+      "target": "scale",
+      "weight": 8
+    },
+    {
+      "source": "tax",
+      "target": "code",
+      "weight": 9
+    },
+    {
+      "source": "tax",
+      "target": "calculations",
+      "weight": 8
+    },
+    {
+      "source": "tax",
+      "target": "forms",
+      "weight": 9
+    },
+    {
+      "source": "tax",
+      "target": "form",
+      "weight": 26
+    },
+    {
+      "source": "tax",
+      "target": "experience",
+      "weight": 7
+    },
+    {
+      "source": "tax",
+      "target": "engine",
+      "weight": 13
+    },
+    {
+      "source": "tax",
+      "target": "domain",
+      "weight": 15
+    },
+    {
+      "source": "tax",
+      "target": "tax domain",
+      "weight": 12
+    },
+    {
+      "source": "tax",
+      "target": "example",
+      "weight": 5
+    },
+    {
+      "source": "tax",
+      "target": "10",
+      "weight": 3
+    },
+    {
+      "source": "tax",
+      "target": "user",
+      "weight": 12
+    },
+    {
+      "source": "tax",
+      "target": "completeness",
+      "weight": 5
+    },
+    {
+      "source": "tax",
+      "target": "figure",
+      "weight": 11
+    },
+    {
+      "source": "tax",
+      "target": "gist",
+      "weight": 8
+    },
+    {
+      "source": "tax",
+      "target": "calc graph",
+      "weight": 11
+    },
+    {
+      "source": "tax",
+      "target": "input",
+      "weight": 7
+    },
+    {
+      "source": "graph",
+      "target": "knowledge",
+      "weight": 42
+    },
+    {
+      "source": "graph",
+      "target": "knowledge graph",
+      "weight": 36
+    },
+    {
+      "source": "graph",
+      "target": "tax knowledge",
+      "weight": 19
+    },
+    {
+      "source": "graph",
+      "target": "turbotax",
+      "weight": 6
+    },
+    {
+      "source": "graph",
+      "target": "tax knowledge graph",
+      "weight": 14
+    },
+    {
+      "source": "graph",
+      "target": "intuit",
+      "weight": 5
+    },
+    {
+      "source": "graph",
+      "target": "data",
+      "weight": 14
+    },
+    {
+      "source": "graph",
+      "target": "use",
+      "weight": 16
+    },
+    {
+      "source": "graph",
+      "target": "logic",
+      "weight": 12
+    },
+    {
+      "source": "graph",
+      "target": "scale",
+      "weight": 9
+    },
+    {
+      "source": "graph",
+      "target": "calc",
+      "weight": 29
+    },
+    {
+      "source": "graph",
+      "target": "calculation",
+      "weight": 16
+    },
+    {
+      "source": "graph",
+      "target": "code",
+      "weight": 3
+    },
+    {
+      "source": "graph",
+      "target": "calculations",
+      "weight": 7
+    },
+    {
+      "source": "graph",
+      "target": "forms",
+      "weight": 5
+    },
+    {
+      "source": "graph",
+      "target": "form",
+      "weight": 16
+    },
+    {
+      "source": "graph",
+      "target": "experience",
+      "weight": 4
+    },
+    {
+      "source": "graph",
+      "target": "user",
+      "weight": 7
+    },
+    {
+      "source": "graph",
+      "target": "completeness",
+      "weight": 10
+    },
+    {
+      "source": "graph",
+      "target": "figure",
+      "weight": 12
+    },
+    {
+      "source": "graph",
+      "target": "domain",
+      "weight": 9
+    },
+    {
+      "source": "graph",
+      "target": "engine",
+      "weight": 6
+    },
+    {
+      "source": "graph",
+      "target": "gist",
+      "weight": 7
+    },
+    {
+      "source": "graph",
+      "target": "calc graph",
+      "weight": 16
+    },
+    {
+      "source": "graph",
+      "target": "tax domain",
+      "weight": 7
+    },
+    {
+      "source": "graph",
+      "target": "example",
+      "weight": 5
+    },
+    {
+      "source": "graph",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "graph",
+      "target": "input",
+      "weight": 6
+    },
+    {
+      "source": "knowledge",
+      "target": "knowledge graph",
+      "weight": 36
+    },
+    {
+      "source": "knowledge",
+      "target": "tax knowledge",
+      "weight": 24
+    },
+    {
+      "source": "knowledge",
+      "target": "turbotax",
+      "weight": 7
+    },
+    {
+      "source": "knowledge",
+      "target": "tax knowledge graph",
+      "weight": 14
+    },
+    {
+      "source": "knowledge",
+      "target": "intuit",
+      "weight": 5
+    },
+    {
+      "source": "knowledge",
+      "target": "data",
+      "weight": 10
+    },
+    {
+      "source": "knowledge",
+      "target": "use",
+      "weight": 12
+    },
+    {
+      "source": "knowledge",
+      "target": "logic",
+      "weight": 11
+    },
+    {
+      "source": "knowledge",
+      "target": "scale",
+      "weight": 9
+    },
+    {
+      "source": "knowledge",
+      "target": "calc",
+      "weight": 22
+    },
+    {
+      "source": "knowledge",
+      "target": "calculation",
+      "weight": 13
+    },
+    {
+      "source": "knowledge",
+      "target": "code",
+      "weight": 2
+    },
+    {
+      "source": "knowledge",
+      "target": "calculations",
+      "weight": 7
+    },
+    {
+      "source": "knowledge",
+      "target": "forms",
+      "weight": 4
+    },
+    {
+      "source": "knowledge",
+      "target": "form",
+      "weight": 12
+    },
+    {
+      "source": "knowledge",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "knowledge",
+      "target": "user",
+      "weight": 5
+    },
+    {
+      "source": "knowledge",
+      "target": "figure",
+      "weight": 8
+    },
+    {
+      "source": "knowledge",
+      "target": "gist",
+      "weight": 6
+    },
+    {
+      "source": "knowledge",
+      "target": "calc graph",
+      "weight": 8
+    },
+    {
+      "source": "knowledge",
+      "target": "input",
+      "weight": 5
+    },
+    {
+      "source": "knowledge",
+      "target": "example",
+      "weight": 2
+    },
+    {
+      "source": "knowledge",
+      "target": "domain",
+      "weight": 6
+    },
+    {
+      "source": "knowledge",
+      "target": "tax domain",
+      "weight": 4
+    },
+    {
+      "source": "knowledge",
+      "target": "completeness",
+      "weight": 4
+    },
+    {
+      "source": "knowledge",
+      "target": "engine",
+      "weight": 9
+    },
+    {
+      "source": "knowledge graph",
+      "target": "tax knowledge",
+      "weight": 15
+    },
+    {
+      "source": "knowledge graph",
+      "target": "turbotax",
+      "weight": 6
+    },
+    {
+      "source": "knowledge graph",
+      "target": "tax knowledge graph",
+      "weight": 14
+    },
+    {
+      "source": "knowledge graph",
+      "target": "intuit",
+      "weight": 5
+    },
+    {
+      "source": "knowledge graph",
+      "target": "data",
+      "weight": 8
+    },
+    {
+      "source": "knowledge graph",
+      "target": "use",
+      "weight": 9
+    },
+    {
+      "source": "knowledge graph",
+      "target": "logic",
+      "weight": 8
+    },
+    {
+      "source": "knowledge graph",
+      "target": "scale",
+      "weight": 6
+    },
+    {
+      "source": "knowledge graph",
+      "target": "calc",
+      "weight": 17
+    },
+    {
+      "source": "knowledge graph",
+      "target": "calculation",
+      "weight": 8
+    },
+    {
+      "source": "knowledge graph",
+      "target": "code",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "calculations",
+      "weight": 5
+    },
+    {
+      "source": "knowledge graph",
+      "target": "forms",
+      "weight": 4
+    },
+    {
+      "source": "knowledge graph",
+      "target": "form",
+      "weight": 10
+    },
+    {
+      "source": "knowledge graph",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "knowledge graph",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "knowledge graph",
+      "target": "input",
+      "weight": 5
+    },
+    {
+      "source": "knowledge graph",
+      "target": "gist",
+      "weight": 5
+    },
+    {
+      "source": "knowledge graph",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "knowledge graph",
+      "target": "domain",
+      "weight": 6
+    },
+    {
+      "source": "knowledge graph",
+      "target": "tax domain",
+      "weight": 4
+    },
+    {
+      "source": "knowledge graph",
+      "target": "completeness",
+      "weight": 3
+    },
+    {
+      "source": "knowledge graph",
+      "target": "calc graph",
+      "weight": 5
+    },
+    {
+      "source": "knowledge graph",
+      "target": "engine",
+      "weight": 3
+    },
+    {
+      "source": "knowledge graph",
+      "target": "user",
+      "weight": 3
+    },
+    {
+      "source": "calc",
+      "target": "logic",
+      "weight": 11
+    },
+    {
+      "source": "calc",
+      "target": "calculation",
+      "weight": 26
+    },
+    {
+      "source": "calc",
+      "target": "scale",
+      "weight": 3
+    },
+    {
+      "source": "calc",
+      "target": "code",
+      "weight": 4
+    },
+    {
+      "source": "calc",
+      "target": "calculations",
+      "weight": 11
+    },
+    {
+      "source": "calc",
+      "target": "tax knowledge",
+      "weight": 12
+    },
+    {
+      "source": "calc",
+      "target": "forms",
+      "weight": 6
+    },
+    {
+      "source": "calc",
+      "target": "tax knowledge graph",
+      "weight": 7
+    },
+    {
+      "source": "calc",
+      "target": "use",
+      "weight": 12
+    },
+    {
+      "source": "calc",
+      "target": "form",
+      "weight": 17
+    },
+    {
+      "source": "calc",
+      "target": "turbotax",
+      "weight": 5
+    },
+    {
+      "source": "calc",
+      "target": "engine",
+      "weight": 6
+    },
+    {
+      "source": "calc",
+      "target": "figure",
+      "weight": 11
+    },
+    {
+      "source": "calc",
+      "target": "domain",
+      "weight": 7
+    },
+    {
+      "source": "calc",
+      "target": "gist",
+      "weight": 8
+    },
+    {
+      "source": "calc",
+      "target": "calc graph",
+      "weight": 16
+    },
+    {
+      "source": "calc",
+      "target": "tax domain",
+      "weight": 6
+    },
+    {
+      "source": "calc",
+      "target": "example",
+      "weight": 4
+    },
+    {
+      "source": "calc",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "calc",
+      "target": "input",
+      "weight": 9
+    },
+    {
+      "source": "calc",
+      "target": "experience",
+      "weight": 4
+    },
+    {
+      "source": "calc",
+      "target": "user",
+      "weight": 4
+    },
+    {
+      "source": "calc",
+      "target": "data",
+      "weight": 10
+    },
+    {
+      "source": "calc",
+      "target": "completeness",
+      "weight": 5
+    },
+    {
+      "source": "calc",
+      "target": "intuit",
+      "weight": 3
+    },
+    {
+      "source": "logic",
+      "target": "data",
+      "weight": 4
+    },
+    {
+      "source": "logic",
+      "target": "scale",
+      "weight": 5
+    },
+    {
+      "source": "logic",
+      "target": "calculation",
+      "weight": 9
+    },
+    {
+      "source": "logic",
+      "target": "code",
+      "weight": 3
+    },
+    {
+      "source": "logic",
+      "target": "calculations",
+      "weight": 4
+    },
+    {
+      "source": "logic",
+      "target": "domain",
+      "weight": 6
+    },
+    {
+      "source": "logic",
+      "target": "engine",
+      "weight": 2
+    },
+    {
+      "source": "logic",
+      "target": "use",
+      "weight": 7
+    },
+    {
+      "source": "logic",
+      "target": "tax domain",
+      "weight": 6
+    },
+    {
+      "source": "logic",
+      "target": "form",
+      "weight": 8
+    },
+    {
+      "source": "logic",
+      "target": "turbotax",
+      "weight": 2
+    },
+    {
+      "source": "logic",
+      "target": "intuit",
+      "weight": 1
+    },
+    {
+      "source": "logic",
+      "target": "example",
+      "weight": 2
+    },
+    {
+      "source": "logic",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "logic",
+      "target": "user",
+      "weight": 4
+    },
+    {
+      "source": "logic",
+      "target": "completeness",
+      "weight": 3
+    },
+    {
+      "source": "logic",
+      "target": "input",
+      "weight": 4
+    },
+    {
+      "source": "logic",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "logic",
+      "target": "forms",
+      "weight": 1
+    },
+    {
+      "source": "logic",
+      "target": "gist",
+      "weight": 2
+    },
+    {
+      "source": "logic",
+      "target": "tax knowledge",
+      "weight": 4
+    },
+    {
+      "source": "logic",
+      "target": "figure",
+      "weight": 2
+    },
+    {
+      "source": "logic",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "logic",
+      "target": "tax knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge",
+      "target": "turbotax",
+      "weight": 5
+    },
+    {
+      "source": "tax knowledge",
+      "target": "tax knowledge graph",
+      "weight": 14
+    },
+    {
+      "source": "tax knowledge",
+      "target": "intuit",
+      "weight": 4
+    },
+    {
+      "source": "tax knowledge",
+      "target": "forms",
+      "weight": 2
+    },
+    {
+      "source": "tax knowledge",
+      "target": "code",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge",
+      "target": "use",
+      "weight": 7
+    },
+    {
+      "source": "tax knowledge",
+      "target": "form",
+      "weight": 6
+    },
+    {
+      "source": "tax knowledge",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge",
+      "target": "user",
+      "weight": 3
+    },
+    {
+      "source": "tax knowledge",
+      "target": "calculation",
+      "weight": 8
+    },
+    {
+      "source": "tax knowledge",
+      "target": "data",
+      "weight": 6
+    },
+    {
+      "source": "tax knowledge",
+      "target": "figure",
+      "weight": 5
+    },
+    {
+      "source": "tax knowledge",
+      "target": "scale",
+      "weight": 3
+    },
+    {
+      "source": "tax knowledge",
+      "target": "gist",
+      "weight": 3
+    },
+    {
+      "source": "tax knowledge",
+      "target": "calculations",
+      "weight": 4
+    },
+    {
+      "source": "tax knowledge",
+      "target": "calc graph",
+      "weight": 6
+    },
+    {
+      "source": "tax knowledge",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "tax knowledge",
+      "target": "example",
+      "weight": 2
+    },
+    {
+      "source": "tax knowledge",
+      "target": "domain",
+      "weight": 3
+    },
+    {
+      "source": "tax knowledge",
+      "target": "completeness",
+      "weight": 3
+    },
+    {
+      "source": "tax knowledge",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "tax knowledge",
+      "target": "engine",
+      "weight": 8
+    },
+    {
+      "source": "forms",
+      "target": "code",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "tax knowledge graph",
+      "weight": 2
+    },
+    {
+      "source": "forms",
+      "target": "use",
+      "weight": 5
+    },
+    {
+      "source": "forms",
+      "target": "form",
+      "weight": 12
+    },
+    {
+      "source": "forms",
+      "target": "calculation",
+      "weight": 3
+    },
+    {
+      "source": "forms",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "forms",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "forms",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "gist",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "tax domain",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "forms",
+      "target": "scale",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "intuit",
+      "weight": 1
+    },
+    {
+      "source": "forms",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "data",
+      "weight": 7
+    },
+    {
+      "source": "user",
+      "target": "completeness",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "use",
+      "weight": 16
+    },
+    {
+      "source": "user",
+      "target": "calculation",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "scale",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "gist",
+      "weight": 4
+    },
+    {
+      "source": "user",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "experience",
+      "weight": 4
+    },
+    {
+      "source": "user",
+      "target": "input",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "turbotax",
+      "weight": 4
+    },
+    {
+      "source": "user",
+      "target": "tax knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "engine",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "form",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "tax domain",
+      "weight": 1
+    },
+    {
+      "source": "calculation",
+      "target": "scale",
+      "weight": 3
+    },
+    {
+      "source": "calculation",
+      "target": "code",
+      "weight": 3
+    },
+    {
+      "source": "calculation",
+      "target": "calculations",
+      "weight": 11
+    },
+    {
+      "source": "calculation",
+      "target": "turbotax",
+      "weight": 4
+    },
+    {
+      "source": "calculation",
+      "target": "engine",
+      "weight": 5
+    },
+    {
+      "source": "calculation",
+      "target": "figure",
+      "weight": 7
+    },
+    {
+      "source": "calculation",
+      "target": "domain",
+      "weight": 6
+    },
+    {
+      "source": "calculation",
+      "target": "gist",
+      "weight": 4
+    },
+    {
+      "source": "calculation",
+      "target": "calc graph",
+      "weight": 8
+    },
+    {
+      "source": "calculation",
+      "target": "tax domain",
+      "weight": 6
+    },
+    {
+      "source": "calculation",
+      "target": "form",
+      "weight": 9
+    },
+    {
+      "source": "calculation",
+      "target": "input",
+      "weight": 4
+    },
+    {
+      "source": "calculation",
+      "target": "experience",
+      "weight": 2
+    },
+    {
+      "source": "calculation",
+      "target": "data",
+      "weight": 7
+    },
+    {
+      "source": "calculation",
+      "target": "use",
+      "weight": 6
+    },
+    {
+      "source": "calculation",
+      "target": "completeness",
+      "weight": 4
+    },
+    {
+      "source": "calculation",
+      "target": "tax knowledge graph",
+      "weight": 3
+    },
+    {
+      "source": "calculation",
+      "target": "example",
+      "weight": 2
+    },
+    {
+      "source": "calculation",
+      "target": "intuit",
+      "weight": 1
+    },
+    {
+      "source": "turbotax",
+      "target": "tax knowledge graph",
+      "weight": 5
+    },
+    {
+      "source": "turbotax",
+      "target": "intuit",
+      "weight": 4
+    },
+    {
+      "source": "turbotax",
+      "target": "experience",
+      "weight": 2
+    },
+    {
+      "source": "turbotax",
+      "target": "form",
+      "weight": 5
+    },
+    {
+      "source": "turbotax",
+      "target": "use",
+      "weight": 6
+    },
+    {
+      "source": "turbotax",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "turbotax",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "turbotax",
+      "target": "engine",
+      "weight": 2
+    },
+    {
+      "source": "turbotax",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "turbotax",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "turbotax",
+      "target": "completeness",
+      "weight": 1
+    },
+    {
+      "source": "turbotax",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "turbotax",
+      "target": "gist",
+      "weight": 1
+    },
+    {
+      "source": "turbotax",
+      "target": "figure",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "use",
+      "weight": 11
+    },
+    {
+      "source": "data",
+      "target": "completeness",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "figure",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "scale",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "gist",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "calculations",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "calc graph",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "experience",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "tax domain",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "form",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "engine",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "tax knowledge graph",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "use",
+      "weight": 7
+    },
+    {
+      "source": "figure",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "engine",
+      "weight": 5
+    },
+    {
+      "source": "figure",
+      "target": "gist",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "code",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "calc graph",
+      "weight": 8
+    },
+    {
+      "source": "figure",
+      "target": "tax domain",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "form",
+      "weight": 4
+    },
+    {
+      "source": "figure",
+      "target": "example",
+      "weight": 4
+    },
+    {
+      "source": "figure",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "scale",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "calculations",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "tax knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "completeness",
+      "weight": 5
+    },
+    {
+      "source": "domain",
+      "target": "engine",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "code",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "use",
+      "weight": 5
+    },
+    {
+      "source": "domain",
+      "target": "tax domain",
+      "weight": 12
+    },
+    {
+      "source": "domain",
+      "target": "form",
+      "weight": 5
+    },
+    {
+      "source": "domain",
+      "target": "gist",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "calc graph",
+      "weight": 4
+    },
+    {
+      "source": "domain",
+      "target": "input",
+      "weight": 4
+    },
+    {
+      "source": "domain",
+      "target": "scale",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "completeness",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "tax knowledge graph",
+      "weight": 2
+    },
+    {
+      "source": "input",
+      "target": "scale",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "code",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "input",
+      "target": "calculations",
+      "weight": 2
+    },
+    {
+      "source": "input",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "input",
+      "target": "form",
+      "weight": 4
+    },
+    {
+      "source": "input",
+      "target": "gist",
+      "weight": 6
+    },
+    {
+      "source": "input",
+      "target": "tax knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "use",
+      "weight": 5
+    },
+    {
+      "source": "input",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "input",
+      "target": "completeness",
+      "weight": 1
+    },
+    {
+      "source": "engine",
+      "target": "code",
+      "weight": 2
+    },
+    {
+      "source": "engine",
+      "target": "use",
+      "weight": 5
+    },
+    {
+      "source": "engine",
+      "target": "tax domain",
+      "weight": 2
+    },
+    {
+      "source": "engine",
+      "target": "form",
+      "weight": 3
+    },
+    {
+      "source": "engine",
+      "target": "gist",
+      "weight": 1
+    },
+    {
+      "source": "engine",
+      "target": "calc graph",
+      "weight": 3
+    },
+    {
+      "source": "engine",
+      "target": "tax knowledge graph",
+      "weight": 2
+    },
+    {
+      "source": "engine",
+      "target": "completeness",
+      "weight": 2
+    },
+    {
+      "source": "engine",
+      "target": "calculations",
+      "weight": 2
+    },
+    {
+      "source": "engine",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "engine",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "engine",
+      "target": "scale",
+      "weight": 1
+    },
+    {
+      "source": "engine",
+      "target": "intuit",
+      "weight": 1
+    },
+    {
+      "source": "scale",
+      "target": "code",
+      "weight": 2
+    },
+    {
+      "source": "scale",
+      "target": "calculations",
+      "weight": 3
+    },
+    {
+      "source": "scale",
+      "target": "experience",
+      "weight": 2
+    },
+    {
+      "source": "scale",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "scale",
+      "target": "form",
+      "weight": 3
+    },
+    {
+      "source": "scale",
+      "target": "gist",
+      "weight": 1
+    },
+    {
+      "source": "scale",
+      "target": "calc graph",
+      "weight": 1
+    },
+    {
+      "source": "scale",
+      "target": "use",
+      "weight": 3
+    },
+    {
+      "source": "scale",
+      "target": "tax knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "gist",
+      "target": "code",
+      "weight": 1
+    },
+    {
+      "source": "gist",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "gist",
+      "target": "tax domain",
+      "weight": 2
+    },
+    {
+      "source": "gist",
+      "target": "form",
+      "weight": 7
+    },
+    {
+      "source": "gist",
+      "target": "calculations",
+      "weight": 2
+    },
+    {
+      "source": "gist",
+      "target": "use",
+      "weight": 6
+    },
+    {
+      "source": "gist",
+      "target": "tax knowledge graph",
+      "weight": 2
+    },
+    {
+      "source": "gist",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "gist",
+      "target": "experience",
+      "weight": 2
+    },
+    {
+      "source": "code",
+      "target": "calculations",
+      "weight": 2
+    },
+    {
+      "source": "code",
+      "target": "tax knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "code",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "code",
+      "target": "form",
+      "weight": 4
+    },
+    {
+      "source": "code",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "code",
+      "target": "calc graph",
+      "weight": 1
+    },
+    {
+      "source": "code",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "intuit",
+      "weight": 4
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "use",
+      "weight": 4
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "form",
+      "weight": 4
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "completeness",
+      "weight": 1
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "calculations",
+      "weight": 2
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "tax domain",
+      "weight": 2
+    },
+    {
+      "source": "tax knowledge graph",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "intuit",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "intuit",
+      "target": "form",
+      "weight": 3
+    },
+    {
+      "source": "intuit",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "intuit",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "intuit",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "intuit",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "intuit",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "experience",
+      "target": "form",
+      "weight": 3
+    },
+    {
+      "source": "experience",
+      "target": "use",
+      "weight": 6
+    },
+    {
+      "source": "experience",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "experience",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "experience",
+      "target": "calc graph",
+      "weight": 1
+    },
+    {
+      "source": "completeness",
+      "target": "use",
+      "weight": 6
+    },
+    {
+      "source": "completeness",
+      "target": "calc graph",
+      "weight": 4
+    },
+    {
+      "source": "completeness",
+      "target": "tax domain",
+      "weight": 1
+    },
+    {
+      "source": "completeness",
+      "target": "example",
+      "weight": 3
+    },
+    {
+      "source": "completeness",
+      "target": "form",
+      "weight": 1
+    },
+    {
+      "source": "completeness",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "example",
+      "target": "form",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "use",
+      "weight": 3
+    },
+    {
+      "source": "example",
+      "target": "calculations",
+      "weight": 1
+    },
+    {
+      "source": "calculations",
+      "target": "tax domain",
+      "weight": 1
+    },
+    {
+      "source": "calculations",
+      "target": "form",
+      "weight": 3
+    },
+    {
+      "source": "calculations",
+      "target": "calc graph",
+      "weight": 2
+    },
+    {
+      "source": "calculations",
+      "target": "use",
+      "weight": 3
+    },
+    {
+      "source": "calc graph",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "calc graph",
+      "target": "form",
+      "weight": 5
+    },
+    {
+      "source": "calc graph",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "calc graph",
+      "target": "use",
+      "weight": 5
+    },
+    {
+      "source": "use",
+      "target": "form",
+      "weight": 8
+    },
+    {
+      "source": "use",
+      "target": "tax domain",
+      "weight": 3
+    },
+    {
+      "source": "tax domain",
+      "target": "form",
+      "weight": 4
+    },
+    {
+      "source": "form",
+      "target": "10",
+      "weight": 3
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 384,
+    "is_connected": true
+  }
+}

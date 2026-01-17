@@ -1,0 +1,1283 @@
+{
+  "nodes": [
+    {
+      "id": "clustering",
+      "label": "clustering",
+      "weight": 3.6866541575007807,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.3880219689662723,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9667136030373675,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20067323969993434
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.3267520324600566,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20067323969993434
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.3267520324600566,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20067323969993434
+    },
+    {
+      "id": "implementations",
+      "label": "implementations",
+      "weight": 1.2408193212239966,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14218720857187367
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0757151467768888,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0139105013080951,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.0055514072102036,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8953241615005441,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8563290941983756,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    },
+    {
+      "id": "dbscan",
+      "label": "dbscan",
+      "weight": 0.8460945858318434,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14218720857187367
+    },
+    {
+      "id": "hierarchical",
+      "label": "hierarchical",
+      "weight": 0.8460945858318434,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14218720857187367
+    },
+    {
+      "id": "hierarchical clustering",
+      "label": "hierarchical clustering",
+      "weight": 0.8460945858318434,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14218720857187367
+    },
+    {
+      "id": "means",
+      "label": "means",
+      "weight": 0.8460945858318434,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14218720857187367
+    },
+    {
+      "id": "implement clustering",
+      "label": "implement clustering",
+      "weight": 0.8395144050823218,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5822117107314,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14218720857187367
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5392639472476528,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5025945154480453,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3900416342358247,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.3900416342358247,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029644268774703556,
+      "eigenvector_centrality": 0.2439260377129095
+    },
+    {
+      "id": "learning dataset",
+      "label": "learning dataset",
+      "weight": 0.35337220243621725,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    },
+    {
+      "id": "machine learning dataset",
+      "label": "machine learning dataset",
+      "weight": 0.35337220243621725,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3436989076380042,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2006732396999343
+    }
+  ],
+  "edges": [
+    {
+      "source": "clustering",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "clustering",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "clustering",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "clustering",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "dbscan",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "hierarchical",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "hierarchical clustering",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "means",
+      "weight": 3
+    },
+    {
+      "source": "clustering",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "clustering",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "clustering",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "clustering",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "clustering",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "clustering",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "clustering",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dbscan",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "hierarchical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "hierarchical clustering",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "means",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "dbscan",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "hierarchical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "hierarchical clustering",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "means",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "dbscan",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "hierarchical",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "hierarchical clustering",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "means",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dbscan",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "hierarchical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "hierarchical clustering",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "means",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dbscan",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "hierarchical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "hierarchical clustering",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "means",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement clustering",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dbscan",
+      "target": "hierarchical",
+      "weight": 3
+    },
+    {
+      "source": "dbscan",
+      "target": "hierarchical clustering",
+      "weight": 3
+    },
+    {
+      "source": "dbscan",
+      "target": "means",
+      "weight": 3
+    },
+    {
+      "source": "dbscan",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "dbscan",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dbscan",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dbscan",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "hierarchical",
+      "target": "hierarchical clustering",
+      "weight": 3
+    },
+    {
+      "source": "hierarchical",
+      "target": "means",
+      "weight": 3
+    },
+    {
+      "source": "hierarchical",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "hierarchical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "hierarchical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "hierarchical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "hierarchical clustering",
+      "target": "means",
+      "weight": 3
+    },
+    {
+      "source": "hierarchical clustering",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "hierarchical clustering",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "hierarchical clustering",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "hierarchical clustering",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "means",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "means",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "means",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "means",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement clustering",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning dataset",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine learning dataset",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 216,
+    "is_connected": true
+  }
+}

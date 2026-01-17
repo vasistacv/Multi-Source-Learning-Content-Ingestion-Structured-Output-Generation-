@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_011_ml_model_performance_review.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:36:09.046183",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_011_ml_model_performance_review.txt",
+    "file_type": ".txt",
+    "file_size": 101,
+    "processed_at": "2026-01-17T13:36:07.786688",
+    "content_hash": "cebd34a2e20a6bdd7b44097f75051c10fe014ded878e70b329907486fc00e331",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 14,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 14,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_011_ml_model_performance_review"
+  },
+  "rag_document_id": "e1e7f2d5-216b-416c-9ac8-0b01ba4ac06d",
+  "processing_time_seconds": 3.783355
+}

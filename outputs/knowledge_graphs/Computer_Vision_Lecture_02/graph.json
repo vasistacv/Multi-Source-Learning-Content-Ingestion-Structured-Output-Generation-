@@ -1,0 +1,1190 @@
+{
+  "nodes": [
+    {
+      "id": "architectures",
+      "label": "architectures",
+      "weight": 2.614565140201635,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.034030784030784036,
+      "eigenvector_centrality": 0.24766656886088473
+    },
+    {
+      "id": "cnn",
+      "label": "cnn",
+      "weight": 2.614565140201635,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.034030784030784036,
+      "eigenvector_centrality": 0.24766656886088473
+    },
+    {
+      "id": "cnn architectures",
+      "label": "cnn architectures",
+      "weight": 2.614565140201635,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.034030784030784036,
+      "eigenvector_centrality": 0.24766656886088473
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.0419232629468924,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.019240019240019245,
+      "eigenvector_centrality": 0.2431058845078325
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 1.1201064843168869,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "computer vision",
+      "label": "computer vision",
+      "weight": 1.1201064843168869,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "vision",
+      "label": "vision",
+      "weight": 1.1201064843168869,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0962224134064171,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.019240019240019245,
+      "eigenvector_centrality": 0.2431058845078325
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0115170705712553,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.019240019240019245,
+      "eigenvector_centrality": 0.2431058845078325
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9798138289288474,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.019240019240019245,
+      "eigenvector_centrality": 0.2431058845078325
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.9620756407100541,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8824553723598659,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8434603050576974,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "alexnet",
+      "label": "alexnet",
+      "weight": 0.7744759749827222,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.003246753246753247,
+      "eigenvector_centrality": 0.16342293017503678
+    },
+    {
+      "id": "efficientnet",
+      "label": "efficientnet",
+      "weight": 0.7744759749827222,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.003246753246753247,
+      "eigenvector_centrality": 0.16342293017503678
+    },
+    {
+      "id": "resnet",
+      "label": "resnet",
+      "weight": 0.7744759749827222,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.003246753246753247,
+      "eigenvector_centrality": 0.16342293017503678
+    },
+    {
+      "id": "vgg",
+      "label": "vgg",
+      "weight": 0.7744759749827222,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.003246753246753247,
+      "eigenvector_centrality": 0.16342293017503678
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.6045769467776855,
+      "degree_centrality": 0.36363636363636365,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08666220774565324
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5237131849648632,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.019240019240019245,
+      "eigenvector_centrality": 0.2431058845078325
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5134927741798567,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.003246753246753247,
+      "eigenvector_centrality": 0.16342293017503678
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4767851489983407,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.3873596610937132,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.019240019240019245,
+      "eigenvector_centrality": 0.2431058845078325
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3140586435179574,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20010477778081995
+    }
+  ],
+  "edges": [
+    {
+      "source": "architectures",
+      "target": "cnn",
+      "weight": 8
+    },
+    {
+      "source": "architectures",
+      "target": "cnn architectures",
+      "weight": 8
+    },
+    {
+      "source": "architectures",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "architectures",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "alexnet",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "efficientnet",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "resnet",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "vgg",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "architectures",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "architectures",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "architectures",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "architectures",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "cnn architectures",
+      "weight": 8
+    },
+    {
+      "source": "cnn",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "cnn",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "alexnet",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "efficientnet",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "resnet",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "vgg",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "cnn architectures",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "alexnet",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "efficientnet",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "resnet",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "vgg",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "alexnet",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "efficientnet",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "resnet",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "vgg",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "vision",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "alexnet",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "efficientnet",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "resnet",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "vgg",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "alexnet",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "efficientnet",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "resnet",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vgg",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "alexnet",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "efficientnet",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "resnet",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "vgg",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "alexnet",
+      "target": "efficientnet",
+      "weight": 3
+    },
+    {
+      "source": "alexnet",
+      "target": "resnet",
+      "weight": 3
+    },
+    {
+      "source": "alexnet",
+      "target": "vgg",
+      "weight": 3
+    },
+    {
+      "source": "alexnet",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "alexnet",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "alexnet",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "alexnet",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "efficientnet",
+      "target": "resnet",
+      "weight": 3
+    },
+    {
+      "source": "efficientnet",
+      "target": "vgg",
+      "weight": 3
+    },
+    {
+      "source": "efficientnet",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "efficientnet",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "efficientnet",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "efficientnet",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "resnet",
+      "target": "vgg",
+      "weight": 3
+    },
+    {
+      "source": "resnet",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "resnet",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "resnet",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "resnet",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "vgg",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vgg",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "vgg",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "vgg",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 199,
+    "is_connected": true
+  }
+}

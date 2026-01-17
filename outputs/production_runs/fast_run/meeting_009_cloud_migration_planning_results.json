@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_009_cloud_migration_planning.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:35:19.403481",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_009_cloud_migration_planning.txt",
+    "file_type": ".txt",
+    "file_size": 93,
+    "processed_at": "2026-01-17T13:34:23.723429",
+    "content_hash": "fe5302678d324c883814739e8ed2dc1dee41b4e778bfa22ed8feb75ffd98c000",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 11,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "**Summary: Cloud Migration Planning Meeting**\n\nThe meeting focused on devising a strategy for migrating on-premise infrastructure to Amazon Web Services (AWS). The key objective is to successfully transition existing infrastructure to the cloud, ensuring minimal disruption to business operations.\n\n**Main Ideas:**\n\n1. **Cloud Migration Benefits**: The meeting highlighted the advantages of migrating to the cloud, including increased scalability, enhanced security, reduced costs, and improved flexibility.\n2. **Assessment and Planning**: A thorough assessment of the current on-premise infrastructure is necessary to identify potential migration challenges and develop a tailored migration plan.\n3. **AWS Services**: The meeting explored the various AWS services that can be leveraged to support the migration, such as compute, storage, database, and security services.\n\n**Key Concepts:**\n\n1. **Lift and Shift**: A migration approach that involves moving existing applications and infrastructure to the cloud with minimal modifications.\n2. **Re-architecture**: A migration approach that involves re-designing applications and infrastructure to take full advantage of cloud-native services and features.\n3. **Hybrid Approach**: A migration approach that involves combining on-premise and cloud-based infrastructure to create a hybrid environment.\n\n**Important Details:**\n\n1. **Migration Phases**: The migration process will be divided into phases, with each phase focusing on a specific aspect of the migration, such as assessment, planning, execution, and testing.\n2. **Risk Management**: The meeting emphasized the importance of identifying and mitigating potential risks associated with the migration, such as data loss, security breaches, and downtime.\n3. **Stakeholder Engagement**: Effective communication and engagement with stakeholders, including IT teams, business leaders, and end-users, is crucial to ensure a smooth migration process.\n\nOverall, the meeting provided a comprehensive overview of the cloud migration planning process, highlighting the key concepts, main ideas, and important details that need to be considered to ensure a successful migration to AWS.",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 11,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_009_cloud_migration_planning"
+  },
+  "rag_document_id": "b4f25fa5-9b7d-4d63-bc65-8c1bb8a7eaa8",
+  "processing_time_seconds": 55.896643
+}

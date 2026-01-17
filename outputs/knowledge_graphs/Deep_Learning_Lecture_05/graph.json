@@ -1,0 +1,1383 @@
+{
+  "nodes": [
+    {
+      "id": "networks",
+      "label": "networks",
+      "weight": 2.6586901069287485,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "recurrent",
+      "label": "recurrent",
+      "weight": 2.6586901069287485,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "recurrent networks",
+      "label": "recurrent networks",
+      "weight": 2.6586901069287485,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.11927806741792,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8918080000142983,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.121486480946746,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.121486480946746,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.1000285949633364,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.006646491000422,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9819409132430021,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8835189145169433,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "handling",
+      "label": "handling",
+      "weight": 0.8668495680750778,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8445238472147748,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "gru",
+      "label": "gru",
+      "weight": 0.8336379979571422,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15675089705427583
+    },
+    {
+      "id": "handling sequences",
+      "label": "handling sequences",
+      "weight": 0.8336379979571422,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15675089705427583
+    },
+    {
+      "id": "lstm",
+      "label": "lstm",
+      "weight": 0.8336379979571422,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15675089705427583
+    },
+    {
+      "id": "sequences",
+      "label": "sequences",
+      "weight": 0.8336379979571422,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15675089705427583
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5765856358637427,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15675089705427583
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5193189700227152,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4759107244928408,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.38190190399448787,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.38190190399448787,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.014372978799856275,
+      "eigenvector_centrality": 0.22970456821025023
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.33849365846461343,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    },
+    {
+      "id": "learning dataset",
+      "label": "learning dataset",
+      "weight": 0.33849365846461343,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19259403746617085
+    }
+  ],
+  "edges": [
+    {
+      "source": "networks",
+      "target": "recurrent",
+      "weight": 8
+    },
+    {
+      "source": "networks",
+      "target": "recurrent networks",
+      "weight": 8
+    },
+    {
+      "source": "networks",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "networks",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "handling",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "gru",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "handling sequences",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "lstm",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "sequences",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "recurrent",
+      "target": "recurrent networks",
+      "weight": 8
+    },
+    {
+      "source": "recurrent",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "recurrent",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "recurrent",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "recurrent",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "recurrent",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "recurrent",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "handling",
+      "weight": 3
+    },
+    {
+      "source": "recurrent",
+      "target": "gru",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "handling sequences",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "lstm",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "sequences",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "recurrent",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "recurrent",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "recurrent",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "recurrent networks",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "recurrent networks",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "recurrent networks",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "recurrent networks",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "recurrent networks",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "recurrent networks",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "handling",
+      "weight": 3
+    },
+    {
+      "source": "recurrent networks",
+      "target": "gru",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "handling sequences",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "lstm",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "sequences",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "recurrent networks",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "recurrent networks",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "recurrent networks",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "handling",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "gru",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "handling sequences",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "lstm",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sequences",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "handling",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "handling",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "handling",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "handling",
+      "weight": 3
+    },
+    {
+      "source": "implement",
+      "target": "gru",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "handling sequences",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "lstm",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sequences",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "handling",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "gru",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "handling sequences",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "lstm",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sequences",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "handling",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "gru",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "handling sequences",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "lstm",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sequences",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "handling",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "handling",
+      "target": "gru",
+      "weight": 3
+    },
+    {
+      "source": "handling",
+      "target": "handling sequences",
+      "weight": 3
+    },
+    {
+      "source": "handling",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "handling",
+      "target": "sequences",
+      "weight": 3
+    },
+    {
+      "source": "handling",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "handling",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "handling",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "handling",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "handling",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "handling",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "handling",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "handling",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "gru",
+      "target": "handling sequences",
+      "weight": 3
+    },
+    {
+      "source": "gru",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "gru",
+      "target": "sequences",
+      "weight": 3
+    },
+    {
+      "source": "gru",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gru",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gru",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "gru",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "handling sequences",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "handling sequences",
+      "target": "sequences",
+      "weight": 3
+    },
+    {
+      "source": "handling sequences",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "handling sequences",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "handling sequences",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "handling sequences",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm",
+      "target": "sequences",
+      "weight": 3
+    },
+    {
+      "source": "lstm",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "lstm",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "lstm",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "sequences",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "sequences",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sequences",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "sequences",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "learning dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 236,
+    "is_connected": true
+  }
+}

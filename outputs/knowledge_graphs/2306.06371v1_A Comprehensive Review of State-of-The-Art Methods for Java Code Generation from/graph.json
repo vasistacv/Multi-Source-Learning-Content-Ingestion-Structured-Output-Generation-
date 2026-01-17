@@ -1,0 +1,1747 @@
+{
+  "nodes": [
+    {
+      "id": "al",
+      "label": "al",
+      "weight": 50.78150494611244,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "et",
+      "label": "et",
+      "weight": 50.78150494611244,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.08155015271304865,
+      "eigenvector_centrality": 0.20652667060156898
+    },
+    {
+      "id": "et al",
+      "label": "et al",
+      "weight": 50.78150494611244,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "code",
+      "label": "code",
+      "weight": 40.47147801193371,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "language",
+      "label": "language",
+      "weight": 34.340015627857596,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 31.81953250845411,
+      "degree_centrality": 0.9230769230769231,
+      "betweenness_centrality": 0.003057762750070442,
+      "eigenvector_centrality": 0.20022998123763813
+    },
+    {
+      "id": "java",
+      "label": "java",
+      "weight": 29.036088270347175,
+      "degree_centrality": 0.9230769230769231,
+      "betweenness_centrality": 0.00174380521439345,
+      "eigenvector_centrality": 0.20157160915291772
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 28.713388491795666,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688105
+    },
+    {
+      "id": "generation",
+      "label": "generation",
+      "weight": 27.822059899797576,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688105
+    },
+    {
+      "id": "https",
+      "label": "https",
+      "weight": 26.140124064385454,
+      "degree_centrality": 0.038461538461538464,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.008753465899520233
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "weight": 25.46303405635941,
+      "degree_centrality": 0.6538461538461539,
+      "betweenness_centrality": 0.00014652014652014652,
+      "eigenvector_centrality": 0.14610606778099558
+    },
+    {
+      "id": "2020",
+      "label": "2020",
+      "weight": 21.862883376439676,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.11311025832584516
+    },
+    {
+      "id": "methods",
+      "label": "methods",
+      "weight": 21.268310602117154,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "based",
+      "label": "based",
+      "weight": 20.831682939157048,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "weight": 20.045766602449895,
+      "degree_centrality": 0.8076923076923077,
+      "betweenness_centrality": 0.0009049773755656109,
+      "eigenvector_centrality": 0.178351276158967
+    },
+    {
+      "id": "code generation",
+      "label": "code generation",
+      "weight": 19.09340954175621,
+      "degree_centrality": 0.9230769230769231,
+      "betweenness_centrality": 0.00174380521439345,
+      "eigenvector_centrality": 0.20157160915291772
+    },
+    {
+      "id": "gpt",
+      "label": "gpt",
+      "weight": 18.953093736929105,
+      "degree_centrality": 0.9230769230769231,
+      "betweenness_centrality": 0.003057762750070442,
+      "eigenvector_centrality": 0.2002299812376381
+    },
+    {
+      "id": "natural",
+      "label": "natural",
+      "weight": 17.62241697677648,
+      "degree_centrality": 0.9230769230769231,
+      "betweenness_centrality": 0.00174380521439345,
+      "eigenvector_centrality": 0.20157160915291772
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 16.295088203155444,
+      "degree_centrality": 0.8846153846153847,
+      "betweenness_centrality": 0.0012895927601809954,
+      "eigenvector_centrality": 0.1943197359890071
+    },
+    {
+      "id": "natural language",
+      "label": "natural language",
+      "weight": 16.020711365017796,
+      "degree_centrality": 0.8846153846153847,
+      "betweenness_centrality": 0.0004542124542124542,
+      "eigenvector_centrality": 0.19563084696367475
+    },
+    {
+      "id": "used",
+      "label": "used",
+      "weight": 14.617191858063684,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "text",
+      "label": "text",
+      "weight": 14.1682838582199,
+      "degree_centrality": 0.9615384615384616,
+      "betweenness_centrality": 0.004627075789971718,
+      "eigenvector_centrality": 0.20617074342688108
+    },
+    {
+      "id": "java code",
+      "label": "java code",
+      "weight": 10.184601063854652,
+      "degree_centrality": 0.9230769230769231,
+      "betweenness_centrality": 0.00174380521439345,
+      "eigenvector_centrality": 0.20157160915291772
+    },
+    {
+      "id": "state",
+      "label": "state",
+      "weight": 8.441708587185916,
+      "degree_centrality": 0.8461538461538463,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18837897379976415
+    },
+    {
+      "id": "java code generation",
+      "label": "java code generation",
+      "weight": 8.375695179004115,
+      "degree_centrality": 0.8846153846153847,
+      "betweenness_centrality": 0.0004542124542124542,
+      "eigenvector_centrality": 0.19563084696367475
+    },
+    {
+      "id": "art",
+      "label": "art",
+      "weight": 6.729670654884542,
+      "degree_centrality": 0.8846153846153847,
+      "betweenness_centrality": 0.0004542124542124542,
+      "eigenvector_centrality": 0.19563084696367475
+    },
+    {
+      "id": "art methods",
+      "label": "art methods",
+      "weight": 6.729670654884542,
+      "degree_centrality": 0.8461538461538463,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18837897379976415
+    }
+  ],
+  "edges": [
+    {
+      "source": "al",
+      "target": "et",
+      "weight": 235
+    },
+    {
+      "source": "al",
+      "target": "code",
+      "weight": 122
+    },
+    {
+      "source": "al",
+      "target": "language",
+      "weight": 72
+    },
+    {
+      "source": "al",
+      "target": "java",
+      "weight": 52
+    },
+    {
+      "source": "al",
+      "target": "generation",
+      "weight": 49
+    },
+    {
+      "source": "al",
+      "target": "methods",
+      "weight": 30
+    },
+    {
+      "source": "al",
+      "target": "code generation",
+      "weight": 26
+    },
+    {
+      "source": "al",
+      "target": "natural",
+      "weight": 48
+    },
+    {
+      "source": "al",
+      "target": "text",
+      "weight": 29
+    },
+    {
+      "source": "al",
+      "target": "java code",
+      "weight": 21
+    },
+    {
+      "source": "al",
+      "target": "state",
+      "weight": 17
+    },
+    {
+      "source": "al",
+      "target": "java code generation",
+      "weight": 16
+    },
+    {
+      "source": "al",
+      "target": "art",
+      "weight": 26
+    },
+    {
+      "source": "al",
+      "target": "art methods",
+      "weight": 14
+    },
+    {
+      "source": "al",
+      "target": "models",
+      "weight": 29
+    },
+    {
+      "source": "al",
+      "target": "model",
+      "weight": 67
+    },
+    {
+      "source": "al",
+      "target": "natural language",
+      "weight": 30
+    },
+    {
+      "source": "al",
+      "target": "based",
+      "weight": 25
+    },
+    {
+      "source": "al",
+      "target": "dataset",
+      "weight": 27
+    },
+    {
+      "source": "al",
+      "target": "used",
+      "weight": 20
+    },
+    {
+      "source": "al",
+      "target": "et al",
+      "weight": 87
+    },
+    {
+      "source": "al",
+      "target": "2022",
+      "weight": 8
+    },
+    {
+      "source": "al",
+      "target": "gpt",
+      "weight": 26
+    },
+    {
+      "source": "al",
+      "target": "2020",
+      "weight": 6
+    },
+    {
+      "source": "al",
+      "target": "2021",
+      "weight": 18
+    },
+    {
+      "source": "et",
+      "target": "code",
+      "weight": 145
+    },
+    {
+      "source": "et",
+      "target": "language",
+      "weight": 55
+    },
+    {
+      "source": "et",
+      "target": "java",
+      "weight": 44
+    },
+    {
+      "source": "et",
+      "target": "generation",
+      "weight": 52
+    },
+    {
+      "source": "et",
+      "target": "methods",
+      "weight": 51
+    },
+    {
+      "source": "et",
+      "target": "code generation",
+      "weight": 26
+    },
+    {
+      "source": "et",
+      "target": "natural",
+      "weight": 34
+    },
+    {
+      "source": "et",
+      "target": "text",
+      "weight": 33
+    },
+    {
+      "source": "et",
+      "target": "java code",
+      "weight": 19
+    },
+    {
+      "source": "et",
+      "target": "state",
+      "weight": 22
+    },
+    {
+      "source": "et",
+      "target": "java code generation",
+      "weight": 15
+    },
+    {
+      "source": "et",
+      "target": "art",
+      "weight": 30
+    },
+    {
+      "source": "et",
+      "target": "art methods",
+      "weight": 17
+    },
+    {
+      "source": "et",
+      "target": "models",
+      "weight": 41
+    },
+    {
+      "source": "et",
+      "target": "model",
+      "weight": 87
+    },
+    {
+      "source": "et",
+      "target": "natural language",
+      "weight": 21
+    },
+    {
+      "source": "et",
+      "target": "based",
+      "weight": 29
+    },
+    {
+      "source": "et",
+      "target": "used",
+      "weight": 29
+    },
+    {
+      "source": "et",
+      "target": "dataset",
+      "weight": 41
+    },
+    {
+      "source": "et",
+      "target": "et al",
+      "weight": 87
+    },
+    {
+      "source": "et",
+      "target": "2022",
+      "weight": 9
+    },
+    {
+      "source": "et",
+      "target": "gpt",
+      "weight": 26
+    },
+    {
+      "source": "et",
+      "target": "2020",
+      "weight": 10
+    },
+    {
+      "source": "et",
+      "target": "https",
+      "weight": 1
+    },
+    {
+      "source": "et",
+      "target": "2021",
+      "weight": 19
+    },
+    {
+      "source": "et al",
+      "target": "language",
+      "weight": 12
+    },
+    {
+      "source": "et al",
+      "target": "models",
+      "weight": 6
+    },
+    {
+      "source": "et al",
+      "target": "java",
+      "weight": 7
+    },
+    {
+      "source": "et al",
+      "target": "model",
+      "weight": 13
+    },
+    {
+      "source": "et al",
+      "target": "based",
+      "weight": 9
+    },
+    {
+      "source": "et al",
+      "target": "natural",
+      "weight": 7
+    },
+    {
+      "source": "et al",
+      "target": "natural language",
+      "weight": 5
+    },
+    {
+      "source": "et al",
+      "target": "used",
+      "weight": 6
+    },
+    {
+      "source": "et al",
+      "target": "gpt",
+      "weight": 7
+    },
+    {
+      "source": "et al",
+      "target": "code",
+      "weight": 29
+    },
+    {
+      "source": "et al",
+      "target": "generation",
+      "weight": 6
+    },
+    {
+      "source": "et al",
+      "target": "methods",
+      "weight": 7
+    },
+    {
+      "source": "et al",
+      "target": "code generation",
+      "weight": 4
+    },
+    {
+      "source": "et al",
+      "target": "text",
+      "weight": 8
+    },
+    {
+      "source": "et al",
+      "target": "java code",
+      "weight": 4
+    },
+    {
+      "source": "et al",
+      "target": "state",
+      "weight": 5
+    },
+    {
+      "source": "et al",
+      "target": "java code generation",
+      "weight": 3
+    },
+    {
+      "source": "et al",
+      "target": "art",
+      "weight": 8
+    },
+    {
+      "source": "et al",
+      "target": "art methods",
+      "weight": 4
+    },
+    {
+      "source": "et al",
+      "target": "dataset",
+      "weight": 5
+    },
+    {
+      "source": "et al",
+      "target": "2021",
+      "weight": 4
+    },
+    {
+      "source": "et al",
+      "target": "2020",
+      "weight": 2
+    },
+    {
+      "source": "et al",
+      "target": "2022",
+      "weight": 2
+    },
+    {
+      "source": "code",
+      "target": "language",
+      "weight": 40
+    },
+    {
+      "source": "code",
+      "target": "java",
+      "weight": 51
+    },
+    {
+      "source": "code",
+      "target": "generation",
+      "weight": 60
+    },
+    {
+      "source": "code",
+      "target": "methods",
+      "weight": 39
+    },
+    {
+      "source": "code",
+      "target": "code generation",
+      "weight": 32
+    },
+    {
+      "source": "code",
+      "target": "natural",
+      "weight": 26
+    },
+    {
+      "source": "code",
+      "target": "text",
+      "weight": 26
+    },
+    {
+      "source": "code",
+      "target": "java code",
+      "weight": 22
+    },
+    {
+      "source": "code",
+      "target": "state",
+      "weight": 18
+    },
+    {
+      "source": "code",
+      "target": "java code generation",
+      "weight": 17
+    },
+    {
+      "source": "code",
+      "target": "art",
+      "weight": 24
+    },
+    {
+      "source": "code",
+      "target": "art methods",
+      "weight": 16
+    },
+    {
+      "source": "code",
+      "target": "models",
+      "weight": 30
+    },
+    {
+      "source": "code",
+      "target": "model",
+      "weight": 62
+    },
+    {
+      "source": "code",
+      "target": "natural language",
+      "weight": 16
+    },
+    {
+      "source": "code",
+      "target": "dataset",
+      "weight": 29
+    },
+    {
+      "source": "code",
+      "target": "2022",
+      "weight": 7
+    },
+    {
+      "source": "code",
+      "target": "2021",
+      "weight": 10
+    },
+    {
+      "source": "code",
+      "target": "used",
+      "weight": 18
+    },
+    {
+      "source": "code",
+      "target": "based",
+      "weight": 22
+    },
+    {
+      "source": "code",
+      "target": "2020",
+      "weight": 6
+    },
+    {
+      "source": "code",
+      "target": "gpt",
+      "weight": 16
+    },
+    {
+      "source": "language",
+      "target": "java",
+      "weight": 28
+    },
+    {
+      "source": "language",
+      "target": "generation",
+      "weight": 27
+    },
+    {
+      "source": "language",
+      "target": "methods",
+      "weight": 17
+    },
+    {
+      "source": "language",
+      "target": "code generation",
+      "weight": 17
+    },
+    {
+      "source": "language",
+      "target": "natural",
+      "weight": 44
+    },
+    {
+      "source": "language",
+      "target": "text",
+      "weight": 18
+    },
+    {
+      "source": "language",
+      "target": "java code",
+      "weight": 13
+    },
+    {
+      "source": "language",
+      "target": "state",
+      "weight": 14
+    },
+    {
+      "source": "language",
+      "target": "java code generation",
+      "weight": 12
+    },
+    {
+      "source": "language",
+      "target": "art",
+      "weight": 16
+    },
+    {
+      "source": "language",
+      "target": "art methods",
+      "weight": 13
+    },
+    {
+      "source": "language",
+      "target": "models",
+      "weight": 18
+    },
+    {
+      "source": "language",
+      "target": "model",
+      "weight": 32
+    },
+    {
+      "source": "language",
+      "target": "natural language",
+      "weight": 30
+    },
+    {
+      "source": "language",
+      "target": "dataset",
+      "weight": 8
+    },
+    {
+      "source": "language",
+      "target": "2022",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "based",
+      "weight": 9
+    },
+    {
+      "source": "language",
+      "target": "used",
+      "weight": 6
+    },
+    {
+      "source": "language",
+      "target": "gpt",
+      "weight": 8
+    },
+    {
+      "source": "language",
+      "target": "2020",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "2021",
+      "weight": 5
+    },
+    {
+      "source": "models",
+      "target": "java",
+      "weight": 8
+    },
+    {
+      "source": "models",
+      "target": "model",
+      "weight": 53
+    },
+    {
+      "source": "models",
+      "target": "generation",
+      "weight": 12
+    },
+    {
+      "source": "models",
+      "target": "methods",
+      "weight": 8
+    },
+    {
+      "source": "models",
+      "target": "code generation",
+      "weight": 5
+    },
+    {
+      "source": "models",
+      "target": "natural",
+      "weight": 7
+    },
+    {
+      "source": "models",
+      "target": "text",
+      "weight": 6
+    },
+    {
+      "source": "models",
+      "target": "java code",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "state",
+      "weight": 4
+    },
+    {
+      "source": "models",
+      "target": "java code generation",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "art",
+      "weight": 4
+    },
+    {
+      "source": "models",
+      "target": "art methods",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "based",
+      "weight": 14
+    },
+    {
+      "source": "models",
+      "target": "dataset",
+      "weight": 6
+    },
+    {
+      "source": "models",
+      "target": "natural language",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "used",
+      "weight": 9
+    },
+    {
+      "source": "models",
+      "target": "2020",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "gpt",
+      "weight": 7
+    },
+    {
+      "source": "models",
+      "target": "2021",
+      "weight": 5
+    },
+    {
+      "source": "java",
+      "target": "generation",
+      "weight": 34
+    },
+    {
+      "source": "java",
+      "target": "methods",
+      "weight": 20
+    },
+    {
+      "source": "java",
+      "target": "code generation",
+      "weight": 19
+    },
+    {
+      "source": "java",
+      "target": "natural",
+      "weight": 22
+    },
+    {
+      "source": "java",
+      "target": "text",
+      "weight": 14
+    },
+    {
+      "source": "java",
+      "target": "java code",
+      "weight": 22
+    },
+    {
+      "source": "java",
+      "target": "state",
+      "weight": 14
+    },
+    {
+      "source": "java",
+      "target": "java code generation",
+      "weight": 17
+    },
+    {
+      "source": "java",
+      "target": "art",
+      "weight": 17
+    },
+    {
+      "source": "java",
+      "target": "art methods",
+      "weight": 13
+    },
+    {
+      "source": "java",
+      "target": "model",
+      "weight": 12
+    },
+    {
+      "source": "java",
+      "target": "natural language",
+      "weight": 16
+    },
+    {
+      "source": "java",
+      "target": "2022",
+      "weight": 4
+    },
+    {
+      "source": "java",
+      "target": "dataset",
+      "weight": 13
+    },
+    {
+      "source": "java",
+      "target": "based",
+      "weight": 5
+    },
+    {
+      "source": "java",
+      "target": "used",
+      "weight": 6
+    },
+    {
+      "source": "java",
+      "target": "2021",
+      "weight": 4
+    },
+    {
+      "source": "java",
+      "target": "gpt",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "generation",
+      "weight": 21
+    },
+    {
+      "source": "model",
+      "target": "methods",
+      "weight": 10
+    },
+    {
+      "source": "model",
+      "target": "code generation",
+      "weight": 10
+    },
+    {
+      "source": "model",
+      "target": "natural",
+      "weight": 12
+    },
+    {
+      "source": "model",
+      "target": "text",
+      "weight": 11
+    },
+    {
+      "source": "model",
+      "target": "java code",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "state",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "java code generation",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "art",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "art methods",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "based",
+      "weight": 21
+    },
+    {
+      "source": "model",
+      "target": "dataset",
+      "weight": 11
+    },
+    {
+      "source": "model",
+      "target": "natural language",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "used",
+      "weight": 16
+    },
+    {
+      "source": "model",
+      "target": "2020",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "gpt",
+      "weight": 16
+    },
+    {
+      "source": "model",
+      "target": "2021",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "2022",
+      "weight": 5
+    },
+    {
+      "source": "generation",
+      "target": "methods",
+      "weight": 24
+    },
+    {
+      "source": "generation",
+      "target": "code generation",
+      "weight": 32
+    },
+    {
+      "source": "generation",
+      "target": "natural",
+      "weight": 21
+    },
+    {
+      "source": "generation",
+      "target": "text",
+      "weight": 19
+    },
+    {
+      "source": "generation",
+      "target": "java code",
+      "weight": 19
+    },
+    {
+      "source": "generation",
+      "target": "state",
+      "weight": 15
+    },
+    {
+      "source": "generation",
+      "target": "java code generation",
+      "weight": 17
+    },
+    {
+      "source": "generation",
+      "target": "art",
+      "weight": 17
+    },
+    {
+      "source": "generation",
+      "target": "art methods",
+      "weight": 13
+    },
+    {
+      "source": "generation",
+      "target": "natural language",
+      "weight": 14
+    },
+    {
+      "source": "generation",
+      "target": "2022",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "dataset",
+      "weight": 9
+    },
+    {
+      "source": "generation",
+      "target": "2021",
+      "weight": 4
+    },
+    {
+      "source": "generation",
+      "target": "based",
+      "weight": 7
+    },
+    {
+      "source": "generation",
+      "target": "used",
+      "weight": 8
+    },
+    {
+      "source": "generation",
+      "target": "2020",
+      "weight": 3
+    },
+    {
+      "source": "generation",
+      "target": "gpt",
+      "weight": 2
+    },
+    {
+      "source": "2022",
+      "target": "methods",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "code generation",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "based",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "2021",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "natural",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "text",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "java code",
+      "weight": 1
+    },
+    {
+      "source": "2020",
+      "target": "methods",
+      "weight": 3
+    },
+    {
+      "source": "2020",
+      "target": "text",
+      "weight": 3
+    },
+    {
+      "source": "2020",
+      "target": "based",
+      "weight": 1
+    },
+    {
+      "source": "2020",
+      "target": "gpt",
+      "weight": 3
+    },
+    {
+      "source": "2020",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "code generation",
+      "weight": 17
+    },
+    {
+      "source": "methods",
+      "target": "natural",
+      "weight": 16
+    },
+    {
+      "source": "methods",
+      "target": "text",
+      "weight": 15
+    },
+    {
+      "source": "methods",
+      "target": "java code",
+      "weight": 16
+    },
+    {
+      "source": "methods",
+      "target": "state",
+      "weight": 20
+    },
+    {
+      "source": "methods",
+      "target": "java code generation",
+      "weight": 14
+    },
+    {
+      "source": "methods",
+      "target": "art",
+      "weight": 20
+    },
+    {
+      "source": "methods",
+      "target": "art methods",
+      "weight": 17
+    },
+    {
+      "source": "methods",
+      "target": "natural language",
+      "weight": 12
+    },
+    {
+      "source": "methods",
+      "target": "used",
+      "weight": 6
+    },
+    {
+      "source": "methods",
+      "target": "based",
+      "weight": 11
+    },
+    {
+      "source": "methods",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "gpt",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "2021",
+      "weight": 1
+    },
+    {
+      "source": "based",
+      "target": "natural",
+      "weight": 6
+    },
+    {
+      "source": "based",
+      "target": "natural language",
+      "weight": 4
+    },
+    {
+      "source": "based",
+      "target": "used",
+      "weight": 7
+    },
+    {
+      "source": "based",
+      "target": "code generation",
+      "weight": 4
+    },
+    {
+      "source": "based",
+      "target": "java code",
+      "weight": 2
+    },
+    {
+      "source": "based",
+      "target": "java code generation",
+      "weight": 2
+    },
+    {
+      "source": "based",
+      "target": "state",
+      "weight": 5
+    },
+    {
+      "source": "based",
+      "target": "art",
+      "weight": 7
+    },
+    {
+      "source": "based",
+      "target": "art methods",
+      "weight": 5
+    },
+    {
+      "source": "based",
+      "target": "text",
+      "weight": 6
+    },
+    {
+      "source": "based",
+      "target": "gpt",
+      "weight": 5
+    },
+    {
+      "source": "based",
+      "target": "2021",
+      "weight": 5
+    },
+    {
+      "source": "based",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "2021",
+      "target": "code generation",
+      "weight": 3
+    },
+    {
+      "source": "2021",
+      "target": "natural",
+      "weight": 3
+    },
+    {
+      "source": "2021",
+      "target": "natural language",
+      "weight": 3
+    },
+    {
+      "source": "2021",
+      "target": "used",
+      "weight": 4
+    },
+    {
+      "source": "2021",
+      "target": "gpt",
+      "weight": 6
+    },
+    {
+      "source": "2021",
+      "target": "java code",
+      "weight": 2
+    },
+    {
+      "source": "2021",
+      "target": "text",
+      "weight": 1
+    },
+    {
+      "source": "2021",
+      "target": "art",
+      "weight": 1
+    },
+    {
+      "source": "2021",
+      "target": "java code generation",
+      "weight": 1
+    },
+    {
+      "source": "code generation",
+      "target": "natural",
+      "weight": 15
+    },
+    {
+      "source": "code generation",
+      "target": "text",
+      "weight": 13
+    },
+    {
+      "source": "code generation",
+      "target": "java code",
+      "weight": 17
+    },
+    {
+      "source": "code generation",
+      "target": "state",
+      "weight": 12
+    },
+    {
+      "source": "code generation",
+      "target": "java code generation",
+      "weight": 17
+    },
+    {
+      "source": "code generation",
+      "target": "art",
+      "weight": 12
+    },
+    {
+      "source": "code generation",
+      "target": "art methods",
+      "weight": 12
+    },
+    {
+      "source": "code generation",
+      "target": "natural language",
+      "weight": 12
+    },
+    {
+      "source": "code generation",
+      "target": "dataset",
+      "weight": 3
+    },
+    {
+      "source": "code generation",
+      "target": "gpt",
+      "weight": 1
+    },
+    {
+      "source": "code generation",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "gpt",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "gpt",
+      "target": "text",
+      "weight": 4
+    },
+    {
+      "source": "gpt",
+      "target": "natural",
+      "weight": 2
+    },
+    {
+      "source": "gpt",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "java code",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "state",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "java code generation",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "art",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "art methods",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "used",
+      "weight": 3
+    },
+    {
+      "source": "natural",
+      "target": "text",
+      "weight": 17
+    },
+    {
+      "source": "natural",
+      "target": "java code",
+      "weight": 14
+    },
+    {
+      "source": "natural",
+      "target": "state",
+      "weight": 15
+    },
+    {
+      "source": "natural",
+      "target": "java code generation",
+      "weight": 12
+    },
+    {
+      "source": "natural",
+      "target": "art",
+      "weight": 17
+    },
+    {
+      "source": "natural",
+      "target": "art methods",
+      "weight": 13
+    },
+    {
+      "source": "natural",
+      "target": "natural language",
+      "weight": 30
+    },
+    {
+      "source": "natural",
+      "target": "dataset",
+      "weight": 4
+    },
+    {
+      "source": "natural",
+      "target": "used",
+      "weight": 3
+    },
+    {
+      "source": "dataset",
+      "target": "used",
+      "weight": 6
+    },
+    {
+      "source": "dataset",
+      "target": "natural language",
+      "weight": 4
+    },
+    {
+      "source": "dataset",
+      "target": "text",
+      "weight": 3
+    },
+    {
+      "source": "dataset",
+      "target": "java code",
+      "weight": 3
+    },
+    {
+      "source": "dataset",
+      "target": "java code generation",
+      "weight": 3
+    },
+    {
+      "source": "dataset",
+      "target": "state",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "art",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "art methods",
+      "weight": 2
+    },
+    {
+      "source": "natural language",
+      "target": "text",
+      "weight": 12
+    },
+    {
+      "source": "natural language",
+      "target": "java code",
+      "weight": 11
+    },
+    {
+      "source": "natural language",
+      "target": "state",
+      "weight": 11
+    },
+    {
+      "source": "natural language",
+      "target": "art",
+      "weight": 12
+    },
+    {
+      "source": "natural language",
+      "target": "art methods",
+      "weight": 11
+    },
+    {
+      "source": "natural language",
+      "target": "used",
+      "weight": 3
+    },
+    {
+      "source": "natural language",
+      "target": "java code generation",
+      "weight": 10
+    },
+    {
+      "source": "used",
+      "target": "art",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "text",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "java code",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "state",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "art methods",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "java code generation",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "java code",
+      "weight": 14
+    },
+    {
+      "source": "text",
+      "target": "state",
+      "weight": 14
+    },
+    {
+      "source": "text",
+      "target": "java code generation",
+      "weight": 12
+    },
+    {
+      "source": "text",
+      "target": "art",
+      "weight": 15
+    },
+    {
+      "source": "text",
+      "target": "art methods",
+      "weight": 14
+    },
+    {
+      "source": "java code",
+      "target": "state",
+      "weight": 13
+    },
+    {
+      "source": "java code",
+      "target": "java code generation",
+      "weight": 17
+    },
+    {
+      "source": "java code",
+      "target": "art",
+      "weight": 13
+    },
+    {
+      "source": "java code",
+      "target": "art methods",
+      "weight": 13
+    },
+    {
+      "source": "state",
+      "target": "java code generation",
+      "weight": 12
+    },
+    {
+      "source": "state",
+      "target": "art",
+      "weight": 22
+    },
+    {
+      "source": "state",
+      "target": "art methods",
+      "weight": 17
+    },
+    {
+      "source": "java code generation",
+      "target": "art",
+      "weight": 12
+    },
+    {
+      "source": "java code generation",
+      "target": "art methods",
+      "weight": 12
+    },
+    {
+      "source": "art",
+      "target": "art methods",
+      "weight": 17
+    }
+  ],
+  "metadata": {
+    "node_count": 27,
+    "edge_count": 304,
+    "is_connected": true
+  }
+}

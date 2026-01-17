@@ -1,0 +1,1796 @@
+{
+  "nodes": [
+    {
+      "id": "discussed",
+      "label": "discussed",
+      "weight": 2.092705349416745,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.07096056305026817
+    },
+    {
+      "id": "points",
+      "label": "points",
+      "weight": 1.7023177280486688,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.0066460287468790066,
+      "eigenvector_centrality": 0.2036657896088751
+    },
+    {
+      "id": "research",
+      "label": "research",
+      "weight": 1.6735691703382498,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.023886632708078143,
+      "eigenvector_centrality": 0.21031679057724073
+    },
+    {
+      "id": "feature",
+      "label": "feature",
+      "weight": 1.556055004184576,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.010113117476131172,
+      "eigenvector_centrality": 0.20823111966690055
+    },
+    {
+      "id": "feature requests",
+      "label": "feature requests",
+      "weight": 1.556055004184576,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.010113117476131172,
+      "eigenvector_centrality": 0.20823111966690055
+    },
+    {
+      "id": "requests",
+      "label": "requests",
+      "weight": 1.556055004184576,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.010113117476131172,
+      "eigenvector_centrality": 0.20823111966690055
+    },
+    {
+      "id": "bob",
+      "label": "bob",
+      "weight": 1.5465557836361215,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.0008401376611107362,
+      "eigenvector_centrality": 0.10971067729454531
+    },
+    {
+      "id": "nps",
+      "label": "nps",
+      "weight": 1.3563117979502626,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.008492544038127409,
+      "eigenvector_centrality": 0.208761995569993
+    },
+    {
+      "id": "alice",
+      "label": "alice",
+      "weight": 1.3299322303974117,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08371603844681023
+    },
+    {
+      "id": "user",
+      "label": "user",
+      "weight": 1.3281031779298527,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.008492544038127409,
+      "eigenvector_centrality": 0.208761995569993
+    },
+    {
+      "id": "user research",
+      "label": "user research",
+      "weight": 1.3281031779298527,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.008492544038127409,
+      "eigenvector_centrality": 0.208761995569993
+    },
+    {
+      "id": "meeting",
+      "label": "meeting",
+      "weight": 1.2679942213141229,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.008492544038127409,
+      "eigenvector_centrality": 0.208761995569993
+    },
+    {
+      "id": "charlie",
+      "label": "charlie",
+      "weight": 1.1774416523009459,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.0028570678783243733,
+      "eigenvector_centrality": 0.14348739822492776
+    },
+    {
+      "id": "pain",
+      "label": "pain",
+      "weight": 1.1414662049101103,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.0066460287468790066,
+      "eigenvector_centrality": 0.2036657896088751
+    },
+    {
+      "id": "pain points",
+      "label": "pain points",
+      "weight": 1.1414662049101103,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.0066460287468790066,
+      "eigenvector_centrality": 0.2036657896088751
+    },
+    {
+      "id": "team",
+      "label": "team",
+      "weight": 0.866963587994278,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.07405892210450547,
+      "eigenvector_centrality": 0.20095118845280902
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "weight": 0.8392465614975821,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.003284072249589491,
+      "eigenvector_centrality": 0.037360840815893054
+    },
+    {
+      "id": "additional",
+      "label": "additional",
+      "weight": 0.7842005191375805,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.011699507389162561,
+      "eigenvector_centrality": 0.19629698799567324
+    },
+    {
+      "id": "items",
+      "label": "items",
+      "weight": 0.7337984286715118,
+      "degree_centrality": 0.13793103448275862,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.020440822703519535
+    },
+    {
+      "id": "follow",
+      "label": "follow",
+      "weight": 0.6445374202066503,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.0013136288998357964,
+      "eigenvector_centrality": 0.2007130127421885
+    },
+    {
+      "id": "blockers",
+      "label": "blockers",
+      "weight": 0.5924842580220978,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19474219298842554
+    },
+    {
+      "id": "progress",
+      "label": "progress",
+      "weight": 0.5924842580220978,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19474219298842554
+    },
+    {
+      "id": "proposed",
+      "label": "proposed",
+      "weight": 0.5924842580220978,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19474219298842554
+    },
+    {
+      "id": "discussion",
+      "label": "discussion",
+      "weight": 0.5592563026509394,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.08874705963747058,
+      "eigenvector_centrality": 0.21201821416768987
+    },
+    {
+      "id": "agreed",
+      "label": "agreed",
+      "weight": 0.5509784687194954,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.004888150347526824,
+      "eigenvector_centrality": 0.19769496985511215
+    },
+    {
+      "id": "review",
+      "label": "review",
+      "weight": 0.5430004657202578,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19474219298842554
+    },
+    {
+      "id": "action items",
+      "label": "action items",
+      "weight": 0.48919895244767453,
+      "degree_centrality": 0.13793103448275862,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.020440822703519535
+    },
+    {
+      "id": "01",
+      "label": "01",
+      "weight": 0.41684809976977155,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.008492544038127409,
+      "eigenvector_centrality": 0.208761995569993
+    },
+    {
+      "id": "2026",
+      "label": "2026",
+      "weight": 0.41684809976977155,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.008492544038127409,
+      "eigenvector_centrality": 0.208761995569993
+    },
+    {
+      "id": "scheduled",
+      "label": "scheduled",
+      "weight": 0.3620003104801719,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19474219298842554
+    }
+  ],
+  "edges": [
+    {
+      "source": "discussed",
+      "target": "points",
+      "weight": 2
+    },
+    {
+      "source": "discussed",
+      "target": "feature",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "feature requests",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "requests",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "feature",
+      "weight": 2
+    },
+    {
+      "source": "points",
+      "target": "feature requests",
+      "weight": 2
+    },
+    {
+      "source": "points",
+      "target": "requests",
+      "weight": 2
+    },
+    {
+      "source": "points",
+      "target": "pain",
+      "weight": 3
+    },
+    {
+      "source": "points",
+      "target": "pain points",
+      "weight": 3
+    },
+    {
+      "source": "points",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "points",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "points",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "nps",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "user research",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "meeting",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "points",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "bob",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "nps",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "alice",
+      "weight": 3
+    },
+    {
+      "source": "research",
+      "target": "user",
+      "weight": 4
+    },
+    {
+      "source": "research",
+      "target": "user research",
+      "weight": 4
+    },
+    {
+      "source": "research",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "additional",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "feature",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "feature requests",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "requests",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "feature requests",
+      "weight": 5
+    },
+    {
+      "source": "feature",
+      "target": "requests",
+      "weight": 5
+    },
+    {
+      "source": "feature",
+      "target": "pain",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "pain points",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "nps",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "blockers",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "bob",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "follow",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "user research",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "requests",
+      "weight": 5
+    },
+    {
+      "source": "feature requests",
+      "target": "pain",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "pain points",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "nps",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "blockers",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "bob",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "follow",
+      "weight": 2
+    },
+    {
+      "source": "feature requests",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "user research",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "feature requests",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "pain",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "pain points",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "nps",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "blockers",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "bob",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "follow",
+      "weight": 2
+    },
+    {
+      "source": "requests",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "user research",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "requests",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "nps",
+      "weight": 2
+    },
+    {
+      "source": "bob",
+      "target": "alice",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "user research",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "meeting",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "alice",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "user research",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "blockers",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "nps",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "nps",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "user",
+      "weight": 3
+    },
+    {
+      "source": "alice",
+      "target": "user research",
+      "weight": 3
+    },
+    {
+      "source": "alice",
+      "target": "meeting",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "user research",
+      "weight": 4
+    },
+    {
+      "source": "user",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "user research",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "user research",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "user research",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "user research",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "user research",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "charlie",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "follow",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "pain",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "pain points",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "pain points",
+      "weight": 3
+    },
+    {
+      "source": "pain",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "pain",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "pain",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "pain",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "pain points",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "pain points",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "pain points",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "team",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "items",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "team",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "items",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "items",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "items",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "blockers",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "blockers",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "blockers",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "blockers",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "blockers",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "blockers",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "blockers",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "blockers",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "blockers",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "progress",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "discussion",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "discussion",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "01",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "2026",
+      "target": "scheduled",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 309,
+    "is_connected": true
+  }
+}

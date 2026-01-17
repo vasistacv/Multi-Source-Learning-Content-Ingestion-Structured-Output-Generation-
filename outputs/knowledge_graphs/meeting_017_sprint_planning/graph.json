@@ -1,0 +1,1681 @@
+{
+  "nodes": [
+    {
+      "id": "discussed",
+      "label": "discussed",
+      "weight": 2.4497214512447654,
+      "degree_centrality": 0.13793103448275862,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.03683262218458314
+    },
+    {
+      "id": "velocity",
+      "label": "velocity",
+      "weight": 1.860603657549263,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.021544280842310394,
+      "eigenvector_centrality": 0.21294348099173624
+    },
+    {
+      "id": "bob",
+      "label": "bob",
+      "weight": 1.5182554712467975,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.00022724607084212995,
+      "eigenvector_centrality": 0.139850866545419
+    },
+    {
+      "id": "backlog",
+      "label": "backlog",
+      "weight": 1.4562727372610205,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.013523340370631009,
+      "eigenvector_centrality": 0.19991802721170218
+    },
+    {
+      "id": "charlie",
+      "label": "charlie",
+      "weight": 1.4193387426518043,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.0013964073693137733,
+      "eigenvector_centrality": 0.15731030915000435
+    },
+    {
+      "id": "product",
+      "label": "product",
+      "weight": 1.2971199998629723,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "product roadmap",
+      "label": "product roadmap",
+      "weight": 1.2971199998629723,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "roadmap",
+      "label": "roadmap",
+      "weight": 1.2971199998629723,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "alice",
+      "label": "alice",
+      "weight": 1.2853193467892754,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13051466685184954
+    },
+    {
+      "id": "meeting",
+      "label": "meeting",
+      "weight": 1.2793936640385104,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "stories",
+      "label": "stories",
+      "weight": 1.154119453129693,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "user",
+      "label": "user",
+      "weight": 1.154119453129693,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "user stories",
+      "label": "user stories",
+      "weight": 1.154119453129693,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "team",
+      "label": "team",
+      "weight": 0.9378494719943201,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.10462848932676516,
+      "eigenvector_centrality": 0.19737541893390703
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "weight": 0.8972751069149076,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.002463054187192118,
+      "eigenvector_centrality": 0.031167175039050397
+    },
+    {
+      "id": "additional",
+      "label": "additional",
+      "weight": 0.8753806862451101,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.014778325123152714,
+      "eigenvector_centrality": 0.19277264316193476
+    },
+    {
+      "id": "follow",
+      "label": "follow",
+      "weight": 0.7341748910167862,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.0012080694346704196,
+      "eigenvector_centrality": 0.19830314474428526
+    },
+    {
+      "id": "agreed",
+      "label": "agreed",
+      "weight": 0.6737190447688217,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.011032430213464697,
+      "eigenvector_centrality": 0.19302099966452363
+    },
+    {
+      "id": "sprint",
+      "label": "sprint",
+      "weight": 0.6617720991564122,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.0013450937404139373,
+      "eigenvector_centrality": 0.1572392321308135
+    },
+    {
+      "id": "items",
+      "label": "items",
+      "weight": 0.6591523679309355,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.022715321313039244
+    },
+    {
+      "id": "progress",
+      "label": "progress",
+      "weight": 0.5954644197454235,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.0012080694346704196,
+      "eigenvector_centrality": 0.19830002823598325
+    },
+    {
+      "id": "proposed",
+      "label": "proposed",
+      "weight": 0.5954644197454235,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.0012080694346704196,
+      "eigenvector_centrality": 0.19830002823598325
+    },
+    {
+      "id": "review",
+      "label": "review",
+      "weight": 0.5832629727138386,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1914061171971067
+    },
+    {
+      "id": "discussion",
+      "label": "discussion",
+      "weight": 0.5276448616614042,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.12967475873879813,
+      "eigenvector_centrality": 0.22140522870748255
+    },
+    {
+      "id": "action",
+      "label": "action",
+      "weight": 0.439434911953957,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.022715321313039244
+    },
+    {
+      "id": "action items",
+      "label": "action items",
+      "weight": 0.439434911953957,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.022715321313039244
+    },
+    {
+      "id": "01",
+      "label": "01",
+      "weight": 0.4028554895281137,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "2026",
+      "label": "2026",
+      "weight": 0.4028554895281137,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "planning",
+      "label": "planning",
+      "weight": 0.4028554895281137,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.006522049379192236,
+      "eigenvector_centrality": 0.21705080943809918
+    },
+    {
+      "id": "scheduled",
+      "label": "scheduled",
+      "weight": 0.3888419818092258,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1914061171971067
+    }
+  ],
+  "edges": [
+    {
+      "source": "discussed",
+      "target": "velocity",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "backlog",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "discussed",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "backlog",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "stories",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "user stories",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "bob",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "follow",
+      "weight": 2
+    },
+    {
+      "source": "velocity",
+      "target": "product",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "product roadmap",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "roadmap",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "velocity",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "product",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "product roadmap",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "roadmap",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "alice",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "meeting",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "stories",
+      "weight": 2
+    },
+    {
+      "source": "bob",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "bob",
+      "target": "user stories",
+      "weight": 2
+    },
+    {
+      "source": "bob",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "bob",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "team",
+      "weight": 2
+    },
+    {
+      "source": "backlog",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "backlog",
+      "target": "charlie",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "product",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "product roadmap",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "roadmap",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "meeting",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "stories",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "user stories",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "backlog",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "product",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "product roadmap",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "roadmap",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "alice",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "charlie",
+      "target": "stories",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "user stories",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "charlie",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "product roadmap",
+      "weight": 4
+    },
+    {
+      "source": "product",
+      "target": "roadmap",
+      "weight": 4
+    },
+    {
+      "source": "product",
+      "target": "alice",
+      "weight": 3
+    },
+    {
+      "source": "product",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "stories",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "user stories",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "roadmap",
+      "weight": 4
+    },
+    {
+      "source": "product roadmap",
+      "target": "alice",
+      "weight": 3
+    },
+    {
+      "source": "product roadmap",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "stories",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "user stories",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "product roadmap",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "product roadmap",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "alice",
+      "weight": 3
+    },
+    {
+      "source": "roadmap",
+      "target": "meeting",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "stories",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "user stories",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "roadmap",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "roadmap",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "meeting",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "stories",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "user stories",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "alice",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "stories",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "user",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "user stories",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "sprint",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "follow",
+      "weight": 2
+    },
+    {
+      "source": "meeting",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "meeting",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "stories",
+      "target": "user",
+      "weight": 4
+    },
+    {
+      "source": "stories",
+      "target": "user stories",
+      "weight": 4
+    },
+    {
+      "source": "stories",
+      "target": "sprint",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "stories",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "stories",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "stories",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "stories",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "stories",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "stories",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "user stories",
+      "weight": 4
+    },
+    {
+      "source": "user",
+      "target": "sprint",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "user stories",
+      "target": "sprint",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "progress",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "user stories",
+      "target": "team",
+      "weight": 1
+    },
+    {
+      "source": "user stories",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "user stories",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "user stories",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "user stories",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "user stories",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "agreed",
+      "weight": 2
+    },
+    {
+      "source": "team",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "items",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "discussion",
+      "weight": 2
+    },
+    {
+      "source": "team",
+      "target": "action",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "team",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "additional",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "items",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "action",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "follow",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "additional",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "agreed",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "follow",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "agreed",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "sprint",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "sprint",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "sprint",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "sprint",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "sprint",
+      "target": "progress",
+      "weight": 1
+    },
+    {
+      "source": "sprint",
+      "target": "proposed",
+      "weight": 1
+    },
+    {
+      "source": "items",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "items",
+      "target": "action",
+      "weight": 1
+    },
+    {
+      "source": "items",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "proposed",
+      "weight": 2
+    },
+    {
+      "source": "progress",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "progress",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "proposed",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "discussion",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "2026",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "01",
+      "weight": 2
+    },
+    {
+      "source": "discussion",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "discussion",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "discussion",
+      "target": "action",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "discussion",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "action",
+      "target": "action items",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "2026",
+      "weight": 2
+    },
+    {
+      "source": "01",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "01",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "2026",
+      "target": "planning",
+      "weight": 2
+    },
+    {
+      "source": "2026",
+      "target": "scheduled",
+      "weight": 1
+    },
+    {
+      "source": "planning",
+      "target": "scheduled",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 286,
+    "is_connected": true
+  }
+}

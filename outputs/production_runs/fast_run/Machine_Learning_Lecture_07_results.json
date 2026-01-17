@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_07.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:50:47.249414",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_07.txt",
+    "file_type": ".txt",
+    "file_size": 2576,
+    "processed_at": "2026-01-17T13:50:45.921303",
+    "content_hash": "79177b141eb62b223a0e75c8f74ca3fe1688cccd3a849569dbfcf132915a06e5",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 324,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Nearest",
+    "Nearest Neighbors",
+    "Neighbors",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "nearest",
+    "nearest neighbors",
+    "neighbors",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "implementation",
+    "implement",
+    "distance metrics hyperparameter",
+    "hyperparameter",
+    "hyperparameter tuning",
+    "hyperparameter tuning curse",
+    "metrics"
+  ],
+  "entity_count": 71,
+  "word_count": 324,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 199,
+      "density": 0.7865612648221344,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2134387351778657,
+      "average_clustering": 0.9186900056465275,
+      "most_central_concepts": [
+        [
+          "nearest",
+          1.0
+        ],
+        [
+          "nearest neighbors",
+          1.0
+        ],
+        [
+          "neighbors",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "curse",
+          0.7272727272727273
+        ],
+        [
+          "dimensionality",
+          0.7272727272727273
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "nearest",
+        "nearest neighbors"
+      ],
+      [
+        "nearest",
+        "neighbors"
+      ],
+      [
+        "nearest",
+        "lecture"
+      ],
+      [
+        "nearest",
+        "implementation"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_07"
+  },
+  "rag_document_id": "385e94db-6719-4b5f-8ff3-37990e1555b7",
+  "processing_time_seconds": 4.068032
+}

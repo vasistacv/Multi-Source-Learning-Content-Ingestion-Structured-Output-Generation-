@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_003_credit_risk_model_validation.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:31:47.484568",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_003_credit_risk_model_validation.txt",
+    "file_type": ".txt",
+    "file_size": 849,
+    "processed_at": "2026-01-17T13:31:47.149410",
+    "content_hash": "2375847a65ba14a15dbae0144a90b167dbba58391d34f9d20223cb793b0d631e",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 94,
+    "metadata": {
+      "line_count": 20,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Model",
+    "Validation",
+    "Risk",
+    "Regulatory",
+    "Model Validation"
+  ],
+  "key_concepts": [
+    "model",
+    "validation",
+    "risk",
+    "regulatory",
+    "results",
+    "model validation",
+    "kevin",
+    "kevin liu",
+    "liu",
+    "credit",
+    "credit risk",
+    "credit risk model",
+    "risk model",
+    "01",
+    "08 duration"
+  ],
+  "entity_count": 18,
+  "word_count": 94,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 22,
+      "edge_count": 160,
+      "density": 0.6926406926406926,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.3073593073593073,
+      "average_clustering": 0.9329151756396339,
+      "most_central_concepts": [
+        [
+          "model",
+          1.0
+        ],
+        [
+          "validation",
+          0.9047619047619047
+        ],
+        [
+          "risk",
+          0.9047619047619047
+        ],
+        [
+          "model validation",
+          0.9047619047619047
+        ],
+        [
+          "kevin",
+          0.8571428571428571
+        ],
+        [
+          "kevin liu",
+          0.8571428571428571
+        ],
+        [
+          "liu",
+          0.8571428571428571
+        ],
+        [
+          "credit",
+          0.7619047619047619
+        ],
+        [
+          "credit risk",
+          0.7619047619047619
+        ],
+        [
+          "credit risk model",
+          0.7619047619047619
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "model",
+        "validation"
+      ],
+      [
+        "model",
+        "risk"
+      ],
+      [
+        "model",
+        "model validation"
+      ],
+      [
+        "model",
+        "kevin"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_003_credit_risk_model_validation"
+  },
+  "rag_document_id": "74b47c3f-7d96-4b9b-a018-cbbc5cfda362",
+  "processing_time_seconds": 0.692477
+}

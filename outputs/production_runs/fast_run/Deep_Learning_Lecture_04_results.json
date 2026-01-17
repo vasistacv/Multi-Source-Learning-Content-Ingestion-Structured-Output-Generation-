@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_04.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:48:48.940107",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_04.txt",
+    "file_type": ".txt",
+    "file_size": 2552,
+    "processed_at": "2026-01-17T13:48:47.716358",
+    "content_hash": "e4e137994fc58245ef31e41a023f53dc85bfdba9db951ecc91c89fc38073920d",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Convolutional",
+    "Convolutional Networks",
+    "Networks",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "convolutional",
+    "convolutional networks",
+    "networks",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "deep",
+    "deep learning",
+    "implement",
+    "architectures",
+    "cnn",
+    "cnn architectures",
+    "convolution operation pooling",
+    "operation"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 231,
+      "density": 0.77,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.23,
+      "average_clustering": 0.9040645586297761,
+      "most_central_concepts": [
+        [
+          "convolutional",
+          1.0
+        ],
+        [
+          "convolutional networks",
+          1.0
+        ],
+        [
+          "networks",
+          1.0
+        ],
+        [
+          "convolution",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9583333333333333
+        ],
+        [
+          "implement",
+          0.9583333333333333
+        ],
+        [
+          "real",
+          0.9583333333333333
+        ],
+        [
+          "implementation",
+          0.9583333333333333
+        ],
+        [
+          "applications",
+          0.9583333333333333
+        ],
+        [
+          "learning",
+          0.6666666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "convolutional",
+        "convolutional networks"
+      ],
+      [
+        "convolutional",
+        "networks"
+      ],
+      [
+        "convolutional",
+        "convolution"
+      ],
+      [
+        "convolutional",
+        "lecture"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_04"
+  },
+  "rag_document_id": "9fa584d0-7713-43d9-949d-08e796763b3d",
+  "processing_time_seconds": 4.068674
+}

@@ -1,0 +1,1215 @@
+{
+  "nodes": [
+    {
+      "id": "linear",
+      "label": "linear",
+      "weight": 2.6312889182113905,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "linear regression",
+      "label": "linear regression",
+      "weight": 2.6312889182113905,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "regression",
+      "label": "regression",
+      "weight": 2.6312889182113905,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.116785499801742,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8983410198694188,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.2513263575929705,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.2513263575929705,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0582066691816303,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0021433118548246,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9774391555164123,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8812680356536484,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8422729683514798,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "optimization",
+      "label": "optimization",
+      "weight": 0.7970263475128686,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.2459377634274173
+    },
+    {
+      "id": "descent",
+      "label": "descent",
+      "weight": 0.758620758804009,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "gradient",
+      "label": "gradient",
+      "weight": 0.758620758804009,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "gradient descent",
+      "label": "gradient descent",
+      "weight": 0.758620758804009,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "mse",
+      "label": "mse",
+      "weight": 0.758620758804009,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "mse optimization",
+      "label": "mse optimization",
+      "weight": 0.758620758804009,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "mx",
+      "label": "mx",
+      "weight": 0.758620758804009,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5371375498551542,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5120220268063922,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.47560148105006606,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.3404352938851337,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18040263473742713
+    }
+  ],
+  "edges": [
+    {
+      "source": "linear",
+      "target": "linear regression",
+      "weight": 8
+    },
+    {
+      "source": "linear",
+      "target": "regression",
+      "weight": 8
+    },
+    {
+      "source": "linear",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "linear",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "descent",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "gradient descent",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "mse",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "mse optimization",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "mx",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "regression",
+      "weight": 8
+    },
+    {
+      "source": "linear regression",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "linear regression",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "linear regression",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "linear regression",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "linear regression",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "linear regression",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "linear regression",
+      "target": "descent",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "gradient descent",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "mse",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "mse optimization",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "mx",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "linear regression",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "linear regression",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "regression",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "descent",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "gradient descent",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "mse",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "mse optimization",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "mx",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "optimization",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "descent",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gradient descent",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "mse optimization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "mx",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "implement",
+      "target": "descent",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gradient descent",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "mse",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "mse optimization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "mx",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "optimization",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "descent",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gradient descent",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "mse optimization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "mx",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "optimization",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "descent",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gradient descent",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "mse optimization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "mx",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "optimization",
+      "target": "descent",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "gradient",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "gradient descent",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "mse",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "mse optimization",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "mx",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "optimization",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "descent",
+      "target": "gradient",
+      "weight": 3
+    },
+    {
+      "source": "descent",
+      "target": "gradient descent",
+      "weight": 3
+    },
+    {
+      "source": "descent",
+      "target": "mse",
+      "weight": 3
+    },
+    {
+      "source": "descent",
+      "target": "mse optimization",
+      "weight": 3
+    },
+    {
+      "source": "descent",
+      "target": "mx",
+      "weight": 3
+    },
+    {
+      "source": "descent",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "descent",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gradient",
+      "target": "gradient descent",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "mse",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "mse optimization",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "mx",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gradient",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gradient descent",
+      "target": "mse",
+      "weight": 3
+    },
+    {
+      "source": "gradient descent",
+      "target": "mse optimization",
+      "weight": 3
+    },
+    {
+      "source": "gradient descent",
+      "target": "mx",
+      "weight": 3
+    },
+    {
+      "source": "gradient descent",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gradient descent",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "mse",
+      "target": "mse optimization",
+      "weight": 3
+    },
+    {
+      "source": "mse",
+      "target": "mx",
+      "weight": 3
+    },
+    {
+      "source": "mse",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "mse",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "mse optimization",
+      "target": "mx",
+      "weight": 3
+    },
+    {
+      "source": "mse optimization",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "mse optimization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "mx",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "mx",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 204,
+    "is_connected": true
+  }
+}

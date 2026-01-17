@@ -1,0 +1,84 @@
+# Computer Vision - Lecture 1: Image Basics
+
+Date: 2026-01-01
+Instructor: Dr. Sarah Chen
+Duration: 90 minutes
+
+## Lecture Overview
+
+Today's focus: **Image Basics**
+
+This lecture explores pixels, channels, convolution filters, with theoretical foundations, 
+practical implementations, and real-world applications.
+
+## Key Learning Outcomes
+
+By the end of this lecture, students will be able to:
+1. Understand the core concepts of Image Basics
+2. Implement algorithms related to pixels, channels, convolution filters
+3. Apply these techniques to real datasets
+4. Recognize when to use these methods in practice
+
+## Detailed Content
+
+### Part 1: Theoretical Foundation (Image Basics)
+
+pixels, channels, convolution filters
+
+Mathematical formulation and algorithmic principles demonstrated through step-by-step derivations.
+Complexity analysis: Time O(n²), Space O(n) for typical implementations.
+
+### Part 2: Implementation
+
+```python
+# Example code for Image Basics
+import numpy as np
+
+def example_algorithm(data, params):
+    # Core implementation of Image Basics
+    result = process(data)
+    return result
+```
+
+### Part 3: Real-World Applications
+
+Case study: How Image Basics is used in industry applications including:
+- E-commerce recommendation systems
+- Medical imaging diagnostics
+- Financial fraud detection
+- Autonomous vehicle perception
+
+### Part 4: Advanced Considerations
+
+- Handling edge cases and corner scenarios
+- Performance optimization techniques
+- Recent research developments in Image Basics
+- Comparison with alternative approaches
+
+## Hands-On Exercise
+
+Dataset: UCI Machine Learning Repository - Computer Vision Dataset
+Task: Implement Image Basics and achieve >85% accuracy on test set
+
+## Homework Assignment
+
+Due: Next week before lecture
+
+1. Implement the Image Basics algorithm from scratch
+2. Compare performance with sklearn/PyTorch implementation
+3. Write a 2-page analysis of results
+4. Prepare questions for next lecture
+
+## Additional Resources
+
+- Paper: "Advances in Image Basics" (2024)
+- Tutorial: https://example.com/computer vision/1
+- Dataset: Kaggle Computer Vision Competition
+
+## Next Lecture Preview
+
+We'll build upon Image Basics to explore more advanced concepts in Computer Vision.
+
+---
+Office Hours: Wednesdays 3-5 PM, Room 302
+Discussion Forum: course-platform.edu/ml1

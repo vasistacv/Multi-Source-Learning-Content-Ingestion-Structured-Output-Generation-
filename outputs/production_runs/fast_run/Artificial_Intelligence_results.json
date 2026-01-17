@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Artificial_Intelligence.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:46:22.325056",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Artificial_Intelligence.txt",
+    "file_type": ".txt",
+    "file_size": 492,
+    "processed_at": "2026-01-17T13:46:20.947636",
+    "content_hash": "5f30b24702c327bfa571e6617c55653c4943a18c6350519a45f1559cd618dcfe",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 67,
+    "metadata": {
+      "line_count": 3,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Intelligence",
+    "Artificial",
+    "Artificial Intelligence",
+    "Learning",
+    "Achieving"
+  ],
+  "key_concepts": [
+    "intelligence",
+    "artificial",
+    "artificial intelligence",
+    "learning",
+    "achieving",
+    "achieving defined",
+    "achieving defined goals",
+    "actions",
+    "actions maximize",
+    "actions maximize chances",
+    "chances",
+    "ai",
+    "ai capability",
+    "ai capability computational",
+    "artificial intelligence ai"
+  ],
+  "entity_count": 2,
+  "word_count": 67,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 17,
+      "edge_count": 80,
+      "density": 0.5882352941176471,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.411764705882353,
+      "average_clustering": 0.9450980392156862,
+      "most_central_concepts": [
+        [
+          "intelligence",
+          1.0
+        ],
+        [
+          "learning",
+          1.0
+        ],
+        [
+          "artificial",
+          0.5625
+        ],
+        [
+          "artificial intelligence",
+          0.5625
+        ],
+        [
+          "ai",
+          0.5625
+        ],
+        [
+          "associated",
+          0.5625
+        ],
+        [
+          "capability",
+          0.5625
+        ],
+        [
+          "computational",
+          0.5625
+        ],
+        [
+          "computational systems",
+          0.5625
+        ],
+        [
+          "decision",
+          0.5625
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "intelligence",
+        "learning"
+      ],
+      [
+        "intelligence",
+        "artificial"
+      ],
+      [
+        "intelligence",
+        "artificial intelligence"
+      ],
+      [
+        "intelligence",
+        "ai"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Artificial_Intelligence"
+  },
+  "rag_document_id": "cd39d998-9ce3-4769-8eaa-8b531937c936",
+  "processing_time_seconds": 4.227273
+}

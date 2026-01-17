@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2306.06371v1_A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:44:34.021509",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2306.06371v1_A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from.pdf",
+    "file_type": ".pdf",
+    "file_size": 1068194,
+    "processed_at": "2026-01-17T13:44:32.604621",
+    "content_hash": "68629326792c652e46d45c252b969be4fff3f3f34edfc96f3461127e5ee08cc1",
+    "language": null,
+    "page_count": 18,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from Natural Language Text",
+      "author": "",
+      "subject": "",
+      "creator": "LaTeX3; cas-sc.cls; hyperref.sty",
+      "producer": "pdfTeX;",
+      "creation_date": "D:20230613010327Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Al",
+    "Et",
+    "Et Al",
+    "Code",
+    "Language"
+  ],
+  "key_concepts": [
+    "al",
+    "et",
+    "et al",
+    "code",
+    "language",
+    "models",
+    "https",
+    "java",
+    "model",
+    "generation",
+    "2022",
+    "methods",
+    "based",
+    "2021",
+    "code generation"
+  ],
+  "entity_count": 1786,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 27,
+      "edge_count": 304,
+      "density": 0.8660968660968661,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1339031339031338,
+      "average_clustering": 0.9178248481019154,
+      "most_central_concepts": [
+        [
+          "et",
+          1.0
+        ],
+        [
+          "al",
+          0.9615384615384616
+        ],
+        [
+          "et al",
+          0.9615384615384616
+        ],
+        [
+          "code",
+          0.9615384615384616
+        ],
+        [
+          "language",
+          0.9615384615384616
+        ],
+        [
+          "model",
+          0.9615384615384616
+        ],
+        [
+          "generation",
+          0.9615384615384616
+        ],
+        [
+          "methods",
+          0.9615384615384616
+        ],
+        [
+          "based",
+          0.9615384615384616
+        ],
+        [
+          "used",
+          0.9615384615384616
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "et",
+        "al"
+      ],
+      [
+        "et",
+        "et al"
+      ],
+      [
+        "et",
+        "code"
+      ],
+      [
+        "et",
+        "language"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2306.06371v1_A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from"
+  },
+  "rag_document_id": "d8137268-a46c-487a-866c-0fa09a15601b",
+  "processing_time_seconds": 10.953888
+}

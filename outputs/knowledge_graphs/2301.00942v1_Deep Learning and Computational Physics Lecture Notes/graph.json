@@ -1,0 +1,971 @@
+{
+  "nodes": [
+    {
+      "id": "cid",
+      "label": "cid",
+      "weight": 128.39409436565902,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.056645779743605816,
+      "eigenvector_centrality": 0.2919527968059203
+    },
+    {
+      "id": "function",
+      "label": "function",
+      "weight": 91.71725362503096,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.15071784093523227,
+      "eigenvector_centrality": 0.32135890148618484
+    },
+    {
+      "id": "network",
+      "label": "network",
+      "weight": 88.96452354266577,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0459243051634356,
+      "eigenvector_centrality": 0.28178662683064915
+    },
+    {
+      "id": "figure",
+      "label": "figure",
+      "weight": 77.78137670971559,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.013267770876466526,
+      "eigenvector_centrality": 0.20824000315064561
+    },
+    {
+      "id": "given",
+      "label": "given",
+      "weight": 62.61571348795593,
+      "degree_centrality": 0.41666666666666663,
+      "betweenness_centrality": 0.008373590982286634,
+      "eigenvector_centrality": 0.15895853935853552
+    },
+    {
+      "id": "output",
+      "label": "output",
+      "weight": 57.29424533767004,
+      "degree_centrality": 0.4583333333333333,
+      "betweenness_centrality": 0.006383974318756928,
+      "eigenvector_centrality": 0.18456541905222598
+    },
+    {
+      "id": "functions",
+      "label": "functions",
+      "weight": 56.435956031051454,
+      "degree_centrality": 0.4583333333333333,
+      "betweenness_centrality": 0.021417199949808646,
+      "eigenvector_centrality": 0.15285645697727238
+    },
+    {
+      "id": "consider",
+      "label": "consider",
+      "weight": 51.88818202654081,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.00999840537884016,
+      "eigenvector_centrality": 0.19818631260547084
+    },
+    {
+      "id": "neural",
+      "label": "neural",
+      "weight": 51.249559223264406,
+      "degree_centrality": 0.41666666666666663,
+      "betweenness_centrality": 0.006780669008929879,
+      "eigenvector_centrality": 0.16081978868983923
+    },
+    {
+      "id": "input",
+      "label": "input",
+      "weight": 50.946306415266264,
+      "degree_centrality": 0.41666666666666663,
+      "betweenness_centrality": 0.016660915573959056,
+      "eigenvector_centrality": 0.15177470085551548
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 49.4902391988294,
+      "degree_centrality": 0.4583333333333333,
+      "betweenness_centrality": 0.009023856578204405,
+      "eigenvector_centrality": 0.1778170901669402
+    },
+    {
+      "id": "note",
+      "label": "note",
+      "weight": 48.55708214004739,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.02331649831649831,
+      "eigenvector_centrality": 0.2503252145766559
+    },
+    {
+      "id": "solution",
+      "label": "solution",
+      "weight": 45.46690630380923,
+      "degree_centrality": 0.125,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.05007759911963636
+    },
+    {
+      "id": "image",
+      "label": "image",
+      "weight": 45.20452837360979,
+      "degree_centrality": 0.20833333333333331,
+      "betweenness_centrality": 0.0017612721417069243,
+      "eigenvector_centrality": 0.0854329070026385
+    },
+    {
+      "id": "using",
+      "label": "using",
+      "weight": 45.203024069688176,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0304549114331723,
+      "eigenvector_centrality": 0.2147634767710951
+    },
+    {
+      "id": "convolution",
+      "label": "convolution",
+      "weight": 44.61286266461931,
+      "degree_centrality": 0.29166666666666663,
+      "betweenness_centrality": 0.001644812514377732,
+      "eigenvector_centrality": 0.10397373491358002
+    },
+    {
+      "id": "networks",
+      "label": "networks",
+      "weight": 44.48061318179408,
+      "degree_centrality": 0.3333333333333333,
+      "betweenness_centrality": 0.0026670692431561994,
+      "eigenvector_centrality": 0.12643506757279818
+    },
+    {
+      "id": "number",
+      "label": "number",
+      "weight": 41.451338047678135,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.005117296149904845,
+      "eigenvector_centrality": 0.20517152689930096
+    },
+    {
+      "id": "layer",
+      "label": "layer",
+      "weight": 38.78689733386018,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0395564077629295,
+      "eigenvector_centrality": 0.23321107641772248
+    },
+    {
+      "id": "used",
+      "label": "used",
+      "weight": 36.468403588260806,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.023892914653784222,
+      "eigenvector_centrality": 0.23434548505302488
+    },
+    {
+      "id": "train",
+      "label": "train",
+      "weight": 34.77171211891811,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.04430105924671142,
+      "eigenvector_centrality": 0.24843528235104625
+    },
+    {
+      "id": "loss",
+      "label": "loss",
+      "weight": 34.22824464646596,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.014205591107765023,
+      "eigenvector_centrality": 0.2273761844573386
+    },
+    {
+      "id": "88",
+      "label": "88",
+      "weight": 19.566362566114744,
+      "degree_centrality": 0.41666666666666663,
+      "betweenness_centrality": 0.0015471746450007322,
+      "eigenvector_centrality": 0.17816378009132205
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "weight": 12.450023257851129,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0006642512077294685,
+      "eigenvector_centrality": 0.11087845858893065
+    },
+    {
+      "id": "107",
+      "label": "107",
+      "weight": 10.31330592124478,
+      "degree_centrality": 0.41666666666666663,
+      "betweenness_centrality": 0.0019083171257084299,
+      "eigenvector_centrality": 0.178845988851023
+    }
+  ],
+  "edges": [
+    {
+      "source": "cid",
+      "target": "88",
+      "weight": 8
+    },
+    {
+      "source": "cid",
+      "target": "image",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "function",
+      "weight": 7
+    },
+    {
+      "source": "cid",
+      "target": "note",
+      "weight": 3
+    },
+    {
+      "source": "cid",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "cid",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "layer",
+      "weight": 6
+    },
+    {
+      "source": "cid",
+      "target": "12",
+      "weight": 4
+    },
+    {
+      "source": "cid",
+      "target": "network",
+      "weight": 9
+    },
+    {
+      "source": "cid",
+      "target": "given",
+      "weight": 3
+    },
+    {
+      "source": "cid",
+      "target": "number",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "107",
+      "weight": 9
+    },
+    {
+      "source": "cid",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "train",
+      "weight": 4
+    },
+    {
+      "source": "cid",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "cid",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "consider",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "figure",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "functions",
+      "weight": 12
+    },
+    {
+      "source": "function",
+      "target": "image",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "convolution",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "given",
+      "weight": 4
+    },
+    {
+      "source": "function",
+      "target": "solution",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "note",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "using",
+      "weight": 5
+    },
+    {
+      "source": "function",
+      "target": "layer",
+      "weight": 5
+    },
+    {
+      "source": "function",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "network",
+      "weight": 14
+    },
+    {
+      "source": "function",
+      "target": "used",
+      "weight": 4
+    },
+    {
+      "source": "function",
+      "target": "neural",
+      "weight": 4
+    },
+    {
+      "source": "function",
+      "target": "networks",
+      "weight": 4
+    },
+    {
+      "source": "function",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "train",
+      "weight": 7
+    },
+    {
+      "source": "function",
+      "target": "consider",
+      "weight": 5
+    },
+    {
+      "source": "function",
+      "target": "loss",
+      "weight": 18
+    },
+    {
+      "source": "function",
+      "target": "figure",
+      "weight": 7
+    },
+    {
+      "source": "function",
+      "target": "107",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "88",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "number",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "neural",
+      "weight": 18
+    },
+    {
+      "source": "network",
+      "target": "networks",
+      "weight": 20
+    },
+    {
+      "source": "network",
+      "target": "train",
+      "weight": 14
+    },
+    {
+      "source": "network",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "layer",
+      "weight": 10
+    },
+    {
+      "source": "network",
+      "target": "input",
+      "weight": 5
+    },
+    {
+      "source": "network",
+      "target": "output",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "consider",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "note",
+      "weight": 4
+    },
+    {
+      "source": "network",
+      "target": "functions",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "used",
+      "weight": 4
+    },
+    {
+      "source": "network",
+      "target": "number",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "network",
+      "target": "88",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "107",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "figure",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "consider",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "given",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "number",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "layer",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "output",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "train",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "loss",
+      "weight": 4
+    },
+    {
+      "source": "figure",
+      "target": "functions",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "107",
+      "weight": 1
+    },
+    {
+      "source": "given",
+      "target": "number",
+      "weight": 2
+    },
+    {
+      "source": "given",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "given",
+      "target": "image",
+      "weight": 2
+    },
+    {
+      "source": "given",
+      "target": "layer",
+      "weight": 3
+    },
+    {
+      "source": "given",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "given",
+      "target": "train",
+      "weight": 1
+    },
+    {
+      "source": "given",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "layer",
+      "weight": 10
+    },
+    {
+      "source": "output",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "output",
+      "target": "note",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "output",
+      "target": "number",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "consider",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "image",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "convolution",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "consider",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "consider",
+      "target": "note",
+      "weight": 1
+    },
+    {
+      "source": "consider",
+      "target": "layer",
+      "weight": 1
+    },
+    {
+      "source": "consider",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "consider",
+      "target": "loss",
+      "weight": 2
+    },
+    {
+      "source": "consider",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "consider",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "networks",
+      "weight": 14
+    },
+    {
+      "source": "neural",
+      "target": "train",
+      "weight": 4
+    },
+    {
+      "source": "neural",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "neural",
+      "target": "layer",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "convolution",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "solution",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "layer",
+      "weight": 5
+    },
+    {
+      "source": "input",
+      "target": "note",
+      "weight": 2
+    },
+    {
+      "source": "input",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "note",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "train",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "number",
+      "weight": 1
+    },
+    {
+      "source": "note",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "note",
+      "target": "layer",
+      "weight": 4
+    },
+    {
+      "source": "note",
+      "target": "number",
+      "weight": 3
+    },
+    {
+      "source": "note",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "note",
+      "target": "train",
+      "weight": 2
+    },
+    {
+      "source": "note",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "note",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "note",
+      "target": "107",
+      "weight": 1
+    },
+    {
+      "source": "note",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "solution",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "image",
+      "target": "train",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "train",
+      "weight": 3
+    },
+    {
+      "source": "using",
+      "target": "layer",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "107",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "convolution",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "convolution",
+      "target": "layer",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "train",
+      "weight": 4
+    },
+    {
+      "source": "networks",
+      "target": "layer",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "number",
+      "target": "layer",
+      "weight": 7
+    },
+    {
+      "source": "number",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "number",
+      "target": "train",
+      "weight": 1
+    },
+    {
+      "source": "number",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "layer",
+      "target": "used",
+      "weight": 3
+    },
+    {
+      "source": "used",
+      "target": "train",
+      "weight": 5
+    },
+    {
+      "source": "used",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "107",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "train",
+      "target": "88",
+      "weight": 3
+    },
+    {
+      "source": "train",
+      "target": "107",
+      "weight": 2
+    },
+    {
+      "source": "train",
+      "target": "loss",
+      "weight": 4
+    },
+    {
+      "source": "train",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "107",
+      "weight": 2
+    },
+    {
+      "source": "loss",
+      "target": "88",
+      "weight": 2
+    },
+    {
+      "source": "88",
+      "target": "107",
+      "weight": 3
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 152,
+    "is_connected": true
+  }
+}

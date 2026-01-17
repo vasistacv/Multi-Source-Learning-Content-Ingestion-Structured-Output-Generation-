@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_004_design_review.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:32:10.117920",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_004_design_review.txt",
+    "file_type": ".txt",
+    "file_size": 1688,
+    "processed_at": "2026-01-17T13:32:09.773424",
+    "content_hash": "830f90d7593eb66c8f89eff3c8b240d57ef40d508dabf84e526defbce6487b99",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 218,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Feedback",
+    "User",
+    "User Feedback",
+    "Wireframes",
+    "Accessibility"
+  ],
+  "key_concepts": [
+    "discussed",
+    "feedback",
+    "user",
+    "user feedback",
+    "bob",
+    "accessibility",
+    "wireframes",
+    "charlie",
+    "ui",
+    "ui ux",
+    "ux",
+    "meeting",
+    "alice",
+    "team",
+    "review"
+  ],
+  "entity_count": 44,
+  "word_count": 218,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 28,
+      "edge_count": 246,
+      "density": 0.6507936507936508,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.3518518518518519,
+      "average_clustering": 0.9093585141566508,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9629629629629629
+        ],
+        [
+          "team",
+          0.8888888888888888
+        ],
+        [
+          "feedback",
+          0.8148148148148148
+        ],
+        [
+          "user",
+          0.8148148148148148
+        ],
+        [
+          "user feedback",
+          0.8148148148148148
+        ],
+        [
+          "wireframes",
+          0.8148148148148148
+        ],
+        [
+          "ui",
+          0.8148148148148148
+        ],
+        [
+          "ux",
+          0.8148148148148148
+        ],
+        [
+          "meeting",
+          0.8148148148148148
+        ],
+        [
+          "review",
+          0.8148148148148148
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "feedback"
+      ],
+      [
+        "discussion",
+        "user"
+      ],
+      [
+        "discussion",
+        "user feedback"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_004_design_review"
+  },
+  "rag_document_id": "6cda227a-5d37-46c8-9ae3-1c7527b4bf97",
+  "processing_time_seconds": 0.766791
+}

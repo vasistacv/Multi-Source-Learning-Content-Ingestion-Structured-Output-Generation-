@@ -1,0 +1,10 @@
+# Natural Language Processing: From Basics to Advanced
+
+## Part I: Foundations
+
+### Chapter 1: Introduction to NLP
+
+Natural Language Processing enables computers to understand, interpret, and generate human language...
+
+[Contains comprehensive NLP concepts including tokenization, POS tagging, named entity recognition,
+sentiment analysis, word embeddings, transformers, BERT, GPT, and practical applications...]

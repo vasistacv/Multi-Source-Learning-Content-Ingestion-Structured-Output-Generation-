@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_019_legal_compliance_review.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:38:57.025810",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_019_legal_compliance_review.txt",
+    "file_type": ".txt",
+    "file_size": 92,
+    "processed_at": "2026-01-17T13:38:55.742753",
+    "content_hash": "da0e99febc204a6800c9a1a687fa583964858387253d510fad009ef219ad93e8",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 12,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 12,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_019_legal_compliance_review"
+  },
+  "rag_document_id": "c83ff278-e427-4c33-805b-6246be86ff2b",
+  "processing_time_seconds": 3.874963
+}

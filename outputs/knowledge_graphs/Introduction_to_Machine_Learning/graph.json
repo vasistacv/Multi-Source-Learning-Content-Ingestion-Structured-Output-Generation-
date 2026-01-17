@@ -1,0 +1,489 @@
+{
+  "nodes": [
+    {
+      "id": "scene",
+      "label": "scene",
+      "weight": 2.101822767825497,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.4761904761904762,
+      "eigenvector_centrality": 0.29643795633775066
+    },
+    {
+      "id": "67s",
+      "label": "67s",
+      "weight": 1.3318949272403704,
+      "degree_centrality": 0.06666666666666667,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.02687340197453591
+    },
+    {
+      "id": "83s",
+      "label": "83s",
+      "weight": 1.3318949272403704,
+      "degree_centrality": 0.06666666666666667,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.02687340197453591
+    },
+    {
+      "id": "42s",
+      "label": "42s",
+      "weight": 0.6779682670319114,
+      "degree_centrality": 0.06666666666666667,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.02687340197453591
+    },
+    {
+      "id": "96s",
+      "label": "96s",
+      "weight": 0.6779682670319114,
+      "degree_centrality": 0.06666666666666667,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.02687340197453591
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "breakdown",
+      "label": "breakdown",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "content",
+      "label": "content",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "content analysis",
+      "label": "content analysis",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "detected",
+      "label": "detected",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "scene breakdown",
+      "label": "scene breakdown",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "scenes",
+      "label": "scenes",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "scenes detected",
+      "label": "scenes detected",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "video",
+      "label": "video",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "video content",
+      "label": "video content",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    },
+    {
+      "id": "video content analysis",
+      "label": "video content analysis",
+      "weight": 0.22528897783534207,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.287502698660466
+    }
+  ],
+  "edges": [
+    {
+      "source": "scene",
+      "target": "analysis",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "scene breakdown",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "83s",
+      "weight": 2
+    },
+    {
+      "source": "scene",
+      "target": "67s",
+      "weight": 2
+    },
+    {
+      "source": "scene",
+      "target": "42s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "96s",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "scene breakdown",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "scene breakdown",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "scene breakdown",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "scene breakdown",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "detected",
+      "target": "scene breakdown",
+      "weight": 1
+    },
+    {
+      "source": "detected",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "detected",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "detected",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "detected",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "detected",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "scene breakdown",
+      "target": "scenes",
+      "weight": 1
+    },
+    {
+      "source": "scene breakdown",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "scene breakdown",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "scene breakdown",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "scene breakdown",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "scenes",
+      "target": "scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "scenes",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "scenes",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "scenes",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "scenes detected",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "scenes detected",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "scenes detected",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "video content",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "video content analysis",
+      "weight": 1
+    },
+    {
+      "source": "video content",
+      "target": "video content analysis",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 16,
+    "edge_count": 70,
+    "is_connected": true
+  }
+}

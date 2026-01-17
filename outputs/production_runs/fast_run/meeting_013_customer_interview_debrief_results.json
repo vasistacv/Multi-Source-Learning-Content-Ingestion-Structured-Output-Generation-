@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_013_customer_interview_debrief.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:36:45.978119",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_013_customer_interview_debrief.txt",
+    "file_type": ".txt",
+    "file_size": 95,
+    "processed_at": "2026-01-17T13:36:44.738857",
+    "content_hash": "8f86acce7f93eecd8eab3266e5f515011f37f7ce5e474b35a91d430215580106",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 12,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 12,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_013_customer_interview_debrief"
+  },
+  "rag_document_id": "c85dd9f6-4f68-4a49-8818-e7cbb18a2484",
+  "processing_time_seconds": 3.868039
+}

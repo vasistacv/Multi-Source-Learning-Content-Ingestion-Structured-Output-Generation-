@@ -1,0 +1,1343 @@
+{
+  "nodes": [
+    {
+      "id": "decision",
+      "label": "decision",
+      "weight": 2.566565454870673,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "decision trees",
+      "label": "decision trees",
+      "weight": 2.566565454870673,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "trees",
+      "label": "trees",
+      "weight": 2.566565454870673,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1163405346569633,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9060286852773802,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.279835473252459,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.259807057380538,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.259807057380538,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "algorithm",
+      "label": "algorithm",
+      "weight": 1.1510807080310705,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0039728451334262,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.9415744532714192,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8860195851149455,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "cart",
+      "label": "cart",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "cart algorithm",
+      "label": "cart algorithm",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "gini",
+      "label": "gini",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "gini impurity",
+      "label": "gini impurity",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "impurity",
+      "label": "impurity",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "pruning",
+      "label": "pruning",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "tree",
+      "label": "tree",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "tree pruning",
+      "label": "tree pruning",
+      "weight": 0.7045170709491001,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5188236707368059,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.507737964467375,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4851045799726603,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "machine learning dataset",
+      "label": "machine learning dataset",
+      "weight": 0.3451868433464308,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    }
+  ],
+  "edges": [
+    {
+      "source": "decision",
+      "target": "decision trees",
+      "weight": 8
+    },
+    {
+      "source": "decision",
+      "target": "trees",
+      "weight": 8
+    },
+    {
+      "source": "decision",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "decision",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "decision",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "decision",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "decision",
+      "target": "tree",
+      "weight": 8
+    },
+    {
+      "source": "decision",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "algorithm",
+      "weight": 4
+    },
+    {
+      "source": "decision",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "decision",
+      "target": "cart",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "cart algorithm",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "gini",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "gini impurity",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "impurity",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "pruning",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "tree pruning",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "decision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "decision trees",
+      "target": "trees",
+      "weight": 8
+    },
+    {
+      "source": "decision trees",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "decision trees",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "decision trees",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "decision trees",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "decision trees",
+      "target": "tree",
+      "weight": 8
+    },
+    {
+      "source": "decision trees",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "algorithm",
+      "weight": 4
+    },
+    {
+      "source": "decision trees",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "decision trees",
+      "target": "cart",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "cart algorithm",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "gini",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "gini impurity",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "impurity",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "pruning",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "tree pruning",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "decision trees",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "decision trees",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "trees",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "trees",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "trees",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "trees",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "trees",
+      "target": "tree",
+      "weight": 8
+    },
+    {
+      "source": "trees",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "algorithm",
+      "weight": 4
+    },
+    {
+      "source": "trees",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "trees",
+      "target": "cart",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "cart algorithm",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "gini",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "gini impurity",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "impurity",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "pruning",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "tree pruning",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "trees",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "trees",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "tree",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "algorithm",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "cart",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "cart algorithm",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gini",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gini impurity",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "impurity",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "pruning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "tree pruning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "algorithm",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "cart",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "cart algorithm",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gini",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gini impurity",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "impurity",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "pruning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "tree",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "tree pruning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "machine learning",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "algorithm",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "algorithm",
+      "target": "cart",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "cart algorithm",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "gini",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "gini impurity",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "impurity",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "pruning",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "tree",
+      "weight": 5
+    },
+    {
+      "source": "algorithm",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "algorithm",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "algorithm",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "cart",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "cart algorithm",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gini",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gini impurity",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "impurity",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "pruning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "tree",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "tree pruning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "cart",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "cart algorithm",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gini",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gini impurity",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "impurity",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "pruning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "tree",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "tree pruning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "tree",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "cart",
+      "target": "cart algorithm",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "gini",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "gini impurity",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "impurity",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "pruning",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "cart",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "cart",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "cart algorithm",
+      "target": "gini",
+      "weight": 3
+    },
+    {
+      "source": "cart algorithm",
+      "target": "gini impurity",
+      "weight": 3
+    },
+    {
+      "source": "cart algorithm",
+      "target": "impurity",
+      "weight": 3
+    },
+    {
+      "source": "cart algorithm",
+      "target": "pruning",
+      "weight": 3
+    },
+    {
+      "source": "cart algorithm",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "cart algorithm",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "cart algorithm",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "cart algorithm",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gini",
+      "target": "gini impurity",
+      "weight": 3
+    },
+    {
+      "source": "gini",
+      "target": "impurity",
+      "weight": 3
+    },
+    {
+      "source": "gini",
+      "target": "pruning",
+      "weight": 3
+    },
+    {
+      "source": "gini",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "gini",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "gini",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gini",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gini impurity",
+      "target": "impurity",
+      "weight": 3
+    },
+    {
+      "source": "gini impurity",
+      "target": "pruning",
+      "weight": 3
+    },
+    {
+      "source": "gini impurity",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "gini impurity",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "gini impurity",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gini impurity",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "impurity",
+      "target": "pruning",
+      "weight": 3
+    },
+    {
+      "source": "impurity",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "impurity",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "impurity",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "impurity",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "pruning",
+      "target": "tree",
+      "weight": 3
+    },
+    {
+      "source": "pruning",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "pruning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "pruning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "tree",
+      "target": "tree pruning",
+      "weight": 3
+    },
+    {
+      "source": "tree",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "tree",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "tree",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "tree",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "tree pruning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "tree pruning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "machine learning dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 228,
+    "is_connected": true
+  }
+}

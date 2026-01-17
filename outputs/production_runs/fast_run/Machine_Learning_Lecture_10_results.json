@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_10.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:51:20.383734",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_10.txt",
+    "file_type": ".txt",
+    "file_size": 2519,
+    "processed_at": "2026-01-17T13:51:18.995181",
+    "content_hash": "c4d2f6fa54e4fa7a7fabffee02d92445ec7cee66fbadbc52367e1892db5ed407",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Evaluation",
+    "Model",
+    "Model Evaluation",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "evaluation",
+    "model",
+    "model evaluation",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "implementation",
+    "implement",
+    "curves precision recall",
+    "precision",
+    "precision recall",
+    "precision recall tradeoffs",
+    "recall"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 21,
+      "edge_count": 170,
+      "density": 0.8095238095238095,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1904761904761905,
+      "average_clustering": 0.908703382387593,
+      "most_central_concepts": [
+        [
+          "evaluation",
+          1.0
+        ],
+        [
+          "model",
+          1.0
+        ],
+        [
+          "model evaluation",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "real",
+          0.9500000000000001
+        ],
+        [
+          "implementation",
+          0.9500000000000001
+        ],
+        [
+          "implement",
+          0.9500000000000001
+        ],
+        [
+          "roc",
+          0.9500000000000001
+        ],
+        [
+          "applications",
+          0.9500000000000001
+        ],
+        [
+          "cross",
+          0.75
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "evaluation",
+        "model"
+      ],
+      [
+        "evaluation",
+        "model evaluation"
+      ],
+      [
+        "evaluation",
+        "lecture"
+      ],
+      [
+        "evaluation",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_10"
+  },
+  "rag_document_id": "57f1bb27-a3ff-4ad1-b82c-75062ab12ca4",
+  "processing_time_seconds": 4.235362
+}

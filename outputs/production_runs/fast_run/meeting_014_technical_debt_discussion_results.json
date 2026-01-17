@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_014_technical_debt_discussion.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:37:18.889038",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_014_technical_debt_discussion.txt",
+    "file_type": ".txt",
+    "file_size": 88,
+    "processed_at": "2026-01-17T13:37:17.540496",
+    "content_hash": "4b04fd56a17011feb7bb5fb4ac782445b68b97be254df334447c29a6f83de20e",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 12,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 12,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_014_technical_debt_discussion"
+  },
+  "rag_document_id": "33833722-4a73-427c-b752-f23d8743727d",
+  "processing_time_seconds": 3.927835
+}

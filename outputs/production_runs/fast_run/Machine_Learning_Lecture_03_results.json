@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_03.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:50:09.712897",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_03.txt",
+    "file_type": ".txt",
+    "file_size": 2453,
+    "processed_at": "2026-01-17T13:50:08.328817",
+    "content_hash": "192b8b83c041c76e48a71186654268d775a29e625d313d1878189ec5f544e7ed",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 321,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Decision",
+    "Decision Trees",
+    "Trees",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "decision",
+    "decision trees",
+    "trees",
+    "lecture",
+    "learning",
+    "real",
+    "algorithm",
+    "implementation",
+    "machine",
+    "machine learning",
+    "implement",
+    "algorithm gini",
+    "algorithm gini impurity",
+    "gini",
+    "impurity"
+  ],
+  "entity_count": 72,
+  "word_count": 321,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 228,
+      "density": 0.8260869565217391,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.173913043478261,
+      "average_clustering": 0.9209486166007905,
+      "most_central_concepts": [
+        [
+          "decision",
+          1.0
+        ],
+        [
+          "decision trees",
+          1.0
+        ],
+        [
+          "trees",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "algorithm",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "tree",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "decision",
+        "decision trees"
+      ],
+      [
+        "decision",
+        "trees"
+      ],
+      [
+        "decision",
+        "lecture"
+      ],
+      [
+        "decision",
+        "implementation"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_03"
+  },
+  "rag_document_id": "f2b7fe2b-d78c-41bf-a596-c8cb4f0c5ede",
+  "processing_time_seconds": 4.333981
+}

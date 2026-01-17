@@ -1,0 +1,1105 @@
+{
+  "nodes": [
+    {
+      "id": "preprocessing",
+      "label": "preprocessing",
+      "weight": 2.635254223469403,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.03306878306878306,
+      "eigenvector_centrality": 0.25205259123372276
+    },
+    {
+      "id": "text",
+      "label": "text",
+      "weight": 2.635254223469403,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.03306878306878306,
+      "eigenvector_centrality": 0.25205259123372276
+    },
+    {
+      "id": "text preprocessing",
+      "label": "text preprocessing",
+      "weight": 2.635254223469403,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.03306878306878306,
+      "eigenvector_centrality": 0.25205259123372276
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.442721957906055,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.03306878306878306,
+      "eigenvector_centrality": 0.25205259123372276
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "weight": 2.0,
+      "degree_centrality": 0.09090909090909091,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.029052043271730464
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 1.2746451834780532,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.00865800865800866,
+      "eigenvector_centrality": 0.17470919946949992
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0674008284966843,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.06012506012506015,
+      "eigenvector_centrality": 0.2498705526998975
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.012370102886873,
+      "degree_centrality": 0.9090909090909092,
+      "betweenness_centrality": 0.01683501683501683,
+      "eigenvector_centrality": 0.2482744225636196
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.002350636943337,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.06012506012506015,
+      "eigenvector_centrality": 0.2498705526998975
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8937237763671108,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17093103079939675
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8547287090649422,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17093103079939675
+    },
+    {
+      "id": "01",
+      "label": "01",
+      "weight": 0.8349670366818983,
+      "degree_centrality": 0.2272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.06876818923668061
+    },
+    {
+      "id": "lemmatization",
+      "label": "lemmatization",
+      "weight": 0.754191552703544,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "stemming",
+      "label": "stemming",
+      "weight": 0.754191552703544,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "stop",
+      "label": "stop",
+      "weight": 0.754191552703544,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "stop words",
+      "label": "stop words",
+      "weight": 0.754191552703544,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "tokenization",
+      "label": "tokenization",
+      "weight": 0.754191552703544,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "words",
+      "label": "words",
+      "weight": 0.754191552703544,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.601302265140377,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17093103079939675
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5359374594406476,
+      "degree_centrality": 0.9090909090909092,
+      "betweenness_centrality": 0.01683501683501683,
+      "eigenvector_centrality": 0.2482744225636196
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5343275468864592,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20111146642363617
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.45368033726198215,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17093103079939675
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.38831553156225285,
+      "degree_centrality": 0.9090909090909092,
+      "betweenness_centrality": 0.01683501683501683,
+      "eigenvector_centrality": 0.2482744225636196
+    }
+  ],
+  "edges": [
+    {
+      "source": "preprocessing",
+      "target": "text",
+      "weight": 8
+    },
+    {
+      "source": "preprocessing",
+      "target": "text preprocessing",
+      "weight": 8
+    },
+    {
+      "source": "preprocessing",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "preprocessing",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "preprocessing",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "preprocessing",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "preprocessing",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "lemmatization",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "stemming",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "stop",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "stop words",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "tokenization",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "words",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "preprocessing",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "preprocessing",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "preprocessing",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "text preprocessing",
+      "weight": 8
+    },
+    {
+      "source": "text",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "text",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "text",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "text",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "lemmatization",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "stemming",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "stop",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "stop words",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "tokenization",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "words",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "text preprocessing",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "text preprocessing",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "text preprocessing",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "text preprocessing",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "lemmatization",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "stemming",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "stop",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "stop words",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "tokenization",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "words",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "text preprocessing",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "text preprocessing",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "text preprocessing",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "lemmatization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "stemming",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "stop",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "stop words",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "tokenization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "words",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "lemmatization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "stemming",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "stop",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "stop words",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "tokenization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "words",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "lemmatization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "stemming",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "stop",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "stop words",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "tokenization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "words",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "lemmatization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "stemming",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "stop",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "stop words",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "tokenization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "words",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "lemmatization",
+      "target": "stemming",
+      "weight": 3
+    },
+    {
+      "source": "lemmatization",
+      "target": "stop",
+      "weight": 3
+    },
+    {
+      "source": "lemmatization",
+      "target": "stop words",
+      "weight": 3
+    },
+    {
+      "source": "lemmatization",
+      "target": "tokenization",
+      "weight": 3
+    },
+    {
+      "source": "lemmatization",
+      "target": "words",
+      "weight": 3
+    },
+    {
+      "source": "lemmatization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "lemmatization",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "lemmatization",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "stemming",
+      "target": "stop",
+      "weight": 3
+    },
+    {
+      "source": "stemming",
+      "target": "stop words",
+      "weight": 3
+    },
+    {
+      "source": "stemming",
+      "target": "tokenization",
+      "weight": 3
+    },
+    {
+      "source": "stemming",
+      "target": "words",
+      "weight": 3
+    },
+    {
+      "source": "stemming",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "stemming",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "stemming",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "stop",
+      "target": "stop words",
+      "weight": 3
+    },
+    {
+      "source": "stop",
+      "target": "tokenization",
+      "weight": 3
+    },
+    {
+      "source": "stop",
+      "target": "words",
+      "weight": 3
+    },
+    {
+      "source": "stop",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "stop",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "stop",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "stop words",
+      "target": "tokenization",
+      "weight": 3
+    },
+    {
+      "source": "stop words",
+      "target": "words",
+      "weight": 3
+    },
+    {
+      "source": "stop words",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "stop words",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "stop words",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "tokenization",
+      "target": "words",
+      "weight": 3
+    },
+    {
+      "source": "tokenization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "tokenization",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "tokenization",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "words",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "words",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "words",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "world",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 182,
+    "is_connected": true
+  }
+}

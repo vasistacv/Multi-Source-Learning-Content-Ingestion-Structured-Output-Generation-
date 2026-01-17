@@ -1,0 +1,788 @@
+{
+  "nodes": [
+    {
+      "id": "evidence",
+      "label": "evidence",
+      "weight": 42.54800023957801,
+      "degree_centrality": 0.9444444444444444,
+      "betweenness_centrality": 0.03681452897139172,
+      "eigenvector_centrality": 0.27595711895400005
+    },
+    {
+      "id": "cid",
+      "label": "cid",
+      "weight": 29.121729866324166,
+      "degree_centrality": 0.8888888888888888,
+      "betweenness_centrality": 0.02379726301294929,
+      "eigenvector_centrality": 0.26445379934924396
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 27.67613701544409,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04909277360257753,
+      "eigenvector_centrality": 0.2857633421178109
+    },
+    {
+      "id": "gt",
+      "label": "gt",
+      "weight": 23.87491965505195,
+      "degree_centrality": 0.9444444444444444,
+      "betweenness_centrality": 0.03681452897139172,
+      "eigenvector_centrality": 0.27595711895400005
+    },
+    {
+      "id": "zero",
+      "label": "zero",
+      "weight": 22.744017268782883,
+      "degree_centrality": 0.7222222222222222,
+      "betweenness_centrality": 0.008767013668974455,
+      "eigenvector_centrality": 0.225872451390859
+    },
+    {
+      "id": "evidential",
+      "label": "evidential",
+      "weight": 22.26169404055072,
+      "degree_centrality": 0.9444444444444444,
+      "betweenness_centrality": 0.02676161891848167,
+      "eigenvector_centrality": 0.2796103731833121
+    },
+    {
+      "id": "exp",
+      "label": "exp",
+      "weight": 18.5798773460714,
+      "degree_centrality": 0.8888888888888888,
+      "betweenness_centrality": 0.019242685419156004,
+      "eigenvector_centrality": 0.26846889233102117
+    },
+    {
+      "id": "softplus",
+      "label": "softplus",
+      "weight": 17.728379067212675,
+      "degree_centrality": 0.7222222222222222,
+      "betweenness_centrality": 0.00903149138443256,
+      "eigenvector_centrality": 0.22578059147839682
+    },
+    {
+      "id": "relu",
+      "label": "relu",
+      "weight": 15.77270982225822,
+      "degree_centrality": 0.611111111111111,
+      "betweenness_centrality": 0.009266876913935736,
+      "eigenvector_centrality": 0.19140959726368265
+    },
+    {
+      "id": "learntoaccumulateevidencefromalltrainingsamples",
+      "label": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 12.617144127855763,
+      "degree_centrality": 0.611111111111111,
+      "betweenness_centrality": 0.0016911193381781617,
+      "eigenvector_centrality": 0.20141580608967924
+    },
+    {
+      "id": "theoryandpractice",
+      "label": "theoryandpractice",
+      "weight": 12.617144127855763,
+      "degree_centrality": 0.611111111111111,
+      "betweenness_centrality": 0.0016911193381781617,
+      "eigenvector_centrality": 0.20141580608967924
+    },
+    {
+      "id": "21",
+      "label": "21",
+      "weight": 12.532640568236447,
+      "degree_centrality": 0.7222222222222222,
+      "betweenness_centrality": 0.008761518075243566,
+      "eigenvector_centrality": 0.22537795897010993
+    },
+    {
+      "id": "88",
+      "label": "88",
+      "weight": 10.160938382708775,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.01790437231613702,
+      "eigenvector_centrality": 0.2515980571311221
+    },
+    {
+      "id": "log",
+      "label": "log",
+      "weight": 7.512038351083205,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.030002713336046673,
+      "eigenvector_centrality": 0.2446027513294977
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "weight": 7.191088462431425,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0066708890238302,
+      "eigenvector_centrality": 0.21368769841109161
+    },
+    {
+      "id": "gt gt",
+      "label": "gt gt",
+      "weight": 6.472079965635102,
+      "degree_centrality": 0.2777777777777778,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.09165557423455968
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "weight": 4.608950136994585,
+      "degree_centrality": 0.4444444444444444,
+      "betweenness_centrality": 0.0011883541295306002,
+      "eigenvector_centrality": 0.14607867728414356
+    },
+    {
+      "id": "80",
+      "label": "80",
+      "weight": 4.399036382382592,
+      "degree_centrality": 0.7222222222222222,
+      "betweenness_centrality": 0.01261006604143859,
+      "eigenvector_centrality": 0.22180327893789953
+    },
+    {
+      "id": "s2",
+      "label": "s2",
+      "weight": 2.799512251702931,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0005446623093681917,
+      "eigenvector_centrality": 0.16596878871290338
+    }
+  ],
+  "edges": [
+    {
+      "source": "evidence",
+      "target": "model",
+      "weight": 66
+    },
+    {
+      "source": "evidence",
+      "target": "gt",
+      "weight": 20
+    },
+    {
+      "source": "evidence",
+      "target": "evidential",
+      "weight": 45
+    },
+    {
+      "source": "evidence",
+      "target": "exp",
+      "weight": 20
+    },
+    {
+      "source": "evidence",
+      "target": "zero",
+      "weight": 53
+    },
+    {
+      "source": "evidence",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 13
+    },
+    {
+      "source": "evidence",
+      "target": "theoryandpractice",
+      "weight": 13
+    },
+    {
+      "source": "evidence",
+      "target": "relu",
+      "weight": 14
+    },
+    {
+      "source": "evidence",
+      "target": "16",
+      "weight": 4
+    },
+    {
+      "source": "evidence",
+      "target": "21",
+      "weight": 7
+    },
+    {
+      "source": "evidence",
+      "target": "cid",
+      "weight": 3
+    },
+    {
+      "source": "evidence",
+      "target": "88",
+      "weight": 3
+    },
+    {
+      "source": "evidence",
+      "target": "log",
+      "weight": 12
+    },
+    {
+      "source": "evidence",
+      "target": "softplus",
+      "weight": 10
+    },
+    {
+      "source": "evidence",
+      "target": "80",
+      "weight": 1
+    },
+    {
+      "source": "evidence",
+      "target": "s2",
+      "weight": 2
+    },
+    {
+      "source": "evidence",
+      "target": "gt gt",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "model",
+      "weight": 5
+    },
+    {
+      "source": "cid",
+      "target": "evidential",
+      "weight": 4
+    },
+    {
+      "source": "cid",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "theoryandpractice",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "88",
+      "weight": 8
+    },
+    {
+      "source": "cid",
+      "target": "log",
+      "weight": 4
+    },
+    {
+      "source": "cid",
+      "target": "gt",
+      "weight": 5
+    },
+    {
+      "source": "cid",
+      "target": "zero",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "21",
+      "weight": 3
+    },
+    {
+      "source": "cid",
+      "target": "80",
+      "weight": 3
+    },
+    {
+      "source": "cid",
+      "target": "s2",
+      "weight": 3
+    },
+    {
+      "source": "cid",
+      "target": "relu",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "exp",
+      "weight": 2
+    },
+    {
+      "source": "cid",
+      "target": "17",
+      "weight": 4
+    },
+    {
+      "source": "cid",
+      "target": "16",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "log",
+      "weight": 14
+    },
+    {
+      "source": "model",
+      "target": "evidential",
+      "weight": 91
+    },
+    {
+      "source": "model",
+      "target": "16",
+      "weight": 8
+    },
+    {
+      "source": "model",
+      "target": "exp",
+      "weight": 32
+    },
+    {
+      "source": "model",
+      "target": "gt",
+      "weight": 24
+    },
+    {
+      "source": "model",
+      "target": "zero",
+      "weight": 39
+    },
+    {
+      "source": "model",
+      "target": "relu",
+      "weight": 14
+    },
+    {
+      "source": "model",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "theoryandpractice",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "21",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "88",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "80",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "s2",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "softplus",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "gt gt",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "17",
+      "weight": 2
+    },
+    {
+      "source": "gt",
+      "target": "evidential",
+      "weight": 19
+    },
+    {
+      "source": "gt",
+      "target": "16",
+      "weight": 1
+    },
+    {
+      "source": "gt",
+      "target": "exp",
+      "weight": 7
+    },
+    {
+      "source": "gt",
+      "target": "zero",
+      "weight": 9
+    },
+    {
+      "source": "gt",
+      "target": "88",
+      "weight": 3
+    },
+    {
+      "source": "gt",
+      "target": "softplus",
+      "weight": 2
+    },
+    {
+      "source": "gt",
+      "target": "relu",
+      "weight": 5
+    },
+    {
+      "source": "gt",
+      "target": "log",
+      "weight": 6
+    },
+    {
+      "source": "gt",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 1
+    },
+    {
+      "source": "gt",
+      "target": "theoryandpractice",
+      "weight": 1
+    },
+    {
+      "source": "gt",
+      "target": "21",
+      "weight": 2
+    },
+    {
+      "source": "gt",
+      "target": "80",
+      "weight": 2
+    },
+    {
+      "source": "gt",
+      "target": "s2",
+      "weight": 3
+    },
+    {
+      "source": "gt",
+      "target": "gt gt",
+      "weight": 2
+    },
+    {
+      "source": "zero",
+      "target": "evidential",
+      "weight": 24
+    },
+    {
+      "source": "zero",
+      "target": "relu",
+      "weight": 4
+    },
+    {
+      "source": "zero",
+      "target": "16",
+      "weight": 2
+    },
+    {
+      "source": "zero",
+      "target": "21",
+      "weight": 3
+    },
+    {
+      "source": "zero",
+      "target": "80",
+      "weight": 1
+    },
+    {
+      "source": "zero",
+      "target": "s2",
+      "weight": 2
+    },
+    {
+      "source": "zero",
+      "target": "log",
+      "weight": 6
+    },
+    {
+      "source": "zero",
+      "target": "exp",
+      "weight": 9
+    },
+    {
+      "source": "zero",
+      "target": "softplus",
+      "weight": 2
+    },
+    {
+      "source": "evidential",
+      "target": "16",
+      "weight": 6
+    },
+    {
+      "source": "evidential",
+      "target": "exp",
+      "weight": 21
+    },
+    {
+      "source": "evidential",
+      "target": "relu",
+      "weight": 8
+    },
+    {
+      "source": "evidential",
+      "target": "log",
+      "weight": 9
+    },
+    {
+      "source": "evidential",
+      "target": "21",
+      "weight": 6
+    },
+    {
+      "source": "evidential",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 5
+    },
+    {
+      "source": "evidential",
+      "target": "theoryandpractice",
+      "weight": 5
+    },
+    {
+      "source": "evidential",
+      "target": "88",
+      "weight": 4
+    },
+    {
+      "source": "evidential",
+      "target": "softplus",
+      "weight": 3
+    },
+    {
+      "source": "evidential",
+      "target": "80",
+      "weight": 2
+    },
+    {
+      "source": "evidential",
+      "target": "17",
+      "weight": 1
+    },
+    {
+      "source": "evidential",
+      "target": "s2",
+      "weight": 1
+    },
+    {
+      "source": "exp",
+      "target": "16",
+      "weight": 3
+    },
+    {
+      "source": "exp",
+      "target": "relu",
+      "weight": 7
+    },
+    {
+      "source": "exp",
+      "target": "log",
+      "weight": 10
+    },
+    {
+      "source": "exp",
+      "target": "softplus",
+      "weight": 9
+    },
+    {
+      "source": "exp",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 2
+    },
+    {
+      "source": "exp",
+      "target": "theoryandpractice",
+      "weight": 2
+    },
+    {
+      "source": "exp",
+      "target": "21",
+      "weight": 1
+    },
+    {
+      "source": "exp",
+      "target": "17",
+      "weight": 3
+    },
+    {
+      "source": "exp",
+      "target": "88",
+      "weight": 2
+    },
+    {
+      "source": "exp",
+      "target": "80",
+      "weight": 2
+    },
+    {
+      "source": "softplus",
+      "target": "relu",
+      "weight": 10
+    },
+    {
+      "source": "softplus",
+      "target": "log",
+      "weight": 4
+    },
+    {
+      "source": "softplus",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "softplus",
+      "target": "16",
+      "weight": 1
+    },
+    {
+      "source": "softplus",
+      "target": "learntoaccumulateevidencefromalltrainingsamples",
+      "weight": 1
+    },
+    {
+      "source": "softplus",
+      "target": "theoryandpractice",
+      "weight": 1
+    },
+    {
+      "source": "softplus",
+      "target": "80",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "log",
+      "weight": 6
+    },
+    {
+      "source": "relu",
+      "target": "gt gt",
+      "weight": 1
+    },
+    {
+      "source": "relu",
+      "target": "80",
+      "weight": 1
+    },
+    {
+      "source": "learntoaccumulateevidencefromalltrainingsamples",
+      "target": "theoryandpractice",
+      "weight": 13
+    },
+    {
+      "source": "learntoaccumulateevidencefromalltrainingsamples",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "learntoaccumulateevidencefromalltrainingsamples",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "learntoaccumulateevidencefromalltrainingsamples",
+      "target": "21",
+      "weight": 2
+    },
+    {
+      "source": "theoryandpractice",
+      "target": "88",
+      "weight": 1
+    },
+    {
+      "source": "theoryandpractice",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "theoryandpractice",
+      "target": "21",
+      "weight": 2
+    },
+    {
+      "source": "21",
+      "target": "80",
+      "weight": 2
+    },
+    {
+      "source": "21",
+      "target": "s2",
+      "weight": 3
+    },
+    {
+      "source": "21",
+      "target": "16",
+      "weight": 1
+    },
+    {
+      "source": "21",
+      "target": "88",
+      "weight": 3
+    },
+    {
+      "source": "88",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "88",
+      "target": "16",
+      "weight": 4
+    },
+    {
+      "source": "88",
+      "target": "80",
+      "weight": 2
+    },
+    {
+      "source": "88",
+      "target": "17",
+      "weight": 3
+    },
+    {
+      "source": "88",
+      "target": "s2",
+      "weight": 2
+    },
+    {
+      "source": "log",
+      "target": "gt gt",
+      "weight": 1
+    },
+    {
+      "source": "log",
+      "target": "16",
+      "weight": 2
+    },
+    {
+      "source": "log",
+      "target": "17",
+      "weight": 2
+    },
+    {
+      "source": "16",
+      "target": "17",
+      "weight": 3
+    },
+    {
+      "source": "17",
+      "target": "80",
+      "weight": 1
+    },
+    {
+      "source": "80",
+      "target": "s2",
+      "weight": 2
+    }
+  ],
+  "metadata": {
+    "node_count": 19,
+    "edge_count": 125,
+    "is_connected": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Educational_Technology.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:46:36.717711",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Educational_Technology.txt",
+    "file_type": ".txt",
+    "file_size": 927,
+    "processed_at": "2026-01-17T13:46:35.468864",
+    "content_hash": "362ee0a60f0f6d95308ec9a0233deb337b758e020b515d60e89c5a7a92af349b",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 133,
+    "metadata": {
+      "line_count": 3,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Edtech",
+    "Educational",
+    "Companies",
+    "Educational Technology",
+    "Technology"
+  ],
+  "key_concepts": [
+    "edtech",
+    "educational",
+    "companies",
+    "educational technology",
+    "technology",
+    "industry",
+    "market",
+    "hardware",
+    "hardware software",
+    "software",
+    "abbreviation edtech",
+    "abbreviation edtech refers",
+    "2019",
+    "2019 argue edtech",
+    "age tanner mirrlees"
+  ],
+  "entity_count": 12,
+  "word_count": 133,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 16,
+      "edge_count": 80,
+      "density": 0.6666666666666666,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.3333333333333333,
+      "average_clustering": 0.8792561605061605,
+      "most_central_concepts": [
+        [
+          "educational",
+          1.0
+        ],
+        [
+          "companies",
+          0.9333333333333333
+        ],
+        [
+          "hardware",
+          0.8666666666666667
+        ],
+        [
+          "software",
+          0.8666666666666667
+        ],
+        [
+          "edtech",
+          0.8
+        ],
+        [
+          "industry",
+          0.8
+        ],
+        [
+          "market",
+          0.8
+        ],
+        [
+          "2019",
+          0.6666666666666666
+        ],
+        [
+          "alvi",
+          0.6666666666666666
+        ],
+        [
+          "argue",
+          0.6666666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "educational",
+        "companies"
+      ],
+      [
+        "educational",
+        "hardware"
+      ],
+      [
+        "educational",
+        "software"
+      ],
+      [
+        "educational",
+        "edtech"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Educational_Technology"
+  },
+  "rag_document_id": "8a33af57-55c0-469d-a442-db1bb7755653",
+  "processing_time_seconds": 4.11853
+}

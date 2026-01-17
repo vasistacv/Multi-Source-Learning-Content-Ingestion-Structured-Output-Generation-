@@ -1,0 +1,1042 @@
+{
+  "nodes": [
+    {
+      "id": "backpropagation",
+      "label": "backpropagation",
+      "weight": 3.4565523591591334,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04761904761904762,
+      "eigenvector_centrality": 0.26394708701695463
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.364103495735528,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04761904761904762,
+      "eigenvector_centrality": 0.26394708701695463
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 2.004520447629843,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13960889280115665
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3552747669239937,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04761904761904762,
+      "eigenvector_centrality": 0.26394708701695463
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.3368495073566047,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04761904761904762,
+      "eigenvector_centrality": 0.26394708701695463
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.2348481322836333,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04761904761904762,
+      "eigenvector_centrality": 0.26394708701695463
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.2181542767294307,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13960889280115665
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.2181542767294307,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13960889280115665
+    },
+    {
+      "id": "chain",
+      "label": "chain",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "chain rule",
+      "label": "chain rule",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "computation",
+      "label": "computation",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "gradient",
+      "label": "gradient",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "gradient computation",
+      "label": "gradient computation",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "rule",
+      "label": "rule",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "updates",
+      "label": "updates",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "weight",
+      "label": "weight",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "weight updates",
+      "label": "weight updates",
+      "weight": 0.6997370291750988,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5665300208556481,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04761904761904762,
+      "eigenvector_centrality": 0.26394708701695463
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5451881660181115,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13960889280115665
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5039555207071664,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.21564965889993798
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.38792726563516006,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13960889280115665
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.37676341233980915,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13960889280115665
+    }
+  ],
+  "edges": [
+    {
+      "source": "backpropagation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "backpropagation",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "backpropagation",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "backpropagation",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "backpropagation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "backpropagation",
+      "target": "chain",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "chain rule",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "computation",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "gradient computation",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "rule",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "updates",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "weight",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "weight updates",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "backpropagation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "backpropagation",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "chain",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "chain rule",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "computation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gradient computation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "rule",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "updates",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "weight",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "weight updates",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "chain",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "chain rule",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "computation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gradient computation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "rule",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "updates",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "weight",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "weight updates",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "chain",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "chain rule",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "computation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gradient computation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "rule",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "updates",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "weight",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "weight updates",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "chain",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "chain rule",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "computation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gradient computation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "rule",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "updates",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "weight",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "weight updates",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "chain",
+      "target": "chain rule",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "computation",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "gradient",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "gradient computation",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "rule",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "updates",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "chain",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "chain",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "chain rule",
+      "target": "computation",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "gradient",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "gradient computation",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "rule",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "updates",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "chain rule",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "chain rule",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "computation",
+      "target": "gradient",
+      "weight": 3
+    },
+    {
+      "source": "computation",
+      "target": "gradient computation",
+      "weight": 3
+    },
+    {
+      "source": "computation",
+      "target": "rule",
+      "weight": 3
+    },
+    {
+      "source": "computation",
+      "target": "updates",
+      "weight": 3
+    },
+    {
+      "source": "computation",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "computation",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "computation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gradient",
+      "target": "gradient computation",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "rule",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "updates",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "gradient",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gradient",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gradient computation",
+      "target": "rule",
+      "weight": 3
+    },
+    {
+      "source": "gradient computation",
+      "target": "updates",
+      "weight": 3
+    },
+    {
+      "source": "gradient computation",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "gradient computation",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "gradient computation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gradient computation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "rule",
+      "target": "updates",
+      "weight": 3
+    },
+    {
+      "source": "rule",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "rule",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "rule",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "rule",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "updates",
+      "target": "weight",
+      "weight": 3
+    },
+    {
+      "source": "updates",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "updates",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "updates",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "weight",
+      "target": "weight updates",
+      "weight": 3
+    },
+    {
+      "source": "weight",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "weight",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "weight updates",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "weight updates",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "result",
+      "target": "advanced",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 22,
+    "edge_count": 171,
+    "is_connected": true
+  }
+}

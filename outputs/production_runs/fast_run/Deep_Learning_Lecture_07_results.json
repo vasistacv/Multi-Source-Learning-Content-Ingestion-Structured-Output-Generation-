@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_07.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:49:22.263863",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_07.txt",
+    "file_type": ".txt",
+    "file_size": 2429,
+    "processed_at": "2026-01-17T13:49:20.908335",
+    "content_hash": "2bdc4b79b095e753dc899d6fc88e9f497d1706b1d7a5d7d4011429c900791e8b",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 315,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Models",
+    "Generative",
+    "Generative Models",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "models",
+    "generative",
+    "generative models",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "deep",
+    "deep learning",
+    "implement",
+    "diffusion",
+    "diffusion models",
+    "gans",
+    "gans vaes",
+    "gans vaes diffusion"
+  ],
+  "entity_count": 69,
+  "word_count": 315,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 228,
+      "density": 0.8260869565217391,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.173913043478261,
+      "average_clustering": 0.9209486166007905,
+      "most_central_concepts": [
+        [
+          "models",
+          1.0
+        ],
+        [
+          "generative",
+          1.0
+        ],
+        [
+          "generative models",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ],
+        [
+          "world applications",
+          1.0
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "models",
+        "generative"
+      ],
+      [
+        "models",
+        "generative models"
+      ],
+      [
+        "models",
+        "lecture"
+      ],
+      [
+        "models",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_07"
+  },
+  "rag_document_id": "7f47a92e-e0b1-4e4a-af81-71ba84f069f6",
+  "processing_time_seconds": 4.249785
+}

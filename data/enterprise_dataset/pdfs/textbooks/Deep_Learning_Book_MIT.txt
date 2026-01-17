@@ -1,0 +1,160 @@
+# Deep Learning Fundamentals
+        
+## Chapter 1: Introduction to Machine Learning
+
+Machine learning is a subset of artificial intelligence that enables systems to learn and improve from 
+experience without being explicitly programmed. This textbook covers fundamental concepts, algorithms, 
+and applications.
+
+### 1.1 What is Machine Learning?
+
+Machine learning algorithms build a model based on sample data, known as training data, in order to make 
+predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are 
+used in a wide variety of applications, such as email filtering and computer vision.
+
+### 1.2 Types of Machine Learning
+
+**Supervised Learning**: The algorithm learns from labeled training data, helping it predict outcomes 
+for unforeseen data.
+
+**Unsupervised Learning**: The algorithm learns patterns from unlabeled data. The system tries to learn 
+without a teacher.
+
+**Reinforcement Learning**: The algorithm learns to perform an action from experience through trial and 
+error using feedback from its own actions.
+
+### 1.3 Key Concepts
+
+- **Features**: Input variables used to make predictions
+- **Labels**: Output variables we're trying to predict
+- **Training**: Process of learning from data
+- **Testing**: Evaluating model performance on unseen data
+- **Overfitting**: Model learns training data too well, performs poorly on new data
+- **Underfitting**: Model is too simple to capture underlying patterns
+
+## Chapter 2: Linear Regression
+
+Linear regression is one of the most basic and commonly used predictive analysis techniques. The model 
+assumes a linear relationship between input variables (X) and the single output variable (Y).
+
+### 2.1 Simple Linear Regression
+
+The equation: Y = β₀ + β₁X + ε
+
+Where:
+- Y is the predicted value
+- β₀ is the y-intercept
+- β₁ is the slope
+- X is the input variable
+- ε is the error term
+
+### 2.2 Multiple Linear Regression
+
+Extends simple linear regression to multiple input variables:
+Y = β₀ + β₁X₁ + β₂X₂ + ... + βₙXₙ + ε
+
+### 2.3 Cost Function and Optimization
+
+The goal is to minimize the Mean Squared Error (MSE):
+MSE = (1/n) Σ(yᵢ - ŷᵢ)²
+
+We use gradient descent to find optimal parameters that minimize this cost function.
+
+## Chapter 3: Classification Algorithms
+
+Classification is a supervised learning approach where the goal is to predict categorical class labels.
+
+### 3.1 Logistic Regression
+
+Despite its name, logistic regression is used for classification, not regression. It uses the logistic 
+function to model probability of binary outcomes.
+
+σ(z) = 1 / (1 + e⁻ᶻ)
+
+### 3.2 Decision Trees
+
+Decision trees learn simple decision rules inferred from data features. They can handle both 
+classification and regression tasks.
+
+Advantages:
+- Easy to understand and interpret
+- Requires little data preparation
+- Can handle both numerical and categorical data
+
+### 3.3 Support Vector Machines (SVM)
+
+SVMs find the hyperplane that best divides a dataset into classes. The best hyperplane is the one with 
+the maximum margin between the two classes.
+
+## Chapter 4: Neural Networks
+
+Neural networks are computing systems inspired by biological neural networks. They consist of 
+interconnected nodes (neurons) organized in layers.
+
+### 4.1 Perceptron
+
+The simplest neural network consists of a single neuron. It takes multiple inputs, applies weights, 
+adds a bias, and passes through an activation function.
+
+Output = f(Σ(wᵢxᵢ) + b)
+
+### 4.2 Multi-Layer Perceptron
+
+MLPs consist of:
+- Input layer: Receives the data
+- Hidden layers: Process information
+- Output layer: Produces predictions
+
+### 4.3 Backpropagation
+
+The algorithm for training neural networks:
+1. Forward pass: Calculate outputs
+2. Calculate error
+3. Backward pass: Propagate error back through network
+4. Update weights using gradient descent
+
+## Chapter 5: Model Evaluation
+
+### 5.1 Classification Metrics
+
+- **Accuracy**: (TP + TN) / (TP + TN + FP + FN)
+- **Precision**: TP / (TP + FP)
+- **Recall**: TP / (TP + FN)
+- **F1-Score**: 2 * (Precision * Recall) / (Precision + Recall)
+
+### 5.2 Regression Metrics
+
+- **Mean Absolute Error (MAE)**: Average absolute difference between predictions and actual values
+- **Mean Squared Error (MSE)**: Average squared difference
+- **R² Score**: Proportion of variance explained by the model
+
+### 5.3 Cross-Validation
+
+K-fold cross-validation splits data into k subsets, trains on k-1 subsets, and validates on the 
+remaining subset. This process repeats k times.
+
+## Chapter 6: Advanced Topics
+
+### 6.1 Ensemble Methods
+
+Combine multiple models to improve performance:
+- **Bagging**: Bootstrap Aggregating (e.g., Random Forest)
+- **Boosting**: Sequential learning (e.g., XGBoost, AdaBoost)
+- **Stacking**: Combine different types of models
+
+### 6.2 Dimensionality Reduction
+
+Techniques to reduce the number of features:
+- **Principal Component Analysis (PCA)**: Linear transformation
+- **t-SNE**: Non-linear dimensionality reduction for visualization
+- **Autoencoders**: Neural network-based approach
+
+### 6.3 Transfer Learning
+
+Reusing pre-trained models for new but related tasks. Particularly powerful in deep learning for 
+computer vision and NLP.
+
+---
+
+This textbook provides a comprehensive foundation in machine learning. Practice implementing these 
+algorithms and applying them to real-world datasets to deepen your understanding.

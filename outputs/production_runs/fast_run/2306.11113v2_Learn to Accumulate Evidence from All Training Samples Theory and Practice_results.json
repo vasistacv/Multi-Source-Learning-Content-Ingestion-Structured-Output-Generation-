@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2306.11113v2_Learn to Accumulate Evidence from All Training Samples Theory and Practice.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:44:47.596894",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2306.11113v2_Learn to Accumulate Evidence from All Training Samples Theory and Practice.pdf",
+    "file_type": ".pdf",
+    "file_size": 2538334,
+    "processed_at": "2026-01-17T13:44:46.135951",
+    "content_hash": "3cc72a968272987396281a48b784db53ffa6b2a548e55fea02ae45d3a0ca01cd",
+    "language": null,
+    "page_count": 27,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "author": "Deep Pandey, Qi Yu",
+      "subject": "Proceedings of the International Conference on Machine Learning 2023",
+      "creator": "LaTeX with hyperref",
+      "producer": "pdfTeX-1.40.25",
+      "creation_date": "D:20230627004445Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Evidence",
+    "Cid",
+    "Model",
+    "Gt",
+    "Exp"
+  ],
+  "key_concepts": [
+    "evidence",
+    "cid",
+    "model",
+    "gt",
+    "zero",
+    "evidential",
+    "exp",
+    "relu",
+    "88",
+    "cid 88",
+    "16",
+    "gt gt",
+    "88 cid",
+    "cid 88 cid",
+    "17"
+  ],
+  "entity_count": 820,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 19,
+      "edge_count": 125,
+      "density": 0.7309941520467836,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2690058479532165,
+      "average_clustering": 0.8344125688552934,
+      "most_central_concepts": [
+        [
+          "model",
+          1.0
+        ],
+        [
+          "evidence",
+          0.9444444444444444
+        ],
+        [
+          "gt",
+          0.9444444444444444
+        ],
+        [
+          "evidential",
+          0.9444444444444444
+        ],
+        [
+          "cid",
+          0.8888888888888888
+        ],
+        [
+          "exp",
+          0.8888888888888888
+        ],
+        [
+          "88",
+          0.8333333333333333
+        ],
+        [
+          "log",
+          0.8333333333333333
+        ],
+        [
+          "zero",
+          0.7222222222222222
+        ],
+        [
+          "softplus",
+          0.7222222222222222
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "model",
+        "evidence"
+      ],
+      [
+        "model",
+        "gt"
+      ],
+      [
+        "model",
+        "evidential"
+      ],
+      [
+        "model",
+        "cid"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2306.11113v2_Learn to Accumulate Evidence from All Training Samples Theory and Practice"
+  },
+  "rag_document_id": "18e21f6b-f67b-45c0-9f87-5f3f70f4a177",
+  "processing_time_seconds": 13.746071
+}

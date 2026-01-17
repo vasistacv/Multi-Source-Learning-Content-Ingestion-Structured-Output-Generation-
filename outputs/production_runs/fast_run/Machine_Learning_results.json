@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Machine_Learning.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:46:55.509020",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Machine_Learning.txt",
+    "file_type": ".txt",
+    "file_size": 484,
+    "processed_at": "2026-01-17T13:46:54.095448",
+    "content_hash": "ffdafb3c93738b1460fa97e9969ce9e8c3accac53f89b61aba2ce617bf76d4b5",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 71,
+    "metadata": {
+      "line_count": 3,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Learning",
+    "Machine",
+    "Machine Learning",
+    "Data",
+    "Study"
+  ],
+  "key_concepts": [
+    "learning",
+    "machine",
+    "machine learning",
+    "data",
+    "study",
+    "algorithms",
+    "field",
+    "statistical",
+    "statistical algorithms",
+    "algorithms learn",
+    "artificial intelligence concerned",
+    "advances",
+    "advances field",
+    "allowed",
+    "allowed neural"
+  ],
+  "entity_count": 2,
+  "word_count": 71,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 18,
+      "edge_count": 125,
+      "density": 0.8169934640522876,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1830065359477124,
+      "average_clustering": 0.9199346405228758,
+      "most_central_concepts": [
+        [
+          "learning",
+          1.0
+        ],
+        [
+          "machine",
+          1.0
+        ],
+        [
+          "machine learning",
+          1.0
+        ],
+        [
+          "algorithms",
+          1.0
+        ],
+        [
+          "field",
+          1.0
+        ],
+        [
+          "statistical",
+          1.0
+        ],
+        [
+          "statistical algorithms",
+          1.0
+        ],
+        [
+          "advances",
+          0.7647058823529411
+        ],
+        [
+          "allowed",
+          0.7647058823529411
+        ],
+        [
+          "allowed neural",
+          0.7647058823529411
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "learning",
+        "machine"
+      ],
+      [
+        "learning",
+        "machine learning"
+      ],
+      [
+        "learning",
+        "algorithms"
+      ],
+      [
+        "learning",
+        "field"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning"
+  },
+  "rag_document_id": "fed18419-aa97-4930-b42c-f527c2aa753c",
+  "processing_time_seconds": 4.130557
+}

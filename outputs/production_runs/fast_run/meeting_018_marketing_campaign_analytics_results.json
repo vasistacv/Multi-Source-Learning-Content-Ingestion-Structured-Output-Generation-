@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_018_marketing_campaign_analytics.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:38:38.366380",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_018_marketing_campaign_analytics.txt",
+    "file_type": ".txt",
+    "file_size": 94,
+    "processed_at": "2026-01-17T13:38:37.051374",
+    "content_hash": "4f1e84ddefc06507efa3233d192e11410bfdec370b2d1ffe5173afacf9dddba7",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 12,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 12,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_018_marketing_campaign_analytics"
+  },
+  "rag_document_id": "3ff301c3-bd29-4a0f-aa90-6b10a057ee14",
+  "processing_time_seconds": 3.967909
+}

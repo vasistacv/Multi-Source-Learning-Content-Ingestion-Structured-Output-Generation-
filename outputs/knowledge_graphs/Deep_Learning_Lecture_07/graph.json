@@ -1,0 +1,1343 @@
+{
+  "nodes": [
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 3.0178501733443643,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "generative",
+      "label": "generative",
+      "weight": 2.6860289725907363,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "generative models",
+      "label": "generative models",
+      "weight": 2.6860289725907363,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1201727243430324,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8985934996621803,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "implementations",
+      "label": "implementations",
+      "weight": 1.236113411445367,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.126862010337839,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.126862010337839,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.1177623165837822,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0012856518302395,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9866695254276738,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8858832206092792,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8468881533071106,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "diffusion",
+      "label": "diffusion",
+      "weight": 0.8302710775497967,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "diffusion models",
+      "label": "diffusion models",
+      "weight": 0.8302710775497967,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "gans",
+      "label": "gans",
+      "weight": 0.8302710775497967,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "vaes",
+      "label": "vaes",
+      "weight": 0.8302710775497967,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5644805837874625,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1625515663441546
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5156761556864933,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4808219988038652,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.37589478356593004,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.37589478356593004,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.018972332015810275,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.34104062668330204,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    },
+    {
+      "id": "learning dataset",
+      "label": "learning dataset",
+      "weight": 0.34104062668330204,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.188514771843429
+    }
+  ],
+  "edges": [
+    {
+      "source": "models",
+      "target": "generative",
+      "weight": 8
+    },
+    {
+      "source": "models",
+      "target": "generative models",
+      "weight": 8
+    },
+    {
+      "source": "models",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "models",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "models",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "diffusion",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "diffusion models",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "gans",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "vaes",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "generative",
+      "target": "generative models",
+      "weight": 8
+    },
+    {
+      "source": "generative",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "generative",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "generative",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "generative",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "generative",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "generative",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "generative",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "diffusion",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "diffusion models",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "gans",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "vaes",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "generative",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "generative",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "generative",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "generative models",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "generative models",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "generative models",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "generative models",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "generative models",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "generative models",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "generative models",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "diffusion",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "diffusion models",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "gans",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "vaes",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "generative models",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "generative models",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "generative models",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "diffusion",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "diffusion models",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "vaes",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "diffusion",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "diffusion models",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "vaes",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "diffusion",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "diffusion models",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gans",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "vaes",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "diffusion",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "diffusion models",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vaes",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "diffusion",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "diffusion models",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "vaes",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "diffusion",
+      "target": "diffusion models",
+      "weight": 3
+    },
+    {
+      "source": "diffusion",
+      "target": "gans",
+      "weight": 3
+    },
+    {
+      "source": "diffusion",
+      "target": "vaes",
+      "weight": 3
+    },
+    {
+      "source": "diffusion",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "diffusion",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "diffusion",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "diffusion",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "diffusion models",
+      "target": "gans",
+      "weight": 3
+    },
+    {
+      "source": "diffusion models",
+      "target": "vaes",
+      "weight": 3
+    },
+    {
+      "source": "diffusion models",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "diffusion models",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "diffusion models",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "diffusion models",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "gans",
+      "target": "vaes",
+      "weight": 3
+    },
+    {
+      "source": "gans",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gans",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gans",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "gans",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "vaes",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "vaes",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vaes",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "vaes",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "learning dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 228,
+    "is_connected": true
+  }
+}

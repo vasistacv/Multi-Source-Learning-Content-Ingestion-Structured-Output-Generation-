@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Data_Science_Handbook.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:45:31.178738",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Data_Science_Handbook.txt",
+    "file_type": ".txt",
+    "file_size": 140,
+    "processed_at": "2026-01-17T13:45:29.794636",
+    "content_hash": "123b39f32649d0ed0530122d424cca38785895b77583e0097d6c277e71f99844",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 16,
+    "metadata": {
+      "line_count": 4,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 16,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\Data_Science_Handbook"
+  },
+  "rag_document_id": "31748c8c-170f-4f44-a756-2848cdafddab",
+  "processing_time_seconds": 4.121803
+}

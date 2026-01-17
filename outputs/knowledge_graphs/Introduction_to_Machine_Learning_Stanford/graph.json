@@ -1,0 +1,1191 @@
+{
+  "nodes": [
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 9.514501746224795,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.05601400396324363,
+      "eigenvector_centrality": 0.2544305845791499
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 9.471079927653427,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.07661943254147154,
+      "eigenvector_centrality": 0.2907121189265558
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 8.051786743079727,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.10775409682295524,
+      "eigenvector_centrality": 0.27465873191694046
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "weight": 7.674293078374359,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.013365461196902621,
+      "eigenvector_centrality": 0.19794557847057334
+    },
+    {
+      "id": "features",
+      "label": "features",
+      "weight": 5.5713314891201655,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.011296667207997256,
+      "eigenvector_centrality": 0.16478842855131604
+    },
+    {
+      "id": "let",
+      "label": "let",
+      "weight": 5.293910800357306,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.0229506033934177,
+      "eigenvector_centrality": 0.16757263549367252
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 5.192511740367915,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.006355248473475074,
+      "eigenvector_centrality": 0.19864693721017276
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 5.192511740367915,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.006355248473475074,
+      "eigenvector_centrality": 0.19864693721017276
+    },
+    {
+      "id": "function",
+      "label": "function",
+      "weight": 5.185761013740338,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.002561474364858387,
+      "eigenvector_centrality": 0.1271958908734557
+    },
+    {
+      "id": "spam",
+      "label": "spam",
+      "weight": 4.766529908676784,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.10477410944830952
+    },
+    {
+      "id": "regression",
+      "label": "regression",
+      "weight": 4.712023169562913,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.03469592893720116,
+      "eigenvector_centrality": 0.22251696753460645
+    },
+    {
+      "id": "cost",
+      "label": "cost",
+      "weight": 3.683355988468425,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.009124511943638095,
+      "eigenvector_centrality": 0.17292102799029982
+    },
+    {
+      "id": "need",
+      "label": "need",
+      "weight": 3.6287657059548426,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.01620829225509028,
+      "eigenvector_centrality": 0.1961352723612214
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 3.553246298046825,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.002366469053661172,
+      "eigenvector_centrality": 0.11872226721616459
+    },
+    {
+      "id": "learn",
+      "label": "learn",
+      "weight": 3.4007477117600247,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.10992888325829,
+      "eigenvector_centrality": 0.3159769309901044
+    },
+    {
+      "id": "cost function",
+      "label": "cost function",
+      "weight": 3.290512379226842,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.002561474364858387,
+      "eigenvector_centrality": 0.12719589087345573
+    },
+    {
+      "id": "examples",
+      "label": "examples",
+      "weight": 3.2772211762825885,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.0057803581202595985,
+      "eigenvector_centrality": 0.12537910432437205
+    },
+    {
+      "id": "gradient",
+      "label": "gradient",
+      "weight": 3.225460545700408,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.009208935563615366,
+      "eigenvector_centrality": 0.17879260418825532
+    },
+    {
+      "id": "simple",
+      "label": "simple",
+      "weight": 3.1335847778890455,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.0002736726874657909,
+      "eigenvector_centrality": 0.07939783874846368
+    },
+    {
+      "id": "want",
+      "label": "want",
+      "weight": 2.9428712771415935,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.0068634088954286,
+      "eigenvector_centrality": 0.10802247990006447
+    },
+    {
+      "id": "use",
+      "label": "use",
+      "weight": 2.916503212720518,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.043125036418568234,
+      "eigenvector_centrality": 0.2519854113784092
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "weight": 2.7983949751773873,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.012994654497117552,
+      "eigenvector_centrality": 0.19915218637405305
+    },
+    {
+      "id": "theta",
+      "label": "theta",
+      "weight": 2.5974907572500037,
+      "degree_centrality": 0.24137931034482757,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.11263034782134819
+    },
+    {
+      "id": "prices",
+      "label": "prices",
+      "weight": 2.575659669672013,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.009429581270446552,
+      "eigenvector_centrality": 0.17603509445926196
+    },
+    {
+      "id": "parameters",
+      "label": "parameters",
+      "weight": 2.2985994792300137,
+      "degree_centrality": 0.24137931034482757,
+      "betweenness_centrality": 0.0015833919774806474,
+      "eigenvector_centrality": 0.10791027566873804
+    },
+    {
+      "id": "set",
+      "label": "set",
+      "weight": 2.2781150007831688,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.0021872763252073595,
+      "eigenvector_centrality": 0.11888257798047394
+    },
+    {
+      "id": "weights",
+      "label": "weights",
+      "weight": 1.966462471145154,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.007713637294382635,
+      "eigenvector_centrality": 0.1061079523693489
+    },
+    {
+      "id": "patterns",
+      "label": "patterns",
+      "weight": 1.9158513692545263,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.00751151557801804,
+      "eigenvector_centrality": 0.1377108687190948
+    },
+    {
+      "id": "regularization",
+      "label": "regularization",
+      "weight": 1.71029089753594,
+      "degree_centrality": 0.24137931034482757,
+      "betweenness_centrality": 0.005132429147207472,
+      "eigenvector_centrality": 0.08134266365766679
+    },
+    {
+      "id": "log",
+      "label": "log",
+      "weight": 1.5758393117039016,
+      "degree_centrality": 0.5517241379310345,
+      "betweenness_centrality": 0.025801852772296123,
+      "eigenvector_centrality": 0.22739664141428412
+    }
+  ],
+  "edges": [
+    {
+      "source": "data",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "spam",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "regression",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "learn",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "prices",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "patterns",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "model",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "00",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "want",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "set",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "features",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "need",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 11
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 10
+    },
+    {
+      "source": "learning",
+      "target": "learn",
+      "weight": 22
+    },
+    {
+      "source": "learning",
+      "target": "00",
+      "weight": 7
+    },
+    {
+      "source": "learning",
+      "target": "30",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "let",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "examples",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "theta",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "spam",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "prices",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "cost",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "cost function",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "need",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "30",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "let",
+      "weight": 6
+    },
+    {
+      "source": "00",
+      "target": "machine",
+      "weight": 6
+    },
+    {
+      "source": "00",
+      "target": "machine learning",
+      "weight": 6
+    },
+    {
+      "source": "00",
+      "target": "learn",
+      "weight": 8
+    },
+    {
+      "source": "00",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "cost",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "theta",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "log",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "want",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "features",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "prices",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "regularization",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "let",
+      "weight": 5
+    },
+    {
+      "source": "30",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "learn",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "cost",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "cost function",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "regularization",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "examples",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "prices",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "want",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "machine",
+      "weight": 4
+    },
+    {
+      "source": "let",
+      "target": "machine learning",
+      "weight": 4
+    },
+    {
+      "source": "let",
+      "target": "learn",
+      "weight": 5
+    },
+    {
+      "source": "let",
+      "target": "examples",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "theta",
+      "weight": 1
+    },
+    {
+      "source": "let",
+      "target": "regularization",
+      "weight": 2
+    },
+    {
+      "source": "let",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 10
+    },
+    {
+      "source": "machine",
+      "target": "learn",
+      "weight": 11
+    },
+    {
+      "source": "machine",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "theta",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "learn",
+      "weight": 10
+    },
+    {
+      "source": "machine learning",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "theta",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "learn",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "cost",
+      "weight": 6
+    },
+    {
+      "source": "function",
+      "target": "cost function",
+      "weight": 6
+    },
+    {
+      "source": "function",
+      "target": "15",
+      "weight": 2
+    },
+    {
+      "source": "function",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "regularization",
+      "weight": 1
+    },
+    {
+      "source": "spam",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "spam",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "spam",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "spam",
+      "target": "prices",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "15",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "prices",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "use",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "cost",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "cost function",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "cost",
+      "target": "cost function",
+      "weight": 6
+    },
+    {
+      "source": "cost",
+      "target": "gradient",
+      "weight": 1
+    },
+    {
+      "source": "cost",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "cost",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "cost",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "cost",
+      "target": "regularization",
+      "weight": 1
+    },
+    {
+      "source": "cost",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "learn",
+      "weight": 3
+    },
+    {
+      "source": "need",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "examples",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "simple",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "patterns",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "want",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "learn",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "examples",
+      "weight": 2
+    },
+    {
+      "source": "learn",
+      "target": "parameters",
+      "weight": 4
+    },
+    {
+      "source": "learn",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "gradient",
+      "weight": 2
+    },
+    {
+      "source": "learn",
+      "target": "theta",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "use",
+      "weight": 2
+    },
+    {
+      "source": "learn",
+      "target": "prices",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "cost function",
+      "weight": 1
+    },
+    {
+      "source": "learn",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "cost function",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "cost function",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "cost function",
+      "target": "regularization",
+      "weight": 1
+    },
+    {
+      "source": "examples",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "examples",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "examples",
+      "target": "prices",
+      "weight": 1
+    },
+    {
+      "source": "examples",
+      "target": "want",
+      "weight": 1
+    },
+    {
+      "source": "gradient",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "gradient",
+      "target": "theta",
+      "weight": 2
+    },
+    {
+      "source": "gradient",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "use",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "patterns",
+      "weight": 2
+    },
+    {
+      "source": "simple",
+      "target": "want",
+      "weight": 1
+    },
+    {
+      "source": "want",
+      "target": "prices",
+      "weight": 2
+    },
+    {
+      "source": "want",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "want",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "use",
+      "target": "prices",
+      "weight": 2
+    },
+    {
+      "source": "use",
+      "target": "log",
+      "weight": 2
+    },
+    {
+      "source": "use",
+      "target": "patterns",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "prices",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "prices",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "parameters",
+      "target": "weights",
+      "weight": 1
+    },
+    {
+      "source": "parameters",
+      "target": "set",
+      "weight": 1
+    },
+    {
+      "source": "weights",
+      "target": "regularization",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 188,
+    "is_connected": true
+  }
+}

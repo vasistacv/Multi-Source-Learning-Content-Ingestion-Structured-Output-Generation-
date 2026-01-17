@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_03.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:47:42.746571",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_03.txt",
+    "file_type": ".txt",
+    "file_size": 2433,
+    "processed_at": "2026-01-17T13:47:41.372054",
+    "content_hash": "3b45f24f6114afca1174379982e082eb12c7194ac8a7d37dddb517a76046483d",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Detection",
+    "Object",
+    "Object Detection",
+    "Lecture",
+    "Ssd Anchor"
+  ],
+  "key_concepts": [
+    "detection",
+    "object",
+    "object detection",
+    "lecture",
+    "real",
+    "implementation",
+    "computer",
+    "computer vision",
+    "vision",
+    "implement",
+    "anchor",
+    "anchor boxes",
+    "boxes",
+    "cnn yolo",
+    "cnn yolo ssd"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 22,
+      "edge_count": 177,
+      "density": 0.7662337662337663,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2337662337662338,
+      "average_clustering": 0.8997108155002892,
+      "most_central_concepts": [
+        [
+          "detection",
+          1.0
+        ],
+        [
+          "object",
+          1.0
+        ],
+        [
+          "object detection",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9523809523809523
+        ],
+        [
+          "real",
+          0.9523809523809523
+        ],
+        [
+          "implement",
+          0.9523809523809523
+        ],
+        [
+          "implementation",
+          0.9523809523809523
+        ],
+        [
+          "applications",
+          0.9523809523809523
+        ],
+        [
+          "computer",
+          0.6666666666666666
+        ],
+        [
+          "computer vision",
+          0.6666666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "detection",
+        "object"
+      ],
+      [
+        "detection",
+        "object detection"
+      ],
+      [
+        "detection",
+        "lecture"
+      ],
+      [
+        "detection",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Computer_Vision_Lecture_03"
+  },
+  "rag_document_id": "d9fcd17d-2a49-4152-9fd0-f2d268c245aa",
+  "processing_time_seconds": 4.220884
+}

@@ -1,0 +1,1501 @@
+{
+  "nodes": [
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.408658659827329,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.009661835748792272,
+      "eigenvector_centrality": 0.21746934180942112
+    },
+    {
+      "id": "entity",
+      "label": "entity",
+      "weight": 2.2412996061080306,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.013630089717046236,
+      "eigenvector_centrality": 0.2237223830249903
+    },
+    {
+      "id": "entity recognition",
+      "label": "entity recognition",
+      "weight": 2.2412996061080306,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.013630089717046236,
+      "eigenvector_centrality": 0.2237223830249903
+    },
+    {
+      "id": "named",
+      "label": "named",
+      "weight": 2.2412996061080306,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.013630089717046236,
+      "eigenvector_centrality": 0.2237223830249903
+    },
+    {
+      "id": "named entity",
+      "label": "named entity",
+      "weight": 2.2412996061080306,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.013630089717046236,
+      "eigenvector_centrality": 0.2237223830249903
+    },
+    {
+      "id": "named entity recognition",
+      "label": "named entity recognition",
+      "weight": 2.2412996061080306,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.013630089717046236,
+      "eigenvector_centrality": 0.2237223830249903
+    },
+    {
+      "id": "recognition",
+      "label": "recognition",
+      "weight": 2.2412996061080306,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.013630089717046236,
+      "eigenvector_centrality": 0.2237223830249903
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 1.3736153108921618,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14610707107202375
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3181256772418621,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.009661835748792272,
+      "eigenvector_centrality": 0.21746934180942112
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2321426598551044,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.009661835748792272,
+      "eigenvector_centrality": 0.21746934180942112
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.9068883495469167,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.009661835748792272,
+      "eigenvector_centrality": 0.21746934180942112
+    },
+    {
+      "id": "bio",
+      "label": "bio",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "bio format",
+      "label": "bio format",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "crf",
+      "label": "crf",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "format",
+      "label": "format",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "sequence",
+      "label": "sequence",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "sequence tagging",
+      "label": "sequence tagging",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "tagging",
+      "label": "tagging",
+      "weight": 0.7025614960058366,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5437251678294707,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13830522420610136
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5242849364844211,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14610707107202375
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.4764731777344288,
+      "degree_centrality": 0.8333333333333333,
+      "betweenness_centrality": 0.0015527950310559003,
+      "eigenvector_centrality": 0.19729889898574535
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.47254896224259946,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.009661835748792272,
+      "eigenvector_centrality": 0.21746934180942112
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.4082136065568689,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14610707107202375
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.35647763231504725,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.009661835748792272,
+      "eigenvector_centrality": 0.21746934180942112
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.26734332486206613,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14610707107202375
+    }
+  ],
+  "edges": [
+    {
+      "source": "lecture",
+      "target": "entity",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "entity recognition",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "named",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "named entity",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "named entity recognition",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "recognition",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "bio",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "bio format",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "crf",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "format",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sequence",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sequence tagging",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "tagging",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "entity",
+      "target": "entity recognition",
+      "weight": 8
+    },
+    {
+      "source": "entity",
+      "target": "named",
+      "weight": 8
+    },
+    {
+      "source": "entity",
+      "target": "named entity",
+      "weight": 8
+    },
+    {
+      "source": "entity",
+      "target": "named entity recognition",
+      "weight": 8
+    },
+    {
+      "source": "entity",
+      "target": "recognition",
+      "weight": 8
+    },
+    {
+      "source": "entity",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "entity",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "entity",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "entity",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "entity",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "entity recognition",
+      "target": "named",
+      "weight": 8
+    },
+    {
+      "source": "entity recognition",
+      "target": "named entity",
+      "weight": 8
+    },
+    {
+      "source": "entity recognition",
+      "target": "named entity recognition",
+      "weight": 8
+    },
+    {
+      "source": "entity recognition",
+      "target": "recognition",
+      "weight": 8
+    },
+    {
+      "source": "entity recognition",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "entity recognition",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "entity recognition",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "entity recognition",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "entity recognition",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "named",
+      "target": "named entity",
+      "weight": 8
+    },
+    {
+      "source": "named",
+      "target": "named entity recognition",
+      "weight": 8
+    },
+    {
+      "source": "named",
+      "target": "recognition",
+      "weight": 8
+    },
+    {
+      "source": "named",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "named",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "named",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "named",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "named",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "named entity",
+      "target": "named entity recognition",
+      "weight": 8
+    },
+    {
+      "source": "named entity",
+      "target": "recognition",
+      "weight": 8
+    },
+    {
+      "source": "named entity",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "named entity",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "named entity",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "named entity",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "named entity",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "named entity recognition",
+      "target": "recognition",
+      "weight": 8
+    },
+    {
+      "source": "named entity recognition",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "named entity recognition",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "named entity recognition",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "named entity recognition",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "named entity recognition",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "recognition",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "recognition",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "recognition",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "recognition",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "recognition",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "bio",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "bio format",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "crf",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "format",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sequence",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sequence tagging",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "tagging",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "bio",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "bio format",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "crf",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "format",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sequence",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sequence tagging",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "tagging",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "bio",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "bio format",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "crf",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "format",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sequence",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sequence tagging",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "tagging",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "bio",
+      "target": "bio format",
+      "weight": 3
+    },
+    {
+      "source": "bio",
+      "target": "crf",
+      "weight": 3
+    },
+    {
+      "source": "bio",
+      "target": "format",
+      "weight": 3
+    },
+    {
+      "source": "bio",
+      "target": "sequence",
+      "weight": 3
+    },
+    {
+      "source": "bio",
+      "target": "sequence tagging",
+      "weight": 3
+    },
+    {
+      "source": "bio",
+      "target": "tagging",
+      "weight": 3
+    },
+    {
+      "source": "bio",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "bio",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bio",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "bio",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "bio format",
+      "target": "crf",
+      "weight": 3
+    },
+    {
+      "source": "bio format",
+      "target": "format",
+      "weight": 3
+    },
+    {
+      "source": "bio format",
+      "target": "sequence",
+      "weight": 3
+    },
+    {
+      "source": "bio format",
+      "target": "sequence tagging",
+      "weight": 3
+    },
+    {
+      "source": "bio format",
+      "target": "tagging",
+      "weight": 3
+    },
+    {
+      "source": "bio format",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "bio format",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bio format",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "bio format",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "crf",
+      "target": "format",
+      "weight": 3
+    },
+    {
+      "source": "crf",
+      "target": "sequence",
+      "weight": 3
+    },
+    {
+      "source": "crf",
+      "target": "sequence tagging",
+      "weight": 3
+    },
+    {
+      "source": "crf",
+      "target": "tagging",
+      "weight": 3
+    },
+    {
+      "source": "crf",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "crf",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "crf",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "crf",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "format",
+      "target": "sequence",
+      "weight": 3
+    },
+    {
+      "source": "format",
+      "target": "sequence tagging",
+      "weight": 3
+    },
+    {
+      "source": "format",
+      "target": "tagging",
+      "weight": 3
+    },
+    {
+      "source": "format",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "format",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "format",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "format",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "sequence",
+      "target": "sequence tagging",
+      "weight": 3
+    },
+    {
+      "source": "sequence",
+      "target": "tagging",
+      "weight": 3
+    },
+    {
+      "source": "sequence",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "sequence",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sequence",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "sequence",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "sequence tagging",
+      "target": "tagging",
+      "weight": 3
+    },
+    {
+      "source": "sequence tagging",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "sequence tagging",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sequence tagging",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "sequence tagging",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "tagging",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "tagging",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "tagging",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "tagging",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 258,
+    "is_connected": true
+  }
+}

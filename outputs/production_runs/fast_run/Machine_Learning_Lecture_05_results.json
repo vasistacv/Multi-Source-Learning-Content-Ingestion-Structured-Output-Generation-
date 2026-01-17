@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_05.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:50:28.683026",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_05.txt",
+    "file_type": ".txt",
+    "file_size": 2573,
+    "processed_at": "2026-01-17T13:50:27.302359",
+    "content_hash": "6e316eb5b1386b39bacaf115857ec96e808528fd3a7f105c685b45e1613e6ebe",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 333,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Machines",
+    "Support",
+    "Support Vector",
+    "Support Vector Machines",
+    "Vector"
+  ],
+  "key_concepts": [
+    "machines",
+    "support",
+    "support vector",
+    "support vector machines",
+    "vector",
+    "vector machines",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "margin maximization",
+    "margin maximization kernel",
+    "margins",
+    "maximization"
+  ],
+  "entity_count": 69,
+  "word_count": 333,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 249,
+      "density": 0.9021739130434783,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.0978260869565217,
+      "average_clustering": 0.9466403162055336,
+      "most_central_concepts": [
+        [
+          "machines",
+          1.0
+        ],
+        [
+          "support",
+          1.0
+        ],
+        [
+          "support vector",
+          1.0
+        ],
+        [
+          "support vector machines",
+          1.0
+        ],
+        [
+          "vector",
+          1.0
+        ],
+        [
+          "vector machines",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "machine",
+          1.0
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "machines",
+        "support"
+      ],
+      [
+        "machines",
+        "support vector"
+      ],
+      [
+        "machines",
+        "support vector machines"
+      ],
+      [
+        "machines",
+        "vector"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_05"
+  },
+  "rag_document_id": "ceb626ed-5997-41ee-a48b-af7af9a501f8",
+  "processing_time_seconds": 4.122309
+}

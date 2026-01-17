@@ -1,0 +1,2171 @@
+{
+  "nodes": [
+    {
+      "id": "patterns",
+      "label": "patterns",
+      "weight": 68.57260963871174,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111506
+    },
+    {
+      "id": "design",
+      "label": "design",
+      "weight": 61.007155677703295,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.19534877753112467
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 53.846270205347246,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.0007333021800787917,
+      "eigenvector_centrality": 0.18496889382910273
+    },
+    {
+      "id": "instructional",
+      "label": "instructional",
+      "weight": 53.28000371437403,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111506
+    },
+    {
+      "id": "pattern",
+      "label": "pattern",
+      "weight": 53.23940560726154,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111506
+    },
+    {
+      "id": "instructional design",
+      "label": "instructional design",
+      "weight": 31.75458350562894,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.0007426319307878527,
+      "eigenvector_centrality": 0.18498638026899542
+    },
+    {
+      "id": "software",
+      "label": "software",
+      "weight": 30.66424324625182,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.0007333021800787917,
+      "eigenvector_centrality": 0.18496889382910273
+    },
+    {
+      "id": "educational",
+      "label": "educational",
+      "weight": 29.76527490195817,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.19534877753112467
+    },
+    {
+      "id": "technology",
+      "label": "technology",
+      "weight": 27.464764856081324,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.00020114942528735632,
+      "eigenvector_centrality": 0.1652438951132642
+    },
+    {
+      "id": "al",
+      "label": "al",
+      "weight": 22.268528590295414,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.19534877753112467
+    },
+    {
+      "id": "et",
+      "label": "et",
+      "weight": 22.268528590295414,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.19534877753112467
+    },
+    {
+      "id": "et al",
+      "label": "et al",
+      "weight": 22.268528590295414,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.0002955665024630542,
+      "eigenvector_centrality": 0.17897748496628327
+    },
+    {
+      "id": "education",
+      "label": "education",
+      "weight": 22.267427576107732,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.19534877753112467
+    },
+    {
+      "id": "technologies",
+      "label": "technologies",
+      "weight": 22.09744267478239,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.19534877753112467
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 20.895759965900414,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "architecture",
+      "label": "architecture",
+      "weight": 20.87131846048248,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "figure",
+      "label": "figure",
+      "weight": 20.824334485447512,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.0006400046729881811,
+      "eigenvector_centrality": 0.17826055955374975
+    },
+    {
+      "id": "domain",
+      "label": "domain",
+      "weight": 20.31151612779944,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "based",
+      "label": "based",
+      "weight": 17.14008874397711,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "different",
+      "label": "different",
+      "weight": 16.14799903872785,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.0005008210180623973,
+      "eigenvector_centrality": 0.18545906517522442
+    },
+    {
+      "id": "approach",
+      "label": "approach",
+      "weight": 14.851451419515127,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "goals",
+      "label": "goals",
+      "weight": 14.74145728312446,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.00040229885057471265,
+      "eigenvector_centrality": 0.17874210184102343
+    },
+    {
+      "id": "modeling",
+      "label": "modeling",
+      "weight": 14.714729536181759,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "educational technologies",
+      "label": "educational technologies",
+      "weight": 14.387854555979755,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.015722106479227917,
+      "eigenvector_centrality": 0.1953487775311247
+    },
+    {
+      "id": "instruction",
+      "label": "instruction",
+      "weight": 13.703192691642169,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "principles",
+      "label": "principles",
+      "weight": 13.466700908281183,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.0005280476644794486,
+      "eigenvector_centrality": 0.17848698860663392
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "weight": 12.123665316845335,
+      "degree_centrality": 0.9310344827586207,
+      "betweenness_centrality": 0.0009437813560752091,
+      "eigenvector_centrality": 0.19145973789111512
+    },
+    {
+      "id": "oriented",
+      "label": "oriented",
+      "weight": 12.072483140847318,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.00040229885057471265,
+      "eigenvector_centrality": 0.17874210184102346
+    },
+    {
+      "id": "design educational",
+      "label": "design educational",
+      "weight": 9.416408014503366,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.05354641916662416
+    },
+    {
+      "id": "design educational technologies",
+      "label": "design educational technologies",
+      "weight": 8.63285146909392,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.05354641916662416
+    }
+  ],
+  "edges": [
+    {
+      "source": "patterns",
+      "target": "design",
+      "weight": 55
+    },
+    {
+      "source": "patterns",
+      "target": "pattern",
+      "weight": 121
+    },
+    {
+      "source": "patterns",
+      "target": "educational",
+      "weight": 23
+    },
+    {
+      "source": "patterns",
+      "target": "al",
+      "weight": 89
+    },
+    {
+      "source": "patterns",
+      "target": "education",
+      "weight": 24
+    },
+    {
+      "source": "patterns",
+      "target": "technologies",
+      "weight": 19
+    },
+    {
+      "source": "patterns",
+      "target": "based",
+      "weight": 21
+    },
+    {
+      "source": "patterns",
+      "target": "approach",
+      "weight": 27
+    },
+    {
+      "source": "patterns",
+      "target": "educational technologies",
+      "weight": 9
+    },
+    {
+      "source": "patterns",
+      "target": "software",
+      "weight": 19
+    },
+    {
+      "source": "patterns",
+      "target": "instructional",
+      "weight": 34
+    },
+    {
+      "source": "patterns",
+      "target": "instructional design",
+      "weight": 24
+    },
+    {
+      "source": "patterns",
+      "target": "model",
+      "weight": 16
+    },
+    {
+      "source": "patterns",
+      "target": "architecture",
+      "weight": 18
+    },
+    {
+      "source": "patterns",
+      "target": "modeling",
+      "weight": 10
+    },
+    {
+      "source": "patterns",
+      "target": "instruction",
+      "weight": 36
+    },
+    {
+      "source": "patterns",
+      "target": "different",
+      "weight": 12
+    },
+    {
+      "source": "patterns",
+      "target": "principles",
+      "weight": 5
+    },
+    {
+      "source": "patterns",
+      "target": "process",
+      "weight": 9
+    },
+    {
+      "source": "patterns",
+      "target": "oriented",
+      "weight": 6
+    },
+    {
+      "source": "patterns",
+      "target": "technology",
+      "weight": 7
+    },
+    {
+      "source": "patterns",
+      "target": "et",
+      "weight": 39
+    },
+    {
+      "source": "patterns",
+      "target": "et al",
+      "weight": 13
+    },
+    {
+      "source": "patterns",
+      "target": "goals",
+      "weight": 12
+    },
+    {
+      "source": "patterns",
+      "target": "learning",
+      "weight": 8
+    },
+    {
+      "source": "patterns",
+      "target": "domain",
+      "weight": 13
+    },
+    {
+      "source": "patterns",
+      "target": "figure",
+      "weight": 12
+    },
+    {
+      "source": "design",
+      "target": "pattern",
+      "weight": 66
+    },
+    {
+      "source": "design",
+      "target": "educational",
+      "weight": 43
+    },
+    {
+      "source": "design",
+      "target": "al",
+      "weight": 121
+    },
+    {
+      "source": "design",
+      "target": "education",
+      "weight": 43
+    },
+    {
+      "source": "design",
+      "target": "technologies",
+      "weight": 39
+    },
+    {
+      "source": "design",
+      "target": "based",
+      "weight": 26
+    },
+    {
+      "source": "design",
+      "target": "approach",
+      "weight": 31
+    },
+    {
+      "source": "design",
+      "target": "educational technologies",
+      "weight": 26
+    },
+    {
+      "source": "design",
+      "target": "learning",
+      "weight": 15
+    },
+    {
+      "source": "design",
+      "target": "instructional",
+      "weight": 79
+    },
+    {
+      "source": "design",
+      "target": "instructional design",
+      "weight": 56
+    },
+    {
+      "source": "design",
+      "target": "instruction",
+      "weight": 79
+    },
+    {
+      "source": "design",
+      "target": "et",
+      "weight": 44
+    },
+    {
+      "source": "design",
+      "target": "software",
+      "weight": 27
+    },
+    {
+      "source": "design",
+      "target": "model",
+      "weight": 25
+    },
+    {
+      "source": "design",
+      "target": "architecture",
+      "weight": 16
+    },
+    {
+      "source": "design",
+      "target": "modeling",
+      "weight": 16
+    },
+    {
+      "source": "design",
+      "target": "different",
+      "weight": 12
+    },
+    {
+      "source": "design",
+      "target": "principles",
+      "weight": 9
+    },
+    {
+      "source": "design",
+      "target": "process",
+      "weight": 11
+    },
+    {
+      "source": "design",
+      "target": "oriented",
+      "weight": 12
+    },
+    {
+      "source": "design",
+      "target": "technology",
+      "weight": 8
+    },
+    {
+      "source": "design",
+      "target": "et al",
+      "weight": 9
+    },
+    {
+      "source": "design",
+      "target": "goals",
+      "weight": 12
+    },
+    {
+      "source": "design",
+      "target": "domain",
+      "weight": 11
+    },
+    {
+      "source": "design",
+      "target": "figure",
+      "weight": 6
+    },
+    {
+      "source": "design",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "design",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "instructional",
+      "weight": 9
+    },
+    {
+      "source": "learning",
+      "target": "instructional design",
+      "weight": 7
+    },
+    {
+      "source": "learning",
+      "target": "educational",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "al",
+      "weight": 24
+    },
+    {
+      "source": "learning",
+      "target": "education",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "based",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "instruction",
+      "weight": 10
+    },
+    {
+      "source": "learning",
+      "target": "et",
+      "weight": 14
+    },
+    {
+      "source": "learning",
+      "target": "technologies",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "educational technologies",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "technology",
+      "weight": 10
+    },
+    {
+      "source": "learning",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "different",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "et al",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "model",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "approach",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "pattern",
+      "weight": 9
+    },
+    {
+      "source": "learning",
+      "target": "modeling",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "domain",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "figure",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "principles",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "architecture",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "goals",
+      "weight": 1
+    },
+    {
+      "source": "instructional",
+      "target": "instructional design",
+      "weight": 56
+    },
+    {
+      "source": "instructional",
+      "target": "educational",
+      "weight": 22
+    },
+    {
+      "source": "instructional",
+      "target": "al",
+      "weight": 95
+    },
+    {
+      "source": "instructional",
+      "target": "education",
+      "weight": 22
+    },
+    {
+      "source": "instructional",
+      "target": "based",
+      "weight": 11
+    },
+    {
+      "source": "instructional",
+      "target": "instruction",
+      "weight": 95
+    },
+    {
+      "source": "instructional",
+      "target": "et",
+      "weight": 26
+    },
+    {
+      "source": "instructional",
+      "target": "technologies",
+      "weight": 17
+    },
+    {
+      "source": "instructional",
+      "target": "educational technologies",
+      "weight": 15
+    },
+    {
+      "source": "instructional",
+      "target": "pattern",
+      "weight": 45
+    },
+    {
+      "source": "instructional",
+      "target": "software",
+      "weight": 13
+    },
+    {
+      "source": "instructional",
+      "target": "model",
+      "weight": 25
+    },
+    {
+      "source": "instructional",
+      "target": "architecture",
+      "weight": 11
+    },
+    {
+      "source": "instructional",
+      "target": "approach",
+      "weight": 12
+    },
+    {
+      "source": "instructional",
+      "target": "modeling",
+      "weight": 18
+    },
+    {
+      "source": "instructional",
+      "target": "different",
+      "weight": 10
+    },
+    {
+      "source": "instructional",
+      "target": "principles",
+      "weight": 8
+    },
+    {
+      "source": "instructional",
+      "target": "process",
+      "weight": 18
+    },
+    {
+      "source": "instructional",
+      "target": "oriented",
+      "weight": 8
+    },
+    {
+      "source": "instructional",
+      "target": "technology",
+      "weight": 7
+    },
+    {
+      "source": "instructional",
+      "target": "et al",
+      "weight": 4
+    },
+    {
+      "source": "instructional",
+      "target": "goals",
+      "weight": 14
+    },
+    {
+      "source": "instructional",
+      "target": "domain",
+      "weight": 7
+    },
+    {
+      "source": "instructional",
+      "target": "figure",
+      "weight": 4
+    },
+    {
+      "source": "pattern",
+      "target": "educational",
+      "weight": 25
+    },
+    {
+      "source": "pattern",
+      "target": "al",
+      "weight": 120
+    },
+    {
+      "source": "pattern",
+      "target": "education",
+      "weight": 26
+    },
+    {
+      "source": "pattern",
+      "target": "technologies",
+      "weight": 21
+    },
+    {
+      "source": "pattern",
+      "target": "based",
+      "weight": 26
+    },
+    {
+      "source": "pattern",
+      "target": "approach",
+      "weight": 29
+    },
+    {
+      "source": "pattern",
+      "target": "educational technologies",
+      "weight": 10
+    },
+    {
+      "source": "pattern",
+      "target": "software",
+      "weight": 26
+    },
+    {
+      "source": "pattern",
+      "target": "instructional design",
+      "weight": 27
+    },
+    {
+      "source": "pattern",
+      "target": "model",
+      "weight": 24
+    },
+    {
+      "source": "pattern",
+      "target": "architecture",
+      "weight": 24
+    },
+    {
+      "source": "pattern",
+      "target": "modeling",
+      "weight": 16
+    },
+    {
+      "source": "pattern",
+      "target": "instruction",
+      "weight": 49
+    },
+    {
+      "source": "pattern",
+      "target": "different",
+      "weight": 21
+    },
+    {
+      "source": "pattern",
+      "target": "principles",
+      "weight": 6
+    },
+    {
+      "source": "pattern",
+      "target": "process",
+      "weight": 17
+    },
+    {
+      "source": "pattern",
+      "target": "oriented",
+      "weight": 14
+    },
+    {
+      "source": "pattern",
+      "target": "technology",
+      "weight": 7
+    },
+    {
+      "source": "pattern",
+      "target": "et",
+      "weight": 49
+    },
+    {
+      "source": "pattern",
+      "target": "et al",
+      "weight": 14
+    },
+    {
+      "source": "pattern",
+      "target": "goals",
+      "weight": 18
+    },
+    {
+      "source": "pattern",
+      "target": "domain",
+      "weight": 16
+    },
+    {
+      "source": "pattern",
+      "target": "figure",
+      "weight": 21
+    },
+    {
+      "source": "instructional design",
+      "target": "educational",
+      "weight": 17
+    },
+    {
+      "source": "instructional design",
+      "target": "al",
+      "weight": 56
+    },
+    {
+      "source": "instructional design",
+      "target": "education",
+      "weight": 17
+    },
+    {
+      "source": "instructional design",
+      "target": "based",
+      "weight": 6
+    },
+    {
+      "source": "instructional design",
+      "target": "instruction",
+      "weight": 56
+    },
+    {
+      "source": "instructional design",
+      "target": "et",
+      "weight": 17
+    },
+    {
+      "source": "instructional design",
+      "target": "technologies",
+      "weight": 14
+    },
+    {
+      "source": "instructional design",
+      "target": "educational technologies",
+      "weight": 13
+    },
+    {
+      "source": "instructional design",
+      "target": "software",
+      "weight": 9
+    },
+    {
+      "source": "instructional design",
+      "target": "model",
+      "weight": 13
+    },
+    {
+      "source": "instructional design",
+      "target": "architecture",
+      "weight": 6
+    },
+    {
+      "source": "instructional design",
+      "target": "approach",
+      "weight": 7
+    },
+    {
+      "source": "instructional design",
+      "target": "modeling",
+      "weight": 10
+    },
+    {
+      "source": "instructional design",
+      "target": "different",
+      "weight": 6
+    },
+    {
+      "source": "instructional design",
+      "target": "technology",
+      "weight": 5
+    },
+    {
+      "source": "instructional design",
+      "target": "process",
+      "weight": 6
+    },
+    {
+      "source": "instructional design",
+      "target": "et al",
+      "weight": 2
+    },
+    {
+      "source": "instructional design",
+      "target": "goals",
+      "weight": 4
+    },
+    {
+      "source": "instructional design",
+      "target": "oriented",
+      "weight": 5
+    },
+    {
+      "source": "instructional design",
+      "target": "domain",
+      "weight": 5
+    },
+    {
+      "source": "instructional design",
+      "target": "principles",
+      "weight": 3
+    },
+    {
+      "source": "software",
+      "target": "education",
+      "weight": 8
+    },
+    {
+      "source": "software",
+      "target": "al",
+      "weight": 32
+    },
+    {
+      "source": "software",
+      "target": "model",
+      "weight": 8
+    },
+    {
+      "source": "software",
+      "target": "architecture",
+      "weight": 15
+    },
+    {
+      "source": "software",
+      "target": "approach",
+      "weight": 7
+    },
+    {
+      "source": "software",
+      "target": "modeling",
+      "weight": 5
+    },
+    {
+      "source": "software",
+      "target": "instruction",
+      "weight": 13
+    },
+    {
+      "source": "software",
+      "target": "based",
+      "weight": 4
+    },
+    {
+      "source": "software",
+      "target": "principles",
+      "weight": 3
+    },
+    {
+      "source": "software",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "software",
+      "target": "oriented",
+      "weight": 7
+    },
+    {
+      "source": "software",
+      "target": "educational",
+      "weight": 7
+    },
+    {
+      "source": "software",
+      "target": "technology",
+      "weight": 2
+    },
+    {
+      "source": "software",
+      "target": "et",
+      "weight": 16
+    },
+    {
+      "source": "software",
+      "target": "technologies",
+      "weight": 5
+    },
+    {
+      "source": "software",
+      "target": "educational technologies",
+      "weight": 4
+    },
+    {
+      "source": "software",
+      "target": "et al",
+      "weight": 6
+    },
+    {
+      "source": "software",
+      "target": "domain",
+      "weight": 11
+    },
+    {
+      "source": "software",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "software",
+      "target": "different",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "al",
+      "weight": 53
+    },
+    {
+      "source": "educational",
+      "target": "education",
+      "weight": 53
+    },
+    {
+      "source": "educational",
+      "target": "technologies",
+      "weight": 43
+    },
+    {
+      "source": "educational",
+      "target": "based",
+      "weight": 23
+    },
+    {
+      "source": "educational",
+      "target": "approach",
+      "weight": 19
+    },
+    {
+      "source": "educational",
+      "target": "educational technologies",
+      "weight": 30
+    },
+    {
+      "source": "educational",
+      "target": "instruction",
+      "weight": 23
+    },
+    {
+      "source": "educational",
+      "target": "et",
+      "weight": 29
+    },
+    {
+      "source": "educational",
+      "target": "technology",
+      "weight": 6
+    },
+    {
+      "source": "educational",
+      "target": "model",
+      "weight": 10
+    },
+    {
+      "source": "educational",
+      "target": "architecture",
+      "weight": 5
+    },
+    {
+      "source": "educational",
+      "target": "modeling",
+      "weight": 6
+    },
+    {
+      "source": "educational",
+      "target": "et al",
+      "weight": 8
+    },
+    {
+      "source": "educational",
+      "target": "process",
+      "weight": 4
+    },
+    {
+      "source": "educational",
+      "target": "different",
+      "weight": 3
+    },
+    {
+      "source": "educational",
+      "target": "goals",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "educational",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "domain",
+      "weight": 4
+    },
+    {
+      "source": "educational",
+      "target": "oriented",
+      "weight": 5
+    },
+    {
+      "source": "technology",
+      "target": "al",
+      "weight": 18
+    },
+    {
+      "source": "technology",
+      "target": "et",
+      "weight": 7
+    },
+    {
+      "source": "technology",
+      "target": "education",
+      "weight": 7
+    },
+    {
+      "source": "technology",
+      "target": "model",
+      "weight": 4
+    },
+    {
+      "source": "technology",
+      "target": "architecture",
+      "weight": 2
+    },
+    {
+      "source": "technology",
+      "target": "modeling",
+      "weight": 3
+    },
+    {
+      "source": "technology",
+      "target": "instruction",
+      "weight": 7
+    },
+    {
+      "source": "technology",
+      "target": "technologies",
+      "weight": 6
+    },
+    {
+      "source": "technology",
+      "target": "educational technologies",
+      "weight": 2
+    },
+    {
+      "source": "technology",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "technology",
+      "target": "approach",
+      "weight": 5
+    },
+    {
+      "source": "technology",
+      "target": "based",
+      "weight": 4
+    },
+    {
+      "source": "technology",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "technology",
+      "target": "principles",
+      "weight": 1
+    },
+    {
+      "source": "technology",
+      "target": "figure",
+      "weight": 2
+    },
+    {
+      "source": "al",
+      "target": "education",
+      "weight": 55
+    },
+    {
+      "source": "al",
+      "target": "technologies",
+      "weight": 45
+    },
+    {
+      "source": "al",
+      "target": "based",
+      "weight": 34
+    },
+    {
+      "source": "al",
+      "target": "approach",
+      "weight": 31
+    },
+    {
+      "source": "al",
+      "target": "educational technologies",
+      "weight": 30
+    },
+    {
+      "source": "al",
+      "target": "instruction",
+      "weight": 102
+    },
+    {
+      "source": "al",
+      "target": "et",
+      "weight": 91
+    },
+    {
+      "source": "al",
+      "target": "model",
+      "weight": 40
+    },
+    {
+      "source": "al",
+      "target": "architecture",
+      "weight": 24
+    },
+    {
+      "source": "al",
+      "target": "modeling",
+      "weight": 23
+    },
+    {
+      "source": "al",
+      "target": "different",
+      "weight": 20
+    },
+    {
+      "source": "al",
+      "target": "principles",
+      "weight": 15
+    },
+    {
+      "source": "al",
+      "target": "process",
+      "weight": 24
+    },
+    {
+      "source": "al",
+      "target": "oriented",
+      "weight": 12
+    },
+    {
+      "source": "al",
+      "target": "et al",
+      "weight": 37
+    },
+    {
+      "source": "al",
+      "target": "domain",
+      "weight": 23
+    },
+    {
+      "source": "al",
+      "target": "goals",
+      "weight": 27
+    },
+    {
+      "source": "al",
+      "target": "figure",
+      "weight": 19
+    },
+    {
+      "source": "al",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "al",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "et",
+      "target": "education",
+      "weight": 30
+    },
+    {
+      "source": "et",
+      "target": "technologies",
+      "weight": 25
+    },
+    {
+      "source": "et",
+      "target": "educational technologies",
+      "weight": 21
+    },
+    {
+      "source": "et",
+      "target": "instruction",
+      "weight": 29
+    },
+    {
+      "source": "et",
+      "target": "approach",
+      "weight": 13
+    },
+    {
+      "source": "et",
+      "target": "model",
+      "weight": 14
+    },
+    {
+      "source": "et",
+      "target": "architecture",
+      "weight": 11
+    },
+    {
+      "source": "et",
+      "target": "modeling",
+      "weight": 10
+    },
+    {
+      "source": "et",
+      "target": "et al",
+      "weight": 37
+    },
+    {
+      "source": "et",
+      "target": "domain",
+      "weight": 12
+    },
+    {
+      "source": "et",
+      "target": "based",
+      "weight": 13
+    },
+    {
+      "source": "et",
+      "target": "process",
+      "weight": 8
+    },
+    {
+      "source": "et",
+      "target": "different",
+      "weight": 7
+    },
+    {
+      "source": "et",
+      "target": "goals",
+      "weight": 3
+    },
+    {
+      "source": "et",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "et",
+      "target": "oriented",
+      "weight": 5
+    },
+    {
+      "source": "et",
+      "target": "figure",
+      "weight": 7
+    },
+    {
+      "source": "et",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "et",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "et al",
+      "target": "education",
+      "weight": 9
+    },
+    {
+      "source": "et al",
+      "target": "domain",
+      "weight": 3
+    },
+    {
+      "source": "et al",
+      "target": "technologies",
+      "weight": 6
+    },
+    {
+      "source": "et al",
+      "target": "educational technologies",
+      "weight": 5
+    },
+    {
+      "source": "et al",
+      "target": "based",
+      "weight": 3
+    },
+    {
+      "source": "et al",
+      "target": "different",
+      "weight": 2
+    },
+    {
+      "source": "et al",
+      "target": "approach",
+      "weight": 3
+    },
+    {
+      "source": "et al",
+      "target": "goals",
+      "weight": 1
+    },
+    {
+      "source": "et al",
+      "target": "instruction",
+      "weight": 6
+    },
+    {
+      "source": "et al",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "et al",
+      "target": "model",
+      "weight": 6
+    },
+    {
+      "source": "et al",
+      "target": "modeling",
+      "weight": 3
+    },
+    {
+      "source": "et al",
+      "target": "architecture",
+      "weight": 4
+    },
+    {
+      "source": "et al",
+      "target": "oriented",
+      "weight": 2
+    },
+    {
+      "source": "et al",
+      "target": "figure",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "technologies",
+      "weight": 43
+    },
+    {
+      "source": "education",
+      "target": "based",
+      "weight": 23
+    },
+    {
+      "source": "education",
+      "target": "approach",
+      "weight": 19
+    },
+    {
+      "source": "education",
+      "target": "educational technologies",
+      "weight": 30
+    },
+    {
+      "source": "education",
+      "target": "instruction",
+      "weight": 23
+    },
+    {
+      "source": "education",
+      "target": "model",
+      "weight": 10
+    },
+    {
+      "source": "education",
+      "target": "architecture",
+      "weight": 5
+    },
+    {
+      "source": "education",
+      "target": "modeling",
+      "weight": 6
+    },
+    {
+      "source": "education",
+      "target": "domain",
+      "weight": 5
+    },
+    {
+      "source": "education",
+      "target": "process",
+      "weight": 4
+    },
+    {
+      "source": "education",
+      "target": "different",
+      "weight": 3
+    },
+    {
+      "source": "education",
+      "target": "goals",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "education",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "oriented",
+      "weight": 5
+    },
+    {
+      "source": "technologies",
+      "target": "based",
+      "weight": 20
+    },
+    {
+      "source": "technologies",
+      "target": "approach",
+      "weight": 17
+    },
+    {
+      "source": "technologies",
+      "target": "educational technologies",
+      "weight": 30
+    },
+    {
+      "source": "technologies",
+      "target": "instruction",
+      "weight": 18
+    },
+    {
+      "source": "technologies",
+      "target": "process",
+      "weight": 4
+    },
+    {
+      "source": "technologies",
+      "target": "different",
+      "weight": 2
+    },
+    {
+      "source": "technologies",
+      "target": "goals",
+      "weight": 2
+    },
+    {
+      "source": "technologies",
+      "target": "model",
+      "weight": 6
+    },
+    {
+      "source": "technologies",
+      "target": "modeling",
+      "weight": 3
+    },
+    {
+      "source": "technologies",
+      "target": "principles",
+      "weight": 3
+    },
+    {
+      "source": "technologies",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "technologies",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "technologies",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "technologies",
+      "target": "domain",
+      "weight": 4
+    },
+    {
+      "source": "technologies",
+      "target": "oriented",
+      "weight": 4
+    },
+    {
+      "source": "technologies",
+      "target": "architecture",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "architecture",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "approach",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "modeling",
+      "weight": 25
+    },
+    {
+      "source": "model",
+      "target": "instruction",
+      "weight": 26
+    },
+    {
+      "source": "model",
+      "target": "based",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "principles",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "process",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "oriented",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "educational technologies",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "domain",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "different",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "goals",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "figure",
+      "weight": 2
+    },
+    {
+      "source": "architecture",
+      "target": "approach",
+      "weight": 5
+    },
+    {
+      "source": "architecture",
+      "target": "modeling",
+      "weight": 2
+    },
+    {
+      "source": "architecture",
+      "target": "instruction",
+      "weight": 11
+    },
+    {
+      "source": "architecture",
+      "target": "based",
+      "weight": 3
+    },
+    {
+      "source": "architecture",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "architecture",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "architecture",
+      "target": "oriented",
+      "weight": 7
+    },
+    {
+      "source": "architecture",
+      "target": "domain",
+      "weight": 4
+    },
+    {
+      "source": "architecture",
+      "target": "figure",
+      "weight": 3
+    },
+    {
+      "source": "architecture",
+      "target": "educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "architecture",
+      "target": "different",
+      "weight": 1
+    },
+    {
+      "source": "architecture",
+      "target": "goals",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "domain",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "different",
+      "weight": 3
+    },
+    {
+      "source": "figure",
+      "target": "based",
+      "weight": 6
+    },
+    {
+      "source": "figure",
+      "target": "approach",
+      "weight": 5
+    },
+    {
+      "source": "figure",
+      "target": "instruction",
+      "weight": 4
+    },
+    {
+      "source": "figure",
+      "target": "educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "oriented",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "goals",
+      "weight": 4
+    },
+    {
+      "source": "figure",
+      "target": "modeling",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "different",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "modeling",
+      "weight": 5
+    },
+    {
+      "source": "domain",
+      "target": "goals",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "instruction",
+      "weight": 7
+    },
+    {
+      "source": "domain",
+      "target": "principles",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "based",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "educational technologies",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "oriented",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "approach",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "based",
+      "target": "approach",
+      "weight": 20
+    },
+    {
+      "source": "based",
+      "target": "educational technologies",
+      "weight": 10
+    },
+    {
+      "source": "based",
+      "target": "instruction",
+      "weight": 11
+    },
+    {
+      "source": "based",
+      "target": "principles",
+      "weight": 3
+    },
+    {
+      "source": "based",
+      "target": "process",
+      "weight": 6
+    },
+    {
+      "source": "based",
+      "target": "oriented",
+      "weight": 3
+    },
+    {
+      "source": "based",
+      "target": "different",
+      "weight": 3
+    },
+    {
+      "source": "based",
+      "target": "goals",
+      "weight": 5
+    },
+    {
+      "source": "based",
+      "target": "modeling",
+      "weight": 5
+    },
+    {
+      "source": "different",
+      "target": "instruction",
+      "weight": 11
+    },
+    {
+      "source": "different",
+      "target": "approach",
+      "weight": 4
+    },
+    {
+      "source": "different",
+      "target": "goals",
+      "weight": 4
+    },
+    {
+      "source": "different",
+      "target": "educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "different",
+      "target": "process",
+      "weight": 4
+    },
+    {
+      "source": "different",
+      "target": "modeling",
+      "weight": 3
+    },
+    {
+      "source": "different",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "different",
+      "target": "oriented",
+      "weight": 1
+    },
+    {
+      "source": "approach",
+      "target": "educational technologies",
+      "weight": 7
+    },
+    {
+      "source": "approach",
+      "target": "modeling",
+      "weight": 3
+    },
+    {
+      "source": "approach",
+      "target": "instruction",
+      "weight": 12
+    },
+    {
+      "source": "approach",
+      "target": "goals",
+      "weight": 2
+    },
+    {
+      "source": "approach",
+      "target": "process",
+      "weight": 4
+    },
+    {
+      "source": "approach",
+      "target": "principles",
+      "weight": 5
+    },
+    {
+      "source": "approach",
+      "target": "oriented",
+      "weight": 2
+    },
+    {
+      "source": "goals",
+      "target": "educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "goals",
+      "target": "instruction",
+      "weight": 15
+    },
+    {
+      "source": "goals",
+      "target": "process",
+      "weight": 7
+    },
+    {
+      "source": "goals",
+      "target": "oriented",
+      "weight": 1
+    },
+    {
+      "source": "goals",
+      "target": "modeling",
+      "weight": 6
+    },
+    {
+      "source": "goals",
+      "target": "principles",
+      "weight": 1
+    },
+    {
+      "source": "modeling",
+      "target": "instruction",
+      "weight": 18
+    },
+    {
+      "source": "modeling",
+      "target": "educational technologies",
+      "weight": 3
+    },
+    {
+      "source": "modeling",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "modeling",
+      "target": "oriented",
+      "weight": 1
+    },
+    {
+      "source": "modeling",
+      "target": "process",
+      "weight": 3
+    },
+    {
+      "source": "educational technologies",
+      "target": "instruction",
+      "weight": 16
+    },
+    {
+      "source": "educational technologies",
+      "target": "process",
+      "weight": 3
+    },
+    {
+      "source": "educational technologies",
+      "target": "principles",
+      "weight": 2
+    },
+    {
+      "source": "educational technologies",
+      "target": "design educational",
+      "weight": 1
+    },
+    {
+      "source": "educational technologies",
+      "target": "design educational technologies",
+      "weight": 1
+    },
+    {
+      "source": "educational technologies",
+      "target": "oriented",
+      "weight": 3
+    },
+    {
+      "source": "instruction",
+      "target": "principles",
+      "weight": 11
+    },
+    {
+      "source": "instruction",
+      "target": "process",
+      "weight": 20
+    },
+    {
+      "source": "instruction",
+      "target": "oriented",
+      "weight": 8
+    },
+    {
+      "source": "principles",
+      "target": "process",
+      "weight": 5
+    },
+    {
+      "source": "principles",
+      "target": "oriented",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "oriented",
+      "weight": 1
+    },
+    {
+      "source": "design educational",
+      "target": "design educational technologies",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 384,
+    "is_connected": true
+  }
+}

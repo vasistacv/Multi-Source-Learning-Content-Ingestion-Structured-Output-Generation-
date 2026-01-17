@@ -1,0 +1,234 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_03.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:51:53.357445",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_03.txt",
+    "file_type": ".txt",
+    "file_size": 2394,
+    "processed_at": "2026-01-17T13:51:52.121954",
+    "content_hash": "de1b3b52afe15b8d05be54ac99240d6e4a22a8f256806bed6e60c3587c5731f4",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 313,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Language",
+    "Language Models",
+    "Models",
+    "Lecture",
+    "Nlp"
+  ],
+  "key_concepts": [
+    "language",
+    "language models",
+    "models",
+    "lecture",
+    "nlp",
+    "real",
+    "implementation",
+    "implement",
+    "grams",
+    "grams perplexity",
+    "grams perplexity lstm",
+    "lstm",
+    "lstm language",
+    "lstm language models",
+    "perplexity"
+  ],
+  "entity_count": 68,
+  "word_count": 313,
+  "flashcards": [],
+  "quiz_questions": [
+    {
+      "question": "What is the main topic of Lecture 3 in the NLP course?",
+      "options": [
+        "A) Deep Learning",
+        "B) Language Models",
+        "C) Computer Vision",
+        "D) Data Mining"
+      ],
+      "correct": "B",
+      "explanation": "The lecture overview states that the focus of Lecture 3 is Language Models."
+    },
+    {
+      "question": "What is the duration of Lecture 3 in the NLP course?",
+      "options": [
+        "A) 60 minutes",
+        "B) 90 minutes",
+        "C) 120 minutes",
+        "D) 180 minutes"
+      ],
+      "correct": "B",
+      "explanation": "The lecture details specify that the duration of Lecture 3 is 90 minutes."
+    },
+    {
+      "question": "What is one of the key learning outcomes of Lecture 3?",
+      "options": [
+        "A) Understanding of Computer Vision",
+        "B) Implementation of algorithms related to N-grams, perplexity, LSTM language models",
+        "C) Knowledge of Data Mining",
+        "D) Familiarity with Deep Learning"
+      ],
+      "correct": "B",
+      "explanation": "The key learning outcomes state that students will be able to implement algorithms related to N-grams, perplexity, LSTM language models."
+    },
+    {
+      "question": "What is the time complexity of typical implementations of Language Models?",
+      "options": [
+        "A) O(n)",
+        "B) O(n\u00b2)",
+        "C) O(n\u00b3)",
+        "D) O(2^n)"
+      ],
+      "correct": "B",
+      "explanation": "The detailed content section states that the time complexity of typical implementations is O(n\u00b2)."
+    },
+    {
+      "question": "What is the space complexity of typical implementations of Language Models?",
+      "options": [
+        "A) O(1)",
+        "B) O(n)",
+        "C) O(n\u00b2)",
+        "D) O(2^n)"
+      ],
+      "correct": "B",
+      "explanation": "The detailed content section states that the space complexity of typical implementations is O(n)."
+    },
+    {
+      "question": "What is one of the real-world applications of Language Models?",
+      "options": [
+        "A) E-commerce recommendation systems",
+        "B) Medical device manufacturing",
+        "C) Financial accounting",
+        "D) Autonomous vehicle control"
+      ],
+      "correct": "A",
+      "explanation": "The real-world applications section mentions e-commerce recommendation systems as one of the use cases."
+    },
+    {
+      "question": "What is the task in the hands-on exercise for Lecture 3?",
+      "options": [
+        "A) Implement Language Models and achieve >80% accuracy on test set",
+        "B) Implement Language Models and achieve >85% accuracy on test set",
+        "C) Implement Computer Vision and achieve >90% accuracy on test set",
+        "D) Implement Data Mining and achieve >95% accuracy on test set"
+      ],
+      "correct": "B",
+      "explanation": "The hands-on exercise section specifies that the task is to implement Language Models and achieve >85% accuracy on test set."
+    },
+    {
+      "question": "What is the due date for the homework assignment for Lecture 3?",
+      "options": [
+        "A) This week",
+        "B) Next week before lecture",
+        "C) Next week after lecture",
+        "D) Two weeks after lecture"
+      ],
+      "correct": "B",
+      "explanation": "The homework assignment section states that the due date is next week before lecture."
+    },
+    {
+      "question": "What is one of the additional resources provided for Lecture 3?",
+      "options": [
+        "A) Paper: \"Introduction to NLP\" (2020)",
+        "B) Paper: \"Advances in Language Models\" (2024)",
+        "C) Tutorial: https://example.com/ml",
+        "D) Dataset: UCI Machine Learning Repository - Computer Vision Dataset"
+      ],
+      "correct": "B",
+      "explanation": "The additional resources section mentions the paper \"Advances in Language Models\" (2024) as one of the resources."
+    },
+    {
+      "question": "Where can students attend office hours for the NLP course?",
+      "options": [
+        "A) Mondays 2-4 PM, Room 101",
+        "B) Wednesdays 3-5 PM, Room 302",
+        "C) Fridays 10-12 PM, Room 401",
+        "D) Saturdays 1-3 PM, Room 501"
+      ],
+      "correct": "B",
+      "explanation": "The office hours section states that students can attend office hours on Wednesdays 3-5 PM, Room 302."
+    }
+  ],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 228,
+      "density": 0.8260869565217391,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.173913043478261,
+      "average_clustering": 0.9209486166007905,
+      "most_central_concepts": [
+        [
+          "language",
+          1.0
+        ],
+        [
+          "language models",
+          1.0
+        ],
+        [
+          "models",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ],
+        [
+          "world applications",
+          1.0
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "language",
+        "language models"
+      ],
+      [
+        "language",
+        "models"
+      ],
+      [
+        "language",
+        "lecture"
+      ],
+      [
+        "language",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\NLP_Lecture_03"
+  },
+  "rag_document_id": "0ed24a34-5569-438e-ac85-6a6ca67d69c3",
+  "processing_time_seconds": 7.330129
+}

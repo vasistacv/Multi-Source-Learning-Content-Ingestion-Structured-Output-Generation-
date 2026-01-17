@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2105.04026v2_The Modern Mathematics of Deep Learning.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:43:08.742983",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2105.04026v2_The Modern Mathematics of Deep Learning.pdf",
+    "file_type": ".pdf",
+    "file_size": 3509595,
+    "processed_at": "2026-01-17T13:43:06.747837",
+    "content_hash": "bc2f041e6bb4cc488e3c638ae5231ca6ce7c11b92ca9b88f834fd2c50cdce21f",
+    "language": null,
+    "page_count": 78,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "subject": "",
+      "creator": "LaTeX with hyperref",
+      "producer": "pdfTeX-1.40.21",
+      "creation_date": "D:20230209015647Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Cid",
+    "Learning",
+    "Neural",
+    "Deep",
+    "Nns"
+  ],
+  "key_concepts": [
+    "cid",
+    "learning",
+    "deep",
+    "neural",
+    "nns",
+    "nn",
+    "networks",
+    "function",
+    "approximation",
+    "neural networks",
+    "data",
+    "37",
+    "cid 37",
+    "107",
+    "96"
+  ],
+  "entity_count": 3786,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 21,
+      "edge_count": 141,
+      "density": 0.6714285714285714,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.3285714285714285,
+      "average_clustering": 0.7852362091526178,
+      "most_central_concepts": [
+        [
+          "pp",
+          1.0
+        ],
+        [
+          "cid",
+          0.8500000000000001
+        ],
+        [
+          "neural",
+          0.8500000000000001
+        ],
+        [
+          "deep",
+          0.8500000000000001
+        ],
+        [
+          "nn",
+          0.8
+        ],
+        [
+          "networks",
+          0.8
+        ],
+        [
+          "rd",
+          0.8
+        ],
+        [
+          "function",
+          0.75
+        ],
+        [
+          "learning",
+          0.7000000000000001
+        ],
+        [
+          "data",
+          0.7000000000000001
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "pp",
+        "cid"
+      ],
+      [
+        "pp",
+        "neural"
+      ],
+      [
+        "pp",
+        "deep"
+      ],
+      [
+        "pp",
+        "nn"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2105.04026v2_The Modern Mathematics of Deep Learning"
+  },
+  "rag_document_id": "861d8fde-d66e-40d4-9564-16acd6ae3264",
+  "processing_time_seconds": 33.737878
+}

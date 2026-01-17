@@ -14,6 +14,8 @@ from .generators.artifact_generator import FlashcardGenerator, QuizGenerator
 from .generators.knowledge_graph import KnowledgeGraphGenerator
 from .vectorstore.rag_system import RAGSystem
 from .config.settings import settings
+from .llm.llm_engine import GroqLLM, LocalLLM, LLMPoweredGenerator
+import os
 
 
 class ContentIngestionPipeline:
@@ -24,12 +26,25 @@ class ContentIngestionPipeline:
         
         self.nlp_engine = NLPEngine(device=device)
         
+        # Initialize LLM (prefer Groq if available)
+        self.llm = None
+        self.llm_generator = None
+        
+        if os.getenv("GROQ_API_KEY"):
+            try:
+                logger.info("Initializing Groq LLM for high-quality generation")
+                self.llm = GroqLLM()
+                self.llm_generator = LLMPoweredGenerator(self.llm)
+            except Exception as e:
+                logger.warning(f"Failed to init Groq: {e}")
+        
         self.pdf_processor = PDFProcessor(use_ocr=True)
         self.video_processor = VideoProcessor(device=device)
         self.document_processor = DocumentProcessor()
         
-        self.flashcard_generator = FlashcardGenerator(self.nlp_engine)
-        self.quiz_generator = QuizGenerator(self.nlp_engine)
+        # Keep legacy generators as fallback
+        self.flashcard_generator_legacy = FlashcardGenerator(self.nlp_engine)
+        self.quiz_generator_legacy = QuizGenerator(self.nlp_engine)
         self.knowledge_graph_generator = KnowledgeGraphGenerator(self.nlp_engine)
         
         self.rag_system = RAGSystem(self.nlp_engine)
@@ -83,11 +98,15 @@ class ContentIngestionPipeline:
         embeddings = self.nlp_engine.generate_embeddings([processed_content.raw_text])
         processed_content.embeddings = embeddings[0].tolist()
         
-        logger.info("Generating summary...")
-        summary = self.nlp_engine.generate_summary(
-            processed_content.raw_text,
-            max_length=settings.SUMMARY_MAX_LENGTH
-        )
+        if self.llm_generator:
+            logger.info("Generating summary with Groq...")
+            summary = self.llm_generator.generate_summary(processed_content.raw_text)
+        else:
+            logger.info("Generating summary with NLP engine...")
+            summary = self.nlp_engine.generate_summary(
+                processed_content.raw_text,
+                max_length=settings.SUMMARY_MAX_LENGTH
+            )
         
         result = {
             'file_path': str(file_path),
@@ -104,36 +123,56 @@ class ContentIngestionPipeline:
         if generate_artifacts:
             logger.info("Generating learning artifacts...")
             
-            flashcards = self.flashcard_generator.generate(
-                processed_content.raw_text,
-                num_cards=20
-            )
-            result['flashcards'] = [
-                {
-                    'question': fc.question,
-                    'answer': fc.answer,
-                    'topic': fc.topic,
-                    'difficulty': fc.difficulty,
-                    'confidence_score': fc.confidence_score
-                }
-                for fc in flashcards
-            ]
+            if self.llm_generator:
+                flashcards = self.llm_generator.generate_flashcards(processed_content.raw_text, num_cards=20)
+                # Normalize format to matching legacy output structure
+                result['flashcards'] = [
+                    {
+                        'question': fc['question'],
+                        'answer': fc['answer'],
+                        'topic': 'General',
+                        'difficulty': fc.get('difficulty', 'medium'),
+                        'confidence_score': 1.0
+                    }
+                    for fc in flashcards
+                ]
+                
+                quiz_questions = self.llm_generator.generate_quiz(processed_content.raw_text, num_questions=10)
+                result['quiz_questions'] = quiz_questions
             
-            quiz_questions = self.quiz_generator.generate(
-                processed_content.raw_text,
-                num_questions=10
-            )
-            result['quiz_questions'] = [
-                {
-                    'question': q.question,
-                    'options': q.options,
-                    'correct_answer': q.correct_answer,
-                    'explanation': q.explanation,
-                    'difficulty': q.difficulty,
-                    'type': q.question_type
-                }
-                for q in quiz_questions
-            ]
+            else:
+                # Legacy generation
+                flashcards = self.flashcard_generator_legacy.generate(
+                    processed_content.raw_text,
+                    num_cards=20
+                )
+                result['flashcards'] = [
+                    {
+                        'question': fc.question,
+                        'answer': fc.answer,
+                        'topic': fc.topic,
+                        'difficulty': fc.difficulty,
+                        'confidence_score': fc.confidence_score
+                    }
+                    for fc in flashcards
+                ]
+                
+                quiz_questions = self.quiz_generator_legacy.generate(
+                    processed_content.raw_text,
+                    num_questions=10
+                )
+                result['quiz_questions'] = [
+                    {
+                        'question': q.question,
+                        'options': q.options,
+                        'correct_answer': q.correct_answer,
+                        'explanation': q.explanation,
+                        'difficulty': q.difficulty,
+                        'type': q.question_type
+                    }
+                    for q in quiz_questions
+                ]
+
             
             knowledge_graph = self.knowledge_graph_generator.generate(
                 processed_content.raw_text,
@@ -148,15 +187,19 @@ class ContentIngestionPipeline:
                 graph_output_dir / "graph.json"
             )
             
-            self.knowledge_graph_generator.visualize_matplotlib(
-                knowledge_graph,
-                graph_output_dir / "graph_visualization.png"
-            )
-            
-            self.knowledge_graph_generator.visualize_plotly(
-                knowledge_graph,
-                graph_output_dir / "graph_interactive.html"
-            )
+            # SKIPPING VISUALIZATION TO PREVENT OOM / C: DRIVE FILLING
+            # try:
+            #     self.knowledge_graph_generator.visualize_matplotlib(
+            #         knowledge_graph,
+            #         graph_output_dir / "graph_visualization.png"
+            #     )
+            #     
+            #     self.knowledge_graph_generator.visualize_plotly(
+            #         knowledge_graph,
+            #         graph_output_dir / "graph_interactive.html"
+            #     )
+            # except Exception as e:
+            #     logger.warning(f"Graph visualization failed for {file_path.name}: {e}")
             
             learning_paths = self.knowledge_graph_generator.extract_learning_paths(
                 knowledge_graph,

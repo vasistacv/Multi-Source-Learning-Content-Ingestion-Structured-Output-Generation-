@@ -1,0 +1,1356 @@
+{
+  "nodes": [
+    {
+      "id": "classification",
+      "label": "classification",
+      "weight": 2.672275163428867,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "text",
+      "label": "text",
+      "weight": 2.672275163428867,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "text classification",
+      "label": "text classification",
+      "weight": 2.672275163428867,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "weight": 2.296791449006411,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0028180354267310793,
+      "eigenvector_centrality": 0.17432218259082596
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.2179206112063032,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 1.5285027030415166,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "implementations",
+      "label": "implementations",
+      "weight": 1.0565295154937644,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0128272995807426,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9787873664196547,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.9615624094554578,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.8980335187803943,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8819421411052696,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "categorization",
+      "label": "categorization",
+      "weight": 0.8451454893850592,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "document",
+      "label": "document",
+      "weight": 0.8451454893850592,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "document categorization",
+      "label": "document categorization",
+      "weight": 0.8451454893850592,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "sentiment",
+      "label": "sentiment",
+      "weight": 0.8451454893850592,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "sentiment analysis",
+      "label": "sentiment analysis",
+      "weight": 0.8451454893850592,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8429470738031011,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "implement text",
+      "label": "implement text",
+      "weight": 0.646304605091212,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "implement text classification",
+      "label": "implement text classification",
+      "weight": 0.646304605091212,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5870406071011223,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16489727212734506
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5777389946166946,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5246681386714496,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03140096618357488,
+      "eigenvector_centrality": 0.24623611227293604
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.44189870200014103,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17981662837642495
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.31287653463618137,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.003220611916264091,
+      "eigenvector_centrality": 0.18853132776239212
+    }
+  ],
+  "edges": [
+    {
+      "source": "classification",
+      "target": "text",
+      "weight": 8
+    },
+    {
+      "source": "classification",
+      "target": "text classification",
+      "weight": 8
+    },
+    {
+      "source": "classification",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "classification",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "analysis",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "categorization",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "document",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "document categorization",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "sentiment",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "sentiment analysis",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "classification",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "text classification",
+      "weight": 8
+    },
+    {
+      "source": "text",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "text",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "text",
+      "target": "analysis",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "text",
+      "target": "categorization",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "document",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "document categorization",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "sentiment",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "sentiment analysis",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "text",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "text",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "text classification",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "text classification",
+      "target": "analysis",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "text classification",
+      "target": "categorization",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "document",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "document categorization",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "sentiment",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "sentiment analysis",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "text classification",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "text classification",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "lecture",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "implementations",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "categorization",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "document",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "document categorization",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "sentiment",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "sentiment analysis",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "categorization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "document categorization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sentiment",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sentiment analysis",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "categorization",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "document categorization",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "sentiment",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "sentiment analysis",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "categorization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "document categorization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sentiment",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sentiment analysis",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "categorization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "document categorization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sentiment",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sentiment analysis",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "categorization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "document",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "document categorization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sentiment",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sentiment analysis",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "categorization",
+      "target": "document",
+      "weight": 3
+    },
+    {
+      "source": "categorization",
+      "target": "document categorization",
+      "weight": 3
+    },
+    {
+      "source": "categorization",
+      "target": "sentiment",
+      "weight": 3
+    },
+    {
+      "source": "categorization",
+      "target": "sentiment analysis",
+      "weight": 3
+    },
+    {
+      "source": "categorization",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "categorization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "document",
+      "target": "document categorization",
+      "weight": 3
+    },
+    {
+      "source": "document",
+      "target": "sentiment",
+      "weight": 3
+    },
+    {
+      "source": "document",
+      "target": "sentiment analysis",
+      "weight": 3
+    },
+    {
+      "source": "document",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "document",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "document categorization",
+      "target": "sentiment",
+      "weight": 3
+    },
+    {
+      "source": "document categorization",
+      "target": "sentiment analysis",
+      "weight": 3
+    },
+    {
+      "source": "document categorization",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "document categorization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sentiment",
+      "target": "sentiment analysis",
+      "weight": 3
+    },
+    {
+      "source": "sentiment",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "sentiment",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sentiment analysis",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "sentiment analysis",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement text",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement text",
+      "target": "implement text classification",
+      "weight": 1
+    },
+    {
+      "source": "implement text",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement text",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement text",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement text",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement text classification",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement text classification",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement text classification",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement text classification",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 229,
+    "is_connected": true
+  }
+}

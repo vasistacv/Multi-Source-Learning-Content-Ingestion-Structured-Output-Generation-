@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_017_open_source_contribution_strategy.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:38:20.083424",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_017_open_source_contribution_strategy.txt",
+    "file_type": ".txt",
+    "file_size": 99,
+    "processed_at": "2026-01-17T13:38:18.672530",
+    "content_hash": "0e391492c41402c1ac5a18911fb7d0867683ddf4fadb669dba164efb86eca1c1",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 12,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 12,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_017_open_source_contribution_strategy"
+  },
+  "rag_document_id": "c64403fd-91ab-4b1a-8890-57ae558ca2e4",
+  "processing_time_seconds": 3.95311
+}

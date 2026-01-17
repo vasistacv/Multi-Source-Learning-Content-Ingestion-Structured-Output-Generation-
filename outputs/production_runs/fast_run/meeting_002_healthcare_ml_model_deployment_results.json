@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_002_healthcare_ml_model_deployment.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:31:35.962439",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_002_healthcare_ml_model_deployment.txt",
+    "file_type": ".txt",
+    "file_size": 4312,
+    "processed_at": "2026-01-17T13:31:35.489819",
+    "content_hash": "6d0d4bfa2ddc81f4be89d83894af5e34d67956440ca1cc1969d669b0187cbebb",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 617,
+    "metadata": {
+      "line_count": 99,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Model",
+    "Patients",
+    "Data",
+    "Compliance",
+    "Review"
+  ],
+  "key_concepts": [
+    "model",
+    "patients",
+    "threshold",
+    "data",
+    "compliance",
+    "dr",
+    "review",
+    "30",
+    "00",
+    "patient",
+    "deployment",
+    "james",
+    "james thompson",
+    "thompson",
+    "readmission"
+  ],
+  "entity_count": 89,
+  "word_count": 617,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 29,
+      "edge_count": 190,
+      "density": 0.46798029556650245,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.5591133004926108,
+      "average_clustering": 0.7647603044335792,
+      "most_central_concepts": [
+        [
+          "model",
+          0.8571428571428571
+        ],
+        [
+          "readmission",
+          0.7857142857142857
+        ],
+        [
+          "patient",
+          0.7142857142857142
+        ],
+        [
+          "compliance",
+          0.7142857142857142
+        ],
+        [
+          "review",
+          0.6785714285714285
+        ],
+        [
+          "deployment",
+          0.6785714285714285
+        ],
+        [
+          "lisa",
+          0.6428571428571428
+        ],
+        [
+          "ml",
+          0.6071428571428571
+        ],
+        [
+          "risk",
+          0.5714285714285714
+        ],
+        [
+          "james",
+          0.5714285714285714
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "model",
+        "readmission"
+      ],
+      [
+        "model",
+        "patient"
+      ],
+      [
+        "model",
+        "compliance"
+      ],
+      [
+        "model",
+        "review"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_002_healthcare_ml_model_deployment"
+  },
+  "rag_document_id": "a39326c4-84ec-483e-9e76-c5667e9fbd47",
+  "processing_time_seconds": 0.831269
+}

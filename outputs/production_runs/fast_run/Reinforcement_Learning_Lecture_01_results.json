@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Reinforcement_Learning_Lecture_01.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:52:32.309919",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Reinforcement_Learning_Lecture_01.txt",
+    "file_type": ".txt",
+    "file_size": 2507,
+    "processed_at": "2026-01-17T13:52:32.063146",
+    "content_hash": "63516e981b83b47a546856dda895aa86329ae024ddae8223818a913d90f044ce",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Fundamentals",
+    "Mdp",
+    "Mdp Fundamentals",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "fundamentals",
+    "mdp",
+    "mdp fundamentals",
+    "lecture",
+    "learning",
+    "real",
+    "reinforcement",
+    "reinforcement learning",
+    "implement",
+    "actions",
+    "actions rewards",
+    "actions rewards bellman",
+    "bellman",
+    "bellman equations",
+    "rewards"
+  ],
+  "entity_count": 74,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 220,
+      "density": 0.7971014492753623,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2028985507246377,
+      "average_clustering": 0.9047183794466404,
+      "most_central_concepts": [
+        [
+          "fundamentals",
+          1.0
+        ],
+        [
+          "mdp",
+          1.0
+        ],
+        [
+          "mdp fundamentals",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9565217391304348
+        ],
+        [
+          "implement",
+          0.9565217391304348
+        ],
+        [
+          "real",
+          0.9565217391304348
+        ],
+        [
+          "implementation",
+          0.9565217391304348
+        ],
+        [
+          "applications",
+          0.9565217391304348
+        ],
+        [
+          "world",
+          0.9565217391304348
+        ],
+        [
+          "world applications",
+          0.9565217391304348
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "fundamentals",
+        "mdp"
+      ],
+      [
+        "fundamentals",
+        "mdp fundamentals"
+      ],
+      [
+        "fundamentals",
+        "lecture"
+      ],
+      [
+        "fundamentals",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Reinforcement_Learning_Lecture_01"
+  },
+  "rag_document_id": "6f0f5682-fbe7-4407-a60a-2f5271fa8e41",
+  "processing_time_seconds": 0.550492
+}

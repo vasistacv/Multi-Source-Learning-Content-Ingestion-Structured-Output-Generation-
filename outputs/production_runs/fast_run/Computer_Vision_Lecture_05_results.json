@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_05.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:48:01.501717",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_05.txt",
+    "file_type": ".txt",
+    "file_size": 2505,
+    "processed_at": "2026-01-17T13:47:59.988667",
+    "content_hash": "7b133377e4b0d9df932e1d439a985c88f48398c2cfac316551f724fa3b4862ff",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Image",
+    "Generation",
+    "Image Generation",
+    "Lecture",
+    "Implement"
+  ],
+  "key_concepts": [
+    "image",
+    "generation",
+    "image generation",
+    "lecture",
+    "real",
+    "implementation",
+    "computer",
+    "computer vision",
+    "vision",
+    "implement",
+    "conditional gans",
+    "conditional gans image",
+    "gans",
+    "gans image image",
+    "image image"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 22,
+      "edge_count": 183,
+      "density": 0.7922077922077922,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2077922077922079,
+      "average_clustering": 0.9168831168831169,
+      "most_central_concepts": [
+        [
+          "image",
+          1.0
+        ],
+        [
+          "generation",
+          1.0
+        ],
+        [
+          "image generation",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "computer",
+          0.7142857142857142
+        ],
+        [
+          "computer vision",
+          0.7142857142857142
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "image",
+        "generation"
+      ],
+      [
+        "image",
+        "image generation"
+      ],
+      [
+        "image",
+        "lecture"
+      ],
+      [
+        "image",
+        "implementation"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Computer_Vision_Lecture_05"
+  },
+  "rag_document_id": "7ff3bfb5-de0a-47f1-b970-25b9ea7a3611",
+  "processing_time_seconds": 4.130163
+}

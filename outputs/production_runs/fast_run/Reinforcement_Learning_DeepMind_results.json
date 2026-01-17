@@ -1,0 +1,121 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Reinforcement_Learning_DeepMind.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:40:35.075429",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Reinforcement_Learning_DeepMind.txt",
+    "file_type": ".txt",
+    "file_size": 608,
+    "processed_at": "2026-01-17T13:40:33.779180",
+    "content_hash": "39d38f5e1a1f09c44e4f0f3ac1e0e2362d5116dffbe8b515f6cf4d2ddc36478f",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 68,
+    "metadata": {
+      "line_count": 19,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Learning",
+    "Reinforcement",
+    "Reinforcement Learning",
+    "30",
+    "48"
+  ],
+  "key_concepts": [
+    "learning",
+    "reinforcement",
+    "reinforcement learning",
+    "agents learn",
+    "agents learn trial",
+    "30",
+    "48",
+    "48 30",
+    "recording",
+    "david",
+    "david silver",
+    "dr",
+    "silver",
+    "transcript",
+    "video"
+  ],
+  "entity_count": 19,
+  "word_count": 68,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 20,
+      "edge_count": 94,
+      "density": 0.49473684210526314,
+      "is_connected": false,
+      "average_clustering": 0.8188411588411588,
+      "most_central_concepts": [
+        [
+          "david",
+          0.7368421052631579
+        ],
+        [
+          "david silver",
+          0.7368421052631579
+        ],
+        [
+          "dr",
+          0.7368421052631579
+        ],
+        [
+          "silver",
+          0.7368421052631579
+        ],
+        [
+          "transcript",
+          0.7368421052631579
+        ],
+        [
+          "video",
+          0.7368421052631579
+        ],
+        [
+          "learning",
+          0.5789473684210527
+        ],
+        [
+          "30",
+          0.5789473684210527
+        ],
+        [
+          "48",
+          0.5789473684210527
+        ],
+        [
+          "recording",
+          0.5789473684210527
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "david",
+        "david silver"
+      ],
+      [
+        "david",
+        "dr"
+      ],
+      [
+        "david",
+        "silver"
+      ],
+      [
+        "david",
+        "transcript"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Reinforcement_Learning_DeepMind"
+  },
+  "rag_document_id": "1ab0042d-f9bf-48de-99fc-174410ea122f",
+  "processing_time_seconds": 4.036497
+}

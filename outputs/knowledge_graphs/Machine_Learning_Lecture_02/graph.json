@@ -1,0 +1,1195 @@
+{
+  "nodes": [
+    {
+      "id": "logistic",
+      "label": "logistic",
+      "weight": 2.61096324782066,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028663255935983217,
+      "eigenvector_centrality": 0.24917710913418703
+    },
+    {
+      "id": "logistic regression",
+      "label": "logistic regression",
+      "weight": 2.61096324782066,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028663255935983217,
+      "eigenvector_centrality": 0.24917710913418703
+    },
+    {
+      "id": "regression",
+      "label": "regression",
+      "weight": 2.61096324782066,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028663255935983217,
+      "eigenvector_centrality": 0.24917710913418703
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1246479073878306,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.02020202020202021,
+      "eigenvector_centrality": 0.2422451444849904
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9060286852773802,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17017235404153974
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.279835473252459,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.02020202020202021,
+      "eigenvector_centrality": 0.2422451444849904
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.259807057380538,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17017235404153974
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.259807057380538,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17017235404153974
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0331754012258862,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.02020202020202021,
+      "eigenvector_centrality": 0.2422451444849904
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0093990424388535,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.02020202020202021,
+      "eigenvector_centrality": 0.2422451444849904
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8860195851149455,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17017235404153974
+    },
+    {
+      "id": "binary",
+      "label": "binary",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "binary classification",
+      "label": "binary classification",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "classification",
+      "label": "classification",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "function",
+      "label": "function",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "log",
+      "label": "log",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028663255935983217,
+      "eigenvector_centrality": 0.24917710913418703
+    },
+    {
+      "id": "loss",
+      "label": "loss",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "sigmoid",
+      "label": "sigmoid",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "sigmoid function",
+      "label": "sigmoid function",
+      "weight": 0.6773589335939108,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0019677292404565133,
+      "eigenvector_centrality": 0.1953666230930545
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5385294132109437,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13153296388977292
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5249040286151243,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.02020202020202021,
+      "eigenvector_centrality": 0.24224514448499046
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4851045799726603,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17017235404153974
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.3451868433464308,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17017235404153974
+    }
+  ],
+  "edges": [
+    {
+      "source": "logistic",
+      "target": "logistic regression",
+      "weight": 8
+    },
+    {
+      "source": "logistic",
+      "target": "regression",
+      "weight": 8
+    },
+    {
+      "source": "logistic",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "logistic",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "logistic",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "logistic",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "logistic",
+      "target": "log",
+      "weight": 8
+    },
+    {
+      "source": "logistic",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "logistic",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "binary",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "binary classification",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "classification",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "function",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "loss",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "sigmoid",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "sigmoid function",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "logistic",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "logistic",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "logistic",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "regression",
+      "weight": 8
+    },
+    {
+      "source": "logistic regression",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "logistic regression",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "logistic regression",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "logistic regression",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "logistic regression",
+      "target": "log",
+      "weight": 8
+    },
+    {
+      "source": "logistic regression",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "logistic regression",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "binary",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "binary classification",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "classification",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "function",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "loss",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "sigmoid",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "sigmoid function",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "logistic regression",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "logistic regression",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "logistic regression",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "regression",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "log",
+      "weight": 8
+    },
+    {
+      "source": "regression",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "binary",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "binary classification",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "classification",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "function",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "loss",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "sigmoid",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "sigmoid function",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "log",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "binary",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "binary classification",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sigmoid",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sigmoid function",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "binary",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "binary classification",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "log",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sigmoid",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sigmoid function",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "binary",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "binary classification",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "classification",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "function",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "log",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "loss",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sigmoid",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sigmoid function",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "binary",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "binary classification",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "log",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "loss",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sigmoid",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sigmoid function",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "log",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "binary",
+      "target": "binary classification",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "classification",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "function",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "sigmoid",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "binary",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "binary",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "binary classification",
+      "target": "classification",
+      "weight": 3
+    },
+    {
+      "source": "binary classification",
+      "target": "function",
+      "weight": 3
+    },
+    {
+      "source": "binary classification",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "binary classification",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "binary classification",
+      "target": "sigmoid",
+      "weight": 3
+    },
+    {
+      "source": "binary classification",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "binary classification",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "binary classification",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "function",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "sigmoid",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "classification",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "log",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "sigmoid",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "function",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "log",
+      "target": "loss",
+      "weight": 3
+    },
+    {
+      "source": "log",
+      "target": "sigmoid",
+      "weight": 3
+    },
+    {
+      "source": "log",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "log",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "log",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "log",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "log",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "loss",
+      "target": "sigmoid",
+      "weight": 3
+    },
+    {
+      "source": "loss",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "loss",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "loss",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "sigmoid",
+      "target": "sigmoid function",
+      "weight": 3
+    },
+    {
+      "source": "sigmoid",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sigmoid",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "sigmoid function",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sigmoid function",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 200,
+    "is_connected": true
+  }
+}

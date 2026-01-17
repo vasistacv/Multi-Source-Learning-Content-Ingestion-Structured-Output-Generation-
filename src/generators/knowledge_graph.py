@@ -2,6 +2,8 @@ from typing import List, Dict, Any, Optional
 import networkx as nx
 import json
 from pathlib import Path
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from loguru import logger

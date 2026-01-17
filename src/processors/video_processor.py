@@ -4,7 +4,10 @@ import cv2
 import whisper
 import torch
 import numpy as np
-from moviepy.editor import VideoFileClip
+try:
+    from moviepy.editor import VideoFileClip
+except ImportError:
+    from moviepy import VideoFileClip
 import tempfile
 import subprocess
 from loguru import logger
@@ -77,7 +80,7 @@ class VideoProcessor(BaseContentProcessor):
             
             video = VideoFileClip(str(file_path))
             if video.audio:
-                video.audio.write_audiofile(temp_audio_path, verbose=False, logger=None)
+                video.audio.write_audiofile(temp_audio_path, logger=None)
             else:
                 logger.warning(f"No audio track found in {file_path}")
                 return {'segments': [], 'text': '', 'language': None}
@@ -86,8 +89,7 @@ class VideoProcessor(BaseContentProcessor):
             result = self.whisper_model.transcribe(
                 temp_audio_path,
                 language=None,
-                task='transcribe',
-                verbose=False
+                task='transcribe'
             )
             
             Path(temp_audio_path).unlink(missing_ok=True)

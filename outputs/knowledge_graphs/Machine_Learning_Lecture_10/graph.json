@@ -1,0 +1,1029 @@
+{
+  "nodes": [
+    {
+      "id": "evaluation",
+      "label": "evaluation",
+      "weight": 2.5369058329407608,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02887426900584796,
+      "eigenvector_centrality": 0.2537603785739073
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 2.5369058329407608,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02887426900584796,
+      "eigenvector_centrality": 0.2537603785739073
+    },
+    {
+      "id": "model evaluation",
+      "label": "model evaluation",
+      "weight": 2.5369058329407608,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02887426900584796,
+      "eigenvector_centrality": 0.2537603785739073
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.004407119833192,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02887426900584796,
+      "eigenvector_centrality": 0.2537603785739073
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.7836273528338817,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.003289473684210526,
+      "eigenvector_centrality": 0.1712096522881249
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3363204544277327,
+      "degree_centrality": 0.9500000000000001,
+      "betweenness_centrality": 0.016374269005847958,
+      "eigenvector_centrality": 0.2480527859542189
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2854801139229195,
+      "degree_centrality": 0.9500000000000001,
+      "betweenness_centrality": 0.016374269005847958,
+      "eigenvector_centrality": 0.2480527859542189
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.1247792044544074,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.003289473684210526,
+      "eigenvector_centrality": 0.1712096522881249
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.1247792044544074,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.003289473684210526,
+      "eigenvector_centrality": 0.1712096522881249
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0213963401769337,
+      "degree_centrality": 0.9500000000000001,
+      "betweenness_centrality": 0.016374269005847958,
+      "eigenvector_centrality": 0.2480527859542189
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "weight": 0.923450382209373,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.10139471477104285
+    },
+    {
+      "id": "cross",
+      "label": "cross",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "curves",
+      "label": "curves",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "precision",
+      "label": "precision",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "recall",
+      "label": "recall",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "recall tradeoffs",
+      "label": "recall tradeoffs",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "roc",
+      "label": "roc",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.9500000000000001,
+      "betweenness_centrality": 0.016374269005847958,
+      "eigenvector_centrality": 0.2480527859542189
+    },
+    {
+      "id": "tradeoffs",
+      "label": "tradeoffs",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "validation",
+      "label": "validation",
+      "weight": 0.6783540003842471,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2095027751728492
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5196059557878828,
+      "degree_centrality": 0.9500000000000001,
+      "betweenness_centrality": 0.016374269005847958,
+      "eigenvector_centrality": 0.24805278595421895
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.49074922064312076,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.003289473684210526,
+      "eigenvector_centrality": 0.1712096522881249
+    }
+  ],
+  "edges": [
+    {
+      "source": "evaluation",
+      "target": "model",
+      "weight": 8
+    },
+    {
+      "source": "evaluation",
+      "target": "model evaluation",
+      "weight": 8
+    },
+    {
+      "source": "evaluation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "evaluation",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "evaluation",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "evaluation",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "evaluation",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "evaluation",
+      "target": "cross",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "curves",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "precision",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "recall",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "recall tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "evaluation",
+      "target": "tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "validation",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "model evaluation",
+      "weight": 8
+    },
+    {
+      "source": "model",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "cross",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "curves",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "precision",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "recall",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "recall tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "validation",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "model evaluation",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "model evaluation",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "model evaluation",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "model evaluation",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "model evaluation",
+      "target": "cross",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "curves",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "precision",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "recall",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "recall tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "model evaluation",
+      "target": "tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "validation",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "model evaluation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "cross",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "curves",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "precision",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "recall",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "recall tradeoffs",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "roc",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "tradeoffs",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "validation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "roc",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "cross",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "curves",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "precision",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "recall",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "recall tradeoffs",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "roc",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "tradeoffs",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "validation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "cross",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "curves",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "precision",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "recall",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "recall tradeoffs",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "roc",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "tradeoffs",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "validation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "roc",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "roc",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "cross",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "curves",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "precision",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "recall",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "recall tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "implement",
+      "target": "tradeoffs",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "validation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "10",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "cross",
+      "target": "curves",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "precision",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "recall",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "recall tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "cross",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "curves",
+      "target": "precision",
+      "weight": 3
+    },
+    {
+      "source": "curves",
+      "target": "recall",
+      "weight": 3
+    },
+    {
+      "source": "curves",
+      "target": "recall tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "curves",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "curves",
+      "target": "tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "curves",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "curves",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "precision",
+      "target": "recall",
+      "weight": 3
+    },
+    {
+      "source": "precision",
+      "target": "recall tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "precision",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "precision",
+      "target": "tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "precision",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "precision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "recall",
+      "target": "recall tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "recall",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "recall",
+      "target": "tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "recall",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "recall",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "recall tradeoffs",
+      "target": "roc",
+      "weight": 3
+    },
+    {
+      "source": "recall tradeoffs",
+      "target": "tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "recall tradeoffs",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "recall tradeoffs",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "roc",
+      "target": "tradeoffs",
+      "weight": 3
+    },
+    {
+      "source": "roc",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "roc",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "roc",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "tradeoffs",
+      "target": "validation",
+      "weight": 3
+    },
+    {
+      "source": "tradeoffs",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 21,
+    "edge_count": 170,
+    "is_connected": true
+  }
+}

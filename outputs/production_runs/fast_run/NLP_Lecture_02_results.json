@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_02.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:51:49.407025",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_02.txt",
+    "file_type": ".txt",
+    "file_size": 2385,
+    "processed_at": "2026-01-17T13:51:48.144157",
+    "content_hash": "87c37e48eaa947316a9cb11e336a59b71134b97a5dc59ddda2bd2bfd8dd31543",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 310,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Embeddings",
+    "Word",
+    "Word Embeddings",
+    "Lecture",
+    "Nlp"
+  ],
+  "key_concepts": [
+    "embeddings",
+    "word",
+    "word embeddings",
+    "lecture",
+    "nlp",
+    "real",
+    "implement",
+    "implementation",
+    "learning",
+    "contextual",
+    "contextual embeddings",
+    "glove",
+    "glove contextual",
+    "glove contextual embeddings",
+    "word2vec"
+  ],
+  "entity_count": 68,
+  "word_count": 310,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 211,
+      "density": 0.7644927536231884,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2355072463768115,
+      "average_clustering": 0.9094368795455753,
+      "most_central_concepts": [
+        [
+          "embeddings",
+          1.0
+        ],
+        [
+          "word",
+          1.0
+        ],
+        [
+          "word embeddings",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9565217391304348
+        ],
+        [
+          "real",
+          0.9565217391304348
+        ],
+        [
+          "implementation",
+          0.9565217391304348
+        ],
+        [
+          "implement",
+          0.9565217391304348
+        ],
+        [
+          "applications",
+          0.9565217391304348
+        ],
+        [
+          "nlp",
+          0.7391304347826086
+        ],
+        [
+          "learning",
+          0.7391304347826086
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "embeddings",
+        "word"
+      ],
+      [
+        "embeddings",
+        "word embeddings"
+      ],
+      [
+        "embeddings",
+        "lecture"
+      ],
+      [
+        "embeddings",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\NLP_Lecture_02"
+  },
+  "rag_document_id": "2294e5d9-75e3-4282-98ca-a17b90d1c66e",
+  "processing_time_seconds": 3.974746
+}

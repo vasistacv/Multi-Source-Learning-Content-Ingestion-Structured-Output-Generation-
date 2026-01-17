@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_019_quarterly_review.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:39:11.240382",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_019_quarterly_review.txt",
+    "file_type": ".txt",
+    "file_size": 1607,
+    "processed_at": "2026-01-17T13:39:09.935786",
+    "content_hash": "0c04414b06302e1abc30a02bc15c77bdd18ac19aae2476f943d2c0e1022debb7",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 212,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Kpis",
+    "Discussed",
+    "Growth",
+    "Targets",
+    "Meeting"
+  ],
+  "key_concepts": [
+    "discussed",
+    "kpis",
+    "bob",
+    "alice",
+    "revenue",
+    "targets",
+    "growth",
+    "charlie",
+    "meeting",
+    "team",
+    "review",
+    "follow",
+    "progress",
+    "proposed",
+    "items"
+  ],
+  "entity_count": 43,
+  "word_count": 212,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 27,
+      "edge_count": 210,
+      "density": 0.5982905982905983,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.4074074074074074,
+      "average_clustering": 0.8968747682645172,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9615384615384616
+        ],
+        [
+          "team",
+          0.8461538461538463
+        ],
+        [
+          "revenue",
+          0.8076923076923077
+        ],
+        [
+          "growth",
+          0.8076923076923077
+        ],
+        [
+          "meeting",
+          0.8076923076923077
+        ],
+        [
+          "review",
+          0.8076923076923077
+        ],
+        [
+          "01",
+          0.8076923076923077
+        ],
+        [
+          "2026",
+          0.8076923076923077
+        ],
+        [
+          "kpis",
+          0.7692307692307693
+        ],
+        [
+          "targets",
+          0.7307692307692308
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "revenue"
+      ],
+      [
+        "discussion",
+        "growth"
+      ],
+      [
+        "discussion",
+        "meeting"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_019_quarterly_review"
+  },
+  "rag_document_id": "de3fdb5e-d29a-4299-bbed-2eaffd5703b4",
+  "processing_time_seconds": 4.07238
+}

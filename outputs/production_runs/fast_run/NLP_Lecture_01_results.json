@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_01.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:51:34.857263",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_01.txt",
+    "file_type": ".txt",
+    "file_size": 2454,
+    "processed_at": "2026-01-17T13:51:33.548641",
+    "content_hash": "9e6c88b55f00d2d8e0065969c54b22cfaa09d0241e2eeb61e7e23c90231b8aa5",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 313,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Preprocessing",
+    "Text",
+    "Text Preprocessing",
+    "Lecture",
+    "Nlp"
+  ],
+  "key_concepts": [
+    "preprocessing",
+    "text",
+    "text preprocessing",
+    "lecture",
+    "nlp",
+    "real",
+    "lemmatization",
+    "lemmatization stop",
+    "lemmatization stop words",
+    "stemming",
+    "stemming lemmatization",
+    "stemming lemmatization stop",
+    "stop",
+    "stop words",
+    "tokenization"
+  ],
+  "entity_count": 68,
+  "word_count": 313,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 182,
+      "density": 0.7193675889328063,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.284584980237154,
+      "average_clustering": 0.9070762189755325,
+      "most_central_concepts": [
+        [
+          "preprocessing",
+          0.9545454545454546
+        ],
+        [
+          "text",
+          0.9545454545454546
+        ],
+        [
+          "text preprocessing",
+          0.9545454545454546
+        ],
+        [
+          "lecture",
+          0.9545454545454546
+        ],
+        [
+          "implement",
+          0.9545454545454546
+        ],
+        [
+          "implementation",
+          0.9545454545454546
+        ],
+        [
+          "real",
+          0.9090909090909092
+        ],
+        [
+          "applications",
+          0.9090909090909092
+        ],
+        [
+          "world",
+          0.9090909090909092
+        ],
+        [
+          "lemmatization",
+          0.6818181818181819
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "preprocessing",
+        "text"
+      ],
+      [
+        "preprocessing",
+        "text preprocessing"
+      ],
+      [
+        "preprocessing",
+        "lecture"
+      ],
+      [
+        "preprocessing",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\NLP_Lecture_01"
+  },
+  "rag_document_id": "4cf8b05d-d932-425a-a390-22704f57e438",
+  "processing_time_seconds": 4.279663
+}

@@ -1,0 +1,1190 @@
+{
+  "nodes": [
+    {
+      "id": "nearest",
+      "label": "nearest",
+      "weight": 2.6265919705150282,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "nearest neighbors",
+      "label": "nearest neighbors",
+      "weight": 2.6265919705150282,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "neighbors",
+      "label": "neighbors",
+      "weight": 2.6265919705150282,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.115024613221688,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9060286852773802,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15393962871407443
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.279835473252459,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.259807057380538,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15393962871407443
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.259807057380538,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15393962871407443
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0331754012258862,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0031133135369068,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039188
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8860195851149455,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15393962871407443
+    },
+    {
+      "id": "curse",
+      "label": "curse",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "dimensionality",
+      "label": "dimensionality",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "distance",
+      "label": "distance",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "distance metrics",
+      "label": "distance metrics",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "hyperparameter",
+      "label": "hyperparameter",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "hyperparameter tuning",
+      "label": "hyperparameter tuning",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "metrics",
+      "label": "metrics",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "tuning",
+      "label": "tuning",
+      "weight": 0.7010326556077896,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5178605174601394,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02922077922077922,
+      "eigenvector_centrality": 0.24911964529039185
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5054073426634912,
+      "degree_centrality": 0.7272727272727273,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20036931537964042
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4851045799726603,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15393962871407443
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.3451868433464308,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15393962871407443
+    }
+  ],
+  "edges": [
+    {
+      "source": "nearest",
+      "target": "nearest neighbors",
+      "weight": 8
+    },
+    {
+      "source": "nearest",
+      "target": "neighbors",
+      "weight": 8
+    },
+    {
+      "source": "nearest",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "nearest",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "nearest",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "nearest",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "nearest",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "nearest",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "curse",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "dimensionality",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "distance",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "distance metrics",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "hyperparameter",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "hyperparameter tuning",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "metrics",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "nearest",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nearest",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "neighbors",
+      "weight": 8
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "curse",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "dimensionality",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "distance",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "distance metrics",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "hyperparameter",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "hyperparameter tuning",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "metrics",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nearest neighbors",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "neighbors",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "neighbors",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "neighbors",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "neighbors",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "neighbors",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "curse",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "dimensionality",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "distance",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "distance metrics",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "hyperparameter",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "hyperparameter tuning",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "metrics",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "neighbors",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "neighbors",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "curse",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "distance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "distance metrics",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "hyperparameter",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "hyperparameter tuning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "metrics",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "tuning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "curse",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "distance",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "distance metrics",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "hyperparameter",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "hyperparameter tuning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "metrics",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "tuning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "curse",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dimensionality",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "distance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "distance metrics",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "hyperparameter",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "hyperparameter tuning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "metrics",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "curse",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "distance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "distance metrics",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "hyperparameter",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "hyperparameter tuning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "metrics",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "tuning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "curse",
+      "target": "dimensionality",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "distance",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "distance metrics",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "hyperparameter",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "hyperparameter tuning",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "metrics",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "curse",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "curse",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "distance",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "distance metrics",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "hyperparameter",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "hyperparameter tuning",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "metrics",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "distance",
+      "target": "distance metrics",
+      "weight": 3
+    },
+    {
+      "source": "distance",
+      "target": "hyperparameter",
+      "weight": 3
+    },
+    {
+      "source": "distance",
+      "target": "hyperparameter tuning",
+      "weight": 3
+    },
+    {
+      "source": "distance",
+      "target": "metrics",
+      "weight": 3
+    },
+    {
+      "source": "distance",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "distance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "distance",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "distance metrics",
+      "target": "hyperparameter",
+      "weight": 3
+    },
+    {
+      "source": "distance metrics",
+      "target": "hyperparameter tuning",
+      "weight": 3
+    },
+    {
+      "source": "distance metrics",
+      "target": "metrics",
+      "weight": 3
+    },
+    {
+      "source": "distance metrics",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "distance metrics",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "distance metrics",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "hyperparameter",
+      "target": "hyperparameter tuning",
+      "weight": 3
+    },
+    {
+      "source": "hyperparameter",
+      "target": "metrics",
+      "weight": 3
+    },
+    {
+      "source": "hyperparameter",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "hyperparameter",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "hyperparameter",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "hyperparameter tuning",
+      "target": "metrics",
+      "weight": 3
+    },
+    {
+      "source": "hyperparameter tuning",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "hyperparameter tuning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "hyperparameter tuning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "metrics",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "metrics",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "metrics",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "tuning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "tuning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 199,
+    "is_connected": true
+  }
+}

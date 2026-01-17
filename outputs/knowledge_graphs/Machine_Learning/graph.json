@@ -1,0 +1,780 @@
+{
+  "nodes": [
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.7374879268073048,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 0.5845059056108477,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 0.5845059056108477,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 0.3914808699002425,
+      "degree_centrality": 0.5882352941176471,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1682684359098608
+    },
+    {
+      "id": "study",
+      "label": "study",
+      "weight": 0.3914808699002425,
+      "degree_centrality": 0.5882352941176471,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1682684359098608
+    },
+    {
+      "id": "algorithms",
+      "label": "algorithms",
+      "weight": 0.29225295280542385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "field",
+      "label": "field",
+      "weight": 0.29225295280542385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "statistical",
+      "label": "statistical",
+      "weight": 0.29225295280542385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "statistical algorithms",
+      "label": "statistical algorithms",
+      "weight": 0.29225295280542385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.029411764705882346,
+      "eigenvector_centrality": 0.27264957591824723
+    },
+    {
+      "id": "advances",
+      "label": "advances",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "allowed",
+      "label": "allowed",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "allowed neural",
+      "label": "allowed neural",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "allowed neural networks",
+      "label": "allowed neural networks",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "class",
+      "label": "class",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 0.21501089295948406,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2287788686442484
+    },
+    {
+      "id": "artificial intelligence concerned",
+      "label": "artificial intelligence concerned",
+      "weight": 0.19574043495012125,
+      "degree_centrality": 0.5882352941176471,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16826843590986082
+    },
+    {
+      "id": "concerned",
+      "label": "concerned",
+      "weight": 0.19574043495012125,
+      "degree_centrality": 0.5882352941176471,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16826843590986082
+    }
+  ],
+  "edges": [
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "study",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "field",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "statistical",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "statistical algorithms",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "study",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "field",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "statistical",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "statistical algorithms",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "study",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "field",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "statistical",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "statistical algorithms",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "study",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "algorithms",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "field",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "statistical",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "statistical algorithms",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "algorithms",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "field",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "statistical",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "statistical algorithms",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "field",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "statistical",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "statistical algorithms",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "statistical",
+      "weight": 2
+    },
+    {
+      "source": "field",
+      "target": "statistical algorithms",
+      "weight": 2
+    },
+    {
+      "source": "field",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "field",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "statistical algorithms",
+      "weight": 2
+    },
+    {
+      "source": "statistical",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "statistical",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "artificial intelligence concerned",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "concerned",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "advances",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "statistical algorithms",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "advances",
+      "target": "allowed",
+      "weight": 1
+    },
+    {
+      "source": "advances",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "advances",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "advances",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "advances",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "advances",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "allowed",
+      "target": "allowed neural",
+      "weight": 1
+    },
+    {
+      "source": "allowed",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "allowed",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "allowed",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "allowed",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural",
+      "target": "allowed neural networks",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural networks",
+      "target": "approaches",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural networks",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "allowed neural networks",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "class",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "class",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence concerned",
+      "target": "concerned",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 18,
+    "edge_count": 125,
+    "is_connected": true
+  }
+}

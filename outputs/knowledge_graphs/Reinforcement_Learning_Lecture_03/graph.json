@@ -1,0 +1,1291 @@
+{
+  "nodes": [
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 4.908220484279741,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.05072463768115943,
+      "eigenvector_centrality": 0.25162949494386666
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.5091582205566203,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.05072463768115943,
+      "eigenvector_centrality": 0.25162949494386666
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.2668355134709453,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.05072463768115943,
+      "eigenvector_centrality": 0.25162949494386666
+    },
+    {
+      "id": "reinforcement",
+      "label": "reinforcement",
+      "weight": 1.1685780977373952,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362634
+    },
+    {
+      "id": "reinforcement learning",
+      "label": "reinforcement learning",
+      "weight": 1.1685780977373952,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362634
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.0319430636672253,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.05072463768115943,
+      "eigenvector_centrality": 0.25162949494386666
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.016214377607564,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.05072463768115943,
+      "eigenvector_centrality": 0.25162949494386666
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.9085199897290549,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362634
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8695249224268864,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362634
+    },
+    {
+      "id": "difference",
+      "label": "difference",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "difference learning",
+      "label": "difference learning",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "exploitation",
+      "label": "exploitation",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "exploration",
+      "label": "exploration",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "exploration vs",
+      "label": "exploration vs",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "exploration vs exploitation",
+      "label": "exploration vs exploitation",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "temporal",
+      "label": "temporal",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "temporal difference",
+      "label": "temporal difference",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "temporal difference learning",
+      "label": "temporal difference learning",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "vs",
+      "label": "vs",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "vs exploitation",
+      "label": "vs exploitation",
+      "weight": 0.7063927590522081,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5550413978572991,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.05072463768115943,
+      "eigenvector_centrality": 0.25162949494386666
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5428947513892971,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362631
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5053747681706889,
+      "degree_centrality": 0.7083333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20705926177103315
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.38047661014895817,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362631
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3740924302686206,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12283155075362631
+    }
+  ],
+  "edges": [
+    {
+      "source": "learning",
+      "target": "lecture",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "difference",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "difference learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "exploitation",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "exploration",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "exploration vs",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "exploration vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "difference",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "difference learning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "exploitation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "exploration",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "exploration vs",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "exploration vs exploitation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "temporal",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "temporal difference",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "temporal difference learning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "vs",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "vs exploitation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "difference",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "difference learning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "exploitation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "exploration",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "exploration vs",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "exploration vs exploitation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "temporal",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "temporal difference",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "temporal difference learning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "vs",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "vs exploitation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "reinforcement",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "reinforcement learning",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "reinforcement",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "difference",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "difference learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "exploitation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "exploration",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "exploration vs",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "exploration vs exploitation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "temporal",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "temporal difference",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "temporal difference learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "vs",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "vs exploitation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "difference",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "difference learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "exploitation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "exploration",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "exploration vs",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "exploration vs exploitation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "temporal",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "temporal difference",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "temporal difference learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vs",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vs exploitation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "difference",
+      "target": "difference learning",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "exploitation",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "exploration",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "exploration vs",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "exploration vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "difference",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "difference",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "difference learning",
+      "target": "exploitation",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "exploration",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "exploration vs",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "exploration vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "difference learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "difference learning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "exploitation",
+      "target": "exploration",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "exploration vs",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "exploration vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploitation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "exploitation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "exploration",
+      "target": "exploration vs",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "exploration vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploration",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "exploration",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "exploration vs",
+      "target": "exploration vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "exploration vs",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "temporal",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "exploration vs exploitation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "temporal",
+      "target": "temporal difference",
+      "weight": 3
+    },
+    {
+      "source": "temporal",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "temporal",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "temporal",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "temporal",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "temporal",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "temporal difference",
+      "target": "temporal difference learning",
+      "weight": 3
+    },
+    {
+      "source": "temporal difference",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "temporal difference",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "temporal difference",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "temporal difference",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "temporal difference learning",
+      "target": "vs",
+      "weight": 3
+    },
+    {
+      "source": "temporal difference learning",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "temporal difference learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "temporal difference learning",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "vs",
+      "target": "vs exploitation",
+      "weight": 3
+    },
+    {
+      "source": "vs",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vs",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "vs exploitation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vs exploitation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 216,
+    "is_connected": true
+  }
+}

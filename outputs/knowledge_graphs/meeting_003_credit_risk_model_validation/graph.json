@@ -1,0 +1,987 @@
+{
+  "nodes": [
+    {
+      "id": "validation",
+      "label": "validation",
+      "weight": 1.1253439616608425,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.027891156462585043,
+      "eigenvector_centrality": 0.2493346259892076
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 0.9502237686478762,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.2088435374149661,
+      "eigenvector_centrality": 0.2511900145970458
+    },
+    {
+      "id": "regulatory",
+      "label": "regulatory",
+      "weight": 0.6763018779633829,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.002380952380952381,
+      "eigenvector_centrality": 0.11682869882803573
+    },
+    {
+      "id": "results",
+      "label": "results",
+      "weight": 0.6763018779633829,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.002380952380952381,
+      "eigenvector_centrality": 0.11682869882803573
+    },
+    {
+      "id": "risk",
+      "label": "risk",
+      "weight": 0.665581834295373,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.027891156462585043,
+      "eigenvector_centrality": 0.24933462598920766
+    },
+    {
+      "id": "500m",
+      "label": "500m",
+      "weight": 0.6445029922609534,
+      "degree_centrality": 0.09523809523809523,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.016220990292879038
+    },
+    {
+      "id": "500m portfolio",
+      "label": "500m portfolio",
+      "weight": 0.6445029922609534,
+      "degree_centrality": 0.09523809523809523,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.016220990292879038
+    },
+    {
+      "id": "model validation",
+      "label": "model validation",
+      "weight": 0.5484148755944765,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.027891156462585043,
+      "eigenvector_centrality": 0.24933462598920766
+    },
+    {
+      "id": "kevin",
+      "label": "kevin",
+      "weight": 0.4793878784715957,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.013605442176870746,
+      "eigenvector_centrality": 0.24505763640873662
+    },
+    {
+      "id": "kevin liu",
+      "label": "kevin liu",
+      "weight": 0.4793878784715957,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.013605442176870746,
+      "eigenvector_centrality": 0.24505763640873662
+    },
+    {
+      "id": "liu",
+      "label": "liu",
+      "weight": 0.4793878784715957,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.013605442176870746,
+      "eigenvector_centrality": 0.24505763640873662
+    },
+    {
+      "id": "approval",
+      "label": "approval",
+      "weight": 0.3983718701715747,
+      "degree_centrality": 0.2857142857142857,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.07478410257588845
+    },
+    {
+      "id": "credit",
+      "label": "credit",
+      "weight": 0.2972228608100258,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "credit risk",
+      "label": "credit risk",
+      "weight": 0.2972228608100258,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "credit risk model",
+      "label": "credit risk model",
+      "weight": 0.2972228608100258,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "risk model",
+      "label": "risk model",
+      "weight": 0.2972228608100258,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "01",
+      "label": "01",
+      "weight": 0.1486114304050129,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "60",
+      "label": "60",
+      "weight": 0.1486114304050129,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "60 minutes",
+      "label": "60 minutes",
+      "weight": 0.1486114304050129,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "angela",
+      "label": "angela",
+      "weight": 0.1486114304050129,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "angela foster",
+      "label": "angela foster",
+      "weight": 0.1486114304050129,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    },
+    {
+      "id": "attendees",
+      "label": "attendees",
+      "weight": 0.1486114304050129,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23169457937952367
+    }
+  ],
+  "edges": [
+    {
+      "source": "validation",
+      "target": "model",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "risk",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "model validation",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "kevin",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "kevin liu",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "liu",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "validation",
+      "target": "regulatory",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "results",
+      "weight": 2
+    },
+    {
+      "source": "validation",
+      "target": "approval",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "risk",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "model validation",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "kevin",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "kevin liu",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "liu",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "500m",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "500m portfolio",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "regulatory",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "results",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "approval",
+      "weight": 1
+    },
+    {
+      "source": "regulatory",
+      "target": "results",
+      "weight": 2
+    },
+    {
+      "source": "regulatory",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "regulatory",
+      "target": "model validation",
+      "weight": 1
+    },
+    {
+      "source": "regulatory",
+      "target": "approval",
+      "weight": 1
+    },
+    {
+      "source": "regulatory",
+      "target": "kevin",
+      "weight": 1
+    },
+    {
+      "source": "regulatory",
+      "target": "kevin liu",
+      "weight": 1
+    },
+    {
+      "source": "regulatory",
+      "target": "liu",
+      "weight": 1
+    },
+    {
+      "source": "results",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "results",
+      "target": "model validation",
+      "weight": 1
+    },
+    {
+      "source": "results",
+      "target": "approval",
+      "weight": 1
+    },
+    {
+      "source": "results",
+      "target": "kevin",
+      "weight": 1
+    },
+    {
+      "source": "results",
+      "target": "kevin liu",
+      "weight": 1
+    },
+    {
+      "source": "results",
+      "target": "liu",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "model validation",
+      "weight": 2
+    },
+    {
+      "source": "risk",
+      "target": "kevin",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "kevin liu",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "liu",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "approval",
+      "weight": 1
+    },
+    {
+      "source": "500m",
+      "target": "500m portfolio",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "kevin",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "kevin liu",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "liu",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "model validation",
+      "target": "approval",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "kevin liu",
+      "weight": 2
+    },
+    {
+      "source": "kevin",
+      "target": "liu",
+      "weight": 2
+    },
+    {
+      "source": "kevin",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "kevin",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "liu",
+      "weight": 2
+    },
+    {
+      "source": "kevin liu",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "kevin liu",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "credit",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "liu",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "credit risk",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "credit",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "credit risk model",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "credit risk",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "risk model",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "credit risk model",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "risk model",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "risk model",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "risk model",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "risk model",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "risk model",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "risk model",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "60",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "01",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "60",
+      "target": "60 minutes",
+      "weight": 1
+    },
+    {
+      "source": "60",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "60",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "60",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "60 minutes",
+      "target": "angela",
+      "weight": 1
+    },
+    {
+      "source": "60 minutes",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "60 minutes",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "angela",
+      "target": "angela foster",
+      "weight": 1
+    },
+    {
+      "source": "angela",
+      "target": "attendees",
+      "weight": 1
+    },
+    {
+      "source": "angela foster",
+      "target": "attendees",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 22,
+    "edge_count": 160,
+    "is_connected": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_04.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:52:10.091288",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_04.txt",
+    "file_type": ".txt",
+    "file_size": 2343,
+    "processed_at": "2026-01-17T13:52:09.778320",
+    "content_hash": "4d8863b680a6852af2fefc7ca0b94be68e904ec03462693644da441c50e7c2e6",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 307,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Transformers",
+    "Lecture",
+    "Nlp",
+    "Real",
+    "Implementation"
+  ],
+  "key_concepts": [
+    "transformers",
+    "lecture",
+    "nlp",
+    "real",
+    "implement",
+    "implementation",
+    "learning",
+    "performance",
+    "attention",
+    "attention need",
+    "bert",
+    "bert gpt",
+    "bert gpt attention",
+    "gpt",
+    "gpt attention"
+  ],
+  "entity_count": 68,
+  "word_count": 307,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 183,
+      "density": 0.7233201581027668,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2766798418972332,
+      "average_clustering": 0.9002345480606351,
+      "most_central_concepts": [
+        [
+          "transformers",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9545454545454546
+        ],
+        [
+          "real",
+          0.9545454545454546
+        ],
+        [
+          "implement",
+          0.9545454545454546
+        ],
+        [
+          "implementation",
+          0.9545454545454546
+        ],
+        [
+          "applications",
+          0.9545454545454546
+        ],
+        [
+          "world",
+          0.9545454545454546
+        ],
+        [
+          "nlp",
+          0.6818181818181819
+        ],
+        [
+          "core",
+          0.6818181818181819
+        ],
+        [
+          "learning",
+          0.6818181818181819
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "transformers",
+        "lecture"
+      ],
+      [
+        "transformers",
+        "real"
+      ],
+      [
+        "transformers",
+        "implement"
+      ],
+      [
+        "transformers",
+        "implementation"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\NLP_Lecture_04"
+  },
+  "rag_document_id": "d5239d95-7c2d-42ce-b99c-4a101e8f14fe",
+  "processing_time_seconds": 0.609328
+}

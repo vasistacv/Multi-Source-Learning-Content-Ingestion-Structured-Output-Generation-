@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Natural_Language_Processing.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:47:09.798090",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Natural_Language_Processing.txt",
+    "file_type": ".txt",
+    "file_size": 354,
+    "processed_at": "2026-01-17T13:47:08.514392",
+    "content_hash": "d5bcf3587aa932be1fae1c49cb11f0d3e0e93a1b43558a57a266cda27deaca5d",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 47,
+    "metadata": {
+      "line_count": 3,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Nlp",
+    "Computer",
+    "Linguistics",
+    "Information",
+    "Language"
+  ],
+  "key_concepts": [
+    "linguistics",
+    "nlp",
+    "information",
+    "computational linguistics",
+    "language",
+    "natural",
+    "natural language",
+    "processing",
+    "computer",
+    "artificial",
+    "artificial intelligence",
+    "associated artificial intelligence",
+    "closely associated",
+    "computer science",
+    "computer science closely"
+  ],
+  "entity_count": 1,
+  "word_count": 47,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 21,
+      "edge_count": 90,
+      "density": 0.42857142857142855,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.5714285714285714,
+      "average_clustering": 0.9259687680740312,
+      "most_central_concepts": [
+        [
+          "nlp",
+          1.0
+        ],
+        [
+          "computer",
+          0.7000000000000001
+        ],
+        [
+          "information",
+          0.7000000000000001
+        ],
+        [
+          "language",
+          0.4
+        ],
+        [
+          "natural",
+          0.4
+        ],
+        [
+          "natural language",
+          0.4
+        ],
+        [
+          "processing",
+          0.4
+        ],
+        [
+          "language processing",
+          0.4
+        ],
+        [
+          "natural language processing",
+          0.4
+        ],
+        [
+          "linguistics",
+          0.35000000000000003
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "nlp",
+        "computer"
+      ],
+      [
+        "nlp",
+        "information"
+      ],
+      [
+        "nlp",
+        "language"
+      ],
+      [
+        "nlp",
+        "natural"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Natural_Language_Processing"
+  },
+  "rag_document_id": "a877ed87-dfed-4bfa-ab63-941850a7e051",
+  "processing_time_seconds": 3.879449
+}

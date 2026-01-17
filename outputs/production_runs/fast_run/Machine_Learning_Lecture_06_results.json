@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_06.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:50:43.163425",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_06.txt",
+    "file_type": ".txt",
+    "file_size": 2450,
+    "processed_at": "2026-01-17T13:50:41.735465",
+    "content_hash": "e483fe53cf4c05b6cf46970250494e0832f958f3a6d3080821828cd722847586",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Bayes",
+    "Naive",
+    "Naive Bayes",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "bayes",
+    "naive",
+    "naive bayes",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "implementation",
+    "implement",
+    "bayes theorem",
+    "bayes theorem independence",
+    "classifiers bayes theorem",
+    "independence",
+    "probabilistic"
+  ],
+  "entity_count": 72,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 192,
+      "density": 0.758893280632411,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2411067193675889,
+      "average_clustering": 0.9003387916431393,
+      "most_central_concepts": [
+        [
+          "bayes",
+          1.0
+        ],
+        [
+          "naive",
+          1.0
+        ],
+        [
+          "naive bayes",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9545454545454546
+        ],
+        [
+          "real",
+          0.9545454545454546
+        ],
+        [
+          "implement",
+          0.9545454545454546
+        ],
+        [
+          "implementation",
+          0.9545454545454546
+        ],
+        [
+          "applications",
+          0.9545454545454546
+        ],
+        [
+          "bayes theorem",
+          0.6818181818181819
+        ],
+        [
+          "classifiers",
+          0.6818181818181819
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "bayes",
+        "naive"
+      ],
+      [
+        "bayes",
+        "naive bayes"
+      ],
+      [
+        "bayes",
+        "lecture"
+      ],
+      [
+        "bayes",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_06"
+  },
+  "rag_document_id": "1c93476c-59a6-49f8-934f-6269f90d1048",
+  "processing_time_seconds": 4.183506
+}

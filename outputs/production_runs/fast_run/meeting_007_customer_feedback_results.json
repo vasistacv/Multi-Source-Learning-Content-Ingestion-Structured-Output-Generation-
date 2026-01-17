@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_007_customer_feedback.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:33:05.159588",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_007_customer_feedback.txt",
+    "file_type": ".txt",
+    "file_size": 1696,
+    "processed_at": "2026-01-17T13:33:04.990948",
+    "content_hash": "bbfd3c5ca20cc71919c1b1a8858f728f5415ebad840552aacb1ab50bfa5d36ce",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 225,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Points",
+    "Research",
+    "Feature",
+    "Feature Requests",
+    "Requests"
+  ],
+  "key_concepts": [
+    "research",
+    "discussed",
+    "feature",
+    "feature requests",
+    "requests",
+    "points",
+    "nps",
+    "bob",
+    "meeting",
+    "user",
+    "user research",
+    "alice",
+    "charlie",
+    "pain",
+    "pain points"
+  ],
+  "entity_count": 43,
+  "word_count": 225,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 309,
+      "density": 0.7103448275862069,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.2919540229885058,
+      "average_clustering": 0.9140290885111857,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9655172413793103
+        ],
+        [
+          "research",
+          0.896551724137931
+        ],
+        [
+          "team",
+          0.896551724137931
+        ],
+        [
+          "feature",
+          0.8620689655172413
+        ],
+        [
+          "feature requests",
+          0.8620689655172413
+        ],
+        [
+          "requests",
+          0.8620689655172413
+        ],
+        [
+          "nps",
+          0.8620689655172413
+        ],
+        [
+          "user",
+          0.8620689655172413
+        ],
+        [
+          "user research",
+          0.8620689655172413
+        ],
+        [
+          "meeting",
+          0.8620689655172413
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "research"
+      ],
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "feature"
+      ],
+      [
+        "discussion",
+        "feature requests"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_007_customer_feedback"
+  },
+  "rag_document_id": "fff6215b-44f6-4ea1-969f-ea139d5c3194",
+  "processing_time_seconds": 0.51162
+}

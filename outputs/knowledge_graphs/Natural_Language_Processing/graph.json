@@ -1,0 +1,629 @@
+{
+  "nodes": [
+    {
+      "id": "linguistics",
+      "label": "linguistics",
+      "weight": 0.5562593331009028,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 0.43171940692438726,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.4105263157894737,
+      "eigenvector_centrality": 0.41157252060118144
+    },
+    {
+      "id": "language",
+      "label": "language",
+      "weight": 0.406350302674726,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.230069902203448
+    },
+    {
+      "id": "natural",
+      "label": "natural",
+      "weight": 0.406350302674726,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.230069902203448
+    },
+    {
+      "id": "natural language",
+      "label": "natural language",
+      "weight": 0.406350302674726,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.230069902203448
+    },
+    {
+      "id": "processing",
+      "label": "processing",
+      "weight": 0.406350302674726,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.230069902203448
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 0.3443925602962219,
+      "degree_centrality": 0.7000000000000001,
+      "betweenness_centrality": 0.11052631578947368,
+      "eigenvector_centrality": 0.32082121140231473
+    },
+    {
+      "id": "artificial",
+      "label": "artificial",
+      "weight": 0.3173847291850113,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "artificial intelligence",
+      "label": "artificial intelligence",
+      "weight": 0.3173847291850113,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "closely",
+      "label": "closely",
+      "weight": 0.3173847291850113,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "closely associated",
+      "label": "closely associated",
+      "weight": 0.3173847291850113,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "computer science",
+      "label": "computer science",
+      "weight": 0.3173847291850113,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "intelligence",
+      "label": "intelligence",
+      "weight": 0.3173847291850113,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "information",
+      "label": "information",
+      "weight": 0.31453807334560857,
+      "degree_centrality": 0.7000000000000001,
+      "betweenness_centrality": 0.11052631578947368,
+      "eigenvector_centrality": 0.3208212114023148
+    },
+    {
+      "id": "broadly",
+      "label": "broadly",
+      "weight": 0.2781296665504514,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "computational",
+      "label": "computational",
+      "weight": 0.2781296665504514,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "computational linguistics",
+      "label": "computational linguistics",
+      "weight": 0.2781296665504514,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "information retrieval",
+      "label": "information retrieval",
+      "weight": 0.2781296665504514,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "knowledge",
+      "label": "knowledge",
+      "weight": 0.2781296665504514,
+      "degree_centrality": 0.35000000000000003,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15999026051483778
+    },
+    {
+      "id": "language processing",
+      "label": "language processing",
+      "weight": 0.27090020178315066,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.230069902203448
+    },
+    {
+      "id": "natural language processing",
+      "label": "natural language processing",
+      "weight": 0.27090020178315066,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.230069902203448
+    }
+  ],
+  "edges": [
+    {
+      "source": "linguistics",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "linguistics",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "linguistics",
+      "target": "broadly",
+      "weight": 1
+    },
+    {
+      "source": "linguistics",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "linguistics",
+      "target": "computational linguistics",
+      "weight": 1
+    },
+    {
+      "source": "linguistics",
+      "target": "information retrieval",
+      "weight": 1
+    },
+    {
+      "source": "linguistics",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "language",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "natural",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "computer",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "information",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "artificial",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "artificial intelligence",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "closely",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "closely associated",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "broadly",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "computational linguistics",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "information retrieval",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "natural",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "artificial",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "artificial intelligence",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "closely",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "closely associated",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "artificial intelligence",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "closely",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "closely associated",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "closely",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "closely associated",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "closely",
+      "target": "closely associated",
+      "weight": 1
+    },
+    {
+      "source": "closely",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "closely",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "closely associated",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "closely associated",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "computer science",
+      "target": "intelligence",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "broadly",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "computational linguistics",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "information retrieval",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "broadly",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "broadly",
+      "target": "computational linguistics",
+      "weight": 1
+    },
+    {
+      "source": "broadly",
+      "target": "information retrieval",
+      "weight": 1
+    },
+    {
+      "source": "broadly",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "computational",
+      "target": "computational linguistics",
+      "weight": 1
+    },
+    {
+      "source": "computational",
+      "target": "information retrieval",
+      "weight": 1
+    },
+    {
+      "source": "computational",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "computational linguistics",
+      "target": "information retrieval",
+      "weight": 1
+    },
+    {
+      "source": "computational linguistics",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "information retrieval",
+      "target": "knowledge",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "natural language processing",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 21,
+    "edge_count": 90,
+    "is_connected": true
+  }
+}

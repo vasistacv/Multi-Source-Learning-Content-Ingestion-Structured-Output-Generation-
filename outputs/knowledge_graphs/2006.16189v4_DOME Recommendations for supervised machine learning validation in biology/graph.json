@@ -1,0 +1,1448 @@
+{
+  "nodes": [
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 51.66974690138939,
+      "degree_centrality": 0.8928571428571428,
+      "betweenness_centrality": 0.04381382135897734,
+      "eigenvector_centrality": 0.2540208672554616
+    },
+    {
+      "id": "ml",
+      "label": "ml",
+      "weight": 39.364571102957505,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.026597792238186316,
+      "eigenvector_centrality": 0.24204547667037532
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 25.95931733179929,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.020835726562327544,
+      "eigenvector_centrality": 0.2452636208817557
+    },
+    {
+      "id": "set",
+      "label": "set",
+      "weight": 24.404875444965565,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.02035960170880806,
+      "eigenvector_centrality": 0.23553326528466975
+    },
+    {
+      "id": "used",
+      "label": "used",
+      "weight": 20.434203698585918,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.01670578831908881,
+      "eigenvector_centrality": 0.20234214669464742
+    },
+    {
+      "id": "methods",
+      "label": "methods",
+      "weight": 20.074228166962065,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.014304764879477516,
+      "eigenvector_centrality": 0.2295412607472647
+    },
+    {
+      "id": "yes",
+      "label": "yes",
+      "weight": 19.109023902022482,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.005747889676461104,
+      "eigenvector_centrality": 0.15069241566792202
+    },
+    {
+      "id": "recommendations",
+      "label": "recommendations",
+      "weight": 18.93776404137298,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.0013111374222485334,
+      "eigenvector_centrality": 0.17922179081364537
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 18.613124702858073,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.05969253225684533,
+      "eigenvector_centrality": 0.22692616897952586
+    },
+    {
+      "id": "test",
+      "label": "test",
+      "weight": 18.12628871609104,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.010368797868797866,
+      "eigenvector_centrality": 0.1545547046776914
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 17.576404389631193,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.0067788609250021385,
+      "eigenvector_centrality": 0.19396442415238724
+    },
+    {
+      "id": "training",
+      "label": "training",
+      "weight": 16.853800377309607,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.008932807338663935,
+      "eigenvector_centrality": 0.18370725626899978
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 16.36359644134373,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.053378909084984605,
+      "eigenvector_centrality": 0.21650802689655352
+    },
+    {
+      "id": "evaluation",
+      "label": "evaluation",
+      "weight": 16.29160251951754,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.012962144509763558,
+      "eigenvector_centrality": 0.23107413158812445
+    },
+    {
+      "id": "box",
+      "label": "box",
+      "weight": 14.985134067216462,
+      "degree_centrality": 0.46428571428571425,
+      "betweenness_centrality": 0.002520891806606092,
+      "eigenvector_centrality": 0.15264078075073523
+    },
+    {
+      "id": "protein",
+      "label": "protein",
+      "weight": 14.369534453778538,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.005044265956964368,
+      "eigenvector_centrality": 0.1612925299247905
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 13.70069569285209,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.053378909084984605,
+      "eigenvector_centrality": 0.21650802689655352
+    },
+    {
+      "id": "availability",
+      "label": "availability",
+      "weight": 13.499591470314105,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.0079072162200241,
+      "eigenvector_centrality": 0.20374315973733367
+    },
+    {
+      "id": "parameters",
+      "label": "parameters",
+      "weight": 12.777170198525333,
+      "degree_centrality": 0.39285714285714285,
+      "betweenness_centrality": 0.001262846500941739,
+      "eigenvector_centrality": 0.12294869019709866
+    },
+    {
+      "id": "optimization",
+      "label": "optimization",
+      "weight": 12.546295274129637,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.007653251085106584,
+      "eigenvector_centrality": 0.20509608750118183
+    },
+    {
+      "id": "community",
+      "label": "community",
+      "weight": 12.481776876853257,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.014750512567972881,
+      "eigenvector_centrality": 0.2084205507897976
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 11.651381841094244,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.004863823713030064,
+      "eigenvector_centrality": 0.1714426282522307
+    },
+    {
+      "id": "pos",
+      "label": "pos",
+      "weight": 11.00046375515917,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.028487580273294563,
+      "eigenvector_centrality": 0.23196817561286331
+    },
+    {
+      "id": "neg",
+      "label": "neg",
+      "weight": 10.753131930394638,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0006644589977923311,
+      "eigenvector_centrality": 0.0780330777519046
+    },
+    {
+      "id": "research",
+      "label": "research",
+      "weight": 9.633437110904966,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.03208094355467097,
+      "eigenvector_centrality": 0.14406707466951746
+    },
+    {
+      "id": "university",
+      "label": "university",
+      "weight": 8.003584451660178,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.054564913125835945
+    },
+    {
+      "id": "science",
+      "label": "science",
+      "weight": 7.516492129277318,
+      "degree_centrality": 0.3571428571428571,
+      "betweenness_centrality": 0.007848694342947216,
+      "eigenvector_centrality": 0.09204985206223615
+    },
+    {
+      "id": "orcid",
+      "label": "orcid",
+      "weight": 6.8817981098794965,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.054564913125835945
+    },
+    {
+      "id": "0000",
+      "label": "0000",
+      "weight": 6.677595100738542,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.054564913125835945
+    }
+  ],
+  "edges": [
+    {
+      "source": "data",
+      "target": "model",
+      "weight": 19
+    },
+    {
+      "source": "data",
+      "target": "methods",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "performance",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "evaluation",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "optimization",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "research",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "ml",
+      "weight": 15
+    },
+    {
+      "source": "data",
+      "target": "pos",
+      "weight": 11
+    },
+    {
+      "source": "data",
+      "target": "set",
+      "weight": 40
+    },
+    {
+      "source": "data",
+      "target": "recommendations",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "community",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "used",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "training",
+      "weight": 22
+    },
+    {
+      "source": "data",
+      "target": "test",
+      "weight": 19
+    },
+    {
+      "source": "data",
+      "target": "models",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "availability",
+      "weight": 8
+    },
+    {
+      "source": "data",
+      "target": "protein",
+      "weight": 10
+    },
+    {
+      "source": "data",
+      "target": "box",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "parameters",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "neg",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "yes",
+      "weight": 8
+    },
+    {
+      "source": "ml",
+      "target": "learning",
+      "weight": 7
+    },
+    {
+      "source": "ml",
+      "target": "machine",
+      "weight": 6
+    },
+    {
+      "source": "ml",
+      "target": "machine learning",
+      "weight": 4
+    },
+    {
+      "source": "ml",
+      "target": "pos",
+      "weight": 8
+    },
+    {
+      "source": "ml",
+      "target": "model",
+      "weight": 13
+    },
+    {
+      "source": "ml",
+      "target": "recommendations",
+      "weight": 12
+    },
+    {
+      "source": "ml",
+      "target": "set",
+      "weight": 3
+    },
+    {
+      "source": "ml",
+      "target": "evaluation",
+      "weight": 4
+    },
+    {
+      "source": "ml",
+      "target": "optimization",
+      "weight": 6
+    },
+    {
+      "source": "ml",
+      "target": "community",
+      "weight": 5
+    },
+    {
+      "source": "ml",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "ml",
+      "target": "methods",
+      "weight": 11
+    },
+    {
+      "source": "ml",
+      "target": "box",
+      "weight": 4
+    },
+    {
+      "source": "ml",
+      "target": "used",
+      "weight": 7
+    },
+    {
+      "source": "ml",
+      "target": "yes",
+      "weight": 1
+    },
+    {
+      "source": "ml",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "ml",
+      "target": "models",
+      "weight": 4
+    },
+    {
+      "source": "ml",
+      "target": "research",
+      "weight": 2
+    },
+    {
+      "source": "ml",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "ml",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "ml",
+      "target": "parameters",
+      "weight": 2
+    },
+    {
+      "source": "ml",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "methods",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "performance",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "evaluation",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "optimization",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "set",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "recommendations",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "community",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "used",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "test",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "training",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "models",
+      "weight": 18
+    },
+    {
+      "source": "model",
+      "target": "pos",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "box",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "parameters",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "availability",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "yes",
+      "weight": 1
+    },
+    {
+      "source": "set",
+      "target": "recommendations",
+      "weight": 2
+    },
+    {
+      "source": "set",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "set",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "set",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "set",
+      "target": "community",
+      "weight": 5
+    },
+    {
+      "source": "set",
+      "target": "evaluation",
+      "weight": 8
+    },
+    {
+      "source": "set",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "set",
+      "target": "test",
+      "weight": 19
+    },
+    {
+      "source": "set",
+      "target": "training",
+      "weight": 14
+    },
+    {
+      "source": "set",
+      "target": "used",
+      "weight": 5
+    },
+    {
+      "source": "set",
+      "target": "performance",
+      "weight": 4
+    },
+    {
+      "source": "set",
+      "target": "methods",
+      "weight": 5
+    },
+    {
+      "source": "set",
+      "target": "yes",
+      "weight": 5
+    },
+    {
+      "source": "set",
+      "target": "pos",
+      "weight": 12
+    },
+    {
+      "source": "set",
+      "target": "box",
+      "weight": 1
+    },
+    {
+      "source": "set",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "set",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "set",
+      "target": "neg",
+      "weight": 4
+    },
+    {
+      "source": "set",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "evaluation",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "used",
+      "target": "recommendations",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "community",
+      "weight": 3
+    },
+    {
+      "source": "used",
+      "target": "yes",
+      "weight": 3
+    },
+    {
+      "source": "used",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "parameters",
+      "weight": 4
+    },
+    {
+      "source": "used",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "methods",
+      "weight": 3
+    },
+    {
+      "source": "used",
+      "target": "pos",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "neg",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "methods",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "methods",
+      "target": "performance",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "machine",
+      "weight": 4
+    },
+    {
+      "source": "methods",
+      "target": "evaluation",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "machine learning",
+      "weight": 4
+    },
+    {
+      "source": "methods",
+      "target": "optimization",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "box",
+      "weight": 4
+    },
+    {
+      "source": "methods",
+      "target": "community",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "pos",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "recommendations",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "test",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "methods",
+      "target": "yes",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "methods",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "yes",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "yes",
+      "target": "availability",
+      "weight": 7
+    },
+    {
+      "source": "yes",
+      "target": "pos",
+      "weight": 1
+    },
+    {
+      "source": "yes",
+      "target": "neg",
+      "weight": 1
+    },
+    {
+      "source": "yes",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "yes",
+      "target": "evaluation",
+      "weight": 1
+    },
+    {
+      "source": "yes",
+      "target": "protein",
+      "weight": 4
+    },
+    {
+      "source": "yes",
+      "target": "test",
+      "weight": 1
+    },
+    {
+      "source": "recommendations",
+      "target": "learning",
+      "weight": 9
+    },
+    {
+      "source": "recommendations",
+      "target": "machine",
+      "weight": 7
+    },
+    {
+      "source": "recommendations",
+      "target": "machine learning",
+      "weight": 6
+    },
+    {
+      "source": "recommendations",
+      "target": "community",
+      "weight": 7
+    },
+    {
+      "source": "recommendations",
+      "target": "evaluation",
+      "weight": 2
+    },
+    {
+      "source": "recommendations",
+      "target": "optimization",
+      "weight": 2
+    },
+    {
+      "source": "recommendations",
+      "target": "box",
+      "weight": 3
+    },
+    {
+      "source": "recommendations",
+      "target": "pos",
+      "weight": 3
+    },
+    {
+      "source": "recommendations",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 29
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 27
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "pos",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "community",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "evaluation",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "box",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "orcid",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "0000",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "test",
+      "target": "training",
+      "weight": 15
+    },
+    {
+      "source": "test",
+      "target": "evaluation",
+      "weight": 2
+    },
+    {
+      "source": "test",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "test",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "test",
+      "target": "pos",
+      "weight": 11
+    },
+    {
+      "source": "test",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "test",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "test",
+      "target": "protein",
+      "weight": 3
+    },
+    {
+      "source": "test",
+      "target": "box",
+      "weight": 1
+    },
+    {
+      "source": "test",
+      "target": "neg",
+      "weight": 4
+    },
+    {
+      "source": "performance",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "performance",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "performance",
+      "target": "pos",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "evaluation",
+      "weight": 4
+    },
+    {
+      "source": "performance",
+      "target": "optimization",
+      "weight": 3
+    },
+    {
+      "source": "performance",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "performance",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "performance",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "community",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "evaluation",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "optimization",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "models",
+      "weight": 4
+    },
+    {
+      "source": "training",
+      "target": "pos",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "parameters",
+      "weight": 3
+    },
+    {
+      "source": "training",
+      "target": "protein",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 27
+    },
+    {
+      "source": "machine",
+      "target": "pos",
+      "weight": 5
+    },
+    {
+      "source": "machine",
+      "target": "community",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "evaluation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "box",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "orcid",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "0000",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "evaluation",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "evaluation",
+      "target": "optimization",
+      "weight": 6
+    },
+    {
+      "source": "evaluation",
+      "target": "community",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "evaluation",
+      "target": "availability",
+      "weight": 2
+    },
+    {
+      "source": "evaluation",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "evaluation",
+      "target": "pos",
+      "weight": 1
+    },
+    {
+      "source": "evaluation",
+      "target": "protein",
+      "weight": 1
+    },
+    {
+      "source": "box",
+      "target": "community",
+      "weight": 1
+    },
+    {
+      "source": "box",
+      "target": "pos",
+      "weight": 2
+    },
+    {
+      "source": "box",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "box",
+      "target": "models",
+      "weight": 4
+    },
+    {
+      "source": "protein",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "protein",
+      "target": "community",
+      "weight": 1
+    },
+    {
+      "source": "protein",
+      "target": "availability",
+      "weight": 5
+    },
+    {
+      "source": "machine learning",
+      "target": "pos",
+      "weight": 4
+    },
+    {
+      "source": "machine learning",
+      "target": "community",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "availability",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "orcid",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "0000",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "availability",
+      "target": "parameters",
+      "weight": 1
+    },
+    {
+      "source": "availability",
+      "target": "optimization",
+      "weight": 1
+    },
+    {
+      "source": "availability",
+      "target": "pos",
+      "weight": 2
+    },
+    {
+      "source": "availability",
+      "target": "community",
+      "weight": 1
+    },
+    {
+      "source": "parameters",
+      "target": "optimization",
+      "weight": 6
+    },
+    {
+      "source": "optimization",
+      "target": "community",
+      "weight": 1
+    },
+    {
+      "source": "optimization",
+      "target": "pos",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "pos",
+      "weight": 4
+    },
+    {
+      "source": "community",
+      "target": "research",
+      "weight": 2
+    },
+    {
+      "source": "community",
+      "target": "neg",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "pos",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "pos",
+      "target": "science",
+      "weight": 1
+    },
+    {
+      "source": "pos",
+      "target": "neg",
+      "weight": 17
+    },
+    {
+      "source": "research",
+      "target": "university",
+      "weight": 5
+    },
+    {
+      "source": "research",
+      "target": "science",
+      "weight": 10
+    },
+    {
+      "source": "research",
+      "target": "orcid",
+      "weight": 6
+    },
+    {
+      "source": "research",
+      "target": "0000",
+      "weight": 6
+    },
+    {
+      "source": "university",
+      "target": "science",
+      "weight": 12
+    },
+    {
+      "source": "university",
+      "target": "orcid",
+      "weight": 8
+    },
+    {
+      "source": "university",
+      "target": "0000",
+      "weight": 8
+    },
+    {
+      "source": "science",
+      "target": "orcid",
+      "weight": 10
+    },
+    {
+      "source": "science",
+      "target": "0000",
+      "weight": 10
+    },
+    {
+      "source": "orcid",
+      "target": "0000",
+      "weight": 13
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 241,
+    "is_connected": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_018_technical_review.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:38:52.764057",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_018_technical_review.txt",
+    "file_type": ".txt",
+    "file_size": 1691,
+    "processed_at": "2026-01-17T13:38:51.349683",
+    "content_hash": "65480f1a1a9319963e547f1a4b87c6582d60844116b0c2d2fc9b9c9d269c81db",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 215,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Performance",
+    "Discussed",
+    "Architecture",
+    "Review",
+    "Scalability"
+  ],
+  "key_concepts": [
+    "discussed",
+    "performance",
+    "review",
+    "alice",
+    "architecture",
+    "scalability",
+    "bob",
+    "charlie",
+    "meeting",
+    "code",
+    "code review",
+    "team",
+    "follow",
+    "items",
+    "progress"
+  ],
+  "entity_count": 42,
+  "word_count": 215,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 27,
+      "edge_count": 221,
+      "density": 0.6296296296296297,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.3732193732193732,
+      "average_clustering": 0.9085213100316075,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9615384615384616
+        ],
+        [
+          "team",
+          0.8846153846153847
+        ],
+        [
+          "performance",
+          0.8076923076923077
+        ],
+        [
+          "review",
+          0.8076923076923077
+        ],
+        [
+          "architecture",
+          0.8076923076923077
+        ],
+        [
+          "meeting",
+          0.8076923076923077
+        ],
+        [
+          "code",
+          0.8076923076923077
+        ],
+        [
+          "code review",
+          0.8076923076923077
+        ],
+        [
+          "01",
+          0.8076923076923077
+        ],
+        [
+          "2026",
+          0.8076923076923077
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "performance"
+      ],
+      [
+        "discussion",
+        "review"
+      ],
+      [
+        "discussion",
+        "architecture"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_018_technical_review"
+  },
+  "rag_document_id": "4baee331-816d-492a-9e1a-4eea92ee1634",
+  "processing_time_seconds": 4.390761
+}

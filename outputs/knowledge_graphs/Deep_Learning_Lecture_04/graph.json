@@ -1,0 +1,1366 @@
+{
+  "nodes": [
+    {
+      "id": "convolutional",
+      "label": "convolutional",
+      "weight": 2.6169160158276124,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.031437564046259706,
+      "eigenvector_centrality": 0.24406699375611945
+    },
+    {
+      "id": "convolutional networks",
+      "label": "convolutional networks",
+      "weight": 2.6169160158276124,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.031437564046259706,
+      "eigenvector_centrality": 0.24406699375611945
+    },
+    {
+      "id": "networks",
+      "label": "networks",
+      "weight": 2.6169160158276124,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.031437564046259706,
+      "eigenvector_centrality": 0.24406699375611945
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1381584745791136,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.02254428341384864,
+      "eigenvector_centrality": 0.2384011812106147
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9027198465436368,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.1331174078831192,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.1331174078831192,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0587004154894242,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.02254428341384864,
+      "eigenvector_centrality": 0.2384011812106147
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0173113126015025,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.02254428341384864,
+      "eigenvector_centrality": 0.2384011812106147
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9828520371705609,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.02254428341384864,
+      "eigenvector_centrality": 0.2384011812106147
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8839744764807227,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8449794091785542,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "architectures",
+      "label": "architectures",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "cnn",
+      "label": "cnn",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "cnn architectures",
+      "label": "cnn architectures",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "convolution",
+      "label": "convolution",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.031437564046259706,
+      "eigenvector_centrality": 0.24406699375611945
+    },
+    {
+      "id": "convolution operation",
+      "label": "convolution operation",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "operation",
+      "label": "operation",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "pooling",
+      "label": "pooling",
+      "weight": 0.7228514498305492,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.560222381194781,
+      "degree_centrality": 0.4583333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.11425591758444023
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5317250616839926,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.02254428341384864,
+      "eigenvector_centrality": 0.2384011812106147
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.4992092069726981,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0016469038208168645,
+      "eigenvector_centrality": 0.1733654224839215
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4810143627042147,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.343141734712208,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3175575467073582,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17822254049644548
+    }
+  ],
+  "edges": [
+    {
+      "source": "convolutional",
+      "target": "convolutional networks",
+      "weight": 8
+    },
+    {
+      "source": "convolutional",
+      "target": "networks",
+      "weight": 8
+    },
+    {
+      "source": "convolutional",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "convolutional",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "convolutional",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "convolutional",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "convolutional",
+      "target": "convolution",
+      "weight": 8
+    },
+    {
+      "source": "convolutional",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "convolutional",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "architectures",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "cnn architectures",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "convolution operation",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "operation",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "pooling",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "convolutional",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "convolutional",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "convolutional",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "convolutional",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "convolutional networks",
+      "target": "networks",
+      "weight": 8
+    },
+    {
+      "source": "convolutional networks",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "convolutional networks",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "convolutional networks",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "convolutional networks",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "convolutional networks",
+      "target": "convolution",
+      "weight": 8
+    },
+    {
+      "source": "convolutional networks",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "convolutional networks",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "architectures",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "cnn architectures",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "convolution operation",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "operation",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "pooling",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "convolutional networks",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "convolutional networks",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "convolutional networks",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "convolutional networks",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "networks",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "convolution",
+      "weight": 8
+    },
+    {
+      "source": "networks",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "architectures",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "cnn architectures",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "convolution operation",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "operation",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "pooling",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "convolution",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "architectures",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "cnn",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "cnn architectures",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "convolution operation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "operation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "pooling",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "architectures",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "cnn architectures",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "convolution",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "convolution operation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "operation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "pooling",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "architectures",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "cnn",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "cnn architectures",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "convolution",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "convolution operation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "operation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "pooling",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "architectures",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "cnn",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "cnn architectures",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "convolution",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "convolution operation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "operation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "pooling",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "convolution",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "convolution",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "architectures",
+      "target": "cnn",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "cnn architectures",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "convolution operation",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "operation",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "pooling",
+      "weight": 3
+    },
+    {
+      "source": "architectures",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "architectures",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "architectures",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "cnn architectures",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "convolution operation",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "operation",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "pooling",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "cnn",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "convolution",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "convolution operation",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "operation",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "pooling",
+      "weight": 3
+    },
+    {
+      "source": "cnn architectures",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "cnn architectures",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "cnn architectures",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "convolution",
+      "target": "convolution operation",
+      "weight": 3
+    },
+    {
+      "source": "convolution",
+      "target": "operation",
+      "weight": 3
+    },
+    {
+      "source": "convolution",
+      "target": "pooling",
+      "weight": 3
+    },
+    {
+      "source": "convolution",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "convolution",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "convolution",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "convolution",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "convolution",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "convolution",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "convolution operation",
+      "target": "operation",
+      "weight": 3
+    },
+    {
+      "source": "convolution operation",
+      "target": "pooling",
+      "weight": 3
+    },
+    {
+      "source": "convolution operation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "convolution operation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "convolution operation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "operation",
+      "target": "pooling",
+      "weight": 3
+    },
+    {
+      "source": "operation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "operation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "operation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "pooling",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "pooling",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "pooling",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 231,
+    "is_connected": true
+  }
+}

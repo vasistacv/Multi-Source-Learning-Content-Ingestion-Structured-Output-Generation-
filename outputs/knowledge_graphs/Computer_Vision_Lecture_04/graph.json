@@ -1,0 +1,1376 @@
+{
+  "nodes": [
+    {
+      "id": "segmentation",
+      "label": "segmentation",
+      "weight": 2.4924931073990693,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03582930756843801,
+      "eigenvector_centrality": 0.23727223924331933
+    },
+    {
+      "id": "semantic",
+      "label": "semantic",
+      "weight": 2.4924931073990693,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03582930756843801,
+      "eigenvector_centrality": 0.23727223924331933
+    },
+    {
+      "id": "semantic segmentation",
+      "label": "semantic segmentation",
+      "weight": 2.4924931073990693,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03582930756843801,
+      "eigenvector_centrality": 0.23727223924331933
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.05349393018192,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.020128824476650563,
+      "eigenvector_centrality": 0.2341133637241835
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3539813603948339,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.020128824476650563,
+      "eigenvector_centrality": 0.2341133637241835
+    },
+    {
+      "id": "implementations",
+      "label": "implementations",
+      "weight": 1.262768953480775,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13675530019213084
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 1.1068712887954137,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "computer vision",
+      "label": "computer vision",
+      "weight": 1.1068712887954137,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "vision",
+      "label": "vision",
+      "weight": 1.1068712887954137,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9748807397194251,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.020128824476650563,
+      "eigenvector_centrality": 0.2341133637241835
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.959609096105343,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.9529926724942489,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.020128824476650563,
+      "eigenvector_centrality": 0.2341133637241835
+    },
+    {
+      "id": "deeplab",
+      "label": "deeplab",
+      "weight": 0.8687523478052559,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0036231884057971006,
+      "eigenvector_centrality": 0.13991417571126663
+    },
+    {
+      "id": "fcn",
+      "label": "fcn",
+      "weight": 0.8687523478052559,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0036231884057971006,
+      "eigenvector_centrality": 0.13991417571126663
+    },
+    {
+      "id": "net",
+      "label": "net",
+      "weight": 0.8687523478052559,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0036231884057971006,
+      "eigenvector_centrality": 0.13991417571126663
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8409937604529862,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.6614669662317213,
+      "degree_centrality": 0.29166666666666663,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.06497421208624873
+    },
+    {
+      "id": "implement semantic",
+      "label": "implement semantic",
+      "weight": 0.6443512917410972,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "implement semantic segmentation",
+      "label": "implement semantic segmentation",
+      "weight": 0.6443512917410972,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5499552915472739,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0036231884057971006,
+      "eigenvector_centrality": 0.13991417571126663
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5305429120136527,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.020128824476650563,
+      "eigenvector_centrality": 0.2341133637241835
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.46773064879604415,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3966559327472138,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.020128824476650563,
+      "eigenvector_centrality": 0.2341133637241835
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.3338436695296053,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.30837753142976426,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20025575756545694
+    }
+  ],
+  "edges": [
+    {
+      "source": "segmentation",
+      "target": "semantic",
+      "weight": 8
+    },
+    {
+      "source": "segmentation",
+      "target": "semantic segmentation",
+      "weight": 8
+    },
+    {
+      "source": "segmentation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "segmentation",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "segmentation",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "segmentation",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "segmentation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "segmentation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "segmentation",
+      "target": "deeplab",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "fcn",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "net",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "segmentation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "segmentation",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "segmentation",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "segmentation",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "segmentation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "segmentation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "semantic segmentation",
+      "weight": 8
+    },
+    {
+      "source": "semantic",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "semantic",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "deeplab",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "fcn",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "net",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "deeplab",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "fcn",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "net",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "semantic segmentation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "deeplab",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "fcn",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "net",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "deeplab",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "fcn",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "net",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "computer vision",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vision",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "deeplab",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "fcn",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "net",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer vision",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "vision",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "deeplab",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "fcn",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "net",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "deeplab",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "fcn",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "net",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deeplab",
+      "target": "fcn",
+      "weight": 3
+    },
+    {
+      "source": "deeplab",
+      "target": "net",
+      "weight": 3
+    },
+    {
+      "source": "deeplab",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "deeplab",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deeplab",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deeplab",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "fcn",
+      "target": "net",
+      "weight": 3
+    },
+    {
+      "source": "fcn",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "fcn",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "fcn",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "fcn",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "net",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "net",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "net",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "net",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement semantic",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic",
+      "target": "implement semantic segmentation",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic segmentation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic segmentation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic segmentation",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic segmentation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement semantic segmentation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 233,
+    "is_connected": true
+  }
+}

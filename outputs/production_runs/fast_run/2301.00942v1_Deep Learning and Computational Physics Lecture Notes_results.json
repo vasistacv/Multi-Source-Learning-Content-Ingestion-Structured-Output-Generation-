@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2301.00942v1_Deep Learning and Computational Physics Lecture Notes.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:43:53.793857",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2301.00942v1_Deep Learning and Computational Physics Lecture Notes.pdf",
+    "file_type": ".pdf",
+    "file_size": 7620995,
+    "processed_at": "2026-01-17T13:43:52.087514",
+    "content_hash": "95c8bffd321d1df89a4318731f622786192ea054a6c435219753eba954976218",
+    "language": null,
+    "page_count": 88,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "subject": "",
+      "creator": "LaTeX with hyperref",
+      "producer": "pdfTeX-1.40.21",
+      "creation_date": "D:20230104012133Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Cid",
+    "Function",
+    "Network",
+    "Figure",
+    "Given"
+  ],
+  "key_concepts": [
+    "cid",
+    "function",
+    "network",
+    "figure",
+    "given",
+    "output",
+    "functions",
+    "input",
+    "neural",
+    "consider",
+    "image",
+    "networks",
+    "convolution",
+    "layer",
+    "train"
+  ],
+  "entity_count": 2120,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 152,
+      "density": 0.5066666666666667,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.4933333333333334,
+      "average_clustering": 0.7013153827521844,
+      "most_central_concepts": [
+        [
+          "function",
+          1.0
+        ],
+        [
+          "cid",
+          0.8333333333333333
+        ],
+        [
+          "network",
+          0.7916666666666666
+        ],
+        [
+          "train",
+          0.7083333333333333
+        ],
+        [
+          "note",
+          0.6666666666666666
+        ],
+        [
+          "layer",
+          0.6666666666666666
+        ],
+        [
+          "used",
+          0.625
+        ],
+        [
+          "using",
+          0.5833333333333333
+        ],
+        [
+          "loss",
+          0.5833333333333333
+        ],
+        [
+          "figure",
+          0.5416666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "function",
+        "cid"
+      ],
+      [
+        "function",
+        "network"
+      ],
+      [
+        "function",
+        "train"
+      ],
+      [
+        "function",
+        "note"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2301.00942v1_Deep Learning and Computational Physics Lecture Notes"
+  },
+  "rag_document_id": "1a532c49-8aae-43f4-aac8-cde2fb75fe9e",
+  "processing_time_seconds": 22.349382
+}

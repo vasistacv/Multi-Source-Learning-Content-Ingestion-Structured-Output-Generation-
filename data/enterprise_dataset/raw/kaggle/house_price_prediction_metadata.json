@@ -1,0 +1,14 @@
+{
+  "dataset_name": "house_price_prediction",
+  "rows": 800,
+  "columns": [
+    "id",
+    "bedrooms",
+    "bathrooms",
+    "sqft",
+    "location",
+    "price"
+  ],
+  "description": "Synthetic dataset for house price prediction",
+  "source": "Generated for ML training"
+}

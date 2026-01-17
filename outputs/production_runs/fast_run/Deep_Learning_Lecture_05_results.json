@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_05.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:49:03.570153",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_05.txt",
+    "file_type": ".txt",
+    "file_size": 2444,
+    "processed_at": "2026-01-17T13:49:02.095655",
+    "content_hash": "2f5cf44e225684c5487aa0c1130e4424cd79a3b37e2fe1c08687c55ec1ec9691",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 315,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Networks",
+    "Recurrent",
+    "Recurrent Networks",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "networks",
+    "recurrent",
+    "recurrent networks",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "deep",
+    "deep learning",
+    "implement",
+    "handling",
+    "gru",
+    "gru handling",
+    "gru handling sequences",
+    "handling sequences"
+  ],
+  "entity_count": 69,
+  "word_count": 315,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 236,
+      "density": 0.855072463768116,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.144927536231884,
+      "average_clustering": 0.927536231884058,
+      "most_central_concepts": [
+        [
+          "networks",
+          1.0
+        ],
+        [
+          "recurrent",
+          1.0
+        ],
+        [
+          "recurrent networks",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "handling",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "networks",
+        "recurrent"
+      ],
+      [
+        "networks",
+        "recurrent networks"
+      ],
+      [
+        "networks",
+        "lecture"
+      ],
+      [
+        "networks",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_05"
+  },
+  "rag_document_id": "58ede993-da84-45b9-ba03-f46701049aae",
+  "processing_time_seconds": 4.389633
+}

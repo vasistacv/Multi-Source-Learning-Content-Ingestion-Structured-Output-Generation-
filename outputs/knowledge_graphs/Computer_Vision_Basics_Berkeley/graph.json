@@ -1,0 +1,711 @@
+{
+  "nodes": [
+    {
+      "id": "cnns",
+      "label": "cnns",
+      "weight": 1.3432565662134157,
+      "degree_centrality": 0.3157894736842105,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.10500248050934717
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 0.7515048566772786,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.002923976608187134,
+      "eigenvector_centrality": 0.1653389868681701
+    },
+    {
+      "id": "computer vision",
+      "label": "computer vision",
+      "weight": 0.7515048566772786,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.002923976608187134,
+      "eigenvector_centrality": 0.1653389868681701
+    },
+    {
+      "id": "vision",
+      "label": "vision",
+      "weight": 0.7515048566772786,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.002923976608187134,
+      "eigenvector_centrality": 0.1653389868681701
+    },
+    {
+      "id": "darrell",
+      "label": "darrell",
+      "weight": 0.5977527313320142,
+      "degree_centrality": 0.7894736842105263,
+      "betweenness_centrality": 0.02046783625730994,
+      "eigenvector_centrality": 0.28078891719846655
+    },
+    {
+      "id": "trevor",
+      "label": "trevor",
+      "weight": 0.5977527313320142,
+      "degree_centrality": 0.7894736842105263,
+      "betweenness_centrality": 0.02046783625730994,
+      "eigenvector_centrality": 0.28078891719846655
+    },
+    {
+      "id": "trevor darrell",
+      "label": "trevor darrell",
+      "weight": 0.5977527313320142,
+      "degree_centrality": 0.7894736842105263,
+      "betweenness_centrality": 0.02046783625730994,
+      "eigenvector_centrality": 0.28078891719846655
+    },
+    {
+      "id": "20",
+      "label": "20",
+      "weight": 0.5681642249674899,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    },
+    {
+      "id": "41",
+      "label": "41",
+      "weight": 0.5681642249674899,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    },
+    {
+      "id": "recording",
+      "label": "recording",
+      "weight": 0.5681642249674899,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    },
+    {
+      "id": "prof",
+      "label": "prof",
+      "weight": 0.5327610070815669,
+      "degree_centrality": 0.8421052631578947,
+      "betweenness_centrality": 0.03703703703703704,
+      "eigenvector_centrality": 0.2883100487122174
+    },
+    {
+      "id": "transcript",
+      "label": "transcript",
+      "weight": 0.5327610070815669,
+      "degree_centrality": 0.8421052631578947,
+      "betweenness_centrality": 0.03703703703703704,
+      "eigenvector_centrality": 0.2883100487122174
+    },
+    {
+      "id": "video",
+      "label": "video",
+      "weight": 0.5327610070815669,
+      "degree_centrality": 0.8421052631578947,
+      "betweenness_centrality": 0.03703703703703704,
+      "eigenvector_centrality": 0.2883100487122174
+    },
+    {
+      "id": "approaches",
+      "label": "approaches",
+      "weight": 0.5,
+      "degree_centrality": 0.10526315789473684,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 1.1205205583880774e-08
+    },
+    {
+      "id": "basic",
+      "label": "basic",
+      "weight": 0.5,
+      "degree_centrality": 0.10526315789473684,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 1.1205205583880774e-08
+    },
+    {
+      "id": "basic image",
+      "label": "basic image",
+      "weight": 0.5,
+      "degree_centrality": 0.10526315789473684,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 1.1205205583880774e-08
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 0.4621978901266188,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    },
+    {
+      "id": "audio",
+      "label": "audio",
+      "weight": 0.2310989450633094,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    },
+    {
+      "id": "audio transcription",
+      "label": "audio transcription",
+      "weight": 0.2310989450633094,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    },
+    {
+      "id": "berkeley",
+      "label": "berkeley",
+      "weight": 0.2310989450633094,
+      "degree_centrality": 0.631578947368421,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2452602806120526
+    }
+  ],
+  "edges": [
+    {
+      "source": "cnns",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "cnns",
+      "target": "computer vision",
+      "weight": 1
+    },
+    {
+      "source": "cnns",
+      "target": "vision",
+      "weight": 1
+    },
+    {
+      "source": "cnns",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "cnns",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "cnns",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer vision",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "vision",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "darrell",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "trevor",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "trevor darrell",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "vision",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "darrell",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "trevor",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "trevor darrell",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "darrell",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "trevor",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "trevor darrell",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "trevor",
+      "weight": 2
+    },
+    {
+      "source": "darrell",
+      "target": "trevor darrell",
+      "weight": 2
+    },
+    {
+      "source": "darrell",
+      "target": "20",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "41",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "darrell",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "trevor darrell",
+      "weight": 2
+    },
+    {
+      "source": "trevor",
+      "target": "20",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "41",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "trevor",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "20",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "41",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "trevor darrell",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "41",
+      "weight": 2
+    },
+    {
+      "source": "20",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "20",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "20",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "41",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "41",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "prof",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "prof",
+      "target": "transcript",
+      "weight": 2
+    },
+    {
+      "source": "prof",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "prof",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "prof",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "prof",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "prof",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "transcript",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "basic",
+      "weight": 1
+    },
+    {
+      "source": "approaches",
+      "target": "basic image",
+      "weight": 1
+    },
+    {
+      "source": "basic",
+      "target": "basic image",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "audio",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "audio",
+      "target": "berkeley",
+      "weight": 1
+    },
+    {
+      "source": "audio transcription",
+      "target": "berkeley",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 20,
+    "edge_count": 108,
+    "is_connected": false
+  }
+}

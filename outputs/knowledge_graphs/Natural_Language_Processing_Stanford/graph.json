@@ -1,0 +1,671 @@
+{
+  "nodes": [
+    {
+      "id": "language",
+      "label": "language",
+      "weight": 0.4834545764214422,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15185272979947945
+    },
+    {
+      "id": "language processing",
+      "label": "language processing",
+      "weight": 0.3223030509476281,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15185272979947945
+    },
+    {
+      "id": "natural",
+      "label": "natural",
+      "weight": 0.3223030509476281,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15185272979947945
+    },
+    {
+      "id": "natural language",
+      "label": "natural language",
+      "weight": 0.3223030509476281,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15185272979947945
+    },
+    {
+      "id": "natural language processing",
+      "label": "natural language processing",
+      "weight": 0.3223030509476281,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15185272979947945
+    },
+    {
+      "id": "processing",
+      "label": "processing",
+      "weight": 0.3223030509476281,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15185272979947945
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 0.3014716366902689,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.5263157894736842,
+      "eigenvector_centrality": 0.3745633543514529
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "bert",
+      "label": "bert",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "comprehensive",
+      "label": "comprehensive",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "comprehensive nlp",
+      "label": "comprehensive nlp",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "comprehensive nlp concepts",
+      "label": "comprehensive nlp concepts",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "concepts",
+      "label": "concepts",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "concepts including",
+      "label": "concepts including",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "concepts including tokenization",
+      "label": "concepts including tokenization",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "contains",
+      "label": "contains",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "contains comprehensive",
+      "label": "contains comprehensive",
+      "weight": 0.26255634097861996,
+      "degree_centrality": 0.5263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25537600311090397
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.16115152547381406,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1518527297994795
+    },
+    {
+      "id": "chapter",
+      "label": "chapter",
+      "weight": 0.16115152547381406,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1518527297994795
+    },
+    {
+      "id": "computers",
+      "label": "computers",
+      "weight": 0.16115152547381406,
+      "degree_centrality": 0.47368421052631576,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1518527297994795
+    }
+  ],
+  "edges": [
+    {
+      "source": "language",
+      "target": "language processing",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "natural",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "natural",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "language processing",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "natural language",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "natural",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "natural language processing",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "natural language",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "natural language processing",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "natural language processing",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "natural language processing",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "natural language processing",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "natural language processing",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "nlp",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "analysis",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "bert",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "comprehensive nlp",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "comprehensive nlp concepts",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "concepts",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "bert",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "comprehensive nlp",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "comprehensive nlp concepts",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "concepts",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "comprehensive nlp",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "comprehensive nlp concepts",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "concepts",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "comprehensive nlp",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "comprehensive nlp concepts",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "concepts",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp",
+      "target": "comprehensive nlp concepts",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp",
+      "target": "concepts",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp concepts",
+      "target": "concepts",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp concepts",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp concepts",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp concepts",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "comprehensive nlp concepts",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "concepts",
+      "target": "concepts including",
+      "weight": 1
+    },
+    {
+      "source": "concepts",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "concepts",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "concepts",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "concepts including",
+      "target": "concepts including tokenization",
+      "weight": 1
+    },
+    {
+      "source": "concepts including",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "concepts including",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "concepts including tokenization",
+      "target": "contains",
+      "weight": 1
+    },
+    {
+      "source": "concepts including tokenization",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "contains",
+      "target": "contains comprehensive",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "computers",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "computers",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 20,
+    "edge_count": 100,
+    "is_connected": true
+  }
+}

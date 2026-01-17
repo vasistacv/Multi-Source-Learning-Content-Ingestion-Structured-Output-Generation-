@@ -29,7 +29,17 @@ class RAGSystem:
         self.chunk_size = chunk_size or settings.CHUNK_SIZE
         self.chunk_overlap = chunk_overlap or settings.CHUNK_OVERLAP
         
+        
         logger.info("RAG System initialized")
+        
+        # Persistence Logic
+        self.persist_directory = settings.OUTPUT_DIR / "vector_store"
+        if (self.persist_directory / "index.faiss").exists():
+             logger.info(f"Loading existing vector store from {self.persist_directory}")
+             try:
+                 self.vector_store.load(self.persist_directory)
+             except Exception as e:
+                 logger.error(f"Failed to load existing vector store: {e}")
     
     def ingest_document(
         self,
@@ -184,9 +194,13 @@ class RAGSystem:
         return retrieval_results
     
     def _chunk_text(self, text: str) -> List[str]:
-        doc = self.nlp_engine.nlp(text)
-        
-        sentences = [sent.text for sent in doc.sents]
+        # Fallback if SpaCy is not loaded
+        if self.nlp_engine.nlp is None:
+            # Simple sentence splitting
+            sentences = [s.strip() for s in text.replace('!', '.').replace('?', '.').split('.') if s.strip()]
+        else:
+            doc = self.nlp_engine.nlp(text)
+            sentences = [sent.text for sent in doc.sents]
         
         chunks = []
         current_chunk = []

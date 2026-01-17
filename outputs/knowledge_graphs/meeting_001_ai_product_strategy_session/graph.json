@@ -1,0 +1,1336 @@
+{
+  "nodes": [
+    {
+      "id": "rag",
+      "label": "rag",
+      "weight": 3.4536894409997063,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.03402293551693125,
+      "eigenvector_centrality": 0.21676108053534482
+    },
+    {
+      "id": "ai",
+      "label": "ai",
+      "weight": 3.127086379399843,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.03297589934621515,
+      "eigenvector_centrality": 0.20186645650613044
+    },
+    {
+      "id": "user",
+      "label": "user",
+      "weight": 2.680810637939405,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.05161559921451477,
+      "eigenvector_centrality": 0.25213027055613435
+    },
+    {
+      "id": "generation",
+      "label": "generation",
+      "weight": 2.4963701906292712,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.004768746579091406,
+      "eigenvector_centrality": 0.08763422295988131
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 2.4636740767212766,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.0542356190535654,
+      "eigenvector_centrality": 0.2447588065967362
+    },
+    {
+      "id": "content",
+      "label": "content",
+      "weight": 2.456321332469413,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.015790439496913326,
+      "eigenvector_centrality": 0.11986216744133303
+    },
+    {
+      "id": "week",
+      "label": "week",
+      "weight": 2.0369555750127417,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.0035470823648163547,
+      "eigenvector_centrality": 0.18925691417717158
+    },
+    {
+      "id": "engineers",
+      "label": "engineers",
+      "weight": 1.9461771117627762,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.00815589209243064,
+      "eigenvector_centrality": 0.11458788969176203
+    },
+    {
+      "id": "q1",
+      "label": "q1",
+      "weight": 1.8429490767142602,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.0008992102588161701,
+      "eigenvector_centrality": 0.059070093162596024
+    },
+    {
+      "id": "users",
+      "label": "users",
+      "weight": 1.8278878907986567,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.005412508023309065,
+      "eigenvector_centrality": 0.10330223234656023
+    },
+    {
+      "id": "search",
+      "label": "search",
+      "weight": 1.807700508046127,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.004255924734166591,
+      "eigenvector_centrality": 0.09706698361729335
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 1.7553437371201444,
+      "degree_centrality": 0.24137931034482757,
+      "betweenness_centrality": 0.0010792568831863138,
+      "eigenvector_centrality": 0.08705878763677026
+    },
+    {
+      "id": "product",
+      "label": "product",
+      "weight": 1.52162415621709,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.0033085961657390232,
+      "eigenvector_centrality": 0.14153092092192526
+    },
+    {
+      "id": "sarah",
+      "label": "sarah",
+      "weight": 1.501169191253125,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.04816646471377144,
+      "eigenvector_centrality": 0.264341168891442
+    },
+    {
+      "id": "chen",
+      "label": "chen",
+      "weight": 1.49158294430874,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.007649390862307437,
+      "eigenvector_centrality": 0.16805956183182671
+    },
+    {
+      "id": "sarah chen",
+      "label": "sarah chen",
+      "weight": 1.49158294430874,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.007649390862307437,
+      "eigenvector_centrality": 0.16805956183182671
+    },
+    {
+      "id": "engineering",
+      "label": "engineering",
+      "weight": 1.4749753633362706,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.03304963528663357,
+      "eigenvector_centrality": 0.22230305275758921
+    },
+    {
+      "id": "summarization",
+      "label": "summarization",
+      "weight": 1.4735057160815845,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.029823185792657605,
+      "eigenvector_centrality": 0.1974827951047738
+    },
+    {
+      "id": "document",
+      "label": "document",
+      "weight": 1.4691986687075431,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.025411579151673393,
+      "eigenvector_centrality": 0.21064325592071906
+    },
+    {
+      "id": "michael",
+      "label": "michael",
+      "weight": 1.4291100872153677,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.03763523852918772,
+      "eigenvector_centrality": 0.25922952413955186
+    },
+    {
+      "id": "michael rodriguez",
+      "label": "michael rodriguez",
+      "weight": 1.4207558543246925,
+      "degree_centrality": 0.3793103448275862,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13641927617003516
+    },
+    {
+      "id": "rodriguez",
+      "label": "rodriguez",
+      "weight": 1.4207558543246925,
+      "degree_centrality": 0.3793103448275862,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13641927617003516
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "weight": 1.3163247724788425,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.010500036037261557,
+      "eigenvector_centrality": 0.10711786362560177
+    },
+    {
+      "id": "time",
+      "label": "time",
+      "weight": 1.26541513328164,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.03887025319982482,
+      "eigenvector_centrality": 0.2345783919530633
+    },
+    {
+      "id": "emily",
+      "label": "emily",
+      "weight": 1.235469359094549,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.057279082091159145,
+      "eigenvector_centrality": 0.2712182823828684
+    },
+    {
+      "id": "emily park",
+      "label": "emily park",
+      "weight": 1.212719001708983,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.017472278365962178,
+      "eigenvector_centrality": 0.17698525091228792
+    },
+    {
+      "id": "park",
+      "label": "park",
+      "weight": 1.212719001708983,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.017472278365962178,
+      "eigenvector_centrality": 0.17698525091228792
+    },
+    {
+      "id": "40",
+      "label": "40",
+      "weight": 0.9213339884473966,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.03023426518893594,
+      "eigenvector_centrality": 0.20706020523416976
+    },
+    {
+      "id": "jan",
+      "label": "jan",
+      "weight": 0.5569386089178225,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1694763184762406
+    },
+    {
+      "id": "target",
+      "label": "target",
+      "weight": 0.5569386089178225,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1694763184762406
+    }
+  ],
+  "edges": [
+    {
+      "source": "rag",
+      "target": "generation",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "content",
+      "weight": 2
+    },
+    {
+      "source": "rag",
+      "target": "engineers",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "q1",
+      "weight": 2
+    },
+    {
+      "source": "rag",
+      "target": "ai",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "week",
+      "weight": 2
+    },
+    {
+      "source": "rag",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "sarah",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "rag",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "product",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "sarah",
+      "weight": 2
+    },
+    {
+      "source": "ai",
+      "target": "chen",
+      "weight": 2
+    },
+    {
+      "source": "ai",
+      "target": "sarah chen",
+      "weight": 2
+    },
+    {
+      "source": "ai",
+      "target": "engineering",
+      "weight": 2
+    },
+    {
+      "source": "ai",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "michael rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "user",
+      "weight": 3
+    },
+    {
+      "source": "ai",
+      "target": "users",
+      "weight": 2
+    },
+    {
+      "source": "ai",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "document",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "users",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "data",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "document",
+      "weight": 5
+    },
+    {
+      "source": "user",
+      "target": "search",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "30",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "emily",
+      "weight": 2
+    },
+    {
+      "source": "user",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "week",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "summarization",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "generation",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "time",
+      "weight": 3
+    },
+    {
+      "source": "user",
+      "target": "engineers",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "sarah",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "user",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "content",
+      "weight": 3
+    },
+    {
+      "source": "generation",
+      "target": "engineers",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "q1",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "users",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "users",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "document",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "search",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "40",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "week",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "engineers",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "time",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "sarah",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "chen",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "sarah chen",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "engineers",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "q1",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "search",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "users",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "summarization",
+      "weight": 2
+    },
+    {
+      "source": "week",
+      "target": "document",
+      "weight": 3
+    },
+    {
+      "source": "week",
+      "target": "engineers",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "time",
+      "weight": 2
+    },
+    {
+      "source": "week",
+      "target": "sarah",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "week",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "engineers",
+      "target": "q1",
+      "weight": 1
+    },
+    {
+      "source": "engineers",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "engineers",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "engineers",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "q1",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "q1",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "users",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "users",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "users",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "users",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "search",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "search",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "search",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "search",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "search",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "sarah",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "chen",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "sarah chen",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "product",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "sarah",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "chen",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "sarah chen",
+      "weight": 2
+    },
+    {
+      "source": "product",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "michael rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "product",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "chen",
+      "weight": 4
+    },
+    {
+      "source": "sarah",
+      "target": "sarah chen",
+      "weight": 4
+    },
+    {
+      "source": "sarah",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "michael",
+      "weight": 2
+    },
+    {
+      "source": "sarah",
+      "target": "michael rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "emily",
+      "weight": 2
+    },
+    {
+      "source": "sarah",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "40",
+      "weight": 2
+    },
+    {
+      "source": "sarah",
+      "target": "summarization",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "sarah",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "sarah chen",
+      "weight": 4
+    },
+    {
+      "source": "chen",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "michael rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "chen",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "engineering",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "michael rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "sarah chen",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "michael rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "rodriguez",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "document",
+      "weight": 1
+    },
+    {
+      "source": "engineering",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "summarization",
+      "target": "document",
+      "weight": 3
+    },
+    {
+      "source": "summarization",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "summarization",
+      "target": "time",
+      "weight": 2
+    },
+    {
+      "source": "summarization",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "summarization",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "summarization",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "summarization",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "summarization",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "document",
+      "target": "time",
+      "weight": 2
+    },
+    {
+      "source": "document",
+      "target": "michael",
+      "weight": 1
+    },
+    {
+      "source": "document",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "document",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "document",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "document",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "michael",
+      "target": "michael rodriguez",
+      "weight": 3
+    },
+    {
+      "source": "michael",
+      "target": "rodriguez",
+      "weight": 3
+    },
+    {
+      "source": "michael",
+      "target": "emily",
+      "weight": 2
+    },
+    {
+      "source": "michael",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "michael",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "michael",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "michael",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "michael",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "michael",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "michael rodriguez",
+      "target": "rodriguez",
+      "weight": 3
+    },
+    {
+      "source": "michael rodriguez",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "michael rodriguez",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "michael rodriguez",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "rodriguez",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "rodriguez",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "rodriguez",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "emily",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "emily park",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "park",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "time",
+      "weight": 2
+    },
+    {
+      "source": "time",
+      "target": "emily",
+      "weight": 2
+    },
+    {
+      "source": "time",
+      "target": "emily park",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "park",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "emily park",
+      "weight": 3
+    },
+    {
+      "source": "emily",
+      "target": "park",
+      "weight": 3
+    },
+    {
+      "source": "emily",
+      "target": "40",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "emily park",
+      "target": "park",
+      "weight": 3
+    },
+    {
+      "source": "40",
+      "target": "jan",
+      "weight": 1
+    },
+    {
+      "source": "40",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "jan",
+      "target": "target",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 217,
+    "is_connected": true
+  }
+}

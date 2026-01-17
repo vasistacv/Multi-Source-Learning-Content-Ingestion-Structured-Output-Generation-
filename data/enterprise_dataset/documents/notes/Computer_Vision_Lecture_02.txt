@@ -1,0 +1,84 @@
+# Computer Vision - Lecture 2: CNN Architectures
+
+Date: 2026-01-02
+Instructor: Dr. Sarah Chen
+Duration: 90 minutes
+
+## Lecture Overview
+
+Today's focus: **CNN Architectures**
+
+This lecture explores AlexNet, VGG, ResNet, EfficientNet, with theoretical foundations, 
+practical implementations, and real-world applications.
+
+## Key Learning Outcomes
+
+By the end of this lecture, students will be able to:
+1. Understand the core concepts of CNN Architectures
+2. Implement algorithms related to AlexNet, VGG, ResNet, EfficientNet
+3. Apply these techniques to real datasets
+4. Recognize when to use these methods in practice
+
+## Detailed Content
+
+### Part 1: Theoretical Foundation (CNN Architectures)
+
+AlexNet, VGG, ResNet, EfficientNet
+
+Mathematical formulation and algorithmic principles demonstrated through step-by-step derivations.
+Complexity analysis: Time O(n²), Space O(n) for typical implementations.
+
+### Part 2: Implementation
+
+```python
+# Example code for CNN Architectures
+import numpy as np
+
+def example_algorithm(data, params):
+    # Core implementation of CNN Architectures
+    result = process(data)
+    return result
+```
+
+### Part 3: Real-World Applications
+
+Case study: How CNN Architectures is used in industry applications including:
+- E-commerce recommendation systems
+- Medical imaging diagnostics
+- Financial fraud detection
+- Autonomous vehicle perception
+
+### Part 4: Advanced Considerations
+
+- Handling edge cases and corner scenarios
+- Performance optimization techniques
+- Recent research developments in CNN Architectures
+- Comparison with alternative approaches
+
+## Hands-On Exercise
+
+Dataset: UCI Machine Learning Repository - Computer Vision Dataset
+Task: Implement CNN Architectures and achieve >85% accuracy on test set
+
+## Homework Assignment
+
+Due: Next week before lecture
+
+1. Implement the CNN Architectures algorithm from scratch
+2. Compare performance with sklearn/PyTorch implementation
+3. Write a 2-page analysis of results
+4. Prepare questions for next lecture
+
+## Additional Resources
+
+- Paper: "Advances in CNN Architectures" (2024)
+- Tutorial: https://example.com/computer vision/2
+- Dataset: Kaggle Computer Vision Competition
+
+## Next Lecture Preview
+
+We'll build upon CNN Architectures to explore more advanced concepts in Computer Vision.
+
+---
+Office Hours: Wednesdays 3-5 PM, Room 302
+Discussion Forum: course-platform.edu/ml2

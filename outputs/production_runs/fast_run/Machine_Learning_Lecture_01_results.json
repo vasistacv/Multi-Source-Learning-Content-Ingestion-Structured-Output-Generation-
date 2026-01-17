@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_01.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:49:41.023077",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_01.txt",
+    "file_type": ".txt",
+    "file_size": 2498,
+    "processed_at": "2026-01-17T13:49:39.639430",
+    "content_hash": "c2cec8ecb541054be4a4821dc759c2e67c6081d01d013528e9203678e475da2d",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 330,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Linear",
+    "Linear Regression",
+    "Regression",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "linear",
+    "linear regression",
+    "regression",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "machine",
+    "machine learning",
+    "implement",
+    "optimization",
+    "descent",
+    "descent mse",
+    "descent mse optimization",
+    "mse"
+  ],
+  "entity_count": 69,
+  "word_count": 330,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 204,
+      "density": 0.8063241106719368,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1936758893280632,
+      "average_clustering": 0.91699604743083,
+      "most_central_concepts": [
+        [
+          "linear",
+          1.0
+        ],
+        [
+          "linear regression",
+          1.0
+        ],
+        [
+          "regression",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "optimization",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "learning",
+          0.6818181818181819
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "linear",
+        "linear regression"
+      ],
+      [
+        "linear",
+        "regression"
+      ],
+      [
+        "linear",
+        "lecture"
+      ],
+      [
+        "linear",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_01"
+  },
+  "rag_document_id": "2e2253f1-275e-4268-82c9-019035235ceb",
+  "processing_time_seconds": 3.981846
+}

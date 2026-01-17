@@ -1,0 +1,1116 @@
+{
+  "nodes": [
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 9.12882982385129,
+      "degree_centrality": 0.896551724137931,
+      "betweenness_centrality": 0.1656337943976688,
+      "eigenvector_centrality": 0.2983618671071052
+    },
+    {
+      "id": "finally",
+      "label": "finally",
+      "weight": 4.840794485849451,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.003099573162598373,
+      "eigenvector_centrality": 0.19134407934206044
+    },
+    {
+      "id": "forexample",
+      "label": "forexample",
+      "weight": 4.718162723691644,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.005900089921025883,
+      "eigenvector_centrality": 0.14518971868742853
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "weight": 4.373106953864299,
+      "degree_centrality": 0.10344827586206896,
+      "betweenness_centrality": 0.0027855969974196577,
+      "eigenvector_centrality": 0.019132918671061167
+    },
+    {
+      "id": "sources",
+      "label": "sources",
+      "weight": 4.225281266628707,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.07225444181265117,
+      "eigenvector_centrality": 0.28716292560863427
+    },
+    {
+      "id": "time",
+      "label": "time",
+      "weight": 3.8752015594739704,
+      "degree_centrality": 0.5517241379310345,
+      "betweenness_centrality": 0.026141624046689366,
+      "eigenvector_centrality": 0.22223587924522975
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "weight": 3.411688842626771,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.01879637877174823,
+      "eigenvector_centrality": 0.07597669408631275
+    },
+    {
+      "id": "accuracy",
+      "label": "accuracy",
+      "weight": 3.092927878122467,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.008560997343234376,
+      "eigenvector_centrality": 0.22766138913680617
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "weight": 3.0,
+      "degree_centrality": 0.06896551724137931,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.032882327102042426
+    },
+    {
+      "id": "inparticular",
+      "label": "inparticular",
+      "weight": 3.0,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.106545300198012
+    },
+    {
+      "id": "inthecontextofofficialstatistics",
+      "label": "inthecontextofofficialstatistics",
+      "weight": 3.0,
+      "degree_centrality": 0.13793103448275862,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.06828317288728614
+    },
+    {
+      "id": "changes",
+      "label": "changes",
+      "weight": 2.880648872501483,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.032463224016397015,
+      "eigenvector_centrality": 0.24502022242182592
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "weight": 2.7342710670691206,
+      "degree_centrality": 0.20689655172413793,
+      "betweenness_centrality": 0.015714529723150412,
+      "eigenvector_centrality": 0.08470622687548877
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "weight": 2.721940201949566,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0014174635371389933,
+      "eigenvector_centrality": 0.06931640699487042
+    },
+    {
+      "id": "bias",
+      "label": "bias",
+      "weight": 2.721940201949566,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.030255687798791252,
+      "eigenvector_centrality": 0.12459000339531176
+    },
+    {
+      "id": "making",
+      "label": "making",
+      "weight": 2.697511988309475,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0951663098443432
+    },
+    {
+      "id": "additionally",
+      "label": "additionally",
+      "weight": 2.450436236991962,
+      "degree_centrality": 0.3103448275862069,
+      "betweenness_centrality": 0.002291711287213536,
+      "eigenvector_centrality": 0.14893158607381404
+    },
+    {
+      "id": "machinelearning",
+      "label": "machinelearning",
+      "weight": 2.447213595499958,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.0412388065174592,
+      "eigenvector_centrality": 0.2672723147041912
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 2.4374723195357504,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.011469174991720442,
+      "eigenvector_centrality": 0.21124817720950098
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 2.4084998915883564,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.008398585571159996,
+      "eigenvector_centrality": 0.19918576392711118
+    },
+    {
+      "id": "data sources",
+      "label": "data sources",
+      "weight": 2.347877685706992,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.023772071008851776,
+      "eigenvector_centrality": 0.2532363564331575
+    },
+    {
+      "id": "consuming",
+      "label": "consuming",
+      "weight": 2.184707304061083,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08114876963687366
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 2.182700934537318,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.07484092552598215,
+      "eigenvector_centrality": 0.28738651883859684
+    },
+    {
+      "id": "reusens",
+      "label": "reusens",
+      "weight": 2.0,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13583781351083615
+    },
+    {
+      "id": "technical",
+      "label": "technical",
+      "weight": 1.9919088222936967,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.07190094026518251,
+      "eigenvector_centrality": 0.1919133123419239
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.4023400523567728,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.0673181356448179,
+      "eigenvector_centrality": 0.27874441614461243
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.4023400523567728,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.0011963406052076001,
+      "eigenvector_centrality": 0.16163495187600066
+    },
+    {
+      "id": "changing data",
+      "label": "changing data",
+      "weight": 1.3273102352950694,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.002580342481820314,
+      "eigenvector_centrality": 0.1915423928446901
+    },
+    {
+      "id": "robustness",
+      "label": "robustness",
+      "weight": 1.045021652574777,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.026255278857785377,
+      "eigenvector_centrality": 0.1491271250886739
+    },
+    {
+      "id": "technical robustness",
+      "label": "technical robustness",
+      "weight": 1.045021652574777,
+      "degree_centrality": 0.06896551724137931,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.022873210689255706
+    }
+  ],
+  "edges": [
+    {
+      "source": "data",
+      "target": "sources",
+      "weight": 55
+    },
+    {
+      "source": "data",
+      "target": "machinelearning",
+      "weight": 31
+    },
+    {
+      "source": "data",
+      "target": "data sources",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "learning",
+      "weight": 38
+    },
+    {
+      "source": "data",
+      "target": "reusens",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "machine",
+      "weight": 37
+    },
+    {
+      "source": "data",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "changing data",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "time",
+      "weight": 15
+    },
+    {
+      "source": "data",
+      "target": "accuracy",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "inparticular",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "changes",
+      "weight": 26
+    },
+    {
+      "source": "data",
+      "target": "technical",
+      "weight": 7
+    },
+    {
+      "source": "data",
+      "target": "robustness",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "finally",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "model",
+      "weight": 25
+    },
+    {
+      "source": "data",
+      "target": "models",
+      "weight": 13
+    },
+    {
+      "source": "data",
+      "target": "bias",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "consuming",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "16",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "forexample",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "additionally",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "making",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "inthecontextofofficialstatistics",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "2022",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "sources",
+      "weight": 5
+    },
+    {
+      "source": "finally",
+      "target": "machinelearning",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "changes",
+      "weight": 2
+    },
+    {
+      "source": "finally",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "data sources",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "forexample",
+      "weight": 1
+    },
+    {
+      "source": "finally",
+      "target": "robustness",
+      "weight": 1
+    },
+    {
+      "source": "forexample",
+      "target": "inthecontextofofficialstatistics",
+      "weight": 2
+    },
+    {
+      "source": "forexample",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "forexample",
+      "target": "changes",
+      "weight": 1
+    },
+    {
+      "source": "forexample",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "forexample",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "forexample",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "forexample",
+      "target": "sources",
+      "weight": 1
+    },
+    {
+      "source": "forexample",
+      "target": "robustness",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "bias",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "17",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "sources",
+      "target": "machinelearning",
+      "weight": 17
+    },
+    {
+      "source": "sources",
+      "target": "data sources",
+      "weight": 6
+    },
+    {
+      "source": "sources",
+      "target": "learning",
+      "weight": 21
+    },
+    {
+      "source": "sources",
+      "target": "reusens",
+      "weight": 1
+    },
+    {
+      "source": "sources",
+      "target": "machine",
+      "weight": 21
+    },
+    {
+      "source": "sources",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "sources",
+      "target": "changing data",
+      "weight": 3
+    },
+    {
+      "source": "sources",
+      "target": "accuracy",
+      "weight": 2
+    },
+    {
+      "source": "sources",
+      "target": "inparticular",
+      "weight": 1
+    },
+    {
+      "source": "sources",
+      "target": "changes",
+      "weight": 9
+    },
+    {
+      "source": "sources",
+      "target": "technical",
+      "weight": 2
+    },
+    {
+      "source": "sources",
+      "target": "model",
+      "weight": 10
+    },
+    {
+      "source": "sources",
+      "target": "models",
+      "weight": 7
+    },
+    {
+      "source": "sources",
+      "target": "time",
+      "weight": 4
+    },
+    {
+      "source": "sources",
+      "target": "consuming",
+      "weight": 2
+    },
+    {
+      "source": "sources",
+      "target": "additionally",
+      "weight": 2
+    },
+    {
+      "source": "sources",
+      "target": "making",
+      "weight": 1
+    },
+    {
+      "source": "sources",
+      "target": "bias",
+      "weight": 1
+    },
+    {
+      "source": "sources",
+      "target": "robustness",
+      "weight": 2
+    },
+    {
+      "source": "sources",
+      "target": "inthecontextofofficialstatistics",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "machinelearning",
+      "weight": 3
+    },
+    {
+      "source": "time",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "time",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "time",
+      "target": "accuracy",
+      "weight": 3
+    },
+    {
+      "source": "time",
+      "target": "model",
+      "weight": 3
+    },
+    {
+      "source": "time",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "time",
+      "target": "consuming",
+      "weight": 3
+    },
+    {
+      "source": "time",
+      "target": "changes",
+      "weight": 5
+    },
+    {
+      "source": "time",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "16",
+      "weight": 2
+    },
+    {
+      "source": "time",
+      "target": "data sources",
+      "weight": 2
+    },
+    {
+      "source": "time",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "additionally",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "changes",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "16",
+      "weight": 1
+    },
+    {
+      "source": "15",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "machinelearning",
+      "weight": 2
+    },
+    {
+      "source": "accuracy",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "accuracy",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "accuracy",
+      "target": "bias",
+      "weight": 2
+    },
+    {
+      "source": "accuracy",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "model",
+      "weight": 3
+    },
+    {
+      "source": "accuracy",
+      "target": "changes",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "data sources",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "2022",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "inparticular",
+      "target": "changes",
+      "weight": 1
+    },
+    {
+      "source": "inparticular",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "inparticular",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "inparticular",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "inthecontextofofficialstatistics",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "changes",
+      "target": "learning",
+      "weight": 6
+    },
+    {
+      "source": "changes",
+      "target": "machine",
+      "weight": 6
+    },
+    {
+      "source": "changes",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "changes",
+      "target": "machinelearning",
+      "weight": 4
+    },
+    {
+      "source": "changes",
+      "target": "16",
+      "weight": 2
+    },
+    {
+      "source": "changes",
+      "target": "model",
+      "weight": 4
+    },
+    {
+      "source": "changes",
+      "target": "additionally",
+      "weight": 1
+    },
+    {
+      "source": "changes",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "changes",
+      "target": "data sources",
+      "weight": 2
+    },
+    {
+      "source": "changes",
+      "target": "changing data",
+      "weight": 2
+    },
+    {
+      "source": "17",
+      "target": "machinelearning",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "16",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "bias",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "bias",
+      "target": "machinelearning",
+      "weight": 1
+    },
+    {
+      "source": "bias",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "bias",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "making",
+      "target": "machinelearning",
+      "weight": 1
+    },
+    {
+      "source": "making",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "making",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "additionally",
+      "target": "machinelearning",
+      "weight": 1
+    },
+    {
+      "source": "additionally",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "additionally",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "additionally",
+      "target": "data sources",
+      "weight": 1
+    },
+    {
+      "source": "additionally",
+      "target": "consuming",
+      "weight": 1
+    },
+    {
+      "source": "machinelearning",
+      "target": "data sources",
+      "weight": 1
+    },
+    {
+      "source": "machinelearning",
+      "target": "learning",
+      "weight": 50
+    },
+    {
+      "source": "machinelearning",
+      "target": "reusens",
+      "weight": 1
+    },
+    {
+      "source": "machinelearning",
+      "target": "machine",
+      "weight": 50
+    },
+    {
+      "source": "machinelearning",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "machinelearning",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "machinelearning",
+      "target": "model",
+      "weight": 14
+    },
+    {
+      "source": "machinelearning",
+      "target": "models",
+      "weight": 11
+    },
+    {
+      "source": "machinelearning",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "machinelearning",
+      "target": "robustness",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "models",
+      "weight": 20
+    },
+    {
+      "source": "model",
+      "target": "learning",
+      "weight": 18
+    },
+    {
+      "source": "model",
+      "target": "machine",
+      "weight": 18
+    },
+    {
+      "source": "model",
+      "target": "data sources",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "learning",
+      "weight": 13
+    },
+    {
+      "source": "models",
+      "target": "machine",
+      "weight": 13
+    },
+    {
+      "source": "models",
+      "target": "data sources",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "data sources",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "data sources",
+      "target": "reusens",
+      "weight": 1
+    },
+    {
+      "source": "data sources",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "data sources",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "data sources",
+      "target": "changing data",
+      "weight": 3
+    },
+    {
+      "source": "data sources",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "data sources",
+      "target": "robustness",
+      "weight": 1
+    },
+    {
+      "source": "data sources",
+      "target": "consuming",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "reusens",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 57
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "technical",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "robustness",
+      "weight": 1
+    },
+    {
+      "source": "reusens",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "reusens",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "reusens",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "technical",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "technical",
+      "target": "robustness",
+      "weight": 2
+    },
+    {
+      "source": "technical",
+      "target": "technical robustness",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "robustness",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "changing data",
+      "weight": 1
+    },
+    {
+      "source": "robustness",
+      "target": "technical robustness",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 173,
+    "is_connected": true
+  }
+}

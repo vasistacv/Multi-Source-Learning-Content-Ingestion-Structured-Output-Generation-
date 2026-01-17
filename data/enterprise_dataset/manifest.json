@@ -1,0 +1,54 @@
+{
+  "download_timestamp": "D:\\Navgurukul",
+  "statistics": {
+    "pdfs_downloaded": 15,
+    "videos_downloaded": 1,
+    "text_files_created": 21,
+    "total_size_mb": 24.410149574279785
+  },
+  "files": {
+    "pdfs": [
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2306.04338v1_Changing Data Sources in the Age of Machine Learning for Official Statistics.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2006.16189v4_DOME Recommendations for supervised machine learning validation in biology.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\1303.0042v1_Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Tel.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2110.10780v3_An Open Natural Language Processing Development Framework for EHR-based Clinical.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2306.06371v1_A Comprehensive Review of State-of-The-Art Methods for Java Code Generation from.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2006.16212v1_Towards the Study of Morphological Processing of the Tangkhul Language.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2306.11113v2_Learn to Accumulate Evidence from All Training Samples Theory and Practice.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2105.04026v2_The Modern Mathematics of Deep Learning.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2301.00942v1_Deep Learning and Computational Physics Lecture Notes.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2511.11017v1_AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in .pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2511.06455v1_A Multi-Agent System for Semantic Mapping of Relational Data to Knowledge Graphs.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2009.06103v1_Tax Knowledge Graph for a Smarter and More Personalized TurboTax.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\1802.02663v1_A Patterns Based Approach for Design of Educational Technologies.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\1808.02528v3_Student Log-Data from a Randomized Evaluation of Educational Technology A Causal.pdf",
+      "data\\enterprise_dataset\\pdfs\\research_papers\\2408.00025v3_Need of AI in Modern Education in the Eyes of Explainable AI xAI.pdf"
+    ],
+    "videos": [],
+    "text": [
+      "data\\enterprise_dataset\\raw\\huggingface\\squad.json"
+    ],
+    "transcripts": [
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_001_sprint_planning.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_002_technical_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_003_quarterly_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_004_design_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_005_onboarding.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_006_incident_postmortem.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_007_customer_feedback.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_008_team_retrospective.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_009_sprint_planning.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_010_technical_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_011_quarterly_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_012_design_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_013_onboarding.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_014_incident_postmortem.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_015_customer_feedback.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_016_team_retrospective.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_017_sprint_planning.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_018_technical_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_019_quarterly_review.txt",
+      "data\\enterprise_dataset\\transcripts\\meetings\\meeting_020_design_review.txt"
+    ]
+  }
+}

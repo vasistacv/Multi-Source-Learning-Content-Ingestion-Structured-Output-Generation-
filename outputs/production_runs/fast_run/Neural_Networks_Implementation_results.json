@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Neural_Networks_Implementation.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:40:31.319082",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Neural_Networks_Implementation.txt",
+    "file_type": ".txt",
+    "file_size": 603,
+    "processed_at": "2026-01-17T13:40:29.902479",
+    "content_hash": "1df79c5cfb6067a277482290883d9fcae20e1c04f06a8d4b89ede8d19918bb80",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 71,
+    "metadata": {
+      "line_count": 19,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "End",
+    "00",
+    "Building",
+    "Building Neural",
+    "Dr"
+  ],
+  "key_concepts": [
+    "end",
+    "00",
+    "55",
+    "55 00",
+    "recording",
+    "building",
+    "building neural",
+    "neural",
+    "scratch",
+    "dr",
+    "transcript",
+    "video",
+    "andrej",
+    "andrej karpathy",
+    "karpathy"
+  ],
+  "entity_count": 14,
+  "word_count": 71,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 21,
+      "edge_count": 116,
+      "density": 0.5523809523809524,
+      "is_connected": true,
+      "diameter": 4,
+      "average_shortest_path_length": 1.6,
+      "average_clustering": 0.7842226090125249,
+      "most_central_concepts": [
+        [
+          "dr",
+          0.9
+        ],
+        [
+          "transcript",
+          0.8
+        ],
+        [
+          "video",
+          0.8
+        ],
+        [
+          "andrej",
+          0.75
+        ],
+        [
+          "andrej karpathy",
+          0.75
+        ],
+        [
+          "karpathy",
+          0.75
+        ],
+        [
+          "building",
+          0.65
+        ],
+        [
+          "neural",
+          0.65
+        ],
+        [
+          "scratch",
+          0.65
+        ],
+        [
+          "00",
+          0.55
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "dr",
+        "transcript"
+      ],
+      [
+        "dr",
+        "video"
+      ],
+      [
+        "dr",
+        "andrej"
+      ],
+      [
+        "dr",
+        "andrej karpathy"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Neural_Networks_Implementation"
+  },
+  "rag_document_id": "a001b872-6b04-4eac-a544-6a3aff402461",
+  "processing_time_seconds": 3.874162
+}

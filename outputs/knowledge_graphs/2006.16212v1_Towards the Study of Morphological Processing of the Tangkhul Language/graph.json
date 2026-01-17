@@ -1,0 +1,1736 @@
+{
+  "nodes": [
+    {
+      "id": "tangkhul",
+      "label": "tangkhul",
+      "weight": 14.467470149260238,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.017971118195690784,
+      "eigenvector_centrality": 0.19460418165836282
+    },
+    {
+      "id": "language",
+      "label": "language",
+      "weight": 9.721977825653362,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03690233066138601,
+      "eigenvector_centrality": 0.23971858218937703
+    },
+    {
+      "id": "languages",
+      "label": "languages",
+      "weight": 5.974825370937211,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.00919337914411806,
+      "eigenvector_centrality": 0.16990091702360097
+    },
+    {
+      "id": "root",
+      "label": "root",
+      "weight": 5.3593925916173495,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.018555671203454454,
+      "eigenvector_centrality": 0.21775193662570635
+    },
+    {
+      "id": "compound",
+      "label": "compound",
+      "weight": 5.121641575081936,
+      "degree_centrality": 0.48275862068965514,
+      "betweenness_centrality": 0.0023876619211304806,
+      "eigenvector_centrality": 0.13233772983390862
+    },
+    {
+      "id": "example",
+      "label": "example",
+      "weight": 5.082341861434669,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.0015858067364876985,
+      "eigenvector_centrality": 0.17218094250867882
+    },
+    {
+      "id": "work",
+      "label": "work",
+      "weight": 5.078423117481368,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.008780370519721433,
+      "eigenvector_centrality": 0.16791188173973975
+    },
+    {
+      "id": "word",
+      "label": "word",
+      "weight": 3.9843367838135535,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.015241055428682204,
+      "eigenvector_centrality": 0.21187821807992158
+    },
+    {
+      "id": "corpus",
+      "label": "corpus",
+      "weight": 3.776247482463459,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.009142597236627954,
+      "eigenvector_centrality": 0.2011657011644655
+    },
+    {
+      "id": "words",
+      "label": "words",
+      "weight": 3.6200121637430525,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.0035824280680844,
+      "eigenvector_centrality": 0.17841318557125244
+    },
+    {
+      "id": "lan",
+      "label": "lan",
+      "weight": 3.442378328411562,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03690233066138601,
+      "eigenvector_centrality": 0.23971858218937703
+    },
+    {
+      "id": "processing",
+      "label": "processing",
+      "weight": 3.374318459996921,
+      "degree_centrality": 0.8620689655172413,
+      "betweenness_centrality": 0.019599204121806265,
+      "eigenvector_centrality": 0.21727016273885014
+    },
+    {
+      "id": "verbs",
+      "label": "verbs",
+      "weight": 3.369902819421394,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.00147441019651973,
+      "eigenvector_centrality": 0.12327080883359777
+    },
+    {
+      "id": "used",
+      "label": "used",
+      "weight": 3.2364958536956596,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.0038054925370196307,
+      "eigenvector_centrality": 0.1383055490954835
+    },
+    {
+      "id": "wrong",
+      "label": "wrong",
+      "weight": 3.036653177548609,
+      "degree_centrality": 0.5517241379310345,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15787307080283264
+    },
+    {
+      "id": "tangkhul language",
+      "label": "tangkhul language",
+      "weight": 3.0125516521374944,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.0025834431513944702,
+      "eigenvector_centrality": 0.11991765692593384
+    },
+    {
+      "id": "adjectives",
+      "label": "adjectives",
+      "weight": 2.936342589045226,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.0028707472057225756,
+      "eigenvector_centrality": 0.114164178163692
+    },
+    {
+      "id": "resource",
+      "label": "resource",
+      "weight": 2.9176301211303315,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.00020525451559934318,
+      "eigenvector_centrality": 0.09581985716094485
+    },
+    {
+      "id": "li",
+      "label": "li",
+      "weight": 2.6012934081715096,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.03181794460409355,
+      "eigenvector_centrality": 0.2345741685567921
+    },
+    {
+      "id": "india",
+      "label": "india",
+      "weight": 2.5352927321630983,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.011842182817986931,
+      "eigenvector_centrality": 0.2072772730517999
+    },
+    {
+      "id": "morphological",
+      "label": "morphological",
+      "weight": 2.4142907839173624,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.010510878654170455,
+      "eigenvector_centrality": 0.18818137787138955
+    },
+    {
+      "id": "kha",
+      "label": "kha",
+      "weight": 2.3371958755468114,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.014617429642060184,
+      "eigenvector_centrality": 0.20430812853914498
+    },
+    {
+      "id": "villages",
+      "label": "villages",
+      "weight": 2.3254999193268002,
+      "degree_centrality": 0.3448275862068966,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.10184341610843142
+    },
+    {
+      "id": "ma",
+      "label": "ma",
+      "weight": 2.2972115579500425,
+      "degree_centrality": 0.9655172413793103,
+      "betweenness_centrality": 0.03021983007494454,
+      "eigenvector_centrality": 0.23540079401041736
+    },
+    {
+      "id": "suffix",
+      "label": "suffix",
+      "weight": 2.2629016287250936,
+      "degree_centrality": 0.5172413793103449,
+      "betweenness_centrality": 0.0005043396669012432,
+      "eigenvector_centrality": 0.1476195951031206
+    },
+    {
+      "id": "2017",
+      "label": "2017",
+      "weight": 1.9927401038927246,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.0005043396669012432,
+      "eigenvector_centrality": 0.16452497481101805
+    },
+    {
+      "id": "wui",
+      "label": "wui",
+      "weight": 1.930714779518801,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.0026154059405290937,
+      "eigenvector_centrality": 0.18057103181514486
+    },
+    {
+      "id": "noun",
+      "label": "noun",
+      "weight": 1.8975709100229692,
+      "degree_centrality": 0.4482758620689655,
+      "betweenness_centrality": 0.0010632635016871472,
+      "eigenvector_centrality": 0.12243274209637334
+    },
+    {
+      "id": "manipur",
+      "label": "manipur",
+      "weight": 1.3367735902336846,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.008520231097020435,
+      "eigenvector_centrality": 0.20117903816015115
+    },
+    {
+      "id": "ng",
+      "label": "ng",
+      "weight": 1.1216459096384808,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03690233066138601,
+      "eigenvector_centrality": 0.23971858218937697
+    }
+  ],
+  "edges": [
+    {
+      "source": "tangkhul",
+      "target": "language",
+      "weight": 17
+    },
+    {
+      "source": "tangkhul",
+      "target": "lan",
+      "weight": 19
+    },
+    {
+      "source": "tangkhul",
+      "target": "processing",
+      "weight": 7
+    },
+    {
+      "source": "tangkhul",
+      "target": "india",
+      "weight": 3
+    },
+    {
+      "source": "tangkhul",
+      "target": "morphological",
+      "weight": 8
+    },
+    {
+      "source": "tangkhul",
+      "target": "ma",
+      "weight": 14
+    },
+    {
+      "source": "tangkhul",
+      "target": "manipur",
+      "weight": 3
+    },
+    {
+      "source": "tangkhul",
+      "target": "ng",
+      "weight": 30
+    },
+    {
+      "source": "tangkhul",
+      "target": "work",
+      "weight": 8
+    },
+    {
+      "source": "tangkhul",
+      "target": "li",
+      "weight": 9
+    },
+    {
+      "source": "tangkhul",
+      "target": "tangkhul language",
+      "weight": 5
+    },
+    {
+      "source": "tangkhul",
+      "target": "villages",
+      "weight": 3
+    },
+    {
+      "source": "tangkhul",
+      "target": "corpus",
+      "weight": 3
+    },
+    {
+      "source": "tangkhul",
+      "target": "languages",
+      "weight": 4
+    },
+    {
+      "source": "tangkhul",
+      "target": "resource",
+      "weight": 1
+    },
+    {
+      "source": "tangkhul",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "tangkhul",
+      "target": "noun",
+      "weight": 2
+    },
+    {
+      "source": "tangkhul",
+      "target": "root",
+      "weight": 3
+    },
+    {
+      "source": "tangkhul",
+      "target": "compound",
+      "weight": 4
+    },
+    {
+      "source": "tangkhul",
+      "target": "adjectives",
+      "weight": 2
+    },
+    {
+      "source": "tangkhul",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "tangkhul",
+      "target": "verbs",
+      "weight": 1
+    },
+    {
+      "source": "tangkhul",
+      "target": "word",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "lan",
+      "weight": 42
+    },
+    {
+      "source": "language",
+      "target": "processing",
+      "weight": 12
+    },
+    {
+      "source": "language",
+      "target": "india",
+      "weight": 8
+    },
+    {
+      "source": "language",
+      "target": "morphological",
+      "weight": 9
+    },
+    {
+      "source": "language",
+      "target": "ma",
+      "weight": 20
+    },
+    {
+      "source": "language",
+      "target": "manipur",
+      "weight": 5
+    },
+    {
+      "source": "language",
+      "target": "ng",
+      "weight": 42
+    },
+    {
+      "source": "language",
+      "target": "tangkhul language",
+      "weight": 5
+    },
+    {
+      "source": "language",
+      "target": "work",
+      "weight": 10
+    },
+    {
+      "source": "language",
+      "target": "villages",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "corpus",
+      "weight": 6
+    },
+    {
+      "source": "language",
+      "target": "languages",
+      "weight": 14
+    },
+    {
+      "source": "language",
+      "target": "li",
+      "weight": 16
+    },
+    {
+      "source": "language",
+      "target": "resource",
+      "weight": 4
+    },
+    {
+      "source": "language",
+      "target": "compound",
+      "weight": 4
+    },
+    {
+      "source": "language",
+      "target": "root",
+      "weight": 4
+    },
+    {
+      "source": "language",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "example",
+      "weight": 5
+    },
+    {
+      "source": "language",
+      "target": "verbs",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "adjectives",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "kha",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "word",
+      "weight": 6
+    },
+    {
+      "source": "language",
+      "target": "words",
+      "weight": 6
+    },
+    {
+      "source": "language",
+      "target": "suffix",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "2017",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "wui",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "wrong",
+      "weight": 1
+    },
+    {
+      "source": "languages",
+      "target": "lan",
+      "weight": 14
+    },
+    {
+      "source": "languages",
+      "target": "ng",
+      "weight": 14
+    },
+    {
+      "source": "languages",
+      "target": "li",
+      "weight": 6
+    },
+    {
+      "source": "languages",
+      "target": "india",
+      "weight": 3
+    },
+    {
+      "source": "languages",
+      "target": "ma",
+      "weight": 6
+    },
+    {
+      "source": "languages",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "languages",
+      "target": "work",
+      "weight": 5
+    },
+    {
+      "source": "languages",
+      "target": "processing",
+      "weight": 4
+    },
+    {
+      "source": "languages",
+      "target": "tangkhul language",
+      "weight": 2
+    },
+    {
+      "source": "languages",
+      "target": "morphological",
+      "weight": 2
+    },
+    {
+      "source": "languages",
+      "target": "resource",
+      "weight": 2
+    },
+    {
+      "source": "languages",
+      "target": "compound",
+      "weight": 1
+    },
+    {
+      "source": "languages",
+      "target": "verbs",
+      "weight": 1
+    },
+    {
+      "source": "languages",
+      "target": "word",
+      "weight": 2
+    },
+    {
+      "source": "languages",
+      "target": "corpus",
+      "weight": 2
+    },
+    {
+      "source": "languages",
+      "target": "words",
+      "weight": 2
+    },
+    {
+      "source": "languages",
+      "target": "example",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "compound",
+      "weight": 5
+    },
+    {
+      "source": "root",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "lan",
+      "weight": 5
+    },
+    {
+      "source": "root",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "root",
+      "target": "ng",
+      "weight": 10
+    },
+    {
+      "source": "root",
+      "target": "ma",
+      "weight": 4
+    },
+    {
+      "source": "root",
+      "target": "verbs",
+      "weight": 2
+    },
+    {
+      "source": "root",
+      "target": "adjectives",
+      "weight": 2
+    },
+    {
+      "source": "root",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "li",
+      "weight": 4
+    },
+    {
+      "source": "root",
+      "target": "example",
+      "weight": 2
+    },
+    {
+      "source": "root",
+      "target": "word",
+      "weight": 3
+    },
+    {
+      "source": "root",
+      "target": "morphological",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "suffix",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "corpus",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "words",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "wrong",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "wui",
+      "weight": 1
+    },
+    {
+      "source": "root",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "compound",
+      "target": "work",
+      "weight": 2
+    },
+    {
+      "source": "compound",
+      "target": "lan",
+      "weight": 5
+    },
+    {
+      "source": "compound",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "compound",
+      "target": "ma",
+      "weight": 3
+    },
+    {
+      "source": "compound",
+      "target": "ng",
+      "weight": 9
+    },
+    {
+      "source": "compound",
+      "target": "processing",
+      "weight": 1
+    },
+    {
+      "source": "compound",
+      "target": "li",
+      "weight": 4
+    },
+    {
+      "source": "compound",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "compound",
+      "target": "morphological",
+      "weight": 1
+    },
+    {
+      "source": "compound",
+      "target": "adjectives",
+      "weight": 1
+    },
+    {
+      "source": "example",
+      "target": "lan",
+      "weight": 5
+    },
+    {
+      "source": "example",
+      "target": "ng",
+      "weight": 6
+    },
+    {
+      "source": "example",
+      "target": "word",
+      "weight": 5
+    },
+    {
+      "source": "example",
+      "target": "li",
+      "weight": 3
+    },
+    {
+      "source": "example",
+      "target": "ma",
+      "weight": 3
+    },
+    {
+      "source": "example",
+      "target": "processing",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "india",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "suffix",
+      "weight": 1
+    },
+    {
+      "source": "example",
+      "target": "2017",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "manipur",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "corpus",
+      "weight": 2
+    },
+    {
+      "source": "example",
+      "target": "words",
+      "weight": 3
+    },
+    {
+      "source": "example",
+      "target": "wrong",
+      "weight": 1
+    },
+    {
+      "source": "example",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "work",
+      "target": "lan",
+      "weight": 11
+    },
+    {
+      "source": "work",
+      "target": "li",
+      "weight": 3
+    },
+    {
+      "source": "work",
+      "target": "ma",
+      "weight": 6
+    },
+    {
+      "source": "work",
+      "target": "ng",
+      "weight": 12
+    },
+    {
+      "source": "work",
+      "target": "processing",
+      "weight": 4
+    },
+    {
+      "source": "work",
+      "target": "morphological",
+      "weight": 5
+    },
+    {
+      "source": "work",
+      "target": "villages",
+      "weight": 1
+    },
+    {
+      "source": "work",
+      "target": "corpus",
+      "weight": 2
+    },
+    {
+      "source": "work",
+      "target": "tangkhul language",
+      "weight": 2
+    },
+    {
+      "source": "work",
+      "target": "india",
+      "weight": 2
+    },
+    {
+      "source": "work",
+      "target": "resource",
+      "weight": 1
+    },
+    {
+      "source": "work",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "work",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "work",
+      "target": "wui",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "verbs",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "adjectives",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "ma",
+      "weight": 12
+    },
+    {
+      "source": "word",
+      "target": "ng",
+      "weight": 15
+    },
+    {
+      "source": "word",
+      "target": "words",
+      "weight": 13
+    },
+    {
+      "source": "word",
+      "target": "lan",
+      "weight": 6
+    },
+    {
+      "source": "word",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "word",
+      "target": "li",
+      "weight": 11
+    },
+    {
+      "source": "word",
+      "target": "suffix",
+      "weight": 2
+    },
+    {
+      "source": "word",
+      "target": "corpus",
+      "weight": 7
+    },
+    {
+      "source": "word",
+      "target": "processing",
+      "weight": 2
+    },
+    {
+      "source": "word",
+      "target": "kha",
+      "weight": 3
+    },
+    {
+      "source": "word",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "word",
+      "target": "morphological",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "wrong",
+      "weight": 2
+    },
+    {
+      "source": "word",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "word",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "lan",
+      "weight": 6
+    },
+    {
+      "source": "corpus",
+      "target": "villages",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "ma",
+      "weight": 6
+    },
+    {
+      "source": "corpus",
+      "target": "ng",
+      "weight": 8
+    },
+    {
+      "source": "corpus",
+      "target": "processing",
+      "weight": 3
+    },
+    {
+      "source": "corpus",
+      "target": "li",
+      "weight": 6
+    },
+    {
+      "source": "corpus",
+      "target": "morphological",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "words",
+      "weight": 7
+    },
+    {
+      "source": "corpus",
+      "target": "kha",
+      "weight": 2
+    },
+    {
+      "source": "corpus",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "corpus",
+      "target": "wrong",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "wui",
+      "weight": 1
+    },
+    {
+      "source": "corpus",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "words",
+      "target": "lan",
+      "weight": 6
+    },
+    {
+      "source": "words",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "words",
+      "target": "li",
+      "weight": 8
+    },
+    {
+      "source": "words",
+      "target": "ma",
+      "weight": 7
+    },
+    {
+      "source": "words",
+      "target": "ng",
+      "weight": 10
+    },
+    {
+      "source": "words",
+      "target": "suffix",
+      "weight": 1
+    },
+    {
+      "source": "words",
+      "target": "processing",
+      "weight": 2
+    },
+    {
+      "source": "words",
+      "target": "kha",
+      "weight": 3
+    },
+    {
+      "source": "words",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "words",
+      "target": "wrong",
+      "weight": 2
+    },
+    {
+      "source": "words",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "words",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "words",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "lan",
+      "target": "processing",
+      "weight": 12
+    },
+    {
+      "source": "lan",
+      "target": "india",
+      "weight": 8
+    },
+    {
+      "source": "lan",
+      "target": "morphological",
+      "weight": 9
+    },
+    {
+      "source": "lan",
+      "target": "ma",
+      "weight": 21
+    },
+    {
+      "source": "lan",
+      "target": "manipur",
+      "weight": 5
+    },
+    {
+      "source": "lan",
+      "target": "ng",
+      "weight": 44
+    },
+    {
+      "source": "lan",
+      "target": "li",
+      "weight": 17
+    },
+    {
+      "source": "lan",
+      "target": "tangkhul language",
+      "weight": 5
+    },
+    {
+      "source": "lan",
+      "target": "villages",
+      "weight": 2
+    },
+    {
+      "source": "lan",
+      "target": "resource",
+      "weight": 4
+    },
+    {
+      "source": "lan",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "lan",
+      "target": "verbs",
+      "weight": 3
+    },
+    {
+      "source": "lan",
+      "target": "adjectives",
+      "weight": 2
+    },
+    {
+      "source": "lan",
+      "target": "kha",
+      "weight": 3
+    },
+    {
+      "source": "lan",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "lan",
+      "target": "suffix",
+      "weight": 2
+    },
+    {
+      "source": "lan",
+      "target": "2017",
+      "weight": 3
+    },
+    {
+      "source": "lan",
+      "target": "wui",
+      "weight": 3
+    },
+    {
+      "source": "lan",
+      "target": "wrong",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "india",
+      "weight": 4
+    },
+    {
+      "source": "processing",
+      "target": "morphological",
+      "weight": 5
+    },
+    {
+      "source": "processing",
+      "target": "ma",
+      "weight": 7
+    },
+    {
+      "source": "processing",
+      "target": "manipur",
+      "weight": 4
+    },
+    {
+      "source": "processing",
+      "target": "ng",
+      "weight": 13
+    },
+    {
+      "source": "processing",
+      "target": "tangkhul language",
+      "weight": 3
+    },
+    {
+      "source": "processing",
+      "target": "villages",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "resource",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "li",
+      "weight": 8
+    },
+    {
+      "source": "processing",
+      "target": "suffix",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "2017",
+      "weight": 3
+    },
+    {
+      "source": "processing",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "processing",
+      "target": "wrong",
+      "weight": 1
+    },
+    {
+      "source": "processing",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "verbs",
+      "target": "ng",
+      "weight": 4
+    },
+    {
+      "source": "verbs",
+      "target": "adjectives",
+      "weight": 2
+    },
+    {
+      "source": "verbs",
+      "target": "noun",
+      "weight": 3
+    },
+    {
+      "source": "verbs",
+      "target": "li",
+      "weight": 2
+    },
+    {
+      "source": "verbs",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "verbs",
+      "target": "ma",
+      "weight": 3
+    },
+    {
+      "source": "verbs",
+      "target": "morphological",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "ma",
+      "weight": 2
+    },
+    {
+      "source": "used",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "ng",
+      "weight": 5
+    },
+    {
+      "source": "used",
+      "target": "adjectives",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "li",
+      "weight": 2
+    },
+    {
+      "source": "wrong",
+      "target": "li",
+      "weight": 1
+    },
+    {
+      "source": "wrong",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "wrong",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "wrong",
+      "target": "ma",
+      "weight": 3
+    },
+    {
+      "source": "wrong",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "wrong",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "wrong",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "wrong",
+      "target": "ng",
+      "weight": 4
+    },
+    {
+      "source": "tangkhul language",
+      "target": "ng",
+      "weight": 5
+    },
+    {
+      "source": "tangkhul language",
+      "target": "morphological",
+      "weight": 2
+    },
+    {
+      "source": "tangkhul language",
+      "target": "ma",
+      "weight": 1
+    },
+    {
+      "source": "tangkhul language",
+      "target": "resource",
+      "weight": 1
+    },
+    {
+      "source": "tangkhul language",
+      "target": "li",
+      "weight": 2
+    },
+    {
+      "source": "tangkhul language",
+      "target": "adjectives",
+      "weight": 1
+    },
+    {
+      "source": "tangkhul language",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "adjectives",
+      "target": "noun",
+      "weight": 2
+    },
+    {
+      "source": "adjectives",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "adjectives",
+      "target": "ng",
+      "weight": 3
+    },
+    {
+      "source": "adjectives",
+      "target": "ma",
+      "weight": 1
+    },
+    {
+      "source": "resource",
+      "target": "li",
+      "weight": 1
+    },
+    {
+      "source": "resource",
+      "target": "ng",
+      "weight": 4
+    },
+    {
+      "source": "resource",
+      "target": "india",
+      "weight": 1
+    },
+    {
+      "source": "li",
+      "target": "ma",
+      "weight": 20
+    },
+    {
+      "source": "li",
+      "target": "ng",
+      "weight": 27
+    },
+    {
+      "source": "li",
+      "target": "india",
+      "weight": 5
+    },
+    {
+      "source": "li",
+      "target": "manipur",
+      "weight": 4
+    },
+    {
+      "source": "li",
+      "target": "villages",
+      "weight": 1
+    },
+    {
+      "source": "li",
+      "target": "morphological",
+      "weight": 6
+    },
+    {
+      "source": "li",
+      "target": "kha",
+      "weight": 4
+    },
+    {
+      "source": "li",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "li",
+      "target": "suffix",
+      "weight": 3
+    },
+    {
+      "source": "li",
+      "target": "2017",
+      "weight": 3
+    },
+    {
+      "source": "li",
+      "target": "wui",
+      "weight": 3
+    },
+    {
+      "source": "india",
+      "target": "morphological",
+      "weight": 2
+    },
+    {
+      "source": "india",
+      "target": "ma",
+      "weight": 7
+    },
+    {
+      "source": "india",
+      "target": "manipur",
+      "weight": 5
+    },
+    {
+      "source": "india",
+      "target": "ng",
+      "weight": 8
+    },
+    {
+      "source": "india",
+      "target": "suffix",
+      "weight": 1
+    },
+    {
+      "source": "india",
+      "target": "2017",
+      "weight": 3
+    },
+    {
+      "source": "india",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "india",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "morphological",
+      "target": "ma",
+      "weight": 7
+    },
+    {
+      "source": "morphological",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "morphological",
+      "target": "ng",
+      "weight": 11
+    },
+    {
+      "source": "morphological",
+      "target": "villages",
+      "weight": 1
+    },
+    {
+      "source": "morphological",
+      "target": "suffix",
+      "weight": 1
+    },
+    {
+      "source": "morphological",
+      "target": "kha",
+      "weight": 1
+    },
+    {
+      "source": "morphological",
+      "target": "wui",
+      "weight": 1
+    },
+    {
+      "source": "kha",
+      "target": "ng",
+      "weight": 6
+    },
+    {
+      "source": "kha",
+      "target": "ma",
+      "weight": 3
+    },
+    {
+      "source": "kha",
+      "target": "noun",
+      "weight": 1
+    },
+    {
+      "source": "kha",
+      "target": "wui",
+      "weight": 3
+    },
+    {
+      "source": "kha",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "kha",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "villages",
+      "target": "ng",
+      "weight": 3
+    },
+    {
+      "source": "villages",
+      "target": "ma",
+      "weight": 1
+    },
+    {
+      "source": "ma",
+      "target": "manipur",
+      "weight": 7
+    },
+    {
+      "source": "ma",
+      "target": "ng",
+      "weight": 31
+    },
+    {
+      "source": "ma",
+      "target": "noun",
+      "weight": 4
+    },
+    {
+      "source": "ma",
+      "target": "suffix",
+      "weight": 2
+    },
+    {
+      "source": "ma",
+      "target": "2017",
+      "weight": 3
+    },
+    {
+      "source": "ma",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "suffix",
+      "target": "2017",
+      "weight": 1
+    },
+    {
+      "source": "suffix",
+      "target": "wui",
+      "weight": 1
+    },
+    {
+      "source": "suffix",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "suffix",
+      "target": "ng",
+      "weight": 3
+    },
+    {
+      "source": "2017",
+      "target": "wui",
+      "weight": 2
+    },
+    {
+      "source": "2017",
+      "target": "manipur",
+      "weight": 3
+    },
+    {
+      "source": "2017",
+      "target": "ng",
+      "weight": 3
+    },
+    {
+      "source": "wui",
+      "target": "manipur",
+      "weight": 2
+    },
+    {
+      "source": "wui",
+      "target": "ng",
+      "weight": 5
+    },
+    {
+      "source": "noun",
+      "target": "manipur",
+      "weight": 1
+    },
+    {
+      "source": "noun",
+      "target": "ng",
+      "weight": 3
+    },
+    {
+      "source": "manipur",
+      "target": "ng",
+      "weight": 6
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 297,
+    "is_connected": true
+  }
+}

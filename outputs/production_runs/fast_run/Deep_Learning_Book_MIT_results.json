@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Deep_Learning_Book_MIT.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:45:45.688474",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Deep_Learning_Book_MIT.txt",
+    "file_type": ".txt",
+    "file_size": 5571,
+    "processed_at": "2026-01-17T13:45:44.312260",
+    "content_hash": "16b252b5bf9dc4fc5ded1a52fafe43360dcc6678d6036b8b63f2c60e26c4915c",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 804,
+    "metadata": {
+      "line_count": 161,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Learning",
+    "Data",
+    "Error",
+    "Regression",
+    "Chapter"
+  ],
+  "key_concepts": [
+    "learning",
+    "data",
+    "error",
+    "model",
+    "algorithms",
+    "regression",
+    "machine",
+    "machine learning",
+    "linear",
+    "chapter",
+    "neural",
+    "output",
+    "classification",
+    "input",
+    "training"
+  ],
+  "entity_count": 115,
+  "word_count": 804,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 222,
+      "density": 0.5103448275862069,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.5310344827586206,
+      "average_clustering": 0.8098032428652296,
+      "most_central_concepts": [
+        [
+          "model",
+          0.8275862068965517
+        ],
+        [
+          "chapter",
+          0.8275862068965517
+        ],
+        [
+          "training",
+          0.7931034482758621
+        ],
+        [
+          "learning",
+          0.7586206896551724
+        ],
+        [
+          "predictions",
+          0.7586206896551724
+        ],
+        [
+          "used",
+          0.7241379310344828
+        ],
+        [
+          "data",
+          0.6896551724137931
+        ],
+        [
+          "regression",
+          0.6896551724137931
+        ],
+        [
+          "learns",
+          0.6896551724137931
+        ],
+        [
+          "linear",
+          0.6551724137931034
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "model",
+        "chapter"
+      ],
+      [
+        "model",
+        "training"
+      ],
+      [
+        "model",
+        "learning"
+      ],
+      [
+        "model",
+        "predictions"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Book_MIT"
+  },
+  "rag_document_id": "a82cabeb-ed63-430f-b052-88a25f2cd888",
+  "processing_time_seconds": 4.325941
+}

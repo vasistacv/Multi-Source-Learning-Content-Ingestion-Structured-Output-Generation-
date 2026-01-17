@@ -1,0 +1,1215 @@
+{
+  "nodes": [
+    {
+      "id": "networks",
+      "label": "networks",
+      "weight": 2.941552928773657,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 2.654624970128487,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.114648520352312,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8936665231829437,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3304867193291234,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2734722678238006,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "reinforcement",
+      "label": "reinforcement",
+      "weight": 1.1241443967215168,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "reinforcement learning",
+      "label": "reinforcement learning",
+      "weight": 1.1241443967215168,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0727402578436418,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "dqn",
+      "label": "dqn",
+      "weight": 0.7539852580807738,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "experience",
+      "label": "experience",
+      "weight": 0.7539852580807738,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "experience replay",
+      "label": "experience replay",
+      "weight": 0.7539852580807738,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "replay",
+      "label": "replay",
+      "weight": 0.7539852580807738,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "target",
+      "label": "target",
+      "weight": 0.7539852580807738,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "target networks",
+      "label": "target networks",
+      "weight": 0.7539852580807738,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.526402551311699,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5070650059458449,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4747315223865395,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3703288720339446,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.3703288720339446,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.023569023569023573,
+      "eigenvector_centrality": 0.24593776342741724
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.33799538847463917,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "reinforcement learning dataset",
+      "label": "reinforcement learning dataset",
+      "weight": 0.33799538847463917,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3149398967997424,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1804026347374271
+    }
+  ],
+  "edges": [
+    {
+      "source": "networks",
+      "target": "deep",
+      "weight": 8
+    },
+    {
+      "source": "networks",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "networks",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "networks",
+      "target": "dqn",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "experience replay",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "replay",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "target",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "target networks",
+      "weight": 3
+    },
+    {
+      "source": "networks",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "networks",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "deep",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "dqn",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "experience",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "experience replay",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "replay",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "target",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "target networks",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dqn",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "experience replay",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "replay",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "target networks",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dqn",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "experience replay",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "replay",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "target networks",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "reinforcement",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "reinforcement learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "dqn",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "experience",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "experience replay",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "replay",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "target",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "target networks",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "reinforcement",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "reinforcement learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "reinforcement",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dqn",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "experience",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "experience replay",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "replay",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "target",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "target networks",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dqn",
+      "target": "experience",
+      "weight": 3
+    },
+    {
+      "source": "dqn",
+      "target": "experience replay",
+      "weight": 3
+    },
+    {
+      "source": "dqn",
+      "target": "replay",
+      "weight": 3
+    },
+    {
+      "source": "dqn",
+      "target": "target",
+      "weight": 3
+    },
+    {
+      "source": "dqn",
+      "target": "target networks",
+      "weight": 3
+    },
+    {
+      "source": "dqn",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "dqn",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dqn",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dqn",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "experience",
+      "target": "experience replay",
+      "weight": 3
+    },
+    {
+      "source": "experience",
+      "target": "replay",
+      "weight": 3
+    },
+    {
+      "source": "experience",
+      "target": "target",
+      "weight": 3
+    },
+    {
+      "source": "experience",
+      "target": "target networks",
+      "weight": 3
+    },
+    {
+      "source": "experience",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "experience",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "experience",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "experience",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "experience replay",
+      "target": "replay",
+      "weight": 3
+    },
+    {
+      "source": "experience replay",
+      "target": "target",
+      "weight": 3
+    },
+    {
+      "source": "experience replay",
+      "target": "target networks",
+      "weight": 3
+    },
+    {
+      "source": "experience replay",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "experience replay",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "experience replay",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "experience replay",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "replay",
+      "target": "target",
+      "weight": 3
+    },
+    {
+      "source": "replay",
+      "target": "target networks",
+      "weight": 3
+    },
+    {
+      "source": "replay",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "replay",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "replay",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "replay",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "target",
+      "target": "target networks",
+      "weight": 3
+    },
+    {
+      "source": "target",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "target",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "target",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "target",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "target networks",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "target networks",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "target networks",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "target networks",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "reinforcement learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning dataset",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 204,
+    "is_connected": true
+  }
+}

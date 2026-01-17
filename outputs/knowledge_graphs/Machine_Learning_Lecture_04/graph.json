@@ -1,0 +1,1303 @@
+{
+  "nodes": [
+    {
+      "id": "forests",
+      "label": "forests",
+      "weight": 2.616569175175648,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "random",
+      "label": "random",
+      "weight": 2.616569175175648,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "random forests",
+      "label": "random forests",
+      "weight": 2.616569175175648,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1159816317278404,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8996602111132042,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.252781632283951,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.252781632283951,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0570127867902073,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.001982061180396,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9790698722844091,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "methods",
+      "label": "methods",
+      "weight": 0.9693799560173332,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8820833940376468,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8430883267354783,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    },
+    {
+      "id": "bagging",
+      "label": "bagging",
+      "weight": 0.7307642139121868,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "ensemble",
+      "label": "ensemble",
+      "weight": 0.7307642139121868,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "ensemble methods",
+      "label": "ensemble methods",
+      "weight": 0.7307642139121868,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "feature",
+      "label": "feature",
+      "weight": 0.7307642139121868,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "feature importance",
+      "label": "feature importance",
+      "weight": 0.7307642139121868,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "importance",
+      "label": "importance",
+      "weight": 0.7307642139121868,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5126566947817197,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5080759021396688,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1833680179125336
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4772321978180629,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3766751492327889,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02459376372419851,
+      "eigenvector_centrality": 0.2428232425181331
+    },
+    {
+      "id": "machine learning dataset",
+      "label": "machine learning dataset",
+      "weight": 0.3412506522691321,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16917497961385988
+    }
+  ],
+  "edges": [
+    {
+      "source": "forests",
+      "target": "random",
+      "weight": 8
+    },
+    {
+      "source": "forests",
+      "target": "random forests",
+      "weight": 8
+    },
+    {
+      "source": "forests",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "forests",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "forests",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "forests",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "forests",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "forests",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "methods",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "bagging",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "ensemble",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "ensemble methods",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "feature",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "forests",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "forests",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "forests",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "random",
+      "target": "random forests",
+      "weight": 8
+    },
+    {
+      "source": "random",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "random",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "random",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "random",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "random",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "random",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "methods",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "bagging",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "ensemble",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "ensemble methods",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "feature",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "random",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "random",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "random",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "random forests",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "random forests",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "random forests",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "random forests",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "random forests",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "random forests",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "methods",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "bagging",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "ensemble",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "ensemble methods",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "feature",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "random forests",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "random forests",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "random forests",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "methods",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "bagging",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "ensemble",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "ensemble methods",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "feature",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "importance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "methods",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "bagging",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "ensemble",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "ensemble methods",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "feature",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "methods",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "bagging",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "ensemble",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "ensemble methods",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "feature",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "importance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "methods",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "bagging",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "ensemble",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "ensemble methods",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "feature",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "importance",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "methods",
+      "target": "bagging",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "ensemble",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "ensemble methods",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "feature",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "feature importance",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "importance",
+      "weight": 3
+    },
+    {
+      "source": "methods",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "methods",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "methods",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "bagging",
+      "target": "ensemble",
+      "weight": 3
+    },
+    {
+      "source": "bagging",
+      "target": "ensemble methods",
+      "weight": 3
+    },
+    {
+      "source": "bagging",
+      "target": "feature",
+      "weight": 3
+    },
+    {
+      "source": "bagging",
+      "target": "feature importance",
+      "weight": 3
+    },
+    {
+      "source": "bagging",
+      "target": "importance",
+      "weight": 3
+    },
+    {
+      "source": "bagging",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bagging",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "bagging",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "ensemble",
+      "target": "ensemble methods",
+      "weight": 3
+    },
+    {
+      "source": "ensemble",
+      "target": "feature",
+      "weight": 3
+    },
+    {
+      "source": "ensemble",
+      "target": "feature importance",
+      "weight": 3
+    },
+    {
+      "source": "ensemble",
+      "target": "importance",
+      "weight": 3
+    },
+    {
+      "source": "ensemble",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "ensemble",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "ensemble",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "ensemble methods",
+      "target": "feature",
+      "weight": 3
+    },
+    {
+      "source": "ensemble methods",
+      "target": "feature importance",
+      "weight": 3
+    },
+    {
+      "source": "ensemble methods",
+      "target": "importance",
+      "weight": 3
+    },
+    {
+      "source": "ensemble methods",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "ensemble methods",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "ensemble methods",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "feature importance",
+      "weight": 3
+    },
+    {
+      "source": "feature",
+      "target": "importance",
+      "weight": 3
+    },
+    {
+      "source": "feature",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "feature importance",
+      "target": "importance",
+      "weight": 3
+    },
+    {
+      "source": "feature importance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "feature importance",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "feature importance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "importance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "importance",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "importance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "machine learning dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 220,
+    "is_connected": true
+  }
+}

@@ -1,0 +1,1110 @@
+{
+  "nodes": [
+    {
+      "id": "transformers",
+      "label": "transformers",
+      "weight": 2.9890084099566905,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.07740672026386308,
+      "eigenvector_centrality": 0.261683117585545
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.516596682494746,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.0333951762523191,
+      "eigenvector_centrality": 0.2581749905402276
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 1.6562650612468035,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3669519106405077,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.0333951762523191,
+      "eigenvector_centrality": 0.2581749905402276
+    },
+    {
+      "id": "implementations",
+      "label": "implementations",
+      "weight": 1.2486224060678215,
+      "degree_centrality": 0.5454545454545454,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15459727701466466
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0708494830813242,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.0333951762523191,
+      "eigenvector_centrality": 0.2581749905402275
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.0322422900154373,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.0333951762523191,
+      "eigenvector_centrality": 0.2581749905402275
+    },
+    {
+      "id": "core",
+      "label": "core",
+      "weight": 1.0241586346223053,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.9882898712533491,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8696745356009924,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "implement transformers",
+      "label": "implement transformers",
+      "weight": 0.8455958831268625,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "attention",
+      "label": "attention",
+      "weight": 0.7781599017330825,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.00505050505050505,
+      "eigenvector_centrality": 0.15810540405998208
+    },
+    {
+      "id": "bert",
+      "label": "bert",
+      "weight": 0.7781599017330825,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.00505050505050505,
+      "eigenvector_centrality": 0.15810540405998208
+    },
+    {
+      "id": "gpt",
+      "label": "gpt",
+      "weight": 0.7781599017330825,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.00505050505050505,
+      "eigenvector_centrality": 0.15810540405998208
+    },
+    {
+      "id": "need",
+      "label": "need",
+      "weight": 0.7781599017330825,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.00505050505050505,
+      "eigenvector_centrality": 0.15810540405998208
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.6269022318420194,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.6195753120379702,
+      "degree_centrality": 0.2727272727272727,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.06253494885346483
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5737579148967114,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.0333951762523191,
+      "eigenvector_centrality": 0.2581749905402275
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5176208203563747,
+      "degree_centrality": 0.5909090909090909,
+      "betweenness_centrality": 0.00505050505050505,
+      "eigenvector_centrality": 0.15810540405998208
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.46433447742757444,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "nlp dataset",
+      "label": "nlp dataset",
+      "weight": 0.46433447742757444,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.4111901604822664,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.0333951762523191,
+      "eigenvector_centrality": 0.2581749905402275
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.37443702943392376,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20515535026324827
+    }
+  ],
+  "edges": [
+    {
+      "source": "transformers",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "transformers",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "transformers",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "transformers",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "attention",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "bert",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "gpt",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "need",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "core",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "transformers",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "attention",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "bert",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gpt",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "core",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "core",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "attention",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "bert",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gpt",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "core",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "attention",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "bert",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "gpt",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "attention",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "bert",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gpt",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "need",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "core",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "attention",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "bert",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gpt",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "core",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "core",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement transformers",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement transformers",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement transformers",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement transformers",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement transformers",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement transformers",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement transformers",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "bert",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "gpt",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "need",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "gpt",
+      "weight": 3
+    },
+    {
+      "source": "bert",
+      "target": "need",
+      "weight": 3
+    },
+    {
+      "source": "bert",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "bert",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "bert",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "need",
+      "weight": 3
+    },
+    {
+      "source": "gpt",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "gpt",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "gpt",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "need",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "nlp dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "nlp dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 183,
+    "is_connected": true
+  }
+}

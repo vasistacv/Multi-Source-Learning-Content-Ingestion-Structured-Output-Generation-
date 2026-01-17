@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_08.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:49:36.830407",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_08.txt",
+    "file_type": ".txt",
+    "file_size": 2495,
+    "processed_at": "2026-01-17T13:49:35.467071",
+    "content_hash": "423371c3eb9827a32d62159af37afbb7f5e73cd97e83585abe8b555ba5e36dcd",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Learning",
+    "Transfer",
+    "Transfer Learning",
+    "Lecture",
+    "Trained"
+  ],
+  "key_concepts": [
+    "learning",
+    "transfer",
+    "transfer learning",
+    "lecture",
+    "real",
+    "implementation",
+    "deep",
+    "deep learning",
+    "implement",
+    "adaptation",
+    "adaptation pre",
+    "domain adaptation",
+    "models",
+    "pre",
+    "pre trained"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 21,
+      "edge_count": 177,
+      "density": 0.8428571428571429,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1571428571428573,
+      "average_clustering": 0.9249867091972355,
+      "most_central_concepts": [
+        [
+          "learning",
+          1.0
+        ],
+        [
+          "transfer",
+          1.0
+        ],
+        [
+          "transfer learning",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "pre",
+          0.9500000000000001
+        ],
+        [
+          "adaptation",
+          0.8
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "learning",
+        "transfer"
+      ],
+      [
+        "learning",
+        "transfer learning"
+      ],
+      [
+        "learning",
+        "lecture"
+      ],
+      [
+        "learning",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_08"
+  },
+  "rag_document_id": "11af1b5e-8eaf-4757-a438-aed5b972ada9",
+  "processing_time_seconds": 4.171092
+}

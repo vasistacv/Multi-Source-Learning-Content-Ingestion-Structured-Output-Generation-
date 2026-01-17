@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_06.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:52:21.426218",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_06.txt",
+    "file_type": ".txt",
+    "file_size": 2478,
+    "processed_at": "2026-01-17T13:52:21.287490",
+    "content_hash": "82ff4ae3f6f54c44ebdcb58a36c65c2b9db2502ca7954b134a523abc472d6813",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 325,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Lecture",
+    "Entity",
+    "Entity Recognition",
+    "Named",
+    "Named Entity"
+  ],
+  "key_concepts": [
+    "lecture",
+    "entity",
+    "entity recognition",
+    "named",
+    "named entity",
+    "named entity recognition",
+    "recognition",
+    "nlp",
+    "implementation",
+    "implement",
+    "bio",
+    "bio format",
+    "bio format crf",
+    "format",
+    "format crf"
+  ],
+  "entity_count": 68,
+  "word_count": 325,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 258,
+      "density": 0.86,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.14,
+      "average_clustering": 0.9230172664863739,
+      "most_central_concepts": [
+        [
+          "entity",
+          1.0
+        ],
+        [
+          "entity recognition",
+          1.0
+        ],
+        [
+          "named",
+          1.0
+        ],
+        [
+          "named entity",
+          1.0
+        ],
+        [
+          "named entity recognition",
+          1.0
+        ],
+        [
+          "recognition",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9583333333333333
+        ],
+        [
+          "real",
+          0.9583333333333333
+        ],
+        [
+          "implementation",
+          0.9583333333333333
+        ],
+        [
+          "implement",
+          0.9583333333333333
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "entity",
+        "entity recognition"
+      ],
+      [
+        "entity",
+        "named"
+      ],
+      [
+        "entity",
+        "named entity"
+      ],
+      [
+        "entity",
+        "named entity recognition"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\NLP_Lecture_06"
+  },
+  "rag_document_id": "6575ca00-1c4b-49fe-96f9-fb466e04ac85",
+  "processing_time_seconds": 0.514114
+}

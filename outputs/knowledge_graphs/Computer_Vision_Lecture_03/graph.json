@@ -1,0 +1,1072 @@
+{
+  "nodes": [
+    {
+      "id": "detection",
+      "label": "detection",
+      "weight": 2.6758349446890377,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03875661375661376,
+      "eigenvector_centrality": 0.2603761400029029
+    },
+    {
+      "id": "object",
+      "label": "object",
+      "weight": 2.596826920609224,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03875661375661376,
+      "eigenvector_centrality": 0.2603761400029029
+    },
+    {
+      "id": "object detection",
+      "label": "object detection",
+      "weight": 2.596826920609224,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03875661375661376,
+      "eigenvector_centrality": 0.2603761400029029
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.469366280142872,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.025,
+      "eigenvector_centrality": 0.253994627410735
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3409824533712218,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.025,
+      "eigenvector_centrality": 0.253994627410735
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 1.1070666386090933,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    },
+    {
+      "id": "computer vision",
+      "label": "computer vision",
+      "weight": 1.1070666386090933,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    },
+    {
+      "id": "vision",
+      "label": "vision",
+      "weight": 1.1070666386090933,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0553389160505007,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.025,
+      "eigenvector_centrality": 0.253994627410735
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9753185405260587,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.025,
+      "eigenvector_centrality": 0.253994627410735
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8412126608563031,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    },
+    {
+      "id": "anchor",
+      "label": "anchor",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.002645502645502646,
+      "eigenvector_centrality": 0.18473573937867013
+    },
+    {
+      "id": "anchor boxes",
+      "label": "anchor boxes",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.002645502645502646,
+      "eigenvector_centrality": 0.18473573937867013
+    },
+    {
+      "id": "boxes",
+      "label": "boxes",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.002645502645502646,
+      "eigenvector_centrality": 0.18473573937867013
+    },
+    {
+      "id": "cnn",
+      "label": "cnn",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.002645502645502646,
+      "eigenvector_centrality": 0.18473573937867013
+    },
+    {
+      "id": "ssd",
+      "label": "ssd",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.002645502645502646,
+      "eigenvector_centrality": 0.18473573937867013
+    },
+    {
+      "id": "yolo",
+      "label": "yolo",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.002645502645502646,
+      "eigenvector_centrality": 0.18473573937867013
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5775674285055368,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.11304617081820907
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5161958093246201,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.025,
+      "eigenvector_centrality": 0.253994627410735
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.4681684496026777,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    },
+    {
+      "id": "vision dataset",
+      "label": "vision dataset",
+      "weight": 0.3340625699329221,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3088817176200396,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.19142445217168663
+    }
+  ],
+  "edges": [
+    {
+      "source": "detection",
+      "target": "object",
+      "weight": 8
+    },
+    {
+      "source": "detection",
+      "target": "object detection",
+      "weight": 8
+    },
+    {
+      "source": "detection",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "detection",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "detection",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "detection",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "detection",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "detection",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "anchor",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "anchor boxes",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "boxes",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "ssd",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "yolo",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "detection",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "detection",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "detection",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "detection",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "object",
+      "target": "object detection",
+      "weight": 8
+    },
+    {
+      "source": "object",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "object",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "object",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "object",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "object",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "object",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "anchor",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "anchor boxes",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "boxes",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "ssd",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "yolo",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "object",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "object",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "object",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "object",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "object detection",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "object detection",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "object detection",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "object detection",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "object detection",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "object detection",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "anchor",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "anchor boxes",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "boxes",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "ssd",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "yolo",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "object detection",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "object detection",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "object detection",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "object detection",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "anchor",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "anchor boxes",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "boxes",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "cnn",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "ssd",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "yolo",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "anchor",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "anchor boxes",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "boxes",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "cnn",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "ssd",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "yolo",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "computer vision",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vision",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "vision",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "anchor",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "anchor boxes",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "boxes",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "cnn",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "ssd",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "yolo",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "anchor",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "anchor boxes",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "boxes",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "cnn",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "ssd",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "yolo",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "anchor",
+      "target": "anchor boxes",
+      "weight": 3
+    },
+    {
+      "source": "anchor",
+      "target": "boxes",
+      "weight": 3
+    },
+    {
+      "source": "anchor",
+      "target": "cnn",
+      "weight": 3
+    },
+    {
+      "source": "anchor",
+      "target": "ssd",
+      "weight": 3
+    },
+    {
+      "source": "anchor",
+      "target": "yolo",
+      "weight": 3
+    },
+    {
+      "source": "anchor",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "anchor",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "anchor boxes",
+      "target": "boxes",
+      "weight": 3
+    },
+    {
+      "source": "anchor boxes",
+      "target": "cnn",
+      "weight": 3
+    },
+    {
+      "source": "anchor boxes",
+      "target": "ssd",
+      "weight": 3
+    },
+    {
+      "source": "anchor boxes",
+      "target": "yolo",
+      "weight": 3
+    },
+    {
+      "source": "anchor boxes",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "anchor boxes",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "boxes",
+      "target": "cnn",
+      "weight": 3
+    },
+    {
+      "source": "boxes",
+      "target": "ssd",
+      "weight": 3
+    },
+    {
+      "source": "boxes",
+      "target": "yolo",
+      "weight": 3
+    },
+    {
+      "source": "boxes",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "boxes",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "ssd",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "yolo",
+      "weight": 3
+    },
+    {
+      "source": "cnn",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "cnn",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "ssd",
+      "target": "yolo",
+      "weight": 3
+    },
+    {
+      "source": "ssd",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "ssd",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "yolo",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "yolo",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "vision dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "vision dataset",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 22,
+    "edge_count": 177,
+    "is_connected": true
+  }
+}

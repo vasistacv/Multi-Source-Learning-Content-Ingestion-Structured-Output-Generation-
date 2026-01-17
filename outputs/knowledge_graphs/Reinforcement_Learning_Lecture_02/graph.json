@@ -1,0 +1,1117 @@
+{
+  "nodes": [
+    {
+      "id": "iteration",
+      "label": "iteration",
+      "weight": 2.919105340671553,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "value",
+      "label": "value",
+      "weight": 2.6701448914790524,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "value iteration",
+      "label": "value iteration",
+      "weight": 2.6701448914790524,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1162479779982304,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9315956496326914,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1474388150113977
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2943082326905204,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "reinforcement",
+      "label": "reinforcement",
+      "weight": 1.1566890128417118,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1474388150113977
+    },
+    {
+      "id": "reinforcement learning",
+      "label": "reinforcement learning",
+      "weight": 1.1566890128417118,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1474388150113977
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0528147694954995,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 0.9981372855583979,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8932559648339762,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1474388150113977
+    },
+    {
+      "id": "dynamic",
+      "label": "dynamic",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "dynamic programming",
+      "label": "dynamic programming",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "optimal",
+      "label": "optimal",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "optimal policies",
+      "label": "optimal policies",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "policies",
+      "label": "policies",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "policy",
+      "label": "policy",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "policy iteration",
+      "label": "policy iteration",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "programming",
+      "label": "programming",
+      "weight": 0.6940366017526337,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.519520979235383,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.026785714285714288,
+      "eigenvector_centrality": 0.24918500876161806
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5042508479236631,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1474388150113977
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.4919723332384084,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2093810005197736
+    }
+  ],
+  "edges": [
+    {
+      "source": "iteration",
+      "target": "value",
+      "weight": 8
+    },
+    {
+      "source": "iteration",
+      "target": "value iteration",
+      "weight": 8
+    },
+    {
+      "source": "iteration",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "iteration",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "iteration",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "iteration",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "iteration",
+      "target": "dynamic",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "dynamic programming",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "optimal",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "optimal policies",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "policies",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "iteration",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "iteration",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "iteration",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "iteration",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "value iteration",
+      "weight": 8
+    },
+    {
+      "source": "value",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "value",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "value",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "value",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "value",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "value",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "dynamic",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "dynamic programming",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "optimal",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "optimal policies",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "policies",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "policy",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "policy iteration",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "programming",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "value",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "value",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "value iteration",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "value iteration",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "value iteration",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "value iteration",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "value iteration",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "dynamic",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "dynamic programming",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "optimal",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "optimal policies",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "policies",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "policy",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "policy iteration",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "programming",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "value iteration",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "value iteration",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dynamic",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dynamic programming",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "optimal",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "optimal policies",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "policies",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "policy iteration",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "programming",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dynamic",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dynamic programming",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "optimal",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "optimal policies",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "policies",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "policy iteration",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "programming",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "reinforcement",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "reinforcement learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "reinforcement",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dynamic",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dynamic programming",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "optimal",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "optimal policies",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "policies",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "policy",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "policy iteration",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "programming",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "dynamic",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "dynamic programming",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "optimal",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "optimal policies",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "policies",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "policy iteration",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "programming",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dynamic",
+      "target": "dynamic programming",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "optimal",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "optimal policies",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "policies",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "dynamic",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dynamic",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "dynamic programming",
+      "target": "optimal",
+      "weight": 3
+    },
+    {
+      "source": "dynamic programming",
+      "target": "optimal policies",
+      "weight": 3
+    },
+    {
+      "source": "dynamic programming",
+      "target": "policies",
+      "weight": 3
+    },
+    {
+      "source": "dynamic programming",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "dynamic programming",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "dynamic programming",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "dynamic programming",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dynamic programming",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "optimal",
+      "target": "optimal policies",
+      "weight": 3
+    },
+    {
+      "source": "optimal",
+      "target": "policies",
+      "weight": 3
+    },
+    {
+      "source": "optimal",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "optimal",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "optimal",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "optimal",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "optimal",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "optimal policies",
+      "target": "policies",
+      "weight": 3
+    },
+    {
+      "source": "optimal policies",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "optimal policies",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "optimal policies",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "optimal policies",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "optimal policies",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "policies",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "policies",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "policies",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "policies",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "policies",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "policy",
+      "target": "policy iteration",
+      "weight": 3
+    },
+    {
+      "source": "policy",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "policy",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "policy",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "policy iteration",
+      "target": "programming",
+      "weight": 3
+    },
+    {
+      "source": "policy iteration",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "policy iteration",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "programming",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "programming",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 22,
+    "edge_count": 186,
+    "is_connected": true
+  }
+}

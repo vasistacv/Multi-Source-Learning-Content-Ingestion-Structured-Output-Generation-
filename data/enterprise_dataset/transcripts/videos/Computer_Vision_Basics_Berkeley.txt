@@ -1,0 +1,18 @@
+VIDEO TRANSCRIPT
+=====================================
+Title: Computer Vision and CNNs
+Instructor: Prof. Trevor Darrell, UC Berkeley
+Duration: 41:20
+Source: Educational Lecture Recording
+Format: MP4 Video with Audio Transcription
+
+FULL TRANSCRIPT WITH TIMESTAMPS
+================================
+
+[00:00] Prof. Trevor Darrell:
+Introduction to Computer Vision. We'll cover how machines learn to see, from basic image 
+processing to modern deep learning approaches.
+
+[Content continues with CV fundamentals, CNNs, object detection, semantic segmentation...]
+
+[41:20] END OF RECORDING

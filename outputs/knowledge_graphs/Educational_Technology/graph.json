@@ -1,0 +1,539 @@
+{
+  "nodes": [
+    {
+      "id": "edtech",
+      "label": "edtech",
+      "weight": 1.5857733263455578,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.015873015873015876,
+      "eigenvector_centrality": 0.2923785904299076
+    },
+    {
+      "id": "educational",
+      "label": "educational",
+      "weight": 1.1141422138838226,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.12634920634920635,
+      "eigenvector_centrality": 0.3171669959343971
+    },
+    {
+      "id": "educational technology",
+      "label": "educational technology",
+      "weight": 0.841070977343287,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.005714285714285716,
+      "eigenvector_centrality": 0.19275354860982363
+    },
+    {
+      "id": "technology",
+      "label": "technology",
+      "weight": 0.841070977343287,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.005714285714285716,
+      "eigenvector_centrality": 0.19275354860982363
+    },
+    {
+      "id": "companies",
+      "label": "companies",
+      "weight": 0.7190997208608094,
+      "degree_centrality": 0.9333333333333333,
+      "betweenness_centrality": 0.08571428571428572,
+      "eigenvector_centrality": 0.30730657761509345
+    },
+    {
+      "id": "industry",
+      "label": "industry",
+      "weight": 0.5302993108968191,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.015873015873015876,
+      "eigenvector_centrality": 0.2923785904299076
+    },
+    {
+      "id": "market",
+      "label": "market",
+      "weight": 0.43474529199138423,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.05079365079365079,
+      "eigenvector_centrality": 0.27524662090255864
+    },
+    {
+      "id": "hardware",
+      "label": "hardware",
+      "weight": 0.41844815637300536,
+      "degree_centrality": 0.8666666666666667,
+      "betweenness_centrality": 0.037460317460317465,
+      "eigenvector_centrality": 0.30223900874921117
+    },
+    {
+      "id": "software",
+      "label": "software",
+      "weight": 0.41844815637300536,
+      "degree_centrality": 0.8666666666666667,
+      "betweenness_centrality": 0.037460317460317465,
+      "eigenvector_centrality": 0.30223900874921117
+    },
+    {
+      "id": "america",
+      "label": "america",
+      "weight": 0.4164529421334929,
+      "degree_centrality": 0.26666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0897512752437165
+    },
+    {
+      "id": "based",
+      "label": "based",
+      "weight": 0.4164529421334929,
+      "degree_centrality": 0.26666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.0897512752437165
+    },
+    {
+      "id": "combined",
+      "label": "combined",
+      "weight": 0.30128305813776957,
+      "degree_centrality": 0.3333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.11856701295966003
+    },
+    {
+      "id": "2019",
+      "label": "2019",
+      "weight": 0.21737264599569212,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.26031863371737274
+    },
+    {
+      "id": "alvi",
+      "label": "alvi",
+      "weight": 0.21737264599569212,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.26031863371737274
+    },
+    {
+      "id": "argue",
+      "label": "argue",
+      "weight": 0.21737264599569212,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.26031863371737274
+    },
+    {
+      "id": "automating",
+      "label": "automating",
+      "weight": 0.21737264599569212,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.26031863371737274
+    }
+  ],
+  "edges": [
+    {
+      "source": "edtech",
+      "target": "educational",
+      "weight": 2
+    },
+    {
+      "source": "edtech",
+      "target": "educational technology",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "companies",
+      "weight": 2
+    },
+    {
+      "source": "edtech",
+      "target": "industry",
+      "weight": 2
+    },
+    {
+      "source": "edtech",
+      "target": "market",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "hardware",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "edtech",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "educational technology",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "technology",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "hardware",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "software",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "combined",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "companies",
+      "weight": 3
+    },
+    {
+      "source": "educational",
+      "target": "industry",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "market",
+      "weight": 2
+    },
+    {
+      "source": "educational",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "america",
+      "weight": 1
+    },
+    {
+      "source": "educational",
+      "target": "based",
+      "weight": 1
+    },
+    {
+      "source": "educational technology",
+      "target": "technology",
+      "weight": 2
+    },
+    {
+      "source": "educational technology",
+      "target": "hardware",
+      "weight": 1
+    },
+    {
+      "source": "educational technology",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "educational technology",
+      "target": "combined",
+      "weight": 1
+    },
+    {
+      "source": "educational technology",
+      "target": "companies",
+      "weight": 1
+    },
+    {
+      "source": "educational technology",
+      "target": "industry",
+      "weight": 1
+    },
+    {
+      "source": "technology",
+      "target": "hardware",
+      "weight": 1
+    },
+    {
+      "source": "technology",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "technology",
+      "target": "combined",
+      "weight": 1
+    },
+    {
+      "source": "technology",
+      "target": "companies",
+      "weight": 1
+    },
+    {
+      "source": "technology",
+      "target": "industry",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "industry",
+      "weight": 2
+    },
+    {
+      "source": "companies",
+      "target": "market",
+      "weight": 2
+    },
+    {
+      "source": "companies",
+      "target": "hardware",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "america",
+      "weight": 1
+    },
+    {
+      "source": "companies",
+      "target": "based",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "market",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "hardware",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "industry",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "hardware",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "software",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "america",
+      "weight": 1
+    },
+    {
+      "source": "market",
+      "target": "based",
+      "weight": 1
+    },
+    {
+      "source": "hardware",
+      "target": "software",
+      "weight": 2
+    },
+    {
+      "source": "hardware",
+      "target": "combined",
+      "weight": 1
+    },
+    {
+      "source": "hardware",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "hardware",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "hardware",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "hardware",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "software",
+      "target": "combined",
+      "weight": 1
+    },
+    {
+      "source": "software",
+      "target": "2019",
+      "weight": 1
+    },
+    {
+      "source": "software",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "software",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "software",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "america",
+      "target": "based",
+      "weight": 1
+    },
+    {
+      "source": "2019",
+      "target": "alvi",
+      "weight": 1
+    },
+    {
+      "source": "2019",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "2019",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "alvi",
+      "target": "argue",
+      "weight": 1
+    },
+    {
+      "source": "alvi",
+      "target": "automating",
+      "weight": 1
+    },
+    {
+      "source": "argue",
+      "target": "automating",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 16,
+    "edge_count": 80,
+    "is_connected": true
+  }
+}

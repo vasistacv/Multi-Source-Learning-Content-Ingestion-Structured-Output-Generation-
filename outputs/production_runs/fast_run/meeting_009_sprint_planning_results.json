@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_009_sprint_planning.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:35:36.329934",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_009_sprint_planning.txt",
+    "file_type": ".txt",
+    "file_size": 1670,
+    "processed_at": "2026-01-17T13:35:29.940400",
+    "content_hash": "289b3fefd51d84cacb21da1b7251245cdaf22002b797ecf0f79a28de5baca00f",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 218,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Velocity",
+    "Backlog",
+    "Team",
+    "Meeting",
+    "Product"
+  ],
+  "key_concepts": [
+    "discussed",
+    "velocity",
+    "backlog",
+    "charlie",
+    "bob",
+    "meeting",
+    "product",
+    "product roadmap",
+    "roadmap",
+    "alice",
+    "stories",
+    "user",
+    "user stories",
+    "team",
+    "items"
+  ],
+  "entity_count": 41,
+  "word_count": 218,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 286,
+      "density": 0.6574712643678161,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.3448275862068966,
+      "average_clustering": 0.9104383878569726,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9655172413793103
+        ],
+        [
+          "team",
+          0.8620689655172413
+        ],
+        [
+          "velocity",
+          0.8275862068965517
+        ],
+        [
+          "product",
+          0.8275862068965517
+        ],
+        [
+          "product roadmap",
+          0.8275862068965517
+        ],
+        [
+          "roadmap",
+          0.8275862068965517
+        ],
+        [
+          "meeting",
+          0.8275862068965517
+        ],
+        [
+          "stories",
+          0.8275862068965517
+        ],
+        [
+          "user",
+          0.8275862068965517
+        ],
+        [
+          "user stories",
+          0.8275862068965517
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "velocity"
+      ],
+      [
+        "discussion",
+        "product"
+      ],
+      [
+        "discussion",
+        "product roadmap"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_009_sprint_planning"
+  },
+  "rag_document_id": "8efef36d-da72-405a-bc97-ee41c9472606",
+  "processing_time_seconds": 9.214405
+}

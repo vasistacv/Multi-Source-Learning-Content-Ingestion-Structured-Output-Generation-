@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_06.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:49:08.006739",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_06.txt",
+    "file_type": ".txt",
+    "file_size": 2501,
+    "processed_at": "2026-01-17T13:49:06.489073",
+    "content_hash": "bf5b2b3da79c41c609b2abc3975b86c5d91884b6b4351e164366ed35bc1af1ab",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 312,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Attention",
+    "Attention Mechanisms",
+    "Mechanisms",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "attention",
+    "attention mechanisms",
+    "mechanisms",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "deep",
+    "deep learning",
+    "implement",
+    "architecture",
+    "attention transformer",
+    "attention transformer architecture",
+    "self",
+    "self attention"
+  ],
+  "entity_count": 69,
+  "word_count": 312,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 211,
+      "density": 0.7644927536231884,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2355072463768115,
+      "average_clustering": 0.9094368795455753,
+      "most_central_concepts": [
+        [
+          "attention",
+          1.0
+        ],
+        [
+          "attention mechanisms",
+          1.0
+        ],
+        [
+          "mechanisms",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9565217391304348
+        ],
+        [
+          "real",
+          0.9565217391304348
+        ],
+        [
+          "implementation",
+          0.9565217391304348
+        ],
+        [
+          "implement",
+          0.9565217391304348
+        ],
+        [
+          "applications",
+          0.9565217391304348
+        ],
+        [
+          "learning",
+          0.7391304347826086
+        ],
+        [
+          "deep",
+          0.7391304347826086
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "attention",
+        "attention mechanisms"
+      ],
+      [
+        "attention",
+        "mechanisms"
+      ],
+      [
+        "attention",
+        "lecture"
+      ],
+      [
+        "attention",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_06"
+  },
+  "rag_document_id": "3323d190-514d-4f4c-b54b-a839aa710856",
+  "processing_time_seconds": 4.132162
+}

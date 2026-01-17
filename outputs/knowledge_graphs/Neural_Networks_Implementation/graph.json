@@ -1,0 +1,759 @@
+{
+  "nodes": [
+    {
+      "id": "end",
+      "label": "end",
+      "weight": 1.026706509735827,
+      "degree_centrality": 0.2,
+      "betweenness_centrality": 0.09999999999999999,
+      "eigenvector_centrality": 0.049631889774283657
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 0.9554601357791839,
+      "degree_centrality": 0.55,
+      "betweenness_centrality": 0.05614035087719299,
+      "eigenvector_centrality": 0.20657887779886294
+    },
+    {
+      "id": "backpropagation",
+      "label": "backpropagation",
+      "weight": 0.7732623667832087,
+      "degree_centrality": 0.05,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.003949595896104449
+    },
+    {
+      "id": "building",
+      "label": "building",
+      "weight": 0.6064528265348428,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.018796992481203006,
+      "eigenvector_centrality": 0.2369409575894466
+    },
+    {
+      "id": "building neural",
+      "label": "building neural",
+      "weight": 0.6064528265348428,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15152268729977672
+    },
+    {
+      "id": "neural",
+      "label": "neural",
+      "weight": 0.6064528265348428,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.018796992481203006,
+      "eigenvector_centrality": 0.2369409575894466
+    },
+    {
+      "id": "scratch",
+      "label": "scratch",
+      "weight": 0.6064528265348428,
+      "degree_centrality": 0.65,
+      "betweenness_centrality": 0.018796992481203006,
+      "eigenvector_centrality": 0.2369409575894466
+    },
+    {
+      "id": "55",
+      "label": "55",
+      "weight": 0.5802335834611254,
+      "degree_centrality": 0.55,
+      "betweenness_centrality": 0.05614035087719299,
+      "eigenvector_centrality": 0.20657887779886294
+    },
+    {
+      "id": "recording",
+      "label": "recording",
+      "weight": 0.5802335834611254,
+      "degree_centrality": 0.55,
+      "betweenness_centrality": 0.05614035087719299,
+      "eigenvector_centrality": 0.20657887779886294
+    },
+    {
+      "id": "dr",
+      "label": "dr",
+      "weight": 0.5308698423724449,
+      "degree_centrality": 0.9,
+      "betweenness_centrality": 0.09248120300751876,
+      "eigenvector_centrality": 0.31253877383190215
+    },
+    {
+      "id": "transcript",
+      "label": "transcript",
+      "weight": 0.5308698423724449,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0631578947368421,
+      "eigenvector_centrality": 0.2888248738858906
+    },
+    {
+      "id": "video",
+      "label": "video",
+      "weight": 0.5308698423724449,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0631578947368421,
+      "eigenvector_centrality": 0.2888248738858906
+    },
+    {
+      "id": "andrej",
+      "label": "andrej",
+      "weight": 0.4508095364804564,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.03984962406015037,
+      "eigenvector_centrality": 0.2790311555944644
+    },
+    {
+      "id": "andrej karpathy",
+      "label": "andrej karpathy",
+      "weight": 0.4508095364804564,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.03984962406015037,
+      "eigenvector_centrality": 0.2790311555944644
+    },
+    {
+      "id": "karpathy",
+      "label": "karpathy",
+      "weight": 0.4508095364804564,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.03984962406015037,
+      "eigenvector_centrality": 0.2790311555944644
+    },
+    {
+      "id": "building neural networks",
+      "label": "building neural networks",
+      "weight": 0.4185982659539152,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15152268729977672
+    },
+    {
+      "id": "absolute",
+      "label": "absolute",
+      "weight": 0.32096544981343667,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16085320489380997
+    },
+    {
+      "id": "absolute scratch",
+      "label": "absolute scratch",
+      "weight": 0.32096544981343667,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16085320489380997
+    },
+    {
+      "id": "building neural network",
+      "label": "building neural network",
+      "weight": 0.32096544981343667,
+      "degree_centrality": 0.4,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.15152268729977672
+    },
+    {
+      "id": "audio",
+      "label": "audio",
+      "weight": 0.22879268687106402,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20292041097042454
+    },
+    {
+      "id": "audio transcription",
+      "label": "audio transcription",
+      "weight": 0.22879268687106402,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20292041097042454
+    }
+  ],
+  "edges": [
+    {
+      "source": "end",
+      "target": "backpropagation",
+      "weight": 1
+    },
+    {
+      "source": "end",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "end",
+      "target": "55",
+      "weight": 1
+    },
+    {
+      "source": "end",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "55",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "building neural",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "neural",
+      "weight": 2
+    },
+    {
+      "source": "building",
+      "target": "scratch",
+      "weight": 2
+    },
+    {
+      "source": "building",
+      "target": "dr",
+      "weight": 2
+    },
+    {
+      "source": "building",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "building",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "scratch",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "building neural",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "scratch",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "dr",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "dr",
+      "weight": 2
+    },
+    {
+      "source": "scratch",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "scratch",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "55",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "55",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "transcript",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "andrej",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "andrej karpathy",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "karpathy",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "transcript",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "building neural networks",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "andrej",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "andrej karpathy",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "karpathy",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "andrej",
+      "target": "andrej karpathy",
+      "weight": 2
+    },
+    {
+      "source": "andrej",
+      "target": "karpathy",
+      "weight": 2
+    },
+    {
+      "source": "andrej",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "andrej",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "andrej",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "andrej",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "andrej karpathy",
+      "target": "karpathy",
+      "weight": 2
+    },
+    {
+      "source": "andrej karpathy",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "andrej karpathy",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "andrej karpathy",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "andrej karpathy",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "karpathy",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "karpathy",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "karpathy",
+      "target": "absolute",
+      "weight": 1
+    },
+    {
+      "source": "karpathy",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "building neural networks",
+      "target": "building neural network",
+      "weight": 1
+    },
+    {
+      "source": "absolute",
+      "target": "absolute scratch",
+      "weight": 1
+    },
+    {
+      "source": "audio",
+      "target": "audio transcription",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 21,
+    "edge_count": 116,
+    "is_connected": true
+  }
+}

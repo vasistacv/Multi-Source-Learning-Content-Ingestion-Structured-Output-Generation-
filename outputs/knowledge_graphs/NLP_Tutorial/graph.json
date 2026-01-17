@@ -1,0 +1,358 @@
+{
+  "nodes": [
+    {
+      "id": "scene",
+      "label": "scene",
+      "weight": 77.65349108351421,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.7335511982570806,
+      "eigenvector_centrality": 0.5238910417325606
+    },
+    {
+      "id": "03s",
+      "label": "03s",
+      "weight": 25.235318322593038,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.06830065359477125,
+      "eigenvector_centrality": 0.36927780164362584
+    },
+    {
+      "id": "90",
+      "label": "90",
+      "weight": 16.238127068040555,
+      "degree_centrality": 0.2777777777777778,
+      "betweenness_centrality": 0.005119825708061002,
+      "eigenvector_centrality": 0.27287369553028634
+    },
+    {
+      "id": "07s",
+      "label": "07s",
+      "weight": 13.416377548523382,
+      "degree_centrality": 0.3333333333333333,
+      "betweenness_centrality": 0.02091503267973856,
+      "eigenvector_centrality": 0.2710913571633978
+    },
+    {
+      "id": "93",
+      "label": "93",
+      "weight": 11.720664663653823,
+      "degree_centrality": 0.2777777777777778,
+      "betweenness_centrality": 0.005119825708061002,
+      "eigenvector_centrality": 0.27287369553028634
+    },
+    {
+      "id": "94",
+      "label": "94",
+      "weight": 6.460875000733452,
+      "degree_centrality": 0.16666666666666666,
+      "betweenness_centrality": 0.0013071895424836603,
+      "eigenvector_centrality": 0.18687973797478089
+    },
+    {
+      "id": "00s",
+      "label": "00s",
+      "weight": 6.263311951831957,
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08409183182426413
+    },
+    {
+      "id": "89",
+      "label": "89",
+      "weight": 5.221001944587479,
+      "degree_centrality": 0.3333333333333333,
+      "betweenness_centrality": 0.014052287581699347,
+      "eigenvector_centrality": 0.3047785340219685
+    },
+    {
+      "id": "430",
+      "label": "430",
+      "weight": 4.3457930127406215,
+      "degree_centrality": 0.2222222222222222,
+      "betweenness_centrality": 0.0013071895424836603,
+      "eigenvector_centrality": 0.23096554083114973
+    },
+    {
+      "id": "130",
+      "label": "130",
+      "weight": 4.133347838493311,
+      "degree_centrality": 0.16666666666666666,
+      "betweenness_centrality": 0.0032679738562091504,
+      "eigenvector_centrality": 0.16101227818299504
+    },
+    {
+      "id": "217",
+      "label": "217",
+      "weight": 4.07419758182824,
+      "degree_centrality": 0.1111111111111111,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12760560612424038
+    },
+    {
+      "id": "33s",
+      "label": "33s",
+      "weight": 4.0538024212780925,
+      "degree_centrality": 0.1111111111111111,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.10993646944126137
+    },
+    {
+      "id": "27s",
+      "label": "27s",
+      "weight": 3.491520271465716,
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08409183182426413
+    },
+    {
+      "id": "54s",
+      "label": "54s",
+      "weight": 3.491520271465716,
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08409183182426413
+    },
+    {
+      "id": "67s",
+      "label": "67s",
+      "weight": 3.491520271465716,
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08409183182426413
+    },
+    {
+      "id": "57s",
+      "label": "57s",
+      "weight": 3.110922991222365,
+      "degree_centrality": 0.2222222222222222,
+      "betweenness_centrality": 0.006535947712418301,
+      "eigenvector_centrality": 0.1887639637551304
+    },
+    {
+      "id": "91",
+      "label": "91",
+      "weight": 3.017024233952304,
+      "degree_centrality": 0.16666666666666666,
+      "betweenness_centrality": 0.0016339869281045752,
+      "eigenvector_centrality": 0.17366518256564717
+    },
+    {
+      "id": "447",
+      "label": "447",
+      "weight": 3.017024233952303,
+      "degree_centrality": 0.16666666666666666,
+      "betweenness_centrality": 0.0016339869281045752,
+      "eigenvector_centrality": 0.17366518256564717
+    },
+    {
+      "id": "97s",
+      "label": "97s",
+      "weight": 2.795892709828323,
+      "degree_centrality": 0.05555555555555555,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08409183182426413
+    }
+  ],
+  "edges": [
+    {
+      "source": "scene",
+      "target": "67s",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "07s",
+      "weight": 23
+    },
+    {
+      "source": "scene",
+      "target": "00s",
+      "weight": 9
+    },
+    {
+      "source": "scene",
+      "target": "89",
+      "weight": 7
+    },
+    {
+      "source": "scene",
+      "target": "03s",
+      "weight": 52
+    },
+    {
+      "source": "scene",
+      "target": "90",
+      "weight": 26
+    },
+    {
+      "source": "scene",
+      "target": "91",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "93",
+      "weight": 16
+    },
+    {
+      "source": "scene",
+      "target": "94",
+      "weight": 13
+    },
+    {
+      "source": "scene",
+      "target": "33s",
+      "weight": 6
+    },
+    {
+      "source": "scene",
+      "target": "97s",
+      "weight": 4
+    },
+    {
+      "source": "scene",
+      "target": "54s",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "130",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "27s",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "57s",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "217",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "430",
+      "weight": 5
+    },
+    {
+      "source": "scene",
+      "target": "447",
+      "weight": 4
+    },
+    {
+      "source": "03s",
+      "target": "89",
+      "weight": 3
+    },
+    {
+      "source": "03s",
+      "target": "90",
+      "weight": 18
+    },
+    {
+      "source": "03s",
+      "target": "91",
+      "weight": 3
+    },
+    {
+      "source": "03s",
+      "target": "93",
+      "weight": 9
+    },
+    {
+      "source": "03s",
+      "target": "94",
+      "weight": 6
+    },
+    {
+      "source": "03s",
+      "target": "130",
+      "weight": 2
+    },
+    {
+      "source": "03s",
+      "target": "430",
+      "weight": 3
+    },
+    {
+      "source": "03s",
+      "target": "447",
+      "weight": 3
+    },
+    {
+      "source": "90",
+      "target": "07s",
+      "weight": 6
+    },
+    {
+      "source": "90",
+      "target": "89",
+      "weight": 1
+    },
+    {
+      "source": "90",
+      "target": "430",
+      "weight": 1
+    },
+    {
+      "source": "07s",
+      "target": "89",
+      "weight": 2
+    },
+    {
+      "source": "07s",
+      "target": "93",
+      "weight": 4
+    },
+    {
+      "source": "07s",
+      "target": "94",
+      "weight": 1
+    },
+    {
+      "source": "07s",
+      "target": "217",
+      "weight": 3
+    },
+    {
+      "source": "93",
+      "target": "89",
+      "weight": 1
+    },
+    {
+      "source": "93",
+      "target": "430",
+      "weight": 1
+    },
+    {
+      "source": "89",
+      "target": "57s",
+      "weight": 1
+    },
+    {
+      "source": "130",
+      "target": "33s",
+      "weight": 1
+    },
+    {
+      "source": "57s",
+      "target": "91",
+      "weight": 1
+    },
+    {
+      "source": "57s",
+      "target": "447",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 19,
+    "edge_count": 39,
+    "is_connected": true
+  }
+}

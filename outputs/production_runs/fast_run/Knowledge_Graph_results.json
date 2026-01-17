@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Knowledge_Graph.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:46:51.300325",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\articles\\Knowledge_Graph.txt",
+    "file_type": ".txt",
+    "file_size": 99,
+    "processed_at": "2026-01-17T13:46:49.912886",
+    "content_hash": "9f0fea562fc32fc5c038116937f8b5b2bd41bbe9d9736b035a14eada31b6a9dc",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 16,
+    "metadata": {
+      "line_count": 3,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 16,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\Knowledge_Graph"
+  },
+  "rag_document_id": "677690de-e4ae-4804-8247-d407283e0d6b",
+  "processing_time_seconds": 4.180351
+}

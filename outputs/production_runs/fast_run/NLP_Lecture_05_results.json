@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_05.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:52:21.023599",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\NLP_Lecture_05.txt",
+    "file_type": ".txt",
+    "file_size": 2448,
+    "processed_at": "2026-01-17T13:52:20.710573",
+    "content_hash": "afc23dafa92e59a3b50d34d87e9f8d156bd31e49dd0f526a66d50b82438f2eb1",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 310,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Classification",
+    "Text",
+    "Text Classification",
+    "Analysis",
+    "Lecture"
+  ],
+  "key_concepts": [
+    "classification",
+    "text",
+    "text classification",
+    "analysis",
+    "lecture",
+    "nlp",
+    "real",
+    "implementation",
+    "implement",
+    "analysis document",
+    "analysis document categorization",
+    "categorization",
+    "document",
+    "document categorization",
+    "sentiment"
+  ],
+  "entity_count": 68,
+  "word_count": 310,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 229,
+      "density": 0.7633333333333333,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2366666666666666,
+      "average_clustering": 0.912994884910486,
+      "most_central_concepts": [
+        [
+          "classification",
+          1.0
+        ],
+        [
+          "text",
+          1.0
+        ],
+        [
+          "text classification",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "result",
+          0.7083333333333333
+        ],
+        [
+          "analysis",
+          0.6666666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "classification",
+        "text"
+      ],
+      [
+        "classification",
+        "text classification"
+      ],
+      [
+        "classification",
+        "lecture"
+      ],
+      [
+        "classification",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\NLP_Lecture_05"
+  },
+  "rag_document_id": "efc6f46b-4667-48f2-a4a2-8fc2d7206d14",
+  "processing_time_seconds": 0.574401
+}

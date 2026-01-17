@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_004_adaptive_learning_platform_design.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:31:59.136201",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_004_adaptive_learning_platform_design.txt",
+    "file_type": ".txt",
+    "file_size": 4579,
+    "processed_at": "2026-01-17T13:31:58.827202",
+    "content_hash": "b7eecd147bfdfa4ba19652635bc33acb7460176d3ad9daabce48048ef4e75823",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 597,
+    "metadata": {
+      "line_count": 98,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Learning",
+    "Content",
+    "Student",
+    "Adaptive",
+    "00"
+  ],
+  "key_concepts": [
+    "learning",
+    "content",
+    "student",
+    "adaptive",
+    "knowledge",
+    "00",
+    "students",
+    "model",
+    "based",
+    "priya",
+    "priya sharma",
+    "sharma",
+    "time",
+    "research",
+    "recommendation"
+  ],
+  "entity_count": 90,
+  "word_count": 597,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 222,
+      "density": 0.5103448275862069,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.5149425287356322,
+      "average_clustering": 0.7843623290406169,
+      "most_central_concepts": [
+        [
+          "00",
+          0.8275862068965517
+        ],
+        [
+          "time",
+          0.7586206896551724
+        ],
+        [
+          "ai",
+          0.7586206896551724
+        ],
+        [
+          "learning",
+          0.7241379310344828
+        ],
+        [
+          "student",
+          0.7241379310344828
+        ],
+        [
+          "priya",
+          0.7241379310344828
+        ],
+        [
+          "priya sharma",
+          0.7241379310344828
+        ],
+        [
+          "sharma",
+          0.7241379310344828
+        ],
+        [
+          "recommendation",
+          0.6896551724137931
+        ],
+        [
+          "johnson",
+          0.6551724137931034
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "00",
+        "time"
+      ],
+      [
+        "00",
+        "ai"
+      ],
+      [
+        "00",
+        "learning"
+      ],
+      [
+        "00",
+        "student"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_004_adaptive_learning_platform_design"
+  },
+  "rag_document_id": "b88beb38-9445-4657-8d42-7588818dc757",
+  "processing_time_seconds": 0.623728
+}

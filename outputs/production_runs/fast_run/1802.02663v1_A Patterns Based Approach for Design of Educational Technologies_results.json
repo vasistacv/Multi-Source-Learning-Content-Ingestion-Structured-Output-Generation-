@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\1802.02663v1_A Patterns Based Approach for Design of Educational Technologies.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:41:11.565052",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\1802.02663v1_A Patterns Based Approach for Design of Educational Technologies.pdf",
+    "file_type": ".pdf",
+    "file_size": 1575937,
+    "processed_at": "2026-01-17T13:41:10.006221",
+    "content_hash": "aa61cef5951b5adec3a8e9dedaea88c691026c4749733a39f5cb7f6de1507a4b",
+    "language": null,
+    "page_count": 35,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "subject": "",
+      "creator": "LaTeX with hyperref package",
+      "producer": "pdfTeX-1.40.17",
+      "creation_date": "D:20180209012136Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Patterns",
+    "Design",
+    "Instructional",
+    "Pattern",
+    "Learning"
+  ],
+  "key_concepts": [
+    "patterns",
+    "design",
+    "pattern",
+    "instructional",
+    "learning",
+    "instructional design",
+    "educational",
+    "software",
+    "technology",
+    "technologies",
+    "al",
+    "et",
+    "et al",
+    "architecture",
+    "model"
+  ],
+  "entity_count": 1541,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 384,
+      "density": 0.8827586206896552,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1172413793103448,
+      "average_clustering": 0.9559133300482626,
+      "most_central_concepts": [
+        [
+          "design",
+          1.0
+        ],
+        [
+          "educational",
+          1.0
+        ],
+        [
+          "al",
+          1.0
+        ],
+        [
+          "et",
+          1.0
+        ],
+        [
+          "education",
+          1.0
+        ],
+        [
+          "technologies",
+          1.0
+        ],
+        [
+          "educational technologies",
+          1.0
+        ],
+        [
+          "patterns",
+          0.9310344827586207
+        ],
+        [
+          "instructional",
+          0.9310344827586207
+        ],
+        [
+          "pattern",
+          0.9310344827586207
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "design",
+        "educational"
+      ],
+      [
+        "design",
+        "al"
+      ],
+      [
+        "design",
+        "et"
+      ],
+      [
+        "design",
+        "education"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\1802.02663v1_A Patterns Based Approach for Design of Educational Technologies"
+  },
+  "rag_document_id": "6b73882e-84fb-4e80-b4cf-12be104f5945",
+  "processing_time_seconds": 10.32511
+}

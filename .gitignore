@@ -42,9 +42,9 @@ venv.bak/
 .env.*.local
 
 # Data directories
-data/
+# data/
 uploads/
-outputs/
+# outputs/
 logs/
 models/
 *.db
@@ -63,7 +63,7 @@ models/
 *.onnx
 
 # Large media files
-*.mp4
+# *.mp4
 *.avi
 *.mov
 *.mkv

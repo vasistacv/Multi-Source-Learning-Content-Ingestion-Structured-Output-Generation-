@@ -1,0 +1,1448 @@
+{
+  "nodes": [
+    {
+      "id": "machines",
+      "label": "machines",
+      "weight": 2.151549947442249,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "support",
+      "label": "support",
+      "weight": 2.151549947442249,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "support vector",
+      "label": "support vector",
+      "weight": 2.151549947442249,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "support vector machines",
+      "label": "support vector machines",
+      "weight": 2.151549947442249,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "vector",
+      "label": "vector",
+      "weight": 2.151549947442249,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "vector machines",
+      "label": "vector machines",
+      "weight": 2.151549947442249,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 1.9287150653553735,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8178185470498587,
+      "degree_centrality": 0.6086956521739131,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13792020952897463
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.315138889936935,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2307671752723546,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.1624974502594099,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.1624974502594099,
+      "degree_centrality": 0.6086956521739131,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13792020952897466
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.8789245004934908,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "kernel",
+      "label": "kernel",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "kernel trick",
+      "label": "kernel trick",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "margin",
+      "label": "margin",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "margin maximization",
+      "label": "margin maximization",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "margins",
+      "label": "margins",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "maximization",
+      "label": "maximization",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "soft",
+      "label": "soft",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "soft margins",
+      "label": "soft margins",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "trick",
+      "label": "trick",
+      "weight": 0.7004333486248668,
+      "degree_centrality": 0.8695652173913043,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20100719098597472
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.46851435755419896,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.008893280632411066,
+      "eigenvector_centrality": 0.21971554146930566
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.43585799209486503,
+      "degree_centrality": 0.6086956521739131,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13792020952897466
+    }
+  ],
+  "edges": [
+    {
+      "source": "machines",
+      "target": "support",
+      "weight": 8
+    },
+    {
+      "source": "machines",
+      "target": "support vector",
+      "weight": 8
+    },
+    {
+      "source": "machines",
+      "target": "support vector machines",
+      "weight": 8
+    },
+    {
+      "source": "machines",
+      "target": "vector",
+      "weight": 8
+    },
+    {
+      "source": "machines",
+      "target": "vector machines",
+      "weight": 8
+    },
+    {
+      "source": "machines",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "machines",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "machines",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "machines",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machines",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "machines",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "machines",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "support vector",
+      "weight": 8
+    },
+    {
+      "source": "support",
+      "target": "support vector machines",
+      "weight": 8
+    },
+    {
+      "source": "support",
+      "target": "vector",
+      "weight": 8
+    },
+    {
+      "source": "support",
+      "target": "vector machines",
+      "weight": 8
+    },
+    {
+      "source": "support",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "support",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "support",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "support",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "support",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "support",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "support",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "support vector machines",
+      "weight": 8
+    },
+    {
+      "source": "support vector",
+      "target": "vector",
+      "weight": 8
+    },
+    {
+      "source": "support vector",
+      "target": "vector machines",
+      "weight": 8
+    },
+    {
+      "source": "support vector",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "support vector",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "support vector",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "support vector",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "support vector",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "support vector",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "support vector",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "vector",
+      "weight": 8
+    },
+    {
+      "source": "support vector machines",
+      "target": "vector machines",
+      "weight": 8
+    },
+    {
+      "source": "support vector machines",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "support vector machines",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "support vector machines",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "support vector machines",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "support vector machines",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "support vector machines",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "support vector machines",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "vector machines",
+      "weight": 8
+    },
+    {
+      "source": "vector",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "vector",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "vector",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "vector",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "vector",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "vector",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "vector",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "vector machines",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "vector machines",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "vector machines",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "vector machines",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "vector machines",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "vector machines",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "kernel",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "kernel trick",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "margin",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "margin maximization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "margins",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "maximization",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "soft",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "soft margins",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "trick",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "kernel",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "kernel trick",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "margin",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "margin maximization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "margins",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "maximization",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "soft",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "soft margins",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "trick",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "kernel",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "kernel trick",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "margin",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "margin maximization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "margins",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "maximization",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "soft",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "soft margins",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "trick",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "kernel",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "kernel trick",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "margin",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "margin maximization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "margins",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "maximization",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "soft",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "soft margins",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "trick",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "kernel",
+      "target": "kernel trick",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "margin",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "margin maximization",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "margins",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "maximization",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "soft",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "kernel",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "kernel trick",
+      "target": "margin",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "margin maximization",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "margins",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "maximization",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "soft",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "kernel trick",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "margin",
+      "target": "margin maximization",
+      "weight": 3
+    },
+    {
+      "source": "margin",
+      "target": "margins",
+      "weight": 3
+    },
+    {
+      "source": "margin",
+      "target": "maximization",
+      "weight": 3
+    },
+    {
+      "source": "margin",
+      "target": "soft",
+      "weight": 3
+    },
+    {
+      "source": "margin",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "margin",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "margin",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "margin maximization",
+      "target": "margins",
+      "weight": 3
+    },
+    {
+      "source": "margin maximization",
+      "target": "maximization",
+      "weight": 3
+    },
+    {
+      "source": "margin maximization",
+      "target": "soft",
+      "weight": 3
+    },
+    {
+      "source": "margin maximization",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "margin maximization",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "margin maximization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "margins",
+      "target": "maximization",
+      "weight": 3
+    },
+    {
+      "source": "margins",
+      "target": "soft",
+      "weight": 3
+    },
+    {
+      "source": "margins",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "margins",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "margins",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "maximization",
+      "target": "soft",
+      "weight": 3
+    },
+    {
+      "source": "maximization",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "maximization",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "maximization",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "soft",
+      "target": "soft margins",
+      "weight": 3
+    },
+    {
+      "source": "soft",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "soft",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "soft margins",
+      "target": "trick",
+      "weight": 3
+    },
+    {
+      "source": "soft margins",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "trick",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 249,
+    "is_connected": true
+  }
+}

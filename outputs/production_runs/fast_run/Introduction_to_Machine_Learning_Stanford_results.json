@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Introduction_to_Machine_Learning_Stanford.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:40:02.527227",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Introduction_to_Machine_Learning_Stanford.txt",
+    "file_type": ".txt",
+    "file_size": 9010,
+    "processed_at": "2026-01-17T13:40:01.295566",
+    "content_hash": "9b72a2a969f4c021f53cca45dc775d2e6a786ca06d853a275a547af4995796d2",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 1378,
+    "metadata": {
+      "line_count": 202,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Data",
+    "Learning",
+    "00",
+    "Function",
+    "30"
+  ],
+  "key_concepts": [
+    "learning",
+    "data",
+    "00",
+    "30",
+    "features",
+    "let",
+    "machine",
+    "machine learning",
+    "function",
+    "regression",
+    "spam",
+    "model",
+    "need",
+    "cost",
+    "learn"
+  ],
+  "entity_count": 176,
+  "word_count": 1378,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 188,
+      "density": 0.432183908045977,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.5747126436781609,
+      "average_clustering": 0.6791840033330813,
+      "most_central_concepts": [
+        [
+          "learn",
+          0.896551724137931
+        ],
+        [
+          "learning",
+          0.7931034482758621
+        ],
+        [
+          "00",
+          0.7931034482758621
+        ],
+        [
+          "data",
+          0.6896551724137931
+        ],
+        [
+          "use",
+          0.6551724137931034
+        ],
+        [
+          "regression",
+          0.5862068965517241
+        ],
+        [
+          "log",
+          0.5517241379310345
+        ],
+        [
+          "30",
+          0.48275862068965514
+        ],
+        [
+          "need",
+          0.48275862068965514
+        ],
+        [
+          "15",
+          0.48275862068965514
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "learn",
+        "learning"
+      ],
+      [
+        "learn",
+        "00"
+      ],
+      [
+        "learn",
+        "data"
+      ],
+      [
+        "learn",
+        "use"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Introduction_to_Machine_Learning_Stanford"
+  },
+  "rag_document_id": "63700b7c-f345-4d69-80ba-94131e3b249d",
+  "processing_time_seconds": 3.893447
+}

@@ -1,0 +1,1436 @@
+{
+  "nodes": [
+    {
+      "id": "dimensionality",
+      "label": "dimensionality",
+      "weight": 2.5774242625092607,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "dimensionality reduction",
+      "label": "dimensionality reduction",
+      "weight": 2.5774242625092607,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "reduction",
+      "label": "reduction",
+      "weight": 2.5774242625092607,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.133494019457408,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8631203398824658,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "implementations",
+      "label": "implementations",
+      "weight": 1.262768953480775,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12687107092120875
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.2124724276373315,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.2124724276373315,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.01982209909773,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0124217865335627,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9583157661889801,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "autoencoders",
+      "label": "autoencoders",
+      "weight": 0.9541937728377734,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12687107092120875
+    },
+    {
+      "id": "pca",
+      "label": "pca",
+      "weight": 0.9541937728377734,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12687107092120875
+    },
+    {
+      "id": "sne",
+      "label": "sne",
+      "weight": 0.9541937728377734,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12687107092120875
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8717063409899323,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8327112736877638,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "implement dimensionality",
+      "label": "implement dimensionality",
+      "weight": 0.7192374058426919,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.6456971919222602,
+      "degree_centrality": 0.5416666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12687107092120875
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5139779384832075,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.44833988688577964,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3883734459819912,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02214170692431562,
+      "eigenvector_centrality": 0.23026286231550133
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.32273539438456333,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "learning dataset",
+      "label": "learning dataset",
+      "weight": 0.32273539438456333,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "machine learning dataset",
+      "label": "machine learning dataset",
+      "weight": 0.32273539438456333,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.2893007486331622,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20052879751501126
+    }
+  ],
+  "edges": [
+    {
+      "source": "dimensionality",
+      "target": "dimensionality reduction",
+      "weight": 8
+    },
+    {
+      "source": "dimensionality",
+      "target": "reduction",
+      "weight": 8
+    },
+    {
+      "source": "dimensionality",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "dimensionality",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "autoencoders",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "pca",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "sne",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "reduction",
+      "weight": 8
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "autoencoders",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "pca",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "sne",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dimensionality reduction",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "reduction",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "reduction",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "reduction",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "reduction",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "reduction",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "autoencoders",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "pca",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "sne",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reduction",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "reduction",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "autoencoders",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "pca",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sne",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "implementations",
+      "target": "autoencoders",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "pca",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "sne",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implementations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "autoencoders",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "pca",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sne",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "autoencoders",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "pca",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sne",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "autoencoders",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "pca",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sne",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "autoencoders",
+      "target": "pca",
+      "weight": 3
+    },
+    {
+      "source": "autoencoders",
+      "target": "sne",
+      "weight": 3
+    },
+    {
+      "source": "autoencoders",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "autoencoders",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "autoencoders",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "pca",
+      "target": "sne",
+      "weight": 3
+    },
+    {
+      "source": "pca",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "pca",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "pca",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "sne",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "sne",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sne",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement dimensionality",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement dimensionality",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning dataset",
+      "target": "machine learning dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine learning dataset",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 245,
+    "is_connected": true
+  }
+}

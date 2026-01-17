@@ -1,0 +1,231 @@
+VIDEO TRANSCRIPT
+=====================================
+Title: Deep Learning Fundamentals
+Instructor: Prof. Lex Fridman, MIT
+Duration: 52:15
+Source: Educational Lecture Recording
+Format: MP4 Video with Audio Transcription
+
+FULL TRANSCRIPT WITH TIMESTAMPS
+================================
+
+[00:00] Prof. Lex Fridman:
+Welcome to Deep Learning Fundamentals. Today we're going to explore what makes deep learning 
+different from traditional machine learning and why it's revolutionizing AI.
+
+[00:30] Let's start with a historical perspective. In the 1950s, Frank Rosenblatt invented 
+the Perceptron - a simple neural network that could learn to classify. It caused huge 
+excitement. People thought we'd have human-level AI within a decade.
+
+[01:15] But then reality hit. In 1969, Marvin Minsky and Seymour Papert published a book 
+showing that perceptrons couldn't even learn the XOR function - a simple logical operation. 
+This triggered the first AI winter.
+
+[02:00] Fast forward to the 1980s. Backpropagation was rediscovered, allowing us to train 
+multi-layer neural networks. But we still couldn't train very deep networks. They were hard 
+to optimize and required too much data and compute power that we didn't have.
+
+[03:00] Then three things changed:
+1. Big Data - The internet gave us massive datasets
+2. GPUs - Graphics cards turned out to be perfect for matrix operations
+3. Algorithmic innovations - ReLU, dropout, batch normalization
+
+[03:45] In 2012, Alex Krizhevsky's AlexNet won ImageNet by a huge margin using deep 
+convolutional neural networks. That was the turning point. Deep learning took off.
+
+[05:00] So what IS a neural network? At its core, it's a function approximator. A very 
+powerful one.
+
+Think of it this way: any function you can imagine - from recognizing cats in photos to 
+predicting stock prices to playing Go - can be approximated by a large enough neural network. 
+This is the Universal Approximation Theorem.
+
+[06:00] Let's build a neural network from first principles.
+
+A single neuron takes inputs x₁, x₂, ..., xₙ, multiplies each by weights w₁, w₂, ..., wₙ, 
+adds a bias b, and passes the sum through an activation function f:
+
+output = f(w₁x₁ + w₂x₂ + ... + wₙxₙ + b)
+
+[07:00] Why the activation function? Without it, the neural network would just be linear 
+combinations of linear combinations... which is still linear! We need non-linearity to 
+approximate complex functions.
+
+[07:45] Common activation functions:
+- **Sigmoid**: σ(x) = 1/(1+e^(-x)) - squashes to [0,1]
+- **tanh**: tanh(x) = (e^x - e^(-x))/(e^x + e^(-x)) - squashes to [- 1,1]
+- **ReLU**: f(x) = max(0, x) - simple but effective
+- **Leaky ReLU**: f(x) = max(0.01x, x) - fixes dying ReLU problem
+
+[09:00] Now let's stack these neurons into layers. A feedforward neural network has:
+- Input layer: Receives raw data
+- Hidden layers: Learn representations
+- Output layer: Makes predictions
+
+[10:00] Here's the key insight: each layer learns progressively more abstract representations.
+
+In a network trained on images:
+- Layer 1 detects edges and simple patterns
+- Layer 2 detects textures and simple shapes
+- Layer 3 detects object parts (eyes, wheels, etc.)
+- Layer 4 detects complete objects (faces, cars, etc.)
+
+[11:30] Let me show you the forward pass mathematically.
+
+For a network with L layers:
+a^[0] = X (input)
+z^[l] = W^[l]a^[l-1] + b^[l]
+a^[l] = g^[l](z^[l])
+
+Where:
+- z^[l] is the pre-activation at layer l
+- a^[l] is the activation at layer l
+- g^[l] is the activation function
+- W^[l] and b^[l] are weights and biases
+
+[13:00] The magic happens in training. We use backpropagation to compute gradients efficiently.
+
+Here's the intuition: We compute how wrong our predictions are (the loss). Then we ask: 
+how did each weight contribute to that error? We adjust weights in the direction that 
+reduces error.
+
+[14:00] Backpropagation is just the chain rule from calculus, applied cleverly.
+
+For the output layer:
+δ^[L] = ∇ₐLoss ⊙ g'^[L](z^[L])
+
+For hidden layers:
+δ^[l] = (W^[l+1])ᵀδ^[l+1] ⊙ g'^[l](z^[l])
+
+Gradients:
+∂Loss/∂W^[l] = δ^[l](a^[l-1])ᵀ
+∂Loss/∂b^[l] = δ^[l]
+
+[16:30] Let me implement this in PyTorch to make it concrete:
+
+import torch
+import torch.nn as nn
+
+class SimpleNN(nn.Module):
+    def __init__(self, input_dim, hidden_dim, output_dim):
+        super().__init__()
+        self.fc1 = nn.Linear(input_dim, hidden_dim)
+        self.fc2 = nn.Linear(hidden_dim, hidden_dim)
+        self.fc3 = nn.Linear(hidden_dim, output_dim)
+        self.relu = nn.ReLU()
+    
+    def forward(self, x):
+        x = self.relu(self.fc1(x))
+        x = self.relu(self.fc2(x))
+        x = self.fc3(x)
+        return x
+
+[20:00] Now let's talk about training challenges.
+
+**Vanishing Gradients**: In very deep networks with sigmoid activation, gradients can become 
+exponentially small. The early layers barely learn.
+
+Solution: Use ReLU activation and careful initialization.
+
+**Exploding Gradients**: The opposite problem - gradients become huge.
+
+Solution: Gradient clipping, careful initialization, batch normalization.
+
+[22:00] Optimization is another challenge. We use variants of gradient descent:
+
+- **SGD**: Stochastic Gradient Descent - update after each example
+- **Mini-batch GD**: Update after a batch of examples (sweet spot)
+- **Momentum**: Add velocity to escape local minima
+- **Adam**: Adaptive learning rates per parameter (usually works well)
+
+[25:00] Regularization prevents overfitting:
+
+**Dropout**: Randomly drop neurons during training. Forces network to learn redundant 
+representations. At test time, use all neurons but scale their output.
+
+**L2 Regularization**: Add λΣw² to loss function. Prevents weights from getting too large.
+
+**Data Augmentation**: Create new training examples by transforming existing ones (rotate 
+images, add noise, etc.)
+
+[28:00] Now let's talk about Convolutional Neural Networks - the workhorses of computer vision.
+
+Key idea: Instead of fully connecting layers, use local connections with shared weights. 
+This exploits two properties of images:
+1. Local correlations (nearby pixels are related)
+2. Translation invariance (a cat is a cat whether it's on the left or right)
+
+[30:00] A convolutional layer:
+1. Slides a small filter (e.g. 3×3) across the image
+2. At each position, computes dot product between filter and image patch
+3. This creates a feature map
+
+For example, a 3×3 edge detection filter might look like:
+[[-1, -1, -1],
+ [ 0,  0,  0],
+ [ 1,  1,  1]]
+
+[32:00] CNNs typically have this architecture:
+Input → [Conv → ReLU → Pool] × N → FC → Output
+
+Pooling reduces spatial dimensions while keeping important features. Max pooling takes 
+the maximum value in each region.
+
+[35:00] Famous CNN architectures:
+- **AlexNet** (2012): 5 conv layers, started the deep learning revolution
+- **VGGNet** (2014): Deeper, uniform architecture
+- **ResNet** (2015): Skip connections allow training 100+ layer networks
+- **EfficientNet** (2019): Carefully balances width, depth, resolution
+
+[38:00] Let me show you a training loop:
+
+model = SimpleNN(input_dim=784, hidden_dim=256, output_dim=10)
+criterion = nn.CrossEntropyLoss()
+optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+
+for epoch in range(num_epochs):
+    for batch_x, batch_y in dataloader:
+        # Forward pass
+        outputs = model(batch_x)
+        loss = criterion(outputs, batch_y)
+        
+        # Backward pass
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+    
+    print(f'Epoch {epoch}, Loss: {loss.item()}')
+
+[42:00] Some practical tips for deep learning:
+
+1. **Start simple**: Begin with a small model, make sure it can overfit a tiny dataset
+2. **Monitor everything**: Track training/validation loss, gradients, activations
+3. **Use pre-trained models**: Transfer learning saves time and requires less data
+4. **Batch normalization**: Usually helps training stability
+5. **Learning rate scheduling**: Reduce learning rate as training progresses
+
+[45:00] Common debugging strategies:
+
+- Model doesn't learn at all? Check learning rate, initialization
+- Trains on training set but terrible on validation? Overfitting - add regularization
+- Loss goes to NaN? Learning rate too high or gradient explosion
+- Validation loss stops improving? Try learning rate decay or early stopping
+
+[48:00] The future of deep learning is exciting: 
+- **Transformers** are replacing RNNs for sequences
+- **Self-supervised learning** learns from unlabeled data
+- **Neural architecture search** automatically designs networks
+- **Few-shot learning** learns from very few examples
+
+[50:00] Remember: Deep learning is still just optimization of differentiable functions. 
+Understanding the fundamentals - gradients, backpropagation, optimization - will serve 
+you well as the field evolves.
+
+[51:00] For homework, implement a CNN from scratch in NumPy (no PyTorch!). This will force 
+you to understand every detail of forward and backward passes.
+
+[52:00] Questions?
+
+[52:15] Thank you everyone!
+
+[END OF RECORDING]

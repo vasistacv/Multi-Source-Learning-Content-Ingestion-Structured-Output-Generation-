@@ -25,6 +25,41 @@ class BaseLLM(ABC):
         pass
 
 
+class GroqLLM(BaseLLM):
+    """Ultra-fast inference using Groq API."""
+    
+    def __init__(self, model: str = "llama-3.3-70b-versatile", api_key: str = None):
+        try:
+            from groq import Groq
+            import os
+            self.client = Groq(api_key=api_key or os.getenv("GROQ_API_KEY"))
+            self.model = model
+            logger.info(f"Initialized Groq LLM with model: {model}")
+        except Exception as e:
+            logger.error(f"Failed to initialize Groq: {e}")
+            raise
+
+    def generate(self, prompt: str, max_tokens: int = 1024) -> str:
+        try:
+            completion = self.client.chat.completions.create(
+                model=self.model,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.7,
+                max_tokens=max_tokens,
+                top_p=1,
+                stream=False,
+                stop=None,
+            )
+            return completion.choices[0].message.content
+        except Exception as e:
+            logger.error(f"Groq generation failed: {e}")
+            return ""
+
+    def generate_batch(self, prompts: List[str], max_tokens: int = 1024) -> List[str]:
+        # Groq is fast enough to loop sequentially or use async (implemented sequentially here for safety)
+        return [self.generate(p, max_tokens) for p in prompts]
+
+
 class LocalLLM(BaseLLM):
     """Production-grade local LLM with 4-bit quantization for efficiency."""
     

@@ -1,0 +1,1064 @@
+{
+  "nodes": [
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 3.865726432441629,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "transfer",
+      "label": "transfer",
+      "weight": 2.630610153009424,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "transfer learning",
+      "label": "transfer learning",
+      "weight": 2.630610153009424,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.242132729162499,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.327205312311408,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2744087483522053,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.150417791642936,
+      "degree_centrality": 0.6000000000000001,
+      "betweenness_centrality": 0.0004784688995215311,
+      "eigenvector_centrality": 0.15333530930253128
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.150417791642936,
+      "degree_centrality": 0.6000000000000001,
+      "betweenness_centrality": 0.0004784688995215311,
+      "eigenvector_centrality": 0.15333530930253128
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0183576743975238,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.2466340769130195
+    },
+    {
+      "id": "adaptation",
+      "label": "adaptation",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "domain",
+      "label": "domain",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "domain adaptation",
+      "label": "domain adaptation",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "fine",
+      "label": "fine",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "pre",
+      "label": "pre",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.9500000000000001,
+      "betweenness_centrality": 0.01403508771929825,
+      "eigenvector_centrality": 0.23898431894352964
+    },
+    {
+      "id": "trained",
+      "label": "trained",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "trained models",
+      "label": "trained models",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "tuning",
+      "label": "tuning",
+      "weight": 0.6620923669426712,
+      "degree_centrality": 0.8,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2139038245090837
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5038562459299101,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.019776714513556618,
+      "eigenvector_centrality": 0.24663407691301953
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.49092382823539915,
+      "degree_centrality": 0.6000000000000001,
+      "betweenness_centrality": 0.0004784688995215311,
+      "eigenvector_centrality": 0.15333530930253128
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.31601837939440447,
+      "degree_centrality": 0.55,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1403054945024886
+    }
+  ],
+  "edges": [
+    {
+      "source": "learning",
+      "target": "transfer",
+      "weight": 8
+    },
+    {
+      "source": "learning",
+      "target": "transfer learning",
+      "weight": 8
+    },
+    {
+      "source": "learning",
+      "target": "lecture",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "adaptation",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "domain adaptation",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "fine",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "pre",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "trained",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "trained models",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "transfer",
+      "target": "transfer learning",
+      "weight": 8
+    },
+    {
+      "source": "transfer",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "transfer",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "transfer",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "transfer",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "transfer",
+      "target": "adaptation",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "domain adaptation",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "fine",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "pre",
+      "weight": 4
+    },
+    {
+      "source": "transfer",
+      "target": "trained",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "trained models",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "transfer",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "transfer learning",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "transfer learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "transfer learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "transfer learning",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "transfer learning",
+      "target": "adaptation",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "domain adaptation",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "fine",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "pre",
+      "weight": 4
+    },
+    {
+      "source": "transfer learning",
+      "target": "trained",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "trained models",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "transfer learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "adaptation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "domain",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "domain adaptation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "fine",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "pre",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "trained",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "trained models",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "tuning",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "adaptation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "domain",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "domain adaptation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "fine",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "pre",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "trained",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "trained models",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "tuning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "adaptation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "domain",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "domain adaptation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "fine",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "pre",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "trained",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "trained models",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "tuning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "pre",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "pre",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "adaptation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "domain adaptation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "fine",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "pre",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "trained",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "trained models",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "tuning",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "adaptation",
+      "target": "domain",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "domain adaptation",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "fine",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "pre",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "trained",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "adaptation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "domain adaptation",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "fine",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "pre",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "trained",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "domain adaptation",
+      "target": "fine",
+      "weight": 3
+    },
+    {
+      "source": "domain adaptation",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "domain adaptation",
+      "target": "pre",
+      "weight": 3
+    },
+    {
+      "source": "domain adaptation",
+      "target": "trained",
+      "weight": 3
+    },
+    {
+      "source": "domain adaptation",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "domain adaptation",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "domain adaptation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "fine",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "fine",
+      "target": "pre",
+      "weight": 3
+    },
+    {
+      "source": "fine",
+      "target": "trained",
+      "weight": 3
+    },
+    {
+      "source": "fine",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "fine",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "fine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "pre",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "trained",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "pre",
+      "target": "trained",
+      "weight": 3
+    },
+    {
+      "source": "pre",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "pre",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "pre",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "pre",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "trained",
+      "target": "trained models",
+      "weight": 3
+    },
+    {
+      "source": "trained",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "trained",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "trained models",
+      "target": "tuning",
+      "weight": 3
+    },
+    {
+      "source": "trained models",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "tuning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 21,
+    "edge_count": 177,
+    "is_connected": true
+  }
+}

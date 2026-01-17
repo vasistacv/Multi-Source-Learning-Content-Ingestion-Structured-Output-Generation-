@@ -1,0 +1,1648 @@
+{
+  "nodes": [
+    {
+      "id": "fermi",
+      "label": "fermi",
+      "weight": 24.639195724564523,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.033596988768925966,
+      "eigenvector_centrality": 0.24760514606747436
+    },
+    {
+      "id": "po",
+      "label": "po",
+      "weight": 11.804670345660885,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.033596988768925966,
+      "eigenvector_centrality": 0.24760514606747436
+    },
+    {
+      "id": "http",
+      "label": "http",
+      "weight": 11.317139456100993,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.01321108684707633,
+      "eigenvector_centrality": 0.18384303702275184
+    },
+    {
+      "id": "edu",
+      "label": "edu",
+      "weight": 9.495575586984089,
+      "degree_centrality": 0.9642857142857142,
+      "betweenness_centrality": 0.02589353701785517,
+      "eigenvector_centrality": 0.2431916995640093
+    },
+    {
+      "id": "students",
+      "label": "students",
+      "weight": 9.303643154978559,
+      "degree_centrality": 0.8928571428571428,
+      "betweenness_centrality": 0.025754081036895922,
+      "eigenvector_centrality": 0.22449074355442744
+    },
+    {
+      "id": "science",
+      "label": "science",
+      "weight": 8.940645668276046,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.017643714655852846,
+      "eigenvector_centrality": 0.21063966537058287
+    },
+    {
+      "id": "program",
+      "label": "program",
+      "weight": 8.633361820271274,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.012745313527292986,
+      "eigenvector_centrality": 0.1842377010072892
+    },
+    {
+      "id": "teachers",
+      "label": "teachers",
+      "weight": 7.235183808817602,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.009181951667147501,
+      "eigenvector_centrality": 0.1690448396206945
+    },
+    {
+      "id": "activities",
+      "label": "activities",
+      "weight": 7.014082551612834,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.011744953039672682,
+      "eigenvector_centrality": 0.20785095593594194
+    },
+    {
+      "id": "nasa",
+      "label": "nasa",
+      "weight": 6.715338136696217,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.010426101287445824,
+      "eigenvector_centrality": 0.1858661329740693
+    },
+    {
+      "id": "universe",
+      "label": "universe",
+      "weight": 6.558201403686691,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.0207506273114534,
+      "eigenvector_centrality": 0.21734289366675005
+    },
+    {
+      "id": "education",
+      "label": "education",
+      "weight": 6.367247756421602,
+      "degree_centrality": 0.8928571428571428,
+      "betweenness_centrality": 0.019018577761943527,
+      "eigenvector_centrality": 0.23019916471006743
+    },
+    {
+      "id": "information",
+      "label": "information",
+      "weight": 6.215485664979704,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.004161488202473017,
+      "eigenvector_centrality": 0.16580025721143613
+    },
+    {
+      "id": "materials",
+      "label": "materials",
+      "weight": 5.819528490568746,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.005597981603252131,
+      "eigenvector_centrality": 0.14285921343926036
+    },
+    {
+      "id": "ssu",
+      "label": "ssu",
+      "weight": 5.583860575760602,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.01265828867523054,
+      "eigenvector_centrality": 0.19683104664243167
+    },
+    {
+      "id": "active",
+      "label": "active",
+      "weight": 5.54269389993271,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.007665915528095488,
+      "eigenvector_centrality": 0.18093822068680296
+    },
+    {
+      "id": "distributed",
+      "label": "distributed",
+      "weight": 5.50764934506209,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.0022894580434262976,
+      "eigenvector_centrality": 0.11804338526902418
+    },
+    {
+      "id": "space",
+      "label": "space",
+      "weight": 5.43327621984097,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.0071936548375808275,
+      "eigenvector_centrality": 0.18373476715709153
+    },
+    {
+      "id": "public",
+      "label": "public",
+      "weight": 5.356318515262488,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.005904772497111187,
+      "eigenvector_centrality": 0.1673505415827074
+    },
+    {
+      "id": "black",
+      "label": "black",
+      "weight": 5.187069237408778,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.004822540040794009,
+      "eigenvector_centrality": 0.16617309992411708
+    },
+    {
+      "id": "000",
+      "label": "000",
+      "weight": 5.015147914219662,
+      "degree_centrality": 0.3571428571428571,
+      "betweenness_centrality": 0.001408127785345339,
+      "eigenvector_centrality": 0.09403700829487883
+    },
+    {
+      "id": "galaxy",
+      "label": "galaxy",
+      "weight": 4.6328689526231965,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.0051190245883474044,
+      "eigenvector_centrality": 0.17410520247077868
+    },
+    {
+      "id": "gamma",
+      "label": "gamma",
+      "weight": 4.625876325537489,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.005945545950583053,
+      "eigenvector_centrality": 0.18522841214091113
+    },
+    {
+      "id": "course",
+      "label": "course",
+      "weight": 4.506147821480563,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.004228730903567505,
+      "eigenvector_centrality": 0.13397346314413594
+    },
+    {
+      "id": "holes",
+      "label": "holes",
+      "weight": 4.354375805429521,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.0020232670034257333,
+      "eigenvector_centrality": 0.15097645528208875
+    },
+    {
+      "id": "telescope",
+      "label": "telescope",
+      "weight": 4.287191841633262,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.006475004963567054,
+      "eigenvector_centrality": 0.17382554772112793
+    },
+    {
+      "id": "unit",
+      "label": "unit",
+      "weight": 4.141822742442685,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.0019440286554149638,
+      "eigenvector_centrality": 0.14909958254123548
+    },
+    {
+      "id": "2012",
+      "label": "2012",
+      "weight": 3.945999213923635,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.018571853976849306,
+      "eigenvector_centrality": 0.19992452147484369
+    },
+    {
+      "id": "education unit",
+      "label": "education unit",
+      "weight": 3.470308832845926,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0011142257422787176,
+      "eigenvector_centrality": 0.14094149606117276
+    }
+  ],
+  "edges": [
+    {
+      "source": "fermi",
+      "target": "po",
+      "weight": 35
+    },
+    {
+      "source": "fermi",
+      "target": "edu",
+      "weight": 13
+    },
+    {
+      "source": "fermi",
+      "target": "education",
+      "weight": 11
+    },
+    {
+      "source": "fermi",
+      "target": "space",
+      "weight": 3
+    },
+    {
+      "source": "fermi",
+      "target": "public",
+      "weight": 8
+    },
+    {
+      "source": "fermi",
+      "target": "gamma",
+      "weight": 6
+    },
+    {
+      "source": "fermi",
+      "target": "telescope",
+      "weight": 5
+    },
+    {
+      "source": "fermi",
+      "target": "2012",
+      "weight": 7
+    },
+    {
+      "source": "fermi",
+      "target": "students",
+      "weight": 7
+    },
+    {
+      "source": "fermi",
+      "target": "activities",
+      "weight": 8
+    },
+    {
+      "source": "fermi",
+      "target": "nasa",
+      "weight": 9
+    },
+    {
+      "source": "fermi",
+      "target": "science",
+      "weight": 10
+    },
+    {
+      "source": "fermi",
+      "target": "program",
+      "weight": 10
+    },
+    {
+      "source": "fermi",
+      "target": "universe",
+      "weight": 5
+    },
+    {
+      "source": "fermi",
+      "target": "ssu",
+      "weight": 3
+    },
+    {
+      "source": "fermi",
+      "target": "teachers",
+      "weight": 2
+    },
+    {
+      "source": "fermi",
+      "target": "http",
+      "weight": 9
+    },
+    {
+      "source": "fermi",
+      "target": "active",
+      "weight": 9
+    },
+    {
+      "source": "fermi",
+      "target": "galaxy",
+      "weight": 4
+    },
+    {
+      "source": "fermi",
+      "target": "information",
+      "weight": 5
+    },
+    {
+      "source": "fermi",
+      "target": "materials",
+      "weight": 5
+    },
+    {
+      "source": "fermi",
+      "target": "black",
+      "weight": 4
+    },
+    {
+      "source": "fermi",
+      "target": "distributed",
+      "weight": 2
+    },
+    {
+      "source": "fermi",
+      "target": "unit",
+      "weight": 2
+    },
+    {
+      "source": "fermi",
+      "target": "education unit",
+      "weight": 2
+    },
+    {
+      "source": "fermi",
+      "target": "000",
+      "weight": 2
+    },
+    {
+      "source": "fermi",
+      "target": "course",
+      "weight": 2
+    },
+    {
+      "source": "fermi",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "po",
+      "target": "edu",
+      "weight": 16
+    },
+    {
+      "source": "po",
+      "target": "education",
+      "weight": 11
+    },
+    {
+      "source": "po",
+      "target": "space",
+      "weight": 4
+    },
+    {
+      "source": "po",
+      "target": "public",
+      "weight": 8
+    },
+    {
+      "source": "po",
+      "target": "gamma",
+      "weight": 7
+    },
+    {
+      "source": "po",
+      "target": "telescope",
+      "weight": 6
+    },
+    {
+      "source": "po",
+      "target": "2012",
+      "weight": 7
+    },
+    {
+      "source": "po",
+      "target": "students",
+      "weight": 8
+    },
+    {
+      "source": "po",
+      "target": "activities",
+      "weight": 8
+    },
+    {
+      "source": "po",
+      "target": "nasa",
+      "weight": 10
+    },
+    {
+      "source": "po",
+      "target": "science",
+      "weight": 6
+    },
+    {
+      "source": "po",
+      "target": "program",
+      "weight": 16
+    },
+    {
+      "source": "po",
+      "target": "universe",
+      "weight": 4
+    },
+    {
+      "source": "po",
+      "target": "ssu",
+      "weight": 4
+    },
+    {
+      "source": "po",
+      "target": "teachers",
+      "weight": 3
+    },
+    {
+      "source": "po",
+      "target": "course",
+      "weight": 3
+    },
+    {
+      "source": "po",
+      "target": "unit",
+      "weight": 3
+    },
+    {
+      "source": "po",
+      "target": "http",
+      "weight": 5
+    },
+    {
+      "source": "po",
+      "target": "active",
+      "weight": 5
+    },
+    {
+      "source": "po",
+      "target": "galaxy",
+      "weight": 6
+    },
+    {
+      "source": "po",
+      "target": "information",
+      "weight": 4
+    },
+    {
+      "source": "po",
+      "target": "education unit",
+      "weight": 2
+    },
+    {
+      "source": "po",
+      "target": "materials",
+      "weight": 4
+    },
+    {
+      "source": "po",
+      "target": "distributed",
+      "weight": 3
+    },
+    {
+      "source": "po",
+      "target": "000",
+      "weight": 5
+    },
+    {
+      "source": "po",
+      "target": "black",
+      "weight": 3
+    },
+    {
+      "source": "po",
+      "target": "holes",
+      "weight": 3
+    },
+    {
+      "source": "http",
+      "target": "nasa",
+      "weight": 2
+    },
+    {
+      "source": "http",
+      "target": "universe",
+      "weight": 3
+    },
+    {
+      "source": "http",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "black",
+      "weight": 2
+    },
+    {
+      "source": "http",
+      "target": "edu",
+      "weight": 2
+    },
+    {
+      "source": "http",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "unit",
+      "weight": 2
+    },
+    {
+      "source": "http",
+      "target": "education unit",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "program",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "materials",
+      "weight": 3
+    },
+    {
+      "source": "http",
+      "target": "course",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "http",
+      "target": "space",
+      "weight": 2
+    },
+    {
+      "source": "http",
+      "target": "galaxy",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "gamma",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "http",
+      "target": "telescope",
+      "weight": 1
+    },
+    {
+      "source": "edu",
+      "target": "education",
+      "weight": 21
+    },
+    {
+      "source": "edu",
+      "target": "space",
+      "weight": 2
+    },
+    {
+      "source": "edu",
+      "target": "public",
+      "weight": 6
+    },
+    {
+      "source": "edu",
+      "target": "gamma",
+      "weight": 3
+    },
+    {
+      "source": "edu",
+      "target": "telescope",
+      "weight": 4
+    },
+    {
+      "source": "edu",
+      "target": "2012",
+      "weight": 3
+    },
+    {
+      "source": "edu",
+      "target": "students",
+      "weight": 6
+    },
+    {
+      "source": "edu",
+      "target": "activities",
+      "weight": 6
+    },
+    {
+      "source": "edu",
+      "target": "nasa",
+      "weight": 5
+    },
+    {
+      "source": "edu",
+      "target": "science",
+      "weight": 4
+    },
+    {
+      "source": "edu",
+      "target": "program",
+      "weight": 7
+    },
+    {
+      "source": "edu",
+      "target": "universe",
+      "weight": 3
+    },
+    {
+      "source": "edu",
+      "target": "ssu",
+      "weight": 3
+    },
+    {
+      "source": "edu",
+      "target": "teachers",
+      "weight": 9
+    },
+    {
+      "source": "edu",
+      "target": "distributed",
+      "weight": 2
+    },
+    {
+      "source": "edu",
+      "target": "active",
+      "weight": 7
+    },
+    {
+      "source": "edu",
+      "target": "galaxy",
+      "weight": 6
+    },
+    {
+      "source": "edu",
+      "target": "information",
+      "weight": 3
+    },
+    {
+      "source": "edu",
+      "target": "unit",
+      "weight": 7
+    },
+    {
+      "source": "edu",
+      "target": "education unit",
+      "weight": 7
+    },
+    {
+      "source": "edu",
+      "target": "materials",
+      "weight": 2
+    },
+    {
+      "source": "edu",
+      "target": "black",
+      "weight": 2
+    },
+    {
+      "source": "edu",
+      "target": "holes",
+      "weight": 2
+    },
+    {
+      "source": "edu",
+      "target": "course",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "activities",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "nasa",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "education",
+      "weight": 6
+    },
+    {
+      "source": "students",
+      "target": "space",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "public",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "gamma",
+      "weight": 4
+    },
+    {
+      "source": "students",
+      "target": "telescope",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "program",
+      "weight": 4
+    },
+    {
+      "source": "students",
+      "target": "teachers",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "distributed",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "000",
+      "weight": 4
+    },
+    {
+      "source": "students",
+      "target": "universe",
+      "weight": 5
+    },
+    {
+      "source": "students",
+      "target": "course",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "black",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "holes",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "ssu",
+      "weight": 1
+    },
+    {
+      "source": "students",
+      "target": "active",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "galaxy",
+      "weight": 3
+    },
+    {
+      "source": "students",
+      "target": "2012",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "unit",
+      "weight": 1
+    },
+    {
+      "source": "students",
+      "target": "education unit",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "program",
+      "weight": 3
+    },
+    {
+      "source": "science",
+      "target": "activities",
+      "weight": 3
+    },
+    {
+      "source": "science",
+      "target": "universe",
+      "weight": 2
+    },
+    {
+      "source": "science",
+      "target": "education",
+      "weight": 4
+    },
+    {
+      "source": "science",
+      "target": "public",
+      "weight": 2
+    },
+    {
+      "source": "science",
+      "target": "teachers",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "distributed",
+      "weight": 2
+    },
+    {
+      "source": "science",
+      "target": "information",
+      "weight": 3
+    },
+    {
+      "source": "science",
+      "target": "active",
+      "weight": 6
+    },
+    {
+      "source": "science",
+      "target": "materials",
+      "weight": 2
+    },
+    {
+      "source": "science",
+      "target": "black",
+      "weight": 3
+    },
+    {
+      "source": "science",
+      "target": "ssu",
+      "weight": 2
+    },
+    {
+      "source": "science",
+      "target": "unit",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "education unit",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "space",
+      "weight": 3
+    },
+    {
+      "source": "science",
+      "target": "galaxy",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "gamma",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "holes",
+      "weight": 2
+    },
+    {
+      "source": "program",
+      "target": "activities",
+      "weight": 5
+    },
+    {
+      "source": "program",
+      "target": "universe",
+      "weight": 3
+    },
+    {
+      "source": "program",
+      "target": "education",
+      "weight": 5
+    },
+    {
+      "source": "program",
+      "target": "public",
+      "weight": 4
+    },
+    {
+      "source": "program",
+      "target": "ssu",
+      "weight": 3
+    },
+    {
+      "source": "program",
+      "target": "telescope",
+      "weight": 2
+    },
+    {
+      "source": "program",
+      "target": "teachers",
+      "weight": 2
+    },
+    {
+      "source": "program",
+      "target": "nasa",
+      "weight": 3
+    },
+    {
+      "source": "program",
+      "target": "information",
+      "weight": 2
+    },
+    {
+      "source": "program",
+      "target": "active",
+      "weight": 1
+    },
+    {
+      "source": "program",
+      "target": "distributed",
+      "weight": 1
+    },
+    {
+      "source": "program",
+      "target": "000",
+      "weight": 2
+    },
+    {
+      "source": "program",
+      "target": "materials",
+      "weight": 1
+    },
+    {
+      "source": "program",
+      "target": "course",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "education",
+      "weight": 2
+    },
+    {
+      "source": "teachers",
+      "target": "distributed",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "activities",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "nasa",
+      "weight": 2
+    },
+    {
+      "source": "teachers",
+      "target": "telescope",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "universe",
+      "weight": 1
+    },
+    {
+      "source": "teachers",
+      "target": "ssu",
+      "weight": 2
+    },
+    {
+      "source": "teachers",
+      "target": "course",
+      "weight": 3
+    },
+    {
+      "source": "teachers",
+      "target": "2012",
+      "weight": 2
+    },
+    {
+      "source": "teachers",
+      "target": "000",
+      "weight": 1
+    },
+    {
+      "source": "activities",
+      "target": "nasa",
+      "weight": 3
+    },
+    {
+      "source": "activities",
+      "target": "education",
+      "weight": 6
+    },
+    {
+      "source": "activities",
+      "target": "space",
+      "weight": 2
+    },
+    {
+      "source": "activities",
+      "target": "public",
+      "weight": 2
+    },
+    {
+      "source": "activities",
+      "target": "gamma",
+      "weight": 1
+    },
+    {
+      "source": "activities",
+      "target": "telescope",
+      "weight": 2
+    },
+    {
+      "source": "activities",
+      "target": "universe",
+      "weight": 1
+    },
+    {
+      "source": "activities",
+      "target": "materials",
+      "weight": 1
+    },
+    {
+      "source": "activities",
+      "target": "unit",
+      "weight": 3
+    },
+    {
+      "source": "activities",
+      "target": "education unit",
+      "weight": 3
+    },
+    {
+      "source": "activities",
+      "target": "ssu",
+      "weight": 3
+    },
+    {
+      "source": "activities",
+      "target": "active",
+      "weight": 5
+    },
+    {
+      "source": "activities",
+      "target": "information",
+      "weight": 3
+    },
+    {
+      "source": "activities",
+      "target": "galaxy",
+      "weight": 1
+    },
+    {
+      "source": "activities",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "nasa",
+      "target": "education",
+      "weight": 4
+    },
+    {
+      "source": "nasa",
+      "target": "space",
+      "weight": 1
+    },
+    {
+      "source": "nasa",
+      "target": "public",
+      "weight": 1
+    },
+    {
+      "source": "nasa",
+      "target": "gamma",
+      "weight": 1
+    },
+    {
+      "source": "nasa",
+      "target": "telescope",
+      "weight": 2
+    },
+    {
+      "source": "nasa",
+      "target": "materials",
+      "weight": 2
+    },
+    {
+      "source": "nasa",
+      "target": "universe",
+      "weight": 3
+    },
+    {
+      "source": "nasa",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "nasa",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "nasa",
+      "target": "ssu",
+      "weight": 2
+    },
+    {
+      "source": "nasa",
+      "target": "course",
+      "weight": 2
+    },
+    {
+      "source": "nasa",
+      "target": "distributed",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "education",
+      "weight": 2
+    },
+    {
+      "source": "universe",
+      "target": "public",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "space",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "course",
+      "weight": 5
+    },
+    {
+      "source": "universe",
+      "target": "black",
+      "weight": 4
+    },
+    {
+      "source": "universe",
+      "target": "holes",
+      "weight": 3
+    },
+    {
+      "source": "universe",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "distributed",
+      "weight": 2
+    },
+    {
+      "source": "universe",
+      "target": "000",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "ssu",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "materials",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "galaxy",
+      "weight": 1
+    },
+    {
+      "source": "universe",
+      "target": "gamma",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "space",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "public",
+      "weight": 6
+    },
+    {
+      "source": "education",
+      "target": "gamma",
+      "weight": 3
+    },
+    {
+      "source": "education",
+      "target": "telescope",
+      "weight": 4
+    },
+    {
+      "source": "education",
+      "target": "2012",
+      "weight": 3
+    },
+    {
+      "source": "education",
+      "target": "ssu",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "distributed",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "active",
+      "weight": 7
+    },
+    {
+      "source": "education",
+      "target": "galaxy",
+      "weight": 6
+    },
+    {
+      "source": "education",
+      "target": "information",
+      "weight": 3
+    },
+    {
+      "source": "education",
+      "target": "unit",
+      "weight": 7
+    },
+    {
+      "source": "education",
+      "target": "education unit",
+      "weight": 7
+    },
+    {
+      "source": "education",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "active",
+      "weight": 4
+    },
+    {
+      "source": "information",
+      "target": "galaxy",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "unit",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "education unit",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "public",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "gamma",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "ssu",
+      "weight": 1
+    },
+    {
+      "source": "materials",
+      "target": "active",
+      "weight": 1
+    },
+    {
+      "source": "materials",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "materials",
+      "target": "distributed",
+      "weight": 2
+    },
+    {
+      "source": "materials",
+      "target": "course",
+      "weight": 1
+    },
+    {
+      "source": "materials",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "materials",
+      "target": "telescope",
+      "weight": 1
+    },
+    {
+      "source": "ssu",
+      "target": "public",
+      "weight": 2
+    },
+    {
+      "source": "ssu",
+      "target": "telescope",
+      "weight": 2
+    },
+    {
+      "source": "ssu",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "ssu",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "ssu",
+      "target": "active",
+      "weight": 1
+    },
+    {
+      "source": "ssu",
+      "target": "unit",
+      "weight": 1
+    },
+    {
+      "source": "ssu",
+      "target": "education unit",
+      "weight": 1
+    },
+    {
+      "source": "ssu",
+      "target": "course",
+      "weight": 2
+    },
+    {
+      "source": "ssu",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "active",
+      "target": "telescope",
+      "weight": 1
+    },
+    {
+      "source": "active",
+      "target": "galaxy",
+      "weight": 8
+    },
+    {
+      "source": "active",
+      "target": "gamma",
+      "weight": 2
+    },
+    {
+      "source": "active",
+      "target": "2012",
+      "weight": 3
+    },
+    {
+      "source": "active",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "active",
+      "target": "unit",
+      "weight": 4
+    },
+    {
+      "source": "active",
+      "target": "education unit",
+      "weight": 4
+    },
+    {
+      "source": "active",
+      "target": "space",
+      "weight": 2
+    },
+    {
+      "source": "distributed",
+      "target": "000",
+      "weight": 3
+    },
+    {
+      "source": "space",
+      "target": "public",
+      "weight": 2
+    },
+    {
+      "source": "space",
+      "target": "gamma",
+      "weight": 3
+    },
+    {
+      "source": "space",
+      "target": "telescope",
+      "weight": 2
+    },
+    {
+      "source": "space",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "space",
+      "target": "course",
+      "weight": 1
+    },
+    {
+      "source": "space",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "space",
+      "target": "galaxy",
+      "weight": 1
+    },
+    {
+      "source": "space",
+      "target": "holes",
+      "weight": 1
+    },
+    {
+      "source": "public",
+      "target": "gamma",
+      "weight": 2
+    },
+    {
+      "source": "public",
+      "target": "telescope",
+      "weight": 4
+    },
+    {
+      "source": "public",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "public",
+      "target": "000",
+      "weight": 1
+    },
+    {
+      "source": "black",
+      "target": "holes",
+      "weight": 9
+    },
+    {
+      "source": "black",
+      "target": "galaxy",
+      "weight": 2
+    },
+    {
+      "source": "black",
+      "target": "gamma",
+      "weight": 2
+    },
+    {
+      "source": "000",
+      "target": "course",
+      "weight": 1
+    },
+    {
+      "source": "000",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "galaxy",
+      "target": "gamma",
+      "weight": 3
+    },
+    {
+      "source": "galaxy",
+      "target": "2012",
+      "weight": 3
+    },
+    {
+      "source": "galaxy",
+      "target": "unit",
+      "weight": 4
+    },
+    {
+      "source": "galaxy",
+      "target": "education unit",
+      "weight": 4
+    },
+    {
+      "source": "galaxy",
+      "target": "holes",
+      "weight": 2
+    },
+    {
+      "source": "gamma",
+      "target": "telescope",
+      "weight": 2
+    },
+    {
+      "source": "gamma",
+      "target": "2012",
+      "weight": 2
+    },
+    {
+      "source": "gamma",
+      "target": "holes",
+      "weight": 2
+    },
+    {
+      "source": "course",
+      "target": "2012",
+      "weight": 3
+    },
+    {
+      "source": "telescope",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "telescope",
+      "target": "unit",
+      "weight": 1
+    },
+    {
+      "source": "unit",
+      "target": "education unit",
+      "weight": 7
+    },
+    {
+      "source": "unit",
+      "target": "2012",
+      "weight": 1
+    },
+    {
+      "source": "2012",
+      "target": "education unit",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 281,
+    "is_connected": true
+  }
+}

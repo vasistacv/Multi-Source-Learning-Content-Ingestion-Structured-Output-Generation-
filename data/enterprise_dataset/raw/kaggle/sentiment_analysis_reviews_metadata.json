@@ -1,0 +1,13 @@
+{
+  "dataset_name": "sentiment_analysis_reviews",
+  "rows": 500,
+  "columns": [
+    "review_id",
+    "product",
+    "rating",
+    "review_text",
+    "sentiment"
+  ],
+  "description": "Synthetic dataset for sentiment analysis reviews",
+  "source": "Generated for ML training"
+}

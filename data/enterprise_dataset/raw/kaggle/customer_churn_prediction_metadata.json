@@ -1,0 +1,15 @@
+{
+  "dataset_name": "customer_churn_prediction",
+  "rows": 1000,
+  "columns": [
+    "customer_id",
+    "tenure",
+    "monthly_charges",
+    "total_charges",
+    "contract_type",
+    "payment_method",
+    "churn"
+  ],
+  "description": "Synthetic dataset for customer churn prediction",
+  "source": "Generated for ML training"
+}

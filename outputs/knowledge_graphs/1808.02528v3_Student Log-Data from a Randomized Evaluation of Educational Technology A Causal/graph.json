@@ -1,0 +1,1197 @@
+{
+  "nodes": [
+    {
+      "id": "students",
+      "label": "students",
+      "weight": 54.295798326973085,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.007919897562754704,
+      "eigenvector_centrality": 0.22854149684190297
+    },
+    {
+      "id": "treatment",
+      "label": "treatment",
+      "weight": 48.480020397491515,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.005002061430632859,
+      "eigenvector_centrality": 0.22037182850297304
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 45.87322674754855,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.007919897562754704,
+      "eigenvector_centrality": 0.22854149684190297
+    },
+    {
+      "id": "hint",
+      "label": "hint",
+      "weight": 45.60950848393892,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01212263926549641,
+      "eigenvector_centrality": 0.23563295914575005
+    },
+    {
+      "id": "effect",
+      "label": "effect",
+      "weight": 40.72007254387806,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01212263926549641,
+      "eigenvector_centrality": 0.23563295914575005
+    },
+    {
+      "id": "hints",
+      "label": "hints",
+      "weight": 39.937452407574774,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.00995155638012781,
+      "eigenvector_centrality": 0.2269615297611179
+    },
+    {
+      "id": "effects",
+      "label": "effects",
+      "weight": 36.67768722350121,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.0071731443160014605,
+      "eigenvector_centrality": 0.22904325788760518
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "weight": 34.42820331422344,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.0037640534069105494,
+      "eigenvector_centrality": 0.2219517955837581
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 33.34618213968457,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.005901875901875903,
+      "eigenvector_centrality": 0.1710294546329659
+    },
+    {
+      "id": "study",
+      "label": "study",
+      "weight": 32.34752827754954,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.00995155638012781,
+      "eigenvector_centrality": 0.2269615297611179
+    },
+    {
+      "id": "student",
+      "label": "student",
+      "weight": 30.089130922876826,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.007919897562754704,
+      "eigenvector_centrality": 0.22854149684190303
+    },
+    {
+      "id": "group",
+      "label": "group",
+      "weight": 26.737054655263673,
+      "degree_centrality": 0.8095238095238095,
+      "betweenness_centrality": 0.003726551226551227,
+      "eigenvector_centrality": 0.19913417685216936
+    },
+    {
+      "id": "control",
+      "label": "control",
+      "weight": 25.985830646476042,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.0037640534069105494,
+      "eigenvector_centrality": 0.2219517955837581
+    },
+    {
+      "id": "principal",
+      "label": "principal",
+      "weight": 25.941423580772803,
+      "degree_centrality": 0.9047619047619047,
+      "betweenness_centrality": 0.005147273361559076,
+      "eigenvector_centrality": 0.2195367856986264
+    },
+    {
+      "id": "scores",
+      "label": "scores",
+      "weight": 24.56388943318404,
+      "degree_centrality": 0.7619047619047619,
+      "betweenness_centrality": 0.0027272727272727275,
+      "eigenvector_centrality": 0.18750170855560158
+    },
+    {
+      "id": "problem",
+      "label": "problem",
+      "weight": 23.812334704402833,
+      "degree_centrality": 0.5238095238095237,
+      "betweenness_centrality": 0.0010678210678210678,
+      "eigenvector_centrality": 0.12997148328804647
+    },
+    {
+      "id": "cta1",
+      "label": "cta1",
+      "weight": 22.547402251542827,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.0015929705215419502,
+      "eigenvector_centrality": 0.21328036619912596
+    },
+    {
+      "id": "request",
+      "label": "request",
+      "weight": 21.147051736843224,
+      "degree_centrality": 0.9523809523809523,
+      "betweenness_centrality": 0.007919897562754704,
+      "eigenvector_centrality": 0.22854149684190303
+    },
+    {
+      "id": "principal stratification",
+      "label": "principal stratification",
+      "weight": 18.968540638901654,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.004155209869495584,
+      "eigenvector_centrality": 0.20944055377000675
+    },
+    {
+      "id": "stratification",
+      "label": "stratification",
+      "weight": 18.968540638901654,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.004155209869495584,
+      "eigenvector_centrality": 0.20944055377000675
+    },
+    {
+      "id": "cid",
+      "label": "cid",
+      "weight": 16.404425256908997,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0019671201814058957,
+      "eigenvector_centrality": 0.13986799761764698
+    },
+    {
+      "id": "ll",
+      "label": "ll",
+      "weight": 2.046399231353634,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01212263926549641,
+      "eigenvector_centrality": 0.2356329591457501
+    }
+  ],
+  "edges": [
+    {
+      "source": "students",
+      "target": "effect",
+      "weight": 14
+    },
+    {
+      "source": "students",
+      "target": "effects",
+      "weight": 7
+    },
+    {
+      "source": "students",
+      "target": "student",
+      "weight": 75
+    },
+    {
+      "source": "students",
+      "target": "group",
+      "weight": 13
+    },
+    {
+      "source": "students",
+      "target": "control",
+      "weight": 8
+    },
+    {
+      "source": "students",
+      "target": "cta1",
+      "weight": 10
+    },
+    {
+      "source": "students",
+      "target": "treatment",
+      "weight": 13
+    },
+    {
+      "source": "students",
+      "target": "data",
+      "weight": 14
+    },
+    {
+      "source": "students",
+      "target": "study",
+      "weight": 7
+    },
+    {
+      "source": "students",
+      "target": "problem",
+      "weight": 21
+    },
+    {
+      "source": "students",
+      "target": "ll",
+      "weight": 26
+    },
+    {
+      "source": "students",
+      "target": "hint",
+      "weight": 33
+    },
+    {
+      "source": "students",
+      "target": "hints",
+      "weight": 23
+    },
+    {
+      "source": "students",
+      "target": "request",
+      "weight": 18
+    },
+    {
+      "source": "students",
+      "target": "analysis",
+      "weight": 4
+    },
+    {
+      "source": "students",
+      "target": "principal",
+      "weight": 5
+    },
+    {
+      "source": "students",
+      "target": "principal stratification",
+      "weight": 2
+    },
+    {
+      "source": "students",
+      "target": "stratification",
+      "weight": 5
+    },
+    {
+      "source": "students",
+      "target": "model",
+      "weight": 4
+    },
+    {
+      "source": "students",
+      "target": "scores",
+      "weight": 5
+    },
+    {
+      "source": "treatment",
+      "target": "effect",
+      "weight": 27
+    },
+    {
+      "source": "treatment",
+      "target": "study",
+      "weight": 8
+    },
+    {
+      "source": "treatment",
+      "target": "data",
+      "weight": 8
+    },
+    {
+      "source": "treatment",
+      "target": "student",
+      "weight": 17
+    },
+    {
+      "source": "treatment",
+      "target": "group",
+      "weight": 14
+    },
+    {
+      "source": "treatment",
+      "target": "cta1",
+      "weight": 8
+    },
+    {
+      "source": "treatment",
+      "target": "effects",
+      "weight": 10
+    },
+    {
+      "source": "treatment",
+      "target": "ll",
+      "weight": 13
+    },
+    {
+      "source": "treatment",
+      "target": "hint",
+      "weight": 20
+    },
+    {
+      "source": "treatment",
+      "target": "hints",
+      "weight": 14
+    },
+    {
+      "source": "treatment",
+      "target": "request",
+      "weight": 15
+    },
+    {
+      "source": "treatment",
+      "target": "control",
+      "weight": 16
+    },
+    {
+      "source": "treatment",
+      "target": "analysis",
+      "weight": 7
+    },
+    {
+      "source": "treatment",
+      "target": "principal",
+      "weight": 3
+    },
+    {
+      "source": "treatment",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "treatment",
+      "target": "stratification",
+      "weight": 2
+    },
+    {
+      "source": "treatment",
+      "target": "scores",
+      "weight": 4
+    },
+    {
+      "source": "treatment",
+      "target": "cid",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "effect",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "study",
+      "weight": 12
+    },
+    {
+      "source": "data",
+      "target": "student",
+      "weight": 20
+    },
+    {
+      "source": "data",
+      "target": "ll",
+      "weight": 16
+    },
+    {
+      "source": "data",
+      "target": "group",
+      "weight": 7
+    },
+    {
+      "source": "data",
+      "target": "cta1",
+      "weight": 7
+    },
+    {
+      "source": "data",
+      "target": "hint",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "hints",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "problem",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "request",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "analysis",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "effects",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "control",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "model",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "principal",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "stratification",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "scores",
+      "weight": 3
+    },
+    {
+      "source": "hint",
+      "target": "hints",
+      "weight": 59
+    },
+    {
+      "source": "hint",
+      "target": "student",
+      "weight": 52
+    },
+    {
+      "source": "hint",
+      "target": "problem",
+      "weight": 30
+    },
+    {
+      "source": "hint",
+      "target": "request",
+      "weight": 55
+    },
+    {
+      "source": "hint",
+      "target": "study",
+      "weight": 14
+    },
+    {
+      "source": "hint",
+      "target": "cta1",
+      "weight": 14
+    },
+    {
+      "source": "hint",
+      "target": "ll",
+      "weight": 39
+    },
+    {
+      "source": "hint",
+      "target": "effect",
+      "weight": 27
+    },
+    {
+      "source": "hint",
+      "target": "group",
+      "weight": 10
+    },
+    {
+      "source": "hint",
+      "target": "control",
+      "weight": 14
+    },
+    {
+      "source": "hint",
+      "target": "effects",
+      "weight": 8
+    },
+    {
+      "source": "hint",
+      "target": "analysis",
+      "weight": 8
+    },
+    {
+      "source": "hint",
+      "target": "principal",
+      "weight": 3
+    },
+    {
+      "source": "hint",
+      "target": "principal stratification",
+      "weight": 2
+    },
+    {
+      "source": "hint",
+      "target": "stratification",
+      "weight": 3
+    },
+    {
+      "source": "hint",
+      "target": "model",
+      "weight": 8
+    },
+    {
+      "source": "hint",
+      "target": "scores",
+      "weight": 13
+    },
+    {
+      "source": "hint",
+      "target": "cid",
+      "weight": 2
+    },
+    {
+      "source": "effect",
+      "target": "study",
+      "weight": 10
+    },
+    {
+      "source": "effect",
+      "target": "student",
+      "weight": 21
+    },
+    {
+      "source": "effect",
+      "target": "control",
+      "weight": 9
+    },
+    {
+      "source": "effect",
+      "target": "cta1",
+      "weight": 13
+    },
+    {
+      "source": "effect",
+      "target": "ll",
+      "weight": 28
+    },
+    {
+      "source": "effect",
+      "target": "effects",
+      "weight": 30
+    },
+    {
+      "source": "effect",
+      "target": "group",
+      "weight": 6
+    },
+    {
+      "source": "effect",
+      "target": "analysis",
+      "weight": 9
+    },
+    {
+      "source": "effect",
+      "target": "hints",
+      "weight": 14
+    },
+    {
+      "source": "effect",
+      "target": "request",
+      "weight": 13
+    },
+    {
+      "source": "effect",
+      "target": "principal",
+      "weight": 3
+    },
+    {
+      "source": "effect",
+      "target": "principal stratification",
+      "weight": 2
+    },
+    {
+      "source": "effect",
+      "target": "stratification",
+      "weight": 3
+    },
+    {
+      "source": "effect",
+      "target": "problem",
+      "weight": 4
+    },
+    {
+      "source": "effect",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "effect",
+      "target": "scores",
+      "weight": 6
+    },
+    {
+      "source": "effect",
+      "target": "cid",
+      "weight": 2
+    },
+    {
+      "source": "hints",
+      "target": "student",
+      "weight": 28
+    },
+    {
+      "source": "hints",
+      "target": "problem",
+      "weight": 14
+    },
+    {
+      "source": "hints",
+      "target": "request",
+      "weight": 32
+    },
+    {
+      "source": "hints",
+      "target": "study",
+      "weight": 10
+    },
+    {
+      "source": "hints",
+      "target": "cta1",
+      "weight": 11
+    },
+    {
+      "source": "hints",
+      "target": "ll",
+      "weight": 25
+    },
+    {
+      "source": "hints",
+      "target": "group",
+      "weight": 6
+    },
+    {
+      "source": "hints",
+      "target": "control",
+      "weight": 10
+    },
+    {
+      "source": "hints",
+      "target": "effects",
+      "weight": 4
+    },
+    {
+      "source": "hints",
+      "target": "analysis",
+      "weight": 3
+    },
+    {
+      "source": "hints",
+      "target": "principal",
+      "weight": 2
+    },
+    {
+      "source": "hints",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "hints",
+      "target": "stratification",
+      "weight": 2
+    },
+    {
+      "source": "hints",
+      "target": "scores",
+      "weight": 7
+    },
+    {
+      "source": "hints",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "effects",
+      "target": "student",
+      "weight": 8
+    },
+    {
+      "source": "effects",
+      "target": "group",
+      "weight": 5
+    },
+    {
+      "source": "effects",
+      "target": "control",
+      "weight": 6
+    },
+    {
+      "source": "effects",
+      "target": "cta1",
+      "weight": 4
+    },
+    {
+      "source": "effects",
+      "target": "ll",
+      "weight": 13
+    },
+    {
+      "source": "effects",
+      "target": "analysis",
+      "weight": 4
+    },
+    {
+      "source": "effects",
+      "target": "principal",
+      "weight": 3
+    },
+    {
+      "source": "effects",
+      "target": "request",
+      "weight": 4
+    },
+    {
+      "source": "effects",
+      "target": "principal stratification",
+      "weight": 2
+    },
+    {
+      "source": "effects",
+      "target": "stratification",
+      "weight": 3
+    },
+    {
+      "source": "effects",
+      "target": "study",
+      "weight": 6
+    },
+    {
+      "source": "effects",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "effects",
+      "target": "scores",
+      "weight": 4
+    },
+    {
+      "source": "effects",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "student",
+      "weight": 5
+    },
+    {
+      "source": "analysis",
+      "target": "principal",
+      "weight": 5
+    },
+    {
+      "source": "analysis",
+      "target": "request",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "principal stratification",
+      "weight": 4
+    },
+    {
+      "source": "analysis",
+      "target": "stratification",
+      "weight": 5
+    },
+    {
+      "source": "analysis",
+      "target": "ll",
+      "weight": 8
+    },
+    {
+      "source": "analysis",
+      "target": "study",
+      "weight": 5
+    },
+    {
+      "source": "analysis",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "cta1",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "control",
+      "weight": 3
+    },
+    {
+      "source": "analysis",
+      "target": "scores",
+      "weight": 2
+    },
+    {
+      "source": "analysis",
+      "target": "group",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "student",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "ll",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "control",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "request",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "problem",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "principal",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "stratification",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "student",
+      "weight": 10
+    },
+    {
+      "source": "study",
+      "target": "cta1",
+      "weight": 10
+    },
+    {
+      "source": "study",
+      "target": "problem",
+      "weight": 3
+    },
+    {
+      "source": "study",
+      "target": "ll",
+      "weight": 12
+    },
+    {
+      "source": "study",
+      "target": "group",
+      "weight": 4
+    },
+    {
+      "source": "study",
+      "target": "control",
+      "weight": 5
+    },
+    {
+      "source": "study",
+      "target": "request",
+      "weight": 5
+    },
+    {
+      "source": "study",
+      "target": "principal",
+      "weight": 3
+    },
+    {
+      "source": "study",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "stratification",
+      "weight": 3
+    },
+    {
+      "source": "study",
+      "target": "scores",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "student",
+      "target": "group",
+      "weight": 13
+    },
+    {
+      "source": "student",
+      "target": "control",
+      "weight": 9
+    },
+    {
+      "source": "student",
+      "target": "cta1",
+      "weight": 13
+    },
+    {
+      "source": "student",
+      "target": "problem",
+      "weight": 38
+    },
+    {
+      "source": "student",
+      "target": "request",
+      "weight": 31
+    },
+    {
+      "source": "student",
+      "target": "ll",
+      "weight": 40
+    },
+    {
+      "source": "student",
+      "target": "principal",
+      "weight": 5
+    },
+    {
+      "source": "student",
+      "target": "principal stratification",
+      "weight": 2
+    },
+    {
+      "source": "student",
+      "target": "stratification",
+      "weight": 5
+    },
+    {
+      "source": "student",
+      "target": "scores",
+      "weight": 8
+    },
+    {
+      "source": "group",
+      "target": "control",
+      "weight": 18
+    },
+    {
+      "source": "group",
+      "target": "cta1",
+      "weight": 6
+    },
+    {
+      "source": "group",
+      "target": "request",
+      "weight": 6
+    },
+    {
+      "source": "group",
+      "target": "ll",
+      "weight": 9
+    },
+    {
+      "source": "group",
+      "target": "scores",
+      "weight": 5
+    },
+    {
+      "source": "group",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "group",
+      "target": "principal",
+      "weight": 1
+    },
+    {
+      "source": "control",
+      "target": "cta1",
+      "weight": 9
+    },
+    {
+      "source": "control",
+      "target": "ll",
+      "weight": 13
+    },
+    {
+      "source": "control",
+      "target": "request",
+      "weight": 9
+    },
+    {
+      "source": "control",
+      "target": "principal",
+      "weight": 2
+    },
+    {
+      "source": "control",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "control",
+      "target": "stratification",
+      "weight": 1
+    },
+    {
+      "source": "control",
+      "target": "scores",
+      "weight": 4
+    },
+    {
+      "source": "principal",
+      "target": "request",
+      "weight": 2
+    },
+    {
+      "source": "principal",
+      "target": "principal stratification",
+      "weight": 6
+    },
+    {
+      "source": "principal",
+      "target": "stratification",
+      "weight": 10
+    },
+    {
+      "source": "principal",
+      "target": "ll",
+      "weight": 6
+    },
+    {
+      "source": "principal",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "principal",
+      "target": "cta1",
+      "weight": 1
+    },
+    {
+      "source": "scores",
+      "target": "problem",
+      "weight": 1
+    },
+    {
+      "source": "scores",
+      "target": "request",
+      "weight": 8
+    },
+    {
+      "source": "scores",
+      "target": "ll",
+      "weight": 9
+    },
+    {
+      "source": "scores",
+      "target": "cta1",
+      "weight": 2
+    },
+    {
+      "source": "problem",
+      "target": "request",
+      "weight": 22
+    },
+    {
+      "source": "problem",
+      "target": "ll",
+      "weight": 24
+    },
+    {
+      "source": "cta1",
+      "target": "ll",
+      "weight": 15
+    },
+    {
+      "source": "cta1",
+      "target": "request",
+      "weight": 4
+    },
+    {
+      "source": "cta1",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "cta1",
+      "target": "stratification",
+      "weight": 1
+    },
+    {
+      "source": "request",
+      "target": "ll",
+      "weight": 22
+    },
+    {
+      "source": "request",
+      "target": "principal stratification",
+      "weight": 1
+    },
+    {
+      "source": "request",
+      "target": "stratification",
+      "weight": 2
+    },
+    {
+      "source": "principal stratification",
+      "target": "stratification",
+      "weight": 6
+    },
+    {
+      "source": "principal stratification",
+      "target": "ll",
+      "weight": 4
+    },
+    {
+      "source": "principal stratification",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "stratification",
+      "target": "ll",
+      "weight": 6
+    },
+    {
+      "source": "stratification",
+      "target": "cid",
+      "weight": 1
+    },
+    {
+      "source": "cid",
+      "target": "ll",
+      "weight": 2
+    }
+  ],
+  "metadata": {
+    "node_count": 22,
+    "edge_count": 202,
+    "is_connected": true
+  }
+}

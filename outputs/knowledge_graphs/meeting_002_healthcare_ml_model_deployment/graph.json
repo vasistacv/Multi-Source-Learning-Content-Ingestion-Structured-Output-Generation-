@@ -1,0 +1,1193 @@
+{
+  "nodes": [
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 7.369813028354494,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.12734086987121535,
+      "eigenvector_centrality": 0.27312693718530306
+    },
+    {
+      "id": "patients",
+      "label": "patients",
+      "weight": 4.56280289249778,
+      "degree_centrality": 0.3214285714285714,
+      "betweenness_centrality": 0.014506752368563759,
+      "eigenvector_centrality": 0.09177295925015563
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 3.5275766592323725,
+      "degree_centrality": 0.3214285714285714,
+      "betweenness_centrality": 0.006826341647770219,
+      "eigenvector_centrality": 0.11638480775985925
+    },
+    {
+      "id": "review",
+      "label": "review",
+      "weight": 2.8409474267173236,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.04979130541105332,
+      "eigenvector_centrality": 0.24212451411817568
+    },
+    {
+      "id": "dr",
+      "label": "dr",
+      "weight": 2.5582492407903965,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.044485000790439634,
+      "eigenvector_centrality": 0.16329952829606423
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 2.544638593664373,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.032645338938293876
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 2.487734243479396,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.02975389348521934,
+      "eigenvector_centrality": 0.15875132668970018
+    },
+    {
+      "id": "patient",
+      "label": "patient",
+      "weight": 2.3653264826846363,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.06834111968624108,
+      "eigenvector_centrality": 0.24644291469527171
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "weight": 2.301942382415352,
+      "degree_centrality": 0.17857142857142855,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.07337521845524114
+    },
+    {
+      "id": "compliance",
+      "label": "compliance",
+      "weight": 2.291047726360891,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.03798944910347805,
+      "eigenvector_centrality": 0.2547072066050272
+    },
+    {
+      "id": "deployment",
+      "label": "deployment",
+      "weight": 2.2377985515204557,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.03094207768577516,
+      "eigenvector_centrality": 0.24797312459958223
+    },
+    {
+      "id": "risk",
+      "label": "risk",
+      "weight": 2.1712355846089837,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.008687904174015283,
+      "eigenvector_centrality": 0.22860194111402243
+    },
+    {
+      "id": "james",
+      "label": "james",
+      "weight": 2.144784729531149,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.005197572856303015,
+      "eigenvector_centrality": 0.2310829934473309
+    },
+    {
+      "id": "james thompson",
+      "label": "james thompson",
+      "weight": 2.144784729531149,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.005197572856303015,
+      "eigenvector_centrality": 0.2310829934473309
+    },
+    {
+      "id": "thompson",
+      "label": "thompson",
+      "weight": 2.144784729531149,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.005197572856303015,
+      "eigenvector_centrality": 0.2310829934473309
+    },
+    {
+      "id": "fda",
+      "label": "fda",
+      "weight": 2.0338492815672065,
+      "degree_centrality": 0.14285714285714285,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.06382603519208266
+    },
+    {
+      "id": "100",
+      "label": "100",
+      "weight": 1.9914307695928677,
+      "degree_centrality": 0.25,
+      "betweenness_centrality": 0.0019912131519274376,
+      "eigenvector_centrality": 0.06304612152034134
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "weight": 1.8869748239061255,
+      "degree_centrality": 0.3571428571428571,
+      "betweenness_centrality": 0.004460348954396573,
+      "eigenvector_centrality": 0.13341421273410858
+    },
+    {
+      "id": "martinez",
+      "label": "martinez",
+      "weight": 1.885703657789827,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.005073696145124717,
+      "eigenvector_centrality": 0.21958893738559201
+    },
+    {
+      "id": "rachel",
+      "label": "rachel",
+      "weight": 1.885703657789827,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.005073696145124717,
+      "eigenvector_centrality": 0.21958893738559201
+    },
+    {
+      "id": "rachel martinez",
+      "label": "rachel martinez",
+      "weight": 1.885703657789827,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.005073696145124717,
+      "eigenvector_centrality": 0.21958893738559201
+    },
+    {
+      "id": "rate",
+      "label": "rate",
+      "weight": 1.7678712262982357,
+      "degree_centrality": 0.14285714285714285,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.05185511461355945
+    },
+    {
+      "id": "ml",
+      "label": "ml",
+      "weight": 1.669811744402788,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.019865277545016102,
+      "eigenvector_centrality": 0.23157958207428217
+    },
+    {
+      "id": "readmission",
+      "label": "readmission",
+      "weight": 1.6595504216654677,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.0716380094297928,
+      "eigenvector_centrality": 0.2656316635815413
+    },
+    {
+      "id": "need",
+      "label": "need",
+      "weight": 1.575014978232852,
+      "degree_centrality": 0.2857142857142857,
+      "betweenness_centrality": 0.0035714285714285713,
+      "eigenvector_centrality": 0.09925871795742246
+    },
+    {
+      "id": "week",
+      "label": "week",
+      "weight": 1.5696445951441347,
+      "degree_centrality": 0.21428571428571427,
+      "betweenness_centrality": 0.0009424603174603175,
+      "eigenvector_centrality": 0.04721895668042913
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "weight": 1.5393195831193833,
+      "degree_centrality": 0.2857142857142857,
+      "betweenness_centrality": 0.0049757866109406725,
+      "eigenvector_centrality": 0.07277604216879495
+    },
+    {
+      "id": "25",
+      "label": "25",
+      "weight": 1.483823477556333,
+      "degree_centrality": 0.39285714285714285,
+      "betweenness_centrality": 0.028054278454021683,
+      "eigenvector_centrality": 0.11247376017506956
+    },
+    {
+      "id": "lisa",
+      "label": "lisa",
+      "weight": 1.3059532930122426,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.015551776266061981,
+      "eigenvector_centrality": 0.24396968223667997
+    }
+  ],
+  "edges": [
+    {
+      "source": "model",
+      "target": "review",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "dr",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "12",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "deployment",
+      "weight": 5
+    },
+    {
+      "source": "model",
+      "target": "ml",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "patient",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "compliance",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "james",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "james thompson",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "thompson",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "readmission",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "fda",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "patients",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "00",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "performance",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "rate",
+      "weight": 1
+    },
+    {
+      "source": "patients",
+      "target": "00",
+      "weight": 2
+    },
+    {
+      "source": "patients",
+      "target": "patient",
+      "weight": 7
+    },
+    {
+      "source": "patients",
+      "target": "risk",
+      "weight": 2
+    },
+    {
+      "source": "patients",
+      "target": "100",
+      "weight": 1
+    },
+    {
+      "source": "patients",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "patients",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "patients",
+      "target": "week",
+      "weight": 1
+    },
+    {
+      "source": "patients",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "patient",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "rate",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "review",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "compliance",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "deployment",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "deployment",
+      "weight": 3
+    },
+    {
+      "source": "review",
+      "target": "ml",
+      "weight": 2
+    },
+    {
+      "source": "review",
+      "target": "patient",
+      "weight": 2
+    },
+    {
+      "source": "review",
+      "target": "compliance",
+      "weight": 2
+    },
+    {
+      "source": "review",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "james",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "james thompson",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "thompson",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "review",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "12",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "deployment",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "compliance",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "rate",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "patient",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "james",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "james thompson",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "thompson",
+      "weight": 2
+    },
+    {
+      "source": "00",
+      "target": "100",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "10",
+      "weight": 3
+    },
+    {
+      "source": "00",
+      "target": "deployment",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "week",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "compliance",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "deployment",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "risk",
+      "weight": 4
+    },
+    {
+      "source": "patient",
+      "target": "james",
+      "weight": 2
+    },
+    {
+      "source": "patient",
+      "target": "james thompson",
+      "weight": 2
+    },
+    {
+      "source": "patient",
+      "target": "thompson",
+      "weight": 2
+    },
+    {
+      "source": "patient",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "readmission",
+      "weight": 2
+    },
+    {
+      "source": "patient",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "100",
+      "weight": 1
+    },
+    {
+      "source": "patient",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "patient",
+      "target": "week",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "deployment",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "deployment",
+      "weight": 3
+    },
+    {
+      "source": "compliance",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "james",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "james thompson",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "thompson",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "lisa",
+      "weight": 2
+    },
+    {
+      "source": "compliance",
+      "target": "fda",
+      "weight": 2
+    },
+    {
+      "source": "compliance",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "compliance",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "ml",
+      "weight": 2
+    },
+    {
+      "source": "deployment",
+      "target": "risk",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "james",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "james thompson",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "thompson",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "deployment",
+      "target": "fda",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "james",
+      "weight": 2
+    },
+    {
+      "source": "risk",
+      "target": "james thompson",
+      "weight": 2
+    },
+    {
+      "source": "risk",
+      "target": "thompson",
+      "weight": 2
+    },
+    {
+      "source": "risk",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "risk",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "james thompson",
+      "weight": 5
+    },
+    {
+      "source": "james",
+      "target": "thompson",
+      "weight": 5
+    },
+    {
+      "source": "james",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "james",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "thompson",
+      "weight": 5
+    },
+    {
+      "source": "james thompson",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "james thompson",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "martinez",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "rachel",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "rachel martinez",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "thompson",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "fda",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "100",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "100",
+      "target": "10",
+      "weight": 3
+    },
+    {
+      "source": "100",
+      "target": "week",
+      "weight": 1
+    },
+    {
+      "source": "100",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "25",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "need",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "lisa",
+      "weight": 2
+    },
+    {
+      "source": "martinez",
+      "target": "rachel",
+      "weight": 4
+    },
+    {
+      "source": "martinez",
+      "target": "rachel martinez",
+      "weight": 4
+    },
+    {
+      "source": "martinez",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "martinez",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "martinez",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "martinez",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "rachel",
+      "target": "rachel martinez",
+      "weight": 4
+    },
+    {
+      "source": "rachel",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "rachel",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "rachel",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "rachel",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "rachel martinez",
+      "target": "ml",
+      "weight": 1
+    },
+    {
+      "source": "rachel martinez",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "rachel martinez",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "rachel martinez",
+      "target": "need",
+      "weight": 1
+    },
+    {
+      "source": "rate",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "ml",
+      "target": "readmission",
+      "weight": 1
+    },
+    {
+      "source": "ml",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "readmission",
+      "target": "lisa",
+      "weight": 1
+    },
+    {
+      "source": "readmission",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "readmission",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "need",
+      "target": "lisa",
+      "weight": 2
+    },
+    {
+      "source": "week",
+      "target": "10",
+      "weight": 2
+    },
+    {
+      "source": "week",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "10",
+      "target": "25",
+      "weight": 1
+    },
+    {
+      "source": "25",
+      "target": "lisa",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 190,
+    "is_connected": true
+  }
+}

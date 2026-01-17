@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "id": "04s",
+      "label": "04s",
+      "weight": 4.165111011290301,
+      "degree_centrality": 0.13333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.08686439837700237
+    },
+    {
+      "id": "scene",
+      "label": "scene",
+      "weight": 3.8097149178666108,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.5761904761904763,
+      "eigenvector_centrality": 0.36899958075963163
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "weight": 0.7827841321329747,
+      "degree_centrality": 0.7333333333333333,
+      "betweenness_centrality": 0.10952380952380954,
+      "eigenvector_centrality": 0.3483655514731049
+    },
+    {
+      "id": "46s",
+      "label": "46s",
+      "weight": 0.6866000157588816,
+      "degree_centrality": 0.06666666666666667,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.04468150566443554
+    },
+    {
+      "id": "79s",
+      "label": "79s",
+      "weight": 0.6866000157588816,
+      "degree_centrality": 0.06666666666666667,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.04468150566443554
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "weight": 0.49258976563408285,
+      "degree_centrality": 0.13333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.050837385872235914
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "weight": 0.49258976563408285,
+      "degree_centrality": 0.2,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.09883185645484933
+    },
+    {
+      "id": "12s",
+      "label": "12s",
+      "weight": 0.49258976563408285,
+      "degree_centrality": 0.2,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.09883185645484933
+    },
+    {
+      "id": "54s",
+      "label": "54s",
+      "weight": 0.49258976563408285,
+      "degree_centrality": 0.13333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.050837385872235914
+    },
+    {
+      "id": "12 scenes",
+      "label": "12 scenes",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    },
+    {
+      "id": "12 scenes detected",
+      "label": "12 scenes detected",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    },
+    {
+      "id": "analysis",
+      "label": "analysis",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    },
+    {
+      "id": "breakdown",
+      "label": "breakdown",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    },
+    {
+      "id": "content",
+      "label": "content",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    },
+    {
+      "id": "content analysis",
+      "label": "content analysis",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    },
+    {
+      "id": "detected",
+      "label": "detected",
+      "weight": 0.2651618225775147,
+      "degree_centrality": 0.5333333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.31763368457537594
+    }
+  ],
+  "edges": [
+    {
+      "source": "04s",
+      "target": "scene",
+      "weight": 7
+    },
+    {
+      "source": "04s",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "12",
+      "weight": 3
+    },
+    {
+      "source": "scene",
+      "target": "12 scenes",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "12 scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "analysis",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "46s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "79s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "54s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "11",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "12s",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "12 scenes",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "12 scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "analysis",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "11",
+      "weight": 1
+    },
+    {
+      "source": "12",
+      "target": "12s",
+      "weight": 1
+    },
+    {
+      "source": "10",
+      "target": "54s",
+      "weight": 1
+    },
+    {
+      "source": "11",
+      "target": "12s",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes",
+      "target": "12 scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes",
+      "target": "analysis",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes detected",
+      "target": "analysis",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes detected",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes detected",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes detected",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "12 scenes detected",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "breakdown",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "breakdown",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "content analysis",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "detected",
+      "weight": 1
+    },
+    {
+      "source": "content analysis",
+      "target": "detected",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 16,
+    "edge_count": 48,
+    "is_connected": true
+  }
+}

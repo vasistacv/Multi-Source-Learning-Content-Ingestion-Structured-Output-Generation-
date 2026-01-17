@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2110.10780v3_An Open Natural Language Processing Development Framework for EHR-based Clinical.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:43:32.962857",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2110.10780v3_An Open Natural Language Processing Development Framework for EHR-based Clinical.pdf",
+    "file_type": ".pdf",
+    "file_size": 878006,
+    "processed_at": "2026-01-17T13:43:31.435667",
+    "content_hash": "3a0d9cb26a46dba17136583affa9e72f3d95832f0216195c2ff01031cf07ff7a",
+    "language": null,
+    "page_count": 35,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "Sijia Liu",
+      "subject": "",
+      "creator": "Microsoft Word",
+      "producer": "",
+      "creation_date": "D:20220321195151+00'00'"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Nlp",
+    "Data",
+    "Clinical",
+    "Covid",
+    "Site"
+  ],
+  "key_concepts": [
+    "nlp",
+    "clinical",
+    "data",
+    "development",
+    "health",
+    "annotation",
+    "site",
+    "algorithm",
+    "covid",
+    "research",
+    "n3c",
+    "framework",
+    "mayo",
+    "using",
+    "nlp algorithm"
+  ],
+  "entity_count": 1064,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 28,
+      "edge_count": 283,
+      "density": 0.7486772486772487,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2513227513227514,
+      "average_clustering": 0.8163540085640013,
+      "most_central_concepts": [
+        [
+          "nlp",
+          0.9629629629629629
+        ],
+        [
+          "data",
+          0.9629629629629629
+        ],
+        [
+          "clinical",
+          0.9629629629629629
+        ],
+        [
+          "site",
+          0.9629629629629629
+        ],
+        [
+          "covid",
+          0.9259259259259258
+        ],
+        [
+          "process",
+          0.9259259259259258
+        ],
+        [
+          "annotation",
+          0.8518518518518519
+        ],
+        [
+          "algorithm",
+          0.8518518518518519
+        ],
+        [
+          "nlp algorithm",
+          0.8518518518518519
+        ],
+        [
+          "sites",
+          0.8518518518518519
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "nlp",
+        "data"
+      ],
+      [
+        "nlp",
+        "clinical"
+      ],
+      [
+        "nlp",
+        "site"
+      ],
+      [
+        "nlp",
+        "covid"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2110.10780v3_An Open Natural Language Processing Development Framework for EHR-based Clinical"
+  },
+  "rag_document_id": "3b73d7a1-dbea-42e6-b108-e7eb0f20b7a3",
+  "processing_time_seconds": 11.141882
+}

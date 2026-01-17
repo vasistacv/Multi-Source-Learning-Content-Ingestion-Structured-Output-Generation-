@@ -1,0 +1,1361 @@
+{
+  "nodes": [
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 6.725350519439211,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.023706985004435015,
+      "eigenvector_centrality": 0.2452253110523886
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 5.046603837990025,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.011729506126057847,
+      "eigenvector_centrality": 0.23398095414737544
+    },
+    {
+      "id": "error",
+      "label": "error",
+      "weight": 3.821949203418411,
+      "degree_centrality": 0.41379310344827586,
+      "betweenness_centrality": 0.014273410513630739,
+      "eigenvector_centrality": 0.13003563369150897
+    },
+    {
+      "id": "algorithms",
+      "label": "algorithms",
+      "weight": 3.1702925788365217,
+      "degree_centrality": 0.3793103448275862,
+      "betweenness_centrality": 0.002916498164252438,
+      "eigenvector_centrality": 0.1231113349324618
+    },
+    {
+      "id": "regression",
+      "label": "regression",
+      "weight": 2.929942359307609,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.03316039059301882,
+      "eigenvector_centrality": 0.22418658026229438
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 2.8203472065552626,
+      "degree_centrality": 0.3793103448275862,
+      "betweenness_centrality": 0.00024630541871921186,
+      "eigenvector_centrality": 0.1312257026314774
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 2.8203472065552626,
+      "degree_centrality": 0.3793103448275862,
+      "betweenness_centrality": 0.00024630541871921186,
+      "eigenvector_centrality": 0.1312257026314774
+    },
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 2.7880914931873324,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.07722254242103561,
+      "eigenvector_centrality": 0.25052992684705466
+    },
+    {
+      "id": "chapter",
+      "label": "chapter",
+      "weight": 2.6146808296485657,
+      "degree_centrality": 0.8275862068965517,
+      "betweenness_centrality": 0.07676016029754078,
+      "eigenvector_centrality": 0.2462306416658959
+    },
+    {
+      "id": "linear",
+      "label": "linear",
+      "weight": 2.421036596642309,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.01834521164787754,
+      "eigenvector_centrality": 0.22066659790855736
+    },
+    {
+      "id": "neural",
+      "label": "neural",
+      "weight": 2.4034895245788084,
+      "degree_centrality": 0.24137931034482757,
+      "betweenness_centrality": 0.004356225248720177,
+      "eigenvector_centrality": 0.06528294112232874
+    },
+    {
+      "id": "multiple",
+      "label": "multiple",
+      "weight": 2.197812800657393,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.003657669964537539,
+      "eigenvector_centrality": 0.09002272748054418
+    },
+    {
+      "id": "function",
+      "label": "function",
+      "weight": 2.1253620350240543,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.001665493783720385,
+      "eigenvector_centrality": 0.04151521980276412
+    },
+    {
+      "id": "output",
+      "label": "output",
+      "weight": 2.062423347357153,
+      "degree_centrality": 0.5517241379310345,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.205507229304155
+    },
+    {
+      "id": "classification",
+      "label": "classification",
+      "weight": 1.9915810922020674,
+      "degree_centrality": 0.27586206896551724,
+      "betweenness_centrality": 0.01770609658540693,
+      "eigenvector_centrality": 0.08161355036517269
+    },
+    {
+      "id": "algorithm",
+      "label": "algorithm",
+      "weight": 1.8661188931713217,
+      "degree_centrality": 0.5517241379310345,
+      "betweenness_centrality": 0.042971830642071156,
+      "eigenvector_centrality": 0.15038380469281246
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "weight": 1.6435938806017765,
+      "degree_centrality": 0.5517241379310345,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.205507229304155
+    },
+    {
+      "id": "input",
+      "label": "input",
+      "weight": 1.6218061675482591,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.02538423415343148,
+      "eigenvector_centrality": 0.21940381442181967
+    },
+    {
+      "id": "learns",
+      "label": "learns",
+      "weight": 1.5878724861148705,
+      "degree_centrality": 0.6896551724137931,
+      "betweenness_centrality": 0.011674771588564687,
+      "eigenvector_centrality": 0.23434871512612396
+    },
+    {
+      "id": "simple",
+      "label": "simple",
+      "weight": 1.5693604487562454,
+      "degree_centrality": 0.6551724137931034,
+      "betweenness_centrality": 0.01834521164787754,
+      "eigenvector_centrality": 0.2206665979085573
+    },
+    {
+      "id": "training",
+      "label": "training",
+      "weight": 1.376637872209612,
+      "degree_centrality": 0.7931034482758621,
+      "betweenness_centrality": 0.0645033742940147,
+      "eigenvector_centrality": 0.24189469930369736
+    },
+    {
+      "id": "predictions",
+      "label": "predictions",
+      "weight": 1.3196230375564293,
+      "degree_centrality": 0.7586206896551724,
+      "betweenness_centrality": 0.033253058075573286,
+      "eigenvector_centrality": 0.24354175627220462
+    },
+    {
+      "id": "linear regression",
+      "label": "linear regression",
+      "weight": 1.247251812060491,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.007043104598161102,
+      "eigenvector_centrality": 0.21719825031808132
+    },
+    {
+      "id": "used",
+      "label": "used",
+      "weight": 1.177646730223609,
+      "degree_centrality": 0.7241379310344828,
+      "betweenness_centrality": 0.01864967472400101,
+      "eigenvector_centrality": 0.23831689650957397
+    },
+    {
+      "id": "mse",
+      "label": "mse",
+      "weight": 1.1378740086331818,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.001253259924659519,
+      "eigenvector_centrality": 0.04992543826304487
+    },
+    {
+      "id": "networks",
+      "label": "networks",
+      "weight": 1.0812107201209287,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.041836193322136554
+    },
+    {
+      "id": "neural networks",
+      "label": "neural networks",
+      "weight": 1.0812107201209287,
+      "degree_centrality": 0.1724137931034483,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.041836193322136554
+    },
+    {
+      "id": "variables",
+      "label": "variables",
+      "weight": 1.0390299021774394,
+      "degree_centrality": 0.5862068965517241,
+      "betweenness_centrality": 0.0044060727739371605,
+      "eigenvector_centrality": 0.21028983577526672
+    },
+    {
+      "id": "tp",
+      "label": "tp",
+      "weight": 0.8884146190506387,
+      "degree_centrality": 0.6206896551724138,
+      "betweenness_centrality": 0.05548812363141543,
+      "eigenvector_centrality": 0.21071456566553165
+    },
+    {
+      "id": "precision",
+      "label": "precision",
+      "weight": 0.44420730952531934,
+      "degree_centrality": 0.06896551724137931,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.016401996817078296
+    }
+  ],
+  "edges": [
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "chapter",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "data",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "algorithms",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "model",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "algorithm",
+      "weight": 6
+    },
+    {
+      "source": "learning",
+      "target": "training",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "predictions",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "learns",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "error",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "model",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "algorithm",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "training",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "predictions",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "learns",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "simple",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "tp",
+      "weight": 2
+    },
+    {
+      "source": "error",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "regression",
+      "weight": 2
+    },
+    {
+      "source": "error",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "mse",
+      "weight": 2
+    },
+    {
+      "source": "error",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "error",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "algorithm",
+      "weight": 5
+    },
+    {
+      "source": "algorithms",
+      "target": "machine",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "model",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "linear",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "input",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "simple",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "predictions",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "linear regression",
+      "weight": 3
+    },
+    {
+      "source": "regression",
+      "target": "used",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "variables",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "multiple",
+      "weight": 1
+    },
+    {
+      "source": "regression",
+      "target": "classification",
+      "weight": 2
+    },
+    {
+      "source": "regression",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 6
+    },
+    {
+      "source": "machine",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "algorithm",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "chapter",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "model",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "algorithm",
+      "weight": 3
+    },
+    {
+      "source": "machine learning",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "predictions",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "chapter",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "linear",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "variables",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "tp",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "multiple",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "linear",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "output",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "chapter",
+      "target": "neural networks",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "output",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "input",
+      "weight": 4
+    },
+    {
+      "source": "linear",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "simple",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "linear regression",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "variables",
+      "weight": 3
+    },
+    {
+      "source": "linear",
+      "target": "tp",
+      "weight": 2
+    },
+    {
+      "source": "linear",
+      "target": "multiple",
+      "weight": 1
+    },
+    {
+      "source": "linear",
+      "target": "neural",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "networks",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "neural networks",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "multiple",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "multiple",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "multiple",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "multiple",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "multiple",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "function",
+      "target": "input",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "output",
+      "target": "input",
+      "weight": 3
+    },
+    {
+      "source": "output",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "predictions",
+      "weight": 2
+    },
+    {
+      "source": "output",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "output",
+      "target": "variables",
+      "weight": 2
+    },
+    {
+      "source": "output",
+      "target": "tp",
+      "weight": 5
+    },
+    {
+      "source": "classification",
+      "target": "algorithm",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "classification",
+      "target": "precision",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "training",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "learns",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "neural networks",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "input",
+      "weight": 2
+    },
+    {
+      "source": "process",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "predictions",
+      "weight": 2
+    },
+    {
+      "source": "process",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "tp",
+      "weight": 2
+    },
+    {
+      "source": "input",
+      "target": "learns",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "simple",
+      "weight": 3
+    },
+    {
+      "source": "input",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "predictions",
+      "weight": 2
+    },
+    {
+      "source": "input",
+      "target": "linear regression",
+      "weight": 3
+    },
+    {
+      "source": "input",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "input",
+      "target": "variables",
+      "weight": 3
+    },
+    {
+      "source": "input",
+      "target": "tp",
+      "weight": 3
+    },
+    {
+      "source": "learns",
+      "target": "training",
+      "weight": 2
+    },
+    {
+      "source": "learns",
+      "target": "simple",
+      "weight": 1
+    },
+    {
+      "source": "learns",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "learns",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "learns",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "learns",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "learns",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "training",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "predictions",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "linear regression",
+      "weight": 3
+    },
+    {
+      "source": "simple",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "simple",
+      "target": "variables",
+      "weight": 2
+    },
+    {
+      "source": "simple",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "predictions",
+      "weight": 2
+    },
+    {
+      "source": "training",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "networks",
+      "weight": 1
+    },
+    {
+      "source": "training",
+      "target": "neural networks",
+      "weight": 1
+    },
+    {
+      "source": "predictions",
+      "target": "linear regression",
+      "weight": 1
+    },
+    {
+      "source": "predictions",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "predictions",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "predictions",
+      "target": "tp",
+      "weight": 2
+    },
+    {
+      "source": "predictions",
+      "target": "mse",
+      "weight": 1
+    },
+    {
+      "source": "linear regression",
+      "target": "used",
+      "weight": 1
+    },
+    {
+      "source": "linear regression",
+      "target": "variables",
+      "weight": 2
+    },
+    {
+      "source": "linear regression",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "variables",
+      "weight": 1
+    },
+    {
+      "source": "used",
+      "target": "tp",
+      "weight": 1
+    },
+    {
+      "source": "networks",
+      "target": "neural networks",
+      "weight": 2
+    },
+    {
+      "source": "variables",
+      "target": "tp",
+      "weight": 2
+    },
+    {
+      "source": "tp",
+      "target": "precision",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 30,
+    "edge_count": 222,
+    "is_connected": true
+  }
+}

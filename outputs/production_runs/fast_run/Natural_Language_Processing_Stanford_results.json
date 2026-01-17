@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Natural_Language_Processing_Stanford.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:46:04.187625",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Natural_Language_Processing_Stanford.txt",
+    "file_type": ".txt",
+    "file_size": 423,
+    "processed_at": "2026-01-17T13:46:02.813851",
+    "content_hash": "9a3c00e2feee9c4719435197d98e38e8f1107efb53bb0d789925b433c73f232e",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 51,
+    "metadata": {
+      "line_count": 11,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Nlp",
+    "Language",
+    "Language Processing",
+    "Natural",
+    "Natural Language"
+  ],
+  "key_concepts": [
+    "language",
+    "nlp",
+    "analysis",
+    "analysis word",
+    "analysis word embeddings",
+    "bert",
+    "comprehensive",
+    "comprehensive nlp",
+    "comprehensive nlp concepts",
+    "language processing",
+    "natural",
+    "natural language",
+    "natural language processing",
+    "processing",
+    "advanced"
+  ],
+  "entity_count": 9,
+  "word_count": 51,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 20,
+      "edge_count": 100,
+      "density": 0.5263157894736842,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.4736842105263157,
+      "average_clustering": 0.9736842105263157,
+      "most_central_concepts": [
+        [
+          "nlp",
+          1.0
+        ],
+        [
+          "analysis",
+          0.5263157894736842
+        ],
+        [
+          "bert",
+          0.5263157894736842
+        ],
+        [
+          "comprehensive",
+          0.5263157894736842
+        ],
+        [
+          "comprehensive nlp",
+          0.5263157894736842
+        ],
+        [
+          "comprehensive nlp concepts",
+          0.5263157894736842
+        ],
+        [
+          "concepts",
+          0.5263157894736842
+        ],
+        [
+          "concepts including",
+          0.5263157894736842
+        ],
+        [
+          "concepts including tokenization",
+          0.5263157894736842
+        ],
+        [
+          "contains",
+          0.5263157894736842
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "nlp",
+        "analysis"
+      ],
+      [
+        "nlp",
+        "bert"
+      ],
+      [
+        "nlp",
+        "comprehensive"
+      ],
+      [
+        "nlp",
+        "comprehensive nlp"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Natural_Language_Processing_Stanford"
+  },
+  "rag_document_id": "35cf0bfd-ecfd-4f56-b903-7208e20283f0",
+  "processing_time_seconds": 3.818324
+}

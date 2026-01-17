@@ -1,0 +1,18 @@
+VIDEO TRANSCRIPT
+=====================================
+Title: Introduction to Reinforcement Learning
+Instructor: Dr. David Silver, DeepMind
+Duration: 48:30
+Source: Educational Lecture Recording
+Format: MP4 Video with Audio Transcription
+
+FULL TRANSCRIPT WITH TIMESTAMPS
+================================
+
+[00:00] Dr. David Silver:
+Welcome to Reinforcement Learning. We'll explore how agents learn through trial and error,
+from Markov Decision Processes to Deep Q-Networks.
+
+[Content continues with RL fundamentals, value iteration, Q-learning, policy gradients...]
+
+[48:30] END OF RECORDING

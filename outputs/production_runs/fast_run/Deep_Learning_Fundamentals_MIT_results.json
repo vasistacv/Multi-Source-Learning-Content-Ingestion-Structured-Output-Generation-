@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Deep_Learning_Fundamentals_MIT.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:39:58.429820",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Deep_Learning_Fundamentals_MIT.txt",
+    "file_type": ".txt",
+    "file_size": 9274,
+    "processed_at": "2026-01-17T13:39:56.865793",
+    "content_hash": "1de62e4c46af5ab38e36e16be0d27b567e212ebdb93642c7ea95b7224a81960e",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 1285,
+    "metadata": {
+      "line_count": 232,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "00",
+    "Learning",
+    "Loss",
+    "Self",
+    "Deep"
+  ],
+  "key_concepts": [
+    "00",
+    "loss",
+    "learning",
+    "self",
+    "training",
+    "layer",
+    "gradients",
+    "deep",
+    "let",
+    "function",
+    "neural",
+    "network",
+    "relu",
+    "activation",
+    "learn"
+  ],
+  "entity_count": 171,
+  "word_count": 1285,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 29,
+      "edge_count": 269,
+      "density": 0.6625615763546798,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.3374384236453203,
+      "average_clustering": 0.7704625014062169,
+      "most_central_concepts": [
+        [
+          "00",
+          0.9285714285714285
+        ],
+        [
+          "network",
+          0.9285714285714285
+        ],
+        [
+          "output",
+          0.9285714285714285
+        ],
+        [
+          "layer",
+          0.8571428571428571
+        ],
+        [
+          "layers",
+          0.8571428571428571
+        ],
+        [
+          "deep",
+          0.8214285714285714
+        ],
+        [
+          "learn",
+          0.8214285714285714
+        ],
+        [
+          "networks",
+          0.8214285714285714
+        ],
+        [
+          "training",
+          0.7857142857142857
+        ],
+        [
+          "function",
+          0.7857142857142857
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "00",
+        "network"
+      ],
+      [
+        "00",
+        "output"
+      ],
+      [
+        "00",
+        "layer"
+      ],
+      [
+        "00",
+        "layers"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Fundamentals_MIT"
+  },
+  "rag_document_id": "0e12c4d8-cf0c-4bd9-a031-793b8c5727f2",
+  "processing_time_seconds": 4.426593
+}

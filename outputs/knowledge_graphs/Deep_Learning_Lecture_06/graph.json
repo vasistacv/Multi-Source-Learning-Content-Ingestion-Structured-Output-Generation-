@@ -1,0 +1,1258 @@
+{
+  "nodes": [
+    {
+      "id": "attention",
+      "label": "attention",
+      "weight": 2.828453337534868,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04034914361001317,
+      "eigenvector_centrality": 0.24564371552327588
+    },
+    {
+      "id": "attention mechanisms",
+      "label": "attention mechanisms",
+      "weight": 2.5088876282977886,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04034914361001317,
+      "eigenvector_centrality": 0.24564371552327588
+    },
+    {
+      "id": "mechanisms",
+      "label": "mechanisms",
+      "weight": 2.5088876282977886,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.04034914361001317,
+      "eigenvector_centrality": 0.24564371552327588
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.150178903524462,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.024703557312252964,
+      "eigenvector_centrality": 0.2416432592522532
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8998458712778048,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20568343784487314
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.1331806106630946,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20568343784487314
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.1331806106630946,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.20568343784487314
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0165405842802158,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.024703557312252964,
+      "eigenvector_centrality": 0.2416432592522532
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9756050700973424,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.024703557312252964,
+      "eigenvector_centrality": 0.2416432592522532
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.9045590070773855,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.024703557312252964,
+      "eigenvector_centrality": 0.2416432592522532
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8803509929441135,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.841355925641945,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    },
+    {
+      "id": "architecture",
+      "label": "architecture",
+      "weight": 0.7911445132617805,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.002470355731225296,
+      "eigenvector_centrality": 0.13993218070046923
+    },
+    {
+      "id": "self",
+      "label": "self",
+      "weight": 0.7911445132617805,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.002470355731225296,
+      "eigenvector_centrality": 0.13993218070046923
+    },
+    {
+      "id": "transformer",
+      "label": "transformer",
+      "weight": 0.7911445132617805,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.002470355731225296,
+      "eigenvector_centrality": 0.13993218070046923
+    },
+    {
+      "id": "transformer architecture",
+      "label": "transformer architecture",
+      "weight": 0.7911445132617805,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.002470355731225296,
+      "eigenvector_centrality": 0.13993218070046923
+    },
+    {
+      "id": "implement attention",
+      "label": "implement attention",
+      "weight": 0.6477243679962058,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    },
+    {
+      "id": "implement attention mechanisms",
+      "label": "implement attention mechanisms",
+      "weight": 0.6477243679962058,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.6032198522396655,
+      "degree_centrality": 0.34782608695652173,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.07783527058281134
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5272379339124618,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.024703557312252964,
+      "eigenvector_centrality": 0.2416432592522532
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.5206370779160064,
+      "degree_centrality": 0.5652173913043478,
+      "betweenness_centrality": 0.002470355731225296,
+      "eigenvector_centrality": 0.13993218070046923
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.47396173450364976,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.3397125900482522,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.3092116947483542,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2056834378448732
+    }
+  ],
+  "edges": [
+    {
+      "source": "attention",
+      "target": "attention mechanisms",
+      "weight": 8
+    },
+    {
+      "source": "attention",
+      "target": "mechanisms",
+      "weight": 8
+    },
+    {
+      "source": "attention",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "attention",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "attention",
+      "target": "architecture",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "self",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "transformer",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "transformer architecture",
+      "weight": 3
+    },
+    {
+      "source": "attention",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "attention",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "mechanisms",
+      "weight": 8
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "architecture",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "self",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "transformer",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "transformer architecture",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "mechanisms",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "mechanisms",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "mechanisms",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "mechanisms",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "mechanisms",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "mechanisms",
+      "target": "architecture",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "self",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "transformer",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "transformer architecture",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "mechanisms",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "mechanisms",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "mechanisms",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "mechanisms",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "mechanisms",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "mechanisms",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "architecture",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "self",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "transformer",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "transformer architecture",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "architecture",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "self",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "transformer",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "transformer architecture",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "architecture",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "self",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "transformer",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "transformer architecture",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "architecture",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "self",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "transformer",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "transformer architecture",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement attention",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "architecture",
+      "target": "self",
+      "weight": 3
+    },
+    {
+      "source": "architecture",
+      "target": "transformer",
+      "weight": 3
+    },
+    {
+      "source": "architecture",
+      "target": "transformer architecture",
+      "weight": 3
+    },
+    {
+      "source": "architecture",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "architecture",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "architecture",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "transformer",
+      "weight": 3
+    },
+    {
+      "source": "self",
+      "target": "transformer architecture",
+      "weight": 3
+    },
+    {
+      "source": "self",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "self",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "self",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "transformer",
+      "target": "transformer architecture",
+      "weight": 3
+    },
+    {
+      "source": "transformer",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "transformer",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "transformer",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "transformer architecture",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "transformer architecture",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "transformer architecture",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "implement attention",
+      "target": "implement attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "implement attention",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement attention",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement attention",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement attention",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement attention mechanisms",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement attention mechanisms",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement attention mechanisms",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement attention mechanisms",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 211,
+    "is_connected": true
+  }
+}

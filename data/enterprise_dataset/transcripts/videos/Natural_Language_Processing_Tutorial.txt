@@ -1,0 +1,19 @@
+VIDEO TRANSCRIPT
+=====================================
+Title: NLP with Transformers
+Instructor: Dr. Emily Bender, University of Washington
+Duration: 38:45
+Source: Educational Lecture Recording
+Format: MP4 Video with Audio Transcription
+
+FULL TRANSCRIPT WITH TIMESTAMPS
+================================
+
+[00:00] Dr. Emily Bender:
+Welcome to Natural Language Processing with Transformers. Today you'll understand why 
+transformers have revolutionized NLP and how attention mechanisms work.
+
+[Content continues with detailed NLP lecture covering tokenization, embeddings, attention,
+BERT, GPT, and practical applications...]
+
+[38:45] END OF RECORDING

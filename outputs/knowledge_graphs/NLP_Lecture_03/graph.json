@@ -1,0 +1,1343 @@
+{
+  "nodes": [
+    {
+      "id": "language",
+      "label": "language",
+      "weight": 3.0685924567135796,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "language models",
+      "label": "language models",
+      "weight": 3.0685924567135796,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 3.0685924567135796,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.220697683563467,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 1.5233764459678945,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1885147718434289
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 0.9975999640361317,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9972291933435299,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.9718848834557343,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.9707833229173954,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8911630545672071,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8521679872650387,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "grams",
+      "label": "grams",
+      "weight": 0.7618002759096341,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16255156634415463
+    },
+    {
+      "id": "lstm",
+      "label": "lstm",
+      "weight": 0.7618002759096341,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16255156634415463
+    },
+    {
+      "id": "lstm language",
+      "label": "lstm language",
+      "weight": 0.7618002759096341,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16255156634415463
+    },
+    {
+      "id": "lstm language models",
+      "label": "lstm language models",
+      "weight": 0.7618002759096341,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16255156634415463
+    },
+    {
+      "id": "perplexity",
+      "label": "perplexity",
+      "weight": 0.7618002759096341,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16255156634415463
+    },
+    {
+      "id": "implement language",
+      "label": "implement language",
+      "weight": 0.7532972814527426,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.5844826647633696,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.517885716648646,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16255156634415463
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.516825970119788,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.236042236908764
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.43942145868487836,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "nlp dataset",
+      "label": "nlp dataset",
+      "weight": 0.43942145868487836,
+      "degree_centrality": 0.7391304347826086,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18851477184342894
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3717647640412969,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.23604223690876402
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.3717647640412969,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.01897233201581027,
+      "eigenvector_centrality": 0.23604223690876402
+    }
+  ],
+  "edges": [
+    {
+      "source": "language",
+      "target": "language models",
+      "weight": 9
+    },
+    {
+      "source": "language",
+      "target": "models",
+      "weight": 9
+    },
+    {
+      "source": "language",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "language",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "language",
+      "target": "grams",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "lstm language",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "lstm language models",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "language",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "language",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "language",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "language models",
+      "target": "models",
+      "weight": 9
+    },
+    {
+      "source": "language models",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "language models",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "language models",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "language models",
+      "target": "grams",
+      "weight": 3
+    },
+    {
+      "source": "language models",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "language models",
+      "target": "lstm language",
+      "weight": 3
+    },
+    {
+      "source": "language models",
+      "target": "lstm language models",
+      "weight": 3
+    },
+    {
+      "source": "language models",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "language models",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "language models",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "language models",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "language models",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "language models",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "language models",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "models",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "models",
+      "target": "grams",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "lstm language",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "lstm language models",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "nlp",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "grams",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "lstm",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "lstm language",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "lstm language models",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "perplexity",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "grams",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "lstm",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "lstm language",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "lstm language models",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "perplexity",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "grams",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "lstm",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "lstm language",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "lstm language models",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "perplexity",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "grams",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "lstm",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "lstm language",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "lstm language models",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "perplexity",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "implement language",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "grams",
+      "target": "lstm",
+      "weight": 3
+    },
+    {
+      "source": "grams",
+      "target": "lstm language",
+      "weight": 3
+    },
+    {
+      "source": "grams",
+      "target": "lstm language models",
+      "weight": 3
+    },
+    {
+      "source": "grams",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "grams",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "grams",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "grams",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "grams",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm",
+      "target": "lstm language",
+      "weight": 3
+    },
+    {
+      "source": "lstm",
+      "target": "lstm language models",
+      "weight": 3
+    },
+    {
+      "source": "lstm",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "lstm",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "lstm",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "lstm",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm language",
+      "target": "lstm language models",
+      "weight": 3
+    },
+    {
+      "source": "lstm language",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "lstm language",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "lstm language",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm language",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "lstm language",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm language models",
+      "target": "perplexity",
+      "weight": 3
+    },
+    {
+      "source": "lstm language models",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "lstm language models",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "lstm language models",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "lstm language models",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "perplexity",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "perplexity",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "perplexity",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "perplexity",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "implement language",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement language",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "implement language",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement language",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement language",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "implement language",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "theoretical",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "nlp dataset",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "nlp dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "nlp dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 228,
+    "is_connected": true
+  }
+}

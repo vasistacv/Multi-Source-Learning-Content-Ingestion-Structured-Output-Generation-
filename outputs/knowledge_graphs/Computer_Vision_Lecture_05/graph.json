@@ -1,0 +1,1102 @@
+{
+  "nodes": [
+    {
+      "id": "image",
+      "label": "image",
+      "weight": 3.333496452155102,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.25404347355858986
+    },
+    {
+      "id": "generation",
+      "label": "generation",
+      "weight": 2.645221352508414,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.25404347355858986
+    },
+    {
+      "id": "image generation",
+      "label": "image generation",
+      "weight": 2.645221352508414,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.25404347355858986
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.027841853124816,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.25404347355858986
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.2809834570182748,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.25404347355858986
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 1.1158717083582697,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "computer vision",
+      "label": "computer vision",
+      "weight": 1.1158717083582697,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "vision",
+      "label": "vision",
+      "weight": 1.1158717083582697,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0457291777395614,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.2540434735585899
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 0.9990816749357634,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.2540434735585899
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.9662138453480416,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8865935769978533,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "conditional",
+      "label": "conditional",
+      "weight": 0.7022406843147926,
+      "degree_centrality": 0.6190476190476191,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16652373289886716
+    },
+    {
+      "id": "conditional gans",
+      "label": "conditional gans",
+      "weight": 0.7022406843147926,
+      "degree_centrality": 0.6190476190476191,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16652373289886716
+    },
+    {
+      "id": "gans",
+      "label": "gans",
+      "weight": 0.7022406843147926,
+      "degree_centrality": 0.6190476190476191,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16652373289886716
+    },
+    {
+      "id": "image translation",
+      "label": "image translation",
+      "weight": 0.7022406843147926,
+      "degree_centrality": 0.6190476190476191,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16652373289886716
+    },
+    {
+      "id": "stylegan",
+      "label": "stylegan",
+      "weight": 0.7022406843147926,
+      "degree_centrality": 0.6190476190476191,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16652373289886716
+    },
+    {
+      "id": "translation",
+      "label": "translation",
+      "weight": 0.7022406843147926,
+      "degree_centrality": 0.6190476190476191,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16652373289886716
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5139168325703142,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.028571428571428574,
+      "eigenvector_centrality": 0.2540434735585899
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.48111977162821057,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.3406280431190732,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.32359003587444807,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1991589775238769
+    }
+  ],
+  "edges": [
+    {
+      "source": "image",
+      "target": "generation",
+      "weight": 8
+    },
+    {
+      "source": "image",
+      "target": "image generation",
+      "weight": 8
+    },
+    {
+      "source": "image",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "image",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "image",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "image",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "image",
+      "target": "conditional",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "conditional gans",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "gans",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "image translation",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "stylegan",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "translation",
+      "weight": 3
+    },
+    {
+      "source": "image",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "image",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "image",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "image",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "image",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "image",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "image generation",
+      "weight": 8
+    },
+    {
+      "source": "generation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "generation",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "generation",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "generation",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "generation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "generation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "conditional",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "conditional gans",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "gans",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "image translation",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "stylegan",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "translation",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "generation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "generation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "image generation",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "image generation",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "image generation",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "image generation",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "image generation",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "image generation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "conditional",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "conditional gans",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "gans",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "image translation",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "stylegan",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "translation",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "image generation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "image generation",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "image generation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "computer",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "conditional",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "conditional gans",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "image translation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "stylegan",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "translation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "conditional",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "conditional gans",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "image translation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "stylegan",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "translation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "computer vision",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "vision",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "computer",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "vision",
+      "weight": 3
+    },
+    {
+      "source": "computer vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "computer vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "computer vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "vision",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "vision",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "vision",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "conditional",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "conditional gans",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "gans",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "image translation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "stylegan",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "translation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "conditional",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "conditional gans",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "gans",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "image translation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "stylegan",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "translation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "conditional",
+      "target": "conditional gans",
+      "weight": 3
+    },
+    {
+      "source": "conditional",
+      "target": "gans",
+      "weight": 3
+    },
+    {
+      "source": "conditional",
+      "target": "image translation",
+      "weight": 3
+    },
+    {
+      "source": "conditional",
+      "target": "stylegan",
+      "weight": 3
+    },
+    {
+      "source": "conditional",
+      "target": "translation",
+      "weight": 3
+    },
+    {
+      "source": "conditional",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "conditional gans",
+      "target": "gans",
+      "weight": 3
+    },
+    {
+      "source": "conditional gans",
+      "target": "image translation",
+      "weight": 3
+    },
+    {
+      "source": "conditional gans",
+      "target": "stylegan",
+      "weight": 3
+    },
+    {
+      "source": "conditional gans",
+      "target": "translation",
+      "weight": 3
+    },
+    {
+      "source": "conditional gans",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "gans",
+      "target": "image translation",
+      "weight": 3
+    },
+    {
+      "source": "gans",
+      "target": "stylegan",
+      "weight": 3
+    },
+    {
+      "source": "gans",
+      "target": "translation",
+      "weight": 3
+    },
+    {
+      "source": "gans",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "image translation",
+      "target": "stylegan",
+      "weight": 3
+    },
+    {
+      "source": "image translation",
+      "target": "translation",
+      "weight": 3
+    },
+    {
+      "source": "image translation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "stylegan",
+      "target": "translation",
+      "weight": 3
+    },
+    {
+      "source": "stylegan",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "translation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 22,
+    "edge_count": 183,
+    "is_connected": true
+  }
+}

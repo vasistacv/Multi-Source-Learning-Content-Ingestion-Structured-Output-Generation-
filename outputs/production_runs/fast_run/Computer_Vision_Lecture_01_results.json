@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_01.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:47:24.083289",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_01.txt",
+    "file_type": ".txt",
+    "file_size": 2406,
+    "processed_at": "2026-01-17T13:47:22.720777",
+    "content_hash": "67f1cf0d0c1e9bab49ceaad6cf8b638ba721f770d7161496a05414e995b147a3",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 315,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Basics",
+    "Image",
+    "Image Basics",
+    "Lecture",
+    "Pixels"
+  ],
+  "key_concepts": [
+    "basics",
+    "image",
+    "image basics",
+    "lecture",
+    "real",
+    "implementation",
+    "computer",
+    "computer vision",
+    "vision",
+    "implement",
+    "channels",
+    "channels convolution filters",
+    "convolution",
+    "convolution filters",
+    "filters"
+  ],
+  "entity_count": 69,
+  "word_count": 315,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 212,
+      "density": 0.7681159420289855,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2318840579710144,
+      "average_clustering": 0.9053580424264568,
+      "most_central_concepts": [
+        [
+          "basics",
+          1.0
+        ],
+        [
+          "image",
+          1.0
+        ],
+        [
+          "image basics",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          0.9565217391304348
+        ],
+        [
+          "real",
+          0.9565217391304348
+        ],
+        [
+          "implementation",
+          0.9565217391304348
+        ],
+        [
+          "applications",
+          0.9565217391304348
+        ],
+        [
+          "world applications",
+          0.9565217391304348
+        ],
+        [
+          "computer",
+          0.7391304347826086
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "basics",
+        "image"
+      ],
+      [
+        "basics",
+        "image basics"
+      ],
+      [
+        "basics",
+        "lecture"
+      ],
+      [
+        "basics",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Computer_Vision_Lecture_01"
+  },
+  "rag_document_id": "9eb79e8c-a3d7-4b0d-ac3e-5c9b70751a62",
+  "processing_time_seconds": 4.364379
+}

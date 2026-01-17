@@ -1,0 +1,84 @@
+# Reinforcement Learning - Lecture 1: MDP Fundamentals
+
+Date: 2026-01-01
+Instructor: Dr. Sarah Chen
+Duration: 90 minutes
+
+## Lecture Overview
+
+Today's focus: **MDP Fundamentals**
+
+This lecture explores states, actions, rewards, Bellman equations, with theoretical foundations, 
+practical implementations, and real-world applications.
+
+## Key Learning Outcomes
+
+By the end of this lecture, students will be able to:
+1. Understand the core concepts of MDP Fundamentals
+2. Implement algorithms related to states, actions, rewards, Bellman equations
+3. Apply these techniques to real datasets
+4. Recognize when to use these methods in practice
+
+## Detailed Content
+
+### Part 1: Theoretical Foundation (MDP Fundamentals)
+
+states, actions, rewards, Bellman equations
+
+Mathematical formulation and algorithmic principles demonstrated through step-by-step derivations.
+Complexity analysis: Time O(n²), Space O(n) for typical implementations.
+
+### Part 2: Implementation
+
+```python
+# Example code for MDP Fundamentals
+import numpy as np
+
+def example_algorithm(data, params):
+    # Core implementation of MDP Fundamentals
+    result = process(data)
+    return result
+```
+
+### Part 3: Real-World Applications
+
+Case study: How MDP Fundamentals is used in industry applications including:
+- E-commerce recommendation systems
+- Medical imaging diagnostics
+- Financial fraud detection
+- Autonomous vehicle perception
+
+### Part 4: Advanced Considerations
+
+- Handling edge cases and corner scenarios
+- Performance optimization techniques
+- Recent research developments in MDP Fundamentals
+- Comparison with alternative approaches
+
+## Hands-On Exercise
+
+Dataset: UCI Machine Learning Repository - Reinforcement Learning Dataset
+Task: Implement MDP Fundamentals and achieve >85% accuracy on test set
+
+## Homework Assignment
+
+Due: Next week before lecture
+
+1. Implement the MDP Fundamentals algorithm from scratch
+2. Compare performance with sklearn/PyTorch implementation
+3. Write a 2-page analysis of results
+4. Prepare questions for next lecture
+
+## Additional Resources
+
+- Paper: "Advances in MDP Fundamentals" (2024)
+- Tutorial: https://example.com/reinforcement learning/1
+- Dataset: Kaggle Reinforcement Learning Competition
+
+## Next Lecture Preview
+
+We'll build upon MDP Fundamentals to explore more advanced concepts in Reinforcement Learning.
+
+---
+Office Hours: Wednesdays 3-5 PM, Room 302
+Discussion Forum: course-platform.edu/ml1

@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_02.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:49:55.352076",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_02.txt",
+    "file_type": ".txt",
+    "file_size": 2531,
+    "processed_at": "2026-01-17T13:49:53.937462",
+    "content_hash": "ba13a4d08223c2766623badab14acff90f82efad321edbe8baf9e32cbc1d2ee0",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Logistic",
+    "Logistic Regression",
+    "Regression",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "logistic",
+    "logistic regression",
+    "regression",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "implementation",
+    "implement",
+    "binary classification",
+    "function",
+    "function binary",
+    "function binary classification",
+    "log"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 200,
+      "density": 0.7905138339920948,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.209486166007905,
+      "average_clustering": 0.9039384528514963,
+      "most_central_concepts": [
+        [
+          "logistic",
+          1.0
+        ],
+        [
+          "logistic regression",
+          1.0
+        ],
+        [
+          "regression",
+          1.0
+        ],
+        [
+          "log",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9545454545454546
+        ],
+        [
+          "implementation",
+          0.9545454545454546
+        ],
+        [
+          "implement",
+          0.9545454545454546
+        ],
+        [
+          "real",
+          0.9545454545454546
+        ],
+        [
+          "applications",
+          0.9545454545454546
+        ],
+        [
+          "binary",
+          0.7272727272727273
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "logistic",
+        "logistic regression"
+      ],
+      [
+        "logistic",
+        "regression"
+      ],
+      [
+        "logistic",
+        "log"
+      ],
+      [
+        "logistic",
+        "lecture"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_02"
+  },
+  "rag_document_id": "56901224-868c-43c8-916d-e0c2b0079c44",
+  "processing_time_seconds": 4.076861
+}

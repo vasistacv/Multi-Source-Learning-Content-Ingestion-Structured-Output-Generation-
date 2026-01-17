@@ -1,0 +1,1503 @@
+{
+  "nodes": [
+    {
+      "id": "model",
+      "label": "model",
+      "weight": 34.14940224771132,
+      "degree_centrality": 0.8928571428571428,
+      "betweenness_centrality": 0.034781605813351844,
+      "eigenvector_centrality": 0.24834092605718694
+    },
+    {
+      "id": "ai",
+      "label": "ai",
+      "weight": 33.40069446757671,
+      "degree_centrality": 0.9642857142857142,
+      "betweenness_centrality": 0.04315292291482767,
+      "eigenvector_centrality": 0.2630369728602747
+    },
+    {
+      "id": "education",
+      "label": "education",
+      "weight": 30.60327860430436,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.012629316597570566,
+      "eigenvector_centrality": 0.14976645776789238
+    },
+    {
+      "id": "feature",
+      "label": "feature",
+      "weight": 23.39665967649029,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.02645552566187487,
+      "eigenvector_centrality": 0.23048377949498042
+    },
+    {
+      "id": "https",
+      "label": "https",
+      "weight": 23.0,
+      "degree_centrality": 0.03571428571428571,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.01023149977408178
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 17.08975744988441,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.008976443897078818,
+      "eigenvector_centrality": 0.1882717655229828
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 15.980197868008318,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.026577398204382333,
+      "eigenvector_centrality": 0.23283578629244828
+    },
+    {
+      "id": "xai",
+      "label": "xai",
+      "weight": 15.723374213729656,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.009101847593911083,
+      "eigenvector_centrality": 0.18836572176822766
+    },
+    {
+      "id": "figure",
+      "label": "figure",
+      "weight": 15.67562629494288,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.006354771037310719,
+      "eigenvector_centrality": 0.1633809760833505
+    },
+    {
+      "id": "fairness",
+      "label": "fairness",
+      "weight": 12.357010567793546,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.009642209642209638,
+      "eigenvector_centrality": 0.15842368869064963
+    },
+    {
+      "id": "features",
+      "label": "features",
+      "weight": 11.788087119574525,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.014133015720317303,
+      "eigenvector_centrality": 0.18420308881989894
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 11.368765876907629,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.006315003338812863,
+      "eigenvector_centrality": 0.18067922431904415
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 11.368765876907629,
+      "degree_centrality": 0.6071428571428571,
+      "betweenness_centrality": 0.006315003338812863,
+      "eigenvector_centrality": 0.18067922431904415
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 10.822108977170341,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.07882763914509945,
+      "eigenvector_centrality": 0.19159153519883645
+    },
+    {
+      "id": "lime",
+      "label": "lime",
+      "weight": 10.586340123520904,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.02020284242506465,
+      "eigenvector_centrality": 0.21420901913215643
+    },
+    {
+      "id": "income",
+      "label": "income",
+      "weight": 10.351102034308044,
+      "degree_centrality": 0.46428571428571425,
+      "betweenness_centrality": 0.004169683931588693,
+      "eigenvector_centrality": 0.14012119662383277
+    },
+    {
+      "id": "algorithms",
+      "label": "algorithms",
+      "weight": 10.094558952366592,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0028976755167231354,
+      "eigenvector_centrality": 0.154462179347206
+    },
+    {
+      "id": "importance",
+      "label": "importance",
+      "weight": 9.211441918373998,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.00297631527790258,
+      "eigenvector_centrality": 0.14214273113643866
+    },
+    {
+      "id": "shap",
+      "label": "shap",
+      "weight": 9.123021474531622,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.02035274396385507,
+      "eigenvector_centrality": 0.1974739367707967
+    },
+    {
+      "id": "explanations",
+      "label": "explanations",
+      "weight": 8.538508718579495,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.008454912224753494,
+      "eigenvector_centrality": 0.19275821513773234
+    },
+    {
+      "id": "xgboost",
+      "label": "xgboost",
+      "weight": 8.14387833328085,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.001206318666636127,
+      "eigenvector_centrality": 0.12778385441616724
+    },
+    {
+      "id": "explanation",
+      "label": "explanation",
+      "weight": 7.474720352532983,
+      "degree_centrality": 0.75,
+      "betweenness_centrality": 0.01412546888737365,
+      "eigenvector_centrality": 0.21985082690659857
+    },
+    {
+      "id": "black",
+      "label": "black",
+      "weight": 7.361565357317403,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.006692645978360263,
+      "eigenvector_centrality": 0.1951262166816525
+    },
+    {
+      "id": "using",
+      "label": "using",
+      "weight": 6.7082069583037525,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.026890121929804472,
+      "eigenvector_centrality": 0.2180044141794013
+    },
+    {
+      "id": "decision",
+      "label": "decision",
+      "weight": 6.466273542840019,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.029787599232043674,
+      "eigenvector_centrality": 0.23916419179223988
+    },
+    {
+      "id": "hoc",
+      "label": "hoc",
+      "weight": 5.86255963469226,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.004404839722300039,
+      "eigenvector_centrality": 0.17561113722865831
+    },
+    {
+      "id": "post hoc",
+      "label": "post hoc",
+      "weight": 5.86255963469226,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.0003233392122281011,
+      "eigenvector_centrality": 0.1380346138797008
+    },
+    {
+      "id": "plot",
+      "label": "plot",
+      "weight": 5.61815504762606,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.002954364859126764,
+      "eigenvector_centrality": 0.1424635475582969
+    },
+    {
+      "id": "feature importance",
+      "label": "feature importance",
+      "weight": 5.58445403532496,
+      "degree_centrality": 0.46428571428571425,
+      "betweenness_centrality": 0.002515356483610452,
+      "eigenvector_centrality": 0.13128324592956633
+    }
+  ],
+  "edges": [
+    {
+      "source": "model",
+      "target": "ai",
+      "weight": 47
+    },
+    {
+      "source": "model",
+      "target": "models",
+      "weight": 33
+    },
+    {
+      "source": "model",
+      "target": "using",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "decision",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "learning",
+      "weight": 16
+    },
+    {
+      "source": "model",
+      "target": "machine",
+      "weight": 15
+    },
+    {
+      "source": "model",
+      "target": "machine learning",
+      "weight": 12
+    },
+    {
+      "source": "model",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "model",
+      "target": "feature",
+      "weight": 22
+    },
+    {
+      "source": "model",
+      "target": "importance",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "feature importance",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "fairness",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "explanations",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "explanation",
+      "weight": 14
+    },
+    {
+      "source": "model",
+      "target": "black",
+      "weight": 10
+    },
+    {
+      "source": "model",
+      "target": "xai",
+      "weight": 8
+    },
+    {
+      "source": "model",
+      "target": "hoc",
+      "weight": 7
+    },
+    {
+      "source": "model",
+      "target": "post hoc",
+      "weight": 4
+    },
+    {
+      "source": "model",
+      "target": "data",
+      "weight": 9
+    },
+    {
+      "source": "model",
+      "target": "lime",
+      "weight": 8
+    },
+    {
+      "source": "model",
+      "target": "features",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "shap",
+      "weight": 3
+    },
+    {
+      "source": "model",
+      "target": "xgboost",
+      "weight": 6
+    },
+    {
+      "source": "model",
+      "target": "figure",
+      "weight": 1
+    },
+    {
+      "source": "model",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "education",
+      "weight": 27
+    },
+    {
+      "source": "ai",
+      "target": "xai",
+      "weight": 24
+    },
+    {
+      "source": "ai",
+      "target": "models",
+      "weight": 18
+    },
+    {
+      "source": "ai",
+      "target": "using",
+      "weight": 9
+    },
+    {
+      "source": "ai",
+      "target": "decision",
+      "weight": 12
+    },
+    {
+      "source": "ai",
+      "target": "learning",
+      "weight": 17
+    },
+    {
+      "source": "ai",
+      "target": "data",
+      "weight": 11
+    },
+    {
+      "source": "ai",
+      "target": "algorithms",
+      "weight": 7
+    },
+    {
+      "source": "ai",
+      "target": "machine",
+      "weight": 13
+    },
+    {
+      "source": "ai",
+      "target": "machine learning",
+      "weight": 11
+    },
+    {
+      "source": "ai",
+      "target": "income",
+      "weight": 8
+    },
+    {
+      "source": "ai",
+      "target": "feature",
+      "weight": 17
+    },
+    {
+      "source": "ai",
+      "target": "fairness",
+      "weight": 17
+    },
+    {
+      "source": "ai",
+      "target": "importance",
+      "weight": 6
+    },
+    {
+      "source": "ai",
+      "target": "feature importance",
+      "weight": 4
+    },
+    {
+      "source": "ai",
+      "target": "explanations",
+      "weight": 3
+    },
+    {
+      "source": "ai",
+      "target": "explanation",
+      "weight": 9
+    },
+    {
+      "source": "ai",
+      "target": "black",
+      "weight": 10
+    },
+    {
+      "source": "ai",
+      "target": "hoc",
+      "weight": 3
+    },
+    {
+      "source": "ai",
+      "target": "features",
+      "weight": 5
+    },
+    {
+      "source": "ai",
+      "target": "lime",
+      "weight": 8
+    },
+    {
+      "source": "ai",
+      "target": "shap",
+      "weight": 7
+    },
+    {
+      "source": "ai",
+      "target": "post hoc",
+      "weight": 2
+    },
+    {
+      "source": "ai",
+      "target": "xgboost",
+      "weight": 8
+    },
+    {
+      "source": "ai",
+      "target": "figure",
+      "weight": 5
+    },
+    {
+      "source": "ai",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "xai",
+      "weight": 3
+    },
+    {
+      "source": "education",
+      "target": "income",
+      "weight": 10
+    },
+    {
+      "source": "education",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "feature",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "figure",
+      "weight": 4
+    },
+    {
+      "source": "education",
+      "target": "importance",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "shap",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "lime",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "algorithms",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "importance",
+      "weight": 24
+    },
+    {
+      "source": "feature",
+      "target": "feature importance",
+      "weight": 11
+    },
+    {
+      "source": "feature",
+      "target": "fairness",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "features",
+      "weight": 20
+    },
+    {
+      "source": "feature",
+      "target": "explanation",
+      "weight": 4
+    },
+    {
+      "source": "feature",
+      "target": "explanations",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "lime",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "shap",
+      "weight": 12
+    },
+    {
+      "source": "feature",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "feature",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "feature",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "xgboost",
+      "weight": 7
+    },
+    {
+      "source": "feature",
+      "target": "figure",
+      "weight": 4
+    },
+    {
+      "source": "feature",
+      "target": "plot",
+      "weight": 3
+    },
+    {
+      "source": "feature",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "feature",
+      "target": "algorithms",
+      "weight": 1
+    },
+    {
+      "source": "https",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "data",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "algorithms",
+      "weight": 5
+    },
+    {
+      "source": "learning",
+      "target": "models",
+      "weight": 9
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 25
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 20
+    },
+    {
+      "source": "learning",
+      "target": "decision",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "black",
+      "weight": 4
+    },
+    {
+      "source": "learning",
+      "target": "xai",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "income",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "features",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "explanations",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "explanation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "fairness",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "models",
+      "target": "decision",
+      "weight": 7
+    },
+    {
+      "source": "models",
+      "target": "machine",
+      "weight": 8
+    },
+    {
+      "source": "models",
+      "target": "machine learning",
+      "weight": 7
+    },
+    {
+      "source": "models",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "explanations",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "explanation",
+      "weight": 4
+    },
+    {
+      "source": "models",
+      "target": "xai",
+      "weight": 5
+    },
+    {
+      "source": "models",
+      "target": "black",
+      "weight": 5
+    },
+    {
+      "source": "models",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "post hoc",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "shap",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "lime",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "xgboost",
+      "weight": 2
+    },
+    {
+      "source": "models",
+      "target": "features",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "fairness",
+      "weight": 3
+    },
+    {
+      "source": "models",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "data",
+      "weight": 3
+    },
+    {
+      "source": "xai",
+      "target": "income",
+      "weight": 2
+    },
+    {
+      "source": "xai",
+      "target": "using",
+      "weight": 3
+    },
+    {
+      "source": "xai",
+      "target": "black",
+      "weight": 3
+    },
+    {
+      "source": "xai",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "xai",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "xai",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "xai",
+      "target": "explanation",
+      "weight": 2
+    },
+    {
+      "source": "xai",
+      "target": "lime",
+      "weight": 2
+    },
+    {
+      "source": "xai",
+      "target": "shap",
+      "weight": 2
+    },
+    {
+      "source": "xai",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "xai",
+      "target": "post hoc",
+      "weight": 1
+    },
+    {
+      "source": "xai",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "xai",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "xgboost",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "shap",
+      "weight": 5
+    },
+    {
+      "source": "figure",
+      "target": "features",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "plot",
+      "weight": 7
+    },
+    {
+      "source": "figure",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "lime",
+      "weight": 4
+    },
+    {
+      "source": "figure",
+      "target": "explanations",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "explanation",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "decision",
+      "weight": 2
+    },
+    {
+      "source": "figure",
+      "target": "fairness",
+      "weight": 1
+    },
+    {
+      "source": "figure",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "fairness",
+      "target": "importance",
+      "weight": 2
+    },
+    {
+      "source": "fairness",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "fairness",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "fairness",
+      "target": "machine learning",
+      "weight": 2
+    },
+    {
+      "source": "fairness",
+      "target": "decision",
+      "weight": 3
+    },
+    {
+      "source": "fairness",
+      "target": "data",
+      "weight": 1
+    },
+    {
+      "source": "fairness",
+      "target": "lime",
+      "weight": 1
+    },
+    {
+      "source": "fairness",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "fairness",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "explanation",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "lime",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "importance",
+      "weight": 6
+    },
+    {
+      "source": "features",
+      "target": "shap",
+      "weight": 5
+    },
+    {
+      "source": "features",
+      "target": "xgboost",
+      "weight": 3
+    },
+    {
+      "source": "features",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "features",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "explanations",
+      "weight": 1
+    },
+    {
+      "source": "features",
+      "target": "algorithms",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 20
+    },
+    {
+      "source": "machine",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "black",
+      "weight": 4
+    },
+    {
+      "source": "machine",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "income",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "explanations",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "explanation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "decision",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "algorithms",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "data",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "income",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "black",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "explanations",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "explanation",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "algorithms",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "black",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "decision",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "explanation",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "income",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "lime",
+      "weight": 1
+    },
+    {
+      "source": "lime",
+      "target": "explanations",
+      "weight": 6
+    },
+    {
+      "source": "lime",
+      "target": "explanation",
+      "weight": 10
+    },
+    {
+      "source": "lime",
+      "target": "hoc",
+      "weight": 4
+    },
+    {
+      "source": "lime",
+      "target": "post hoc",
+      "weight": 3
+    },
+    {
+      "source": "lime",
+      "target": "importance",
+      "weight": 1
+    },
+    {
+      "source": "lime",
+      "target": "shap",
+      "weight": 5
+    },
+    {
+      "source": "lime",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "lime",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "lime",
+      "target": "decision",
+      "weight": 2
+    },
+    {
+      "source": "lime",
+      "target": "income",
+      "weight": 2
+    },
+    {
+      "source": "lime",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "income",
+      "target": "explanations",
+      "weight": 1
+    },
+    {
+      "source": "income",
+      "target": "explanation",
+      "weight": 1
+    },
+    {
+      "source": "income",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "income",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "income",
+      "target": "shap",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "black",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "explanation",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "importance",
+      "target": "feature importance",
+      "weight": 11
+    },
+    {
+      "source": "importance",
+      "target": "shap",
+      "weight": 9
+    },
+    {
+      "source": "importance",
+      "target": "xgboost",
+      "weight": 6
+    },
+    {
+      "source": "importance",
+      "target": "plot",
+      "weight": 2
+    },
+    {
+      "source": "importance",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "shap",
+      "target": "explanation",
+      "weight": 4
+    },
+    {
+      "source": "shap",
+      "target": "black",
+      "weight": 1
+    },
+    {
+      "source": "shap",
+      "target": "hoc",
+      "weight": 3
+    },
+    {
+      "source": "shap",
+      "target": "post hoc",
+      "weight": 2
+    },
+    {
+      "source": "shap",
+      "target": "xgboost",
+      "weight": 3
+    },
+    {
+      "source": "shap",
+      "target": "feature importance",
+      "weight": 4
+    },
+    {
+      "source": "shap",
+      "target": "plot",
+      "weight": 5
+    },
+    {
+      "source": "shap",
+      "target": "explanations",
+      "weight": 2
+    },
+    {
+      "source": "shap",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "explanations",
+      "target": "explanation",
+      "weight": 18
+    },
+    {
+      "source": "explanations",
+      "target": "decision",
+      "weight": 3
+    },
+    {
+      "source": "explanations",
+      "target": "hoc",
+      "weight": 6
+    },
+    {
+      "source": "explanations",
+      "target": "black",
+      "weight": 2
+    },
+    {
+      "source": "explanations",
+      "target": "post hoc",
+      "weight": 3
+    },
+    {
+      "source": "explanations",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "xgboost",
+      "target": "feature importance",
+      "weight": 2
+    },
+    {
+      "source": "xgboost",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "xgboost",
+      "target": "decision",
+      "weight": 4
+    },
+    {
+      "source": "xgboost",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "explanation",
+      "target": "decision",
+      "weight": 4
+    },
+    {
+      "source": "explanation",
+      "target": "hoc",
+      "weight": 10
+    },
+    {
+      "source": "explanation",
+      "target": "black",
+      "weight": 3
+    },
+    {
+      "source": "explanation",
+      "target": "post hoc",
+      "weight": 5
+    },
+    {
+      "source": "explanation",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "black",
+      "target": "decision",
+      "weight": 2
+    },
+    {
+      "source": "black",
+      "target": "hoc",
+      "weight": 2
+    },
+    {
+      "source": "black",
+      "target": "post hoc",
+      "weight": 2
+    },
+    {
+      "source": "black",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "decision",
+      "weight": 4
+    },
+    {
+      "source": "using",
+      "target": "hoc",
+      "weight": 2
+    },
+    {
+      "source": "using",
+      "target": "post hoc",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "feature importance",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "plot",
+      "weight": 1
+    },
+    {
+      "source": "decision",
+      "target": "hoc",
+      "weight": 1
+    },
+    {
+      "source": "decision",
+      "target": "post hoc",
+      "weight": 1
+    },
+    {
+      "source": "decision",
+      "target": "plot",
+      "weight": 3
+    },
+    {
+      "source": "hoc",
+      "target": "post hoc",
+      "weight": 7
+    },
+    {
+      "source": "plot",
+      "target": "feature importance",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 252,
+    "is_connected": true
+  }
+}

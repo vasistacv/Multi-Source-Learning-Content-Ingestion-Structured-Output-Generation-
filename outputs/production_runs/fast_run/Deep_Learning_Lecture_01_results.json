@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_01.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:48:15.806788",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Deep_Learning_Lecture_01.txt",
+    "file_type": ".txt",
+    "file_size": 2624,
+    "processed_at": "2026-01-17T13:48:14.434797",
+    "content_hash": "7796bcc88317d45761f135770d8ec358352f0cf3799dd05af0ed5625de79d92b",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 330,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Fundamentals",
+    "Network",
+    "Network Fundamentals",
+    "Neural",
+    "Neural Network"
+  ],
+  "key_concepts": [
+    "fundamentals",
+    "network",
+    "network fundamentals",
+    "neural",
+    "neural network",
+    "neural network fundamentals",
+    "lecture",
+    "learning",
+    "implementation",
+    "deep",
+    "deep learning",
+    "implement",
+    "activation",
+    "activation functions",
+    "activation functions forward"
+  ],
+  "entity_count": 69,
+  "word_count": 330,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 245,
+      "density": 0.8166666666666667,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1833333333333333,
+      "average_clustering": 0.9078237755125628,
+      "most_central_concepts": [
+        [
+          "fundamentals",
+          1.0
+        ],
+        [
+          "network",
+          1.0
+        ],
+        [
+          "network fundamentals",
+          1.0
+        ],
+        [
+          "neural",
+          1.0
+        ],
+        [
+          "neural network",
+          1.0
+        ],
+        [
+          "neural network fundamentals",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9583333333333333
+        ],
+        [
+          "real",
+          0.9166666666666666
+        ],
+        [
+          "implementation",
+          0.9166666666666666
+        ],
+        [
+          "implement",
+          0.9166666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "fundamentals",
+        "network"
+      ],
+      [
+        "fundamentals",
+        "network fundamentals"
+      ],
+      [
+        "fundamentals",
+        "neural"
+      ],
+      [
+        "fundamentals",
+        "neural network"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Deep_Learning_Lecture_01"
+  },
+  "rag_document_id": "7fe71cb4-4c13-4ac8-8ec4-67c932f00c54",
+  "processing_time_seconds": 4.222155
+}

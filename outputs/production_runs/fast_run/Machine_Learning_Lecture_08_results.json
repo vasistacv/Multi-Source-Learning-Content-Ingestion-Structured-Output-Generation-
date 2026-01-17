@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_08.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:51:01.710137",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_08.txt",
+    "file_type": ".txt",
+    "file_size": 2396,
+    "processed_at": "2026-01-17T13:51:00.297698",
+    "content_hash": "a49474a3073a17a63fd9c6310cf5568bb839e69f00aff8a44aa40bc7b9ca0ee6",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 303,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Clustering",
+    "Lecture",
+    "Learning",
+    "Real",
+    "Machine"
+  ],
+  "key_concepts": [
+    "clustering",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "implementation",
+    "implement",
+    "clustering dbscan",
+    "dbscan",
+    "hierarchical",
+    "hierarchical clustering",
+    "hierarchical clustering dbscan",
+    "means",
+    "means hierarchical"
+  ],
+  "entity_count": 69,
+  "word_count": 303,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 216,
+      "density": 0.782608695652174,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2173913043478262,
+      "average_clustering": 0.9209486166007905,
+      "most_central_concepts": [
+        [
+          "clustering",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ],
+        [
+          "world applications",
+          1.0
+        ],
+        [
+          "learning",
+          0.7391304347826086
+        ],
+        [
+          "machine",
+          0.7391304347826086
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "clustering",
+        "lecture"
+      ],
+      [
+        "clustering",
+        "implement"
+      ],
+      [
+        "clustering",
+        "real"
+      ],
+      [
+        "clustering",
+        "implementation"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_08"
+  },
+  "rag_document_id": "0525f900-fc4c-4d5b-95c3-fa8466d81b99",
+  "processing_time_seconds": 4.153386
+}

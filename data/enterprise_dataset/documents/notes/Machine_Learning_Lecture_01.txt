@@ -1,0 +1,84 @@
+# Machine Learning - Lecture 1: Linear Regression
+
+Date: 2026-01-01
+Instructor: Dr. Sarah Chen
+Duration: 90 minutes
+
+## Lecture Overview
+
+Today's focus: **Linear Regression**
+
+This lecture explores y = mx + b, gradient descent, MSE optimization, with theoretical foundations, 
+practical implementations, and real-world applications.
+
+## Key Learning Outcomes
+
+By the end of this lecture, students will be able to:
+1. Understand the core concepts of Linear Regression
+2. Implement algorithms related to y = mx + b, gradient descent, MSE optimization
+3. Apply these techniques to real datasets
+4. Recognize when to use these methods in practice
+
+## Detailed Content
+
+### Part 1: Theoretical Foundation (Linear Regression)
+
+y = mx + b, gradient descent, MSE optimization
+
+Mathematical formulation and algorithmic principles demonstrated through step-by-step derivations.
+Complexity analysis: Time O(n²), Space O(n) for typical implementations.
+
+### Part 2: Implementation
+
+```python
+# Example code for Linear Regression
+import numpy as np
+
+def example_algorithm(data, params):
+    # Core implementation of Linear Regression
+    result = process(data)
+    return result
+```
+
+### Part 3: Real-World Applications
+
+Case study: How Linear Regression is used in industry applications including:
+- E-commerce recommendation systems
+- Medical imaging diagnostics
+- Financial fraud detection
+- Autonomous vehicle perception
+
+### Part 4: Advanced Considerations
+
+- Handling edge cases and corner scenarios
+- Performance optimization techniques
+- Recent research developments in Linear Regression
+- Comparison with alternative approaches
+
+## Hands-On Exercise
+
+Dataset: UCI Machine Learning Repository - Machine Learning Dataset
+Task: Implement Linear Regression and achieve >85% accuracy on test set
+
+## Homework Assignment
+
+Due: Next week before lecture
+
+1. Implement the Linear Regression algorithm from scratch
+2. Compare performance with sklearn/PyTorch implementation
+3. Write a 2-page analysis of results
+4. Prepare questions for next lecture
+
+## Additional Resources
+
+- Paper: "Advances in Linear Regression" (2024)
+- Tutorial: https://example.com/machine learning/1
+- Dataset: Kaggle Machine Learning Competition
+
+## Next Lecture Preview
+
+We'll build upon Linear Regression to explore more advanced concepts in Machine Learning.
+
+---
+Office Hours: Wednesdays 3-5 PM, Room 302
+Discussion Forum: course-platform.edu/ml1

@@ -1,0 +1,1436 @@
+{
+  "nodes": [
+    {
+      "id": "fundamentals",
+      "label": "fundamentals",
+      "weight": 2.0668941125813385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020805884936319716,
+      "eigenvector_centrality": 0.23130068962849512
+    },
+    {
+      "id": "network",
+      "label": "network",
+      "weight": 2.0668941125813385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020805884936319716,
+      "eigenvector_centrality": 0.23130068962849512
+    },
+    {
+      "id": "network fundamentals",
+      "label": "network fundamentals",
+      "weight": 2.0668941125813385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020805884936319716,
+      "eigenvector_centrality": 0.23130068962849512
+    },
+    {
+      "id": "neural",
+      "label": "neural",
+      "weight": 2.0668941125813385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020805884936319716,
+      "eigenvector_centrality": 0.23130068962849512
+    },
+    {
+      "id": "neural network",
+      "label": "neural network",
+      "weight": 2.0668941125813385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020805884936319716,
+      "eigenvector_centrality": 0.23130068962849512
+    },
+    {
+      "id": "neural network fundamentals",
+      "label": "neural network fundamentals",
+      "weight": 2.0668941125813385,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020805884936319716,
+      "eigenvector_centrality": 0.23130068962849512
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 1.847922186900758,
+      "degree_centrality": 0.9583333333333333,
+      "betweenness_centrality": 0.016492565405608887,
+      "eigenvector_centrality": 0.22440355498615083
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.709208148652503,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0018115942028985507,
+      "eigenvector_centrality": 0.1497425143060777
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.3274344036809727,
+      "degree_centrality": 0.9166666666666666,
+      "betweenness_centrality": 0.010540184453227932,
+      "eigenvector_centrality": 0.2196269106423332
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 1.238477406819053,
+      "degree_centrality": 0.9166666666666666,
+      "betweenness_centrality": 0.010540184453227932,
+      "eigenvector_centrality": 0.2196269106423332
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 0.9362728548129808,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0018115942028985507,
+      "eigenvector_centrality": 0.1497425143060777
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 0.9362728548129808,
+      "degree_centrality": 0.625,
+      "betweenness_centrality": 0.0018115942028985507,
+      "eigenvector_centrality": 0.1497425143060777
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 0.9097149584073022,
+      "degree_centrality": 0.9166666666666666,
+      "betweenness_centrality": 0.010540184453227932,
+      "eigenvector_centrality": 0.2196269106423332
+    },
+    {
+      "id": "01",
+      "label": "01",
+      "weight": 0.7246885761200125,
+      "degree_centrality": 0.41666666666666663,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.10164752151685842
+    },
+    {
+      "id": "activation",
+      "label": "activation",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "activation functions",
+      "label": "activation functions",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "forward",
+      "label": "forward",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "forward propagation",
+      "label": "forward propagation",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "functions",
+      "label": "functions",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "perceptron",
+      "label": "perceptron",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "propagation",
+      "label": "propagation",
+      "weight": 0.7090436135845617,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5437251678294707,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.14677371379240528
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.4861472848691152,
+      "degree_centrality": 0.9166666666666666,
+      "betweenness_centrality": 0.010540184453227932,
+      "eigenvector_centrality": 0.2196269106423332
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.48373675339699596,
+      "degree_centrality": 0.7916666666666666,
+      "betweenness_centrality": 0.0012939958592132503,
+      "eigenvector_centrality": 0.19860159992549276
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.44356822364156356,
+      "degree_centrality": 0.5833333333333333,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1449658699622601
+    }
+  ],
+  "edges": [
+    {
+      "source": "fundamentals",
+      "target": "network",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "neural",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "neural network",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "neural network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "fundamentals",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "fundamentals",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "fundamentals",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "network",
+      "target": "neural",
+      "weight": 8
+    },
+    {
+      "source": "network",
+      "target": "neural network",
+      "weight": 8
+    },
+    {
+      "source": "network",
+      "target": "neural network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "network",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "network",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "network",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "network",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "network",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "neural",
+      "weight": 8
+    },
+    {
+      "source": "network fundamentals",
+      "target": "neural network",
+      "weight": 8
+    },
+    {
+      "source": "network fundamentals",
+      "target": "neural network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "network fundamentals",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "network fundamentals",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "network fundamentals",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "network fundamentals",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "network fundamentals",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "network fundamentals",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "network fundamentals",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "network fundamentals",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "network fundamentals",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "neural network",
+      "weight": 8
+    },
+    {
+      "source": "neural",
+      "target": "neural network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "neural",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "neural",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "neural",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "neural",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "neural",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "neural",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "neural",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "neural",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "neural network fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "neural network",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "neural network",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "neural network",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "neural network",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "neural network",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "neural network",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "neural network",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "neural network",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "neural network",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "neural network fundamentals",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "activation functions",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "forward propagation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "functions",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "perceptron",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "propagation",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "activation functions",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "forward propagation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "functions",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "perceptron",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "propagation",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "implementation",
+      "target": "activation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "activation functions",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "forward",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "forward propagation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "functions",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "perceptron",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "propagation",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "01",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "activation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "activation functions",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "forward",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "forward propagation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "functions",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "perceptron",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "propagation",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "activation",
+      "target": "activation functions",
+      "weight": 3
+    },
+    {
+      "source": "activation",
+      "target": "forward",
+      "weight": 3
+    },
+    {
+      "source": "activation",
+      "target": "forward propagation",
+      "weight": 3
+    },
+    {
+      "source": "activation",
+      "target": "functions",
+      "weight": 3
+    },
+    {
+      "source": "activation",
+      "target": "perceptron",
+      "weight": 3
+    },
+    {
+      "source": "activation",
+      "target": "propagation",
+      "weight": 3
+    },
+    {
+      "source": "activation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "activation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "activation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "activation functions",
+      "target": "forward",
+      "weight": 3
+    },
+    {
+      "source": "activation functions",
+      "target": "forward propagation",
+      "weight": 3
+    },
+    {
+      "source": "activation functions",
+      "target": "functions",
+      "weight": 3
+    },
+    {
+      "source": "activation functions",
+      "target": "perceptron",
+      "weight": 3
+    },
+    {
+      "source": "activation functions",
+      "target": "propagation",
+      "weight": 3
+    },
+    {
+      "source": "activation functions",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "activation functions",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "activation functions",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "forward propagation",
+      "weight": 3
+    },
+    {
+      "source": "forward",
+      "target": "functions",
+      "weight": 3
+    },
+    {
+      "source": "forward",
+      "target": "perceptron",
+      "weight": 3
+    },
+    {
+      "source": "forward",
+      "target": "propagation",
+      "weight": 3
+    },
+    {
+      "source": "forward",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "forward",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "forward",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "forward propagation",
+      "target": "functions",
+      "weight": 3
+    },
+    {
+      "source": "forward propagation",
+      "target": "perceptron",
+      "weight": 3
+    },
+    {
+      "source": "forward propagation",
+      "target": "propagation",
+      "weight": 3
+    },
+    {
+      "source": "forward propagation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "forward propagation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "forward propagation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "perceptron",
+      "weight": 3
+    },
+    {
+      "source": "functions",
+      "target": "propagation",
+      "weight": 3
+    },
+    {
+      "source": "functions",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "functions",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "functions",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "perceptron",
+      "target": "propagation",
+      "weight": 3
+    },
+    {
+      "source": "perceptron",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "perceptron",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "perceptron",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "propagation",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "propagation",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "propagation",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 25,
+    "edge_count": 245,
+    "is_connected": true
+  }
+}

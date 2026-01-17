@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_007_ux_research_findings.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:34:01.735012",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_007_ux_research_findings.txt",
+    "file_type": ".txt",
+    "file_size": 100,
+    "processed_at": "2026-01-17T13:33:15.818586",
+    "content_hash": "37c76977c33455014af493402fb985f37ebf689250e70dc71c63a5c11fc67700",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 13,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "**Summary: UX Research Findings Meeting**\n\nThe meeting presented the key findings from a comprehensive user research study, which involved conducting **50 in-depth customer interviews**. The primary objective of this research was to gather valuable insights into user behaviors, needs, and pain points.\n\n**Main Ideas:**\n\n1. **User Research Insights**: The study aimed to uncover user research insights that can inform design decisions, improve user experience, and drive business growth.\n2. **Customer Interviews**: 50 customer interviews were conducted to gather qualitative data, providing a rich understanding of users' thoughts, feelings, and experiences.\n3. **Key Findings**: The presentation highlighted the most significant findings from the research, including user needs, preferences, and challenges.\n\n**Important Details:**\n\n* The research study employed a **qualitative research methodology**, focusing on in-depth interviews to gather detailed, nuanced insights from customers.\n* The sample size of **50 customer interviews** provided a robust foundation for identifying patterns, trends, and themes in user behavior and experience.\n* The presentation likely included **recommendations** for design improvements, product enhancements, or strategic initiatives based on the research findings.\n\n**Key Concepts:**\n\n1. **User-Centered Design**: The research emphasizes the importance of designing products and services that meet the needs and expectations of users.\n2. **Empathy and Understanding**: The study demonstrates the value of conducting user research to gain a deeper understanding of users' thoughts, feelings, and experiences.\n3. **Data-Driven Decision Making**: The presentation highlights the importance of using research insights to inform design decisions, ensuring that products and services are tailored to user needs.\n\nOverall, the meeting presented a comprehensive overview of the UX research findings, providing actionable insights and recommendations for improving user experience and driving business success.",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 13,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_007_ux_research_findings"
+  },
+  "rag_document_id": "6bf2fa14-a231-4211-9550-529f740c5679",
+  "processing_time_seconds": 46.217867
+}

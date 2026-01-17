@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_04.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:50:14.111007",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_04.txt",
+    "file_type": ".txt",
+    "file_size": 2459,
+    "processed_at": "2026-01-17T13:50:12.664891",
+    "content_hash": "adf8da9bbc02bd02b243bace6f9ee3eefc0138b09436c30765f9b02c91bdebc1",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Forests",
+    "Random",
+    "Random Forests",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "forests",
+    "random",
+    "random forests",
+    "lecture",
+    "learning",
+    "real",
+    "machine",
+    "machine learning",
+    "implementation",
+    "implement",
+    "methods",
+    "bagging",
+    "bagging feature",
+    "bagging feature importance",
+    "ensemble methods bagging"
+  ],
+  "entity_count": 69,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 24,
+      "edge_count": 220,
+      "density": 0.7971014492753623,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2028985507246377,
+      "average_clustering": 0.9169960474308301,
+      "most_central_concepts": [
+        [
+          "forests",
+          1.0
+        ],
+        [
+          "random",
+          1.0
+        ],
+        [
+          "random forests",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ],
+        [
+          "methods",
+          0.6956521739130435
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "forests",
+        "random"
+      ],
+      [
+        "forests",
+        "random forests"
+      ],
+      [
+        "forests",
+        "lecture"
+      ],
+      [
+        "forests",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_04"
+  },
+  "rag_document_id": "5ff0c23b-de7a-4768-b1d2-9e0047aea169",
+  "processing_time_seconds": 4.315807
+}

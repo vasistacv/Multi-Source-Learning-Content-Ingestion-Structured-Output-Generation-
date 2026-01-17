@@ -1,0 +1,650 @@
+{
+  "nodes": [
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 1.1186692857232965,
+      "degree_centrality": 0.47058823529411764,
+      "betweenness_centrality": 0.06976938502673796,
+      "eigenvector_centrality": 0.11133541862069857
+    },
+    {
+      "id": "transformers",
+      "label": "transformers",
+      "weight": 1.0911271523774038,
+      "degree_centrality": 0.5882352941176471,
+      "betweenness_centrality": 0.13709893048128344,
+      "eigenvector_centrality": 0.1523472102755165
+    },
+    {
+      "id": "attention",
+      "label": "attention",
+      "weight": 0.849664109651761,
+      "degree_centrality": 0.29411764705882354,
+      "betweenness_centrality": 0.016293449197860962,
+      "eigenvector_centrality": 0.04789950154711645
+    },
+    {
+      "id": "dr",
+      "label": "dr",
+      "weight": 0.6719538371829182,
+      "degree_centrality": 0.8235294117647058,
+      "betweenness_centrality": 0.039756016042780756,
+      "eigenvector_centrality": 0.28331349874932044
+    },
+    {
+      "id": "transcript",
+      "label": "transcript",
+      "weight": 0.6719538371829182,
+      "degree_centrality": 0.8235294117647058,
+      "betweenness_centrality": 0.039756016042780756,
+      "eigenvector_centrality": 0.28331349874932044
+    },
+    {
+      "id": "video",
+      "label": "video",
+      "weight": 0.6719538371829182,
+      "degree_centrality": 0.8235294117647058,
+      "betweenness_centrality": 0.039756016042780756,
+      "eigenvector_centrality": 0.28331349874932044
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 0.6159307282413233,
+      "degree_centrality": 0.8235294117647058,
+      "betweenness_centrality": 0.09398395721925132,
+      "eigenvector_centrality": 0.27551797294339275
+    },
+    {
+      "id": "bender",
+      "label": "bender",
+      "weight": 0.5833082551976784,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.016293449197860962,
+      "eigenvector_centrality": 0.27500382054072015
+    },
+    {
+      "id": "emily",
+      "label": "emily",
+      "weight": 0.5833082551976784,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.016293449197860962,
+      "eigenvector_centrality": 0.27500382054072015
+    },
+    {
+      "id": "emily bender",
+      "label": "emily bender",
+      "weight": 0.5833082551976784,
+      "degree_centrality": 0.7647058823529411,
+      "betweenness_centrality": 0.016293449197860962,
+      "eigenvector_centrality": 0.27500382054072015
+    },
+    {
+      "id": "38",
+      "label": "38",
+      "weight": 0.5403793926601506,
+      "degree_centrality": 0.7058823529411764,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2636332050279002
+    },
+    {
+      "id": "45",
+      "label": "45",
+      "weight": 0.5403793926601506,
+      "degree_centrality": 0.7058823529411764,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2636332050279002
+    },
+    {
+      "id": "recording",
+      "label": "recording",
+      "weight": 0.5403793926601506,
+      "degree_centrality": 0.7058823529411764,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2636332050279002
+    },
+    {
+      "id": "attention mechanisms",
+      "label": "attention mechanisms",
+      "weight": 0.5247904125809654,
+      "degree_centrality": 0.23529411764705882,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.02733602021238914
+    },
+    {
+      "id": "attention mechanisms work",
+      "label": "attention mechanisms work",
+      "weight": 0.5247904125809654,
+      "degree_centrality": 0.23529411764705882,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.02733602021238914
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 0.47950935219192425,
+      "degree_centrality": 0.7058823529411764,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2636332050279002
+    },
+    {
+      "id": "audio",
+      "label": "audio",
+      "weight": 0.23975467609596213,
+      "degree_centrality": 0.7058823529411764,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2636332050279002
+    },
+    {
+      "id": "audio transcription",
+      "label": "audio transcription",
+      "weight": 0.23975467609596213,
+      "degree_centrality": 0.7058823529411764,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.2636332050279002
+    }
+  ],
+  "edges": [
+    {
+      "source": "nlp",
+      "target": "transformers",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "attention",
+      "weight": 2
+    },
+    {
+      "source": "nlp",
+      "target": "attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "attention mechanisms work",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "lecture",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "bender",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "emily bender",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "attention",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "transformers",
+      "target": "attention mechanisms work",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "attention mechanisms",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "attention mechanisms work",
+      "weight": 1
+    },
+    {
+      "source": "attention",
+      "target": "lecture",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "transcript",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "lecture",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "bender",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "emily bender",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "transcript",
+      "target": "lecture",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "bender",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "emily bender",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "lecture",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "bender",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "emily bender",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "bender",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "emily",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "emily bender",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "bender",
+      "target": "emily",
+      "weight": 2
+    },
+    {
+      "source": "bender",
+      "target": "emily bender",
+      "weight": 2
+    },
+    {
+      "source": "bender",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "bender",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "bender",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "bender",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "bender",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "bender",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "emily bender",
+      "weight": 2
+    },
+    {
+      "source": "emily",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "emily",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "emily bender",
+      "target": "38",
+      "weight": 1
+    },
+    {
+      "source": "emily bender",
+      "target": "45",
+      "weight": 1
+    },
+    {
+      "source": "emily bender",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "emily bender",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "emily bender",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "emily bender",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "38",
+      "target": "45",
+      "weight": 2
+    },
+    {
+      "source": "38",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "38",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "38",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "38",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "45",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "45",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "45",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "45",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "attention mechanisms",
+      "target": "attention mechanisms work",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "audio",
+      "target": "audio transcription",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 18,
+    "edge_count": 99,
+    "is_connected": true
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Computer_Vision_Basics_Berkeley.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:39:44.081643",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Computer_Vision_Basics_Berkeley.txt",
+    "file_type": ".txt",
+    "file_size": 600,
+    "processed_at": "2026-01-17T13:39:42.707281",
+    "content_hash": "0af7f97576224a180ceac16a5449ef878b2fb9cf8c46d5da1a75f39d6e7e7a21",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 69,
+    "metadata": {
+      "line_count": 19,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Cnns",
+    "Computer",
+    "Computer Vision",
+    "20",
+    "41"
+  ],
+  "key_concepts": [
+    "cnns",
+    "approaches",
+    "computer",
+    "computer vision",
+    "vision",
+    "20",
+    "41",
+    "41 20",
+    "recording",
+    "darrell",
+    "trevor",
+    "trevor darrell",
+    "prof",
+    "transcript",
+    "video"
+  ],
+  "entity_count": 16,
+  "word_count": 69,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 20,
+      "edge_count": 108,
+      "density": 0.5684210526315789,
+      "is_connected": false,
+      "average_clustering": 0.91875,
+      "most_central_concepts": [
+        [
+          "prof",
+          0.8421052631578947
+        ],
+        [
+          "transcript",
+          0.8421052631578947
+        ],
+        [
+          "video",
+          0.8421052631578947
+        ],
+        [
+          "darrell",
+          0.7894736842105263
+        ],
+        [
+          "trevor",
+          0.7894736842105263
+        ],
+        [
+          "trevor darrell",
+          0.7894736842105263
+        ],
+        [
+          "20",
+          0.631578947368421
+        ],
+        [
+          "41",
+          0.631578947368421
+        ],
+        [
+          "recording",
+          0.631578947368421
+        ],
+        [
+          "00",
+          0.631578947368421
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "prof",
+        "transcript"
+      ],
+      [
+        "prof",
+        "video"
+      ],
+      [
+        "prof",
+        "darrell"
+      ],
+      [
+        "prof",
+        "trevor"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Computer_Vision_Basics_Berkeley"
+  },
+  "rag_document_id": "34121072-e155-4806-86ad-0bd831d694a2",
+  "processing_time_seconds": 3.832957
+}

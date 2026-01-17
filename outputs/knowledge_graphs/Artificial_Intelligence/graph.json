@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "id": "intelligence",
+      "label": "intelligence",
+      "weight": 0.6075574672078345,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.23333333333333334,
+      "eigenvector_centrality": 0.36624210954381486
+    },
+    {
+      "id": "artificial",
+      "label": "artificial",
+      "weight": 0.3844558933787573,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "artificial intelligence",
+      "label": "artificial intelligence",
+      "weight": 0.3844558933787573,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 0.3340139326434961,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.23333333333333334,
+      "eigenvector_centrality": 0.36624210954381486
+    },
+    {
+      "id": "achieving",
+      "label": "achieving",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "achieving defined",
+      "label": "achieving defined",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "achieving defined goals",
+      "label": "achieving defined goals",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "actions",
+      "label": "actions",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "chances",
+      "label": "chances",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "computer",
+      "label": "computer",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "computer science",
+      "label": "computer science",
+      "weight": 0.2772169812630457,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18521428648881672
+    },
+    {
+      "id": "ai",
+      "label": "ai",
+      "weight": 0.19222794668937865,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "associated",
+      "label": "associated",
+      "weight": 0.19222794668937865,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "capability",
+      "label": "capability",
+      "weight": 0.19222794668937865,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "computational",
+      "label": "computational",
+      "weight": 0.19222794668937865,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "computational systems",
+      "label": "computational systems",
+      "weight": 0.19222794668937865,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    },
+    {
+      "id": "decision",
+      "label": "decision",
+      "weight": 0.19222794668937865,
+      "degree_centrality": 0.5625,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.24789188947928045
+    }
+  ],
+  "edges": [
+    {
+      "source": "intelligence",
+      "target": "artificial",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "artificial intelligence",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "learning",
+      "weight": 2
+    },
+    {
+      "source": "intelligence",
+      "target": "ai",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "associated",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "capability",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "achieving",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "achieving defined",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "achieving defined goals",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "chances",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "intelligence",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "artificial intelligence",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "ai",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "associated",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "capability",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "artificial",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "ai",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "associated",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "capability",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "ai",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "associated",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "capability",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "achieving",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "achieving defined",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "achieving defined goals",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "chances",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "achieving",
+      "target": "achieving defined",
+      "weight": 1
+    },
+    {
+      "source": "achieving",
+      "target": "achieving defined goals",
+      "weight": 1
+    },
+    {
+      "source": "achieving",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "achieving",
+      "target": "chances",
+      "weight": 1
+    },
+    {
+      "source": "achieving",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "achieving",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined",
+      "target": "achieving defined goals",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined",
+      "target": "chances",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined goals",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined goals",
+      "target": "chances",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined goals",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "achieving defined goals",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "chances",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "chances",
+      "target": "computer",
+      "weight": 1
+    },
+    {
+      "source": "chances",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "computer",
+      "target": "computer science",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "associated",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "capability",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "ai",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "associated",
+      "target": "capability",
+      "weight": 1
+    },
+    {
+      "source": "associated",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "associated",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "associated",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "capability",
+      "target": "computational",
+      "weight": 1
+    },
+    {
+      "source": "capability",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "capability",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "computational",
+      "target": "computational systems",
+      "weight": 1
+    },
+    {
+      "source": "computational",
+      "target": "decision",
+      "weight": 1
+    },
+    {
+      "source": "computational systems",
+      "target": "decision",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 17,
+    "edge_count": 80,
+    "is_connected": true
+  }
+}

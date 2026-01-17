@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Reinforcement_Learning_Lecture_03.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:52:43.619999",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Reinforcement_Learning_Lecture_03.txt",
+    "file_type": ".txt",
+    "file_size": 2477,
+    "processed_at": "2026-01-17T13:52:43.475078",
+    "content_hash": "a57aeebafa79772a22b8adfabdc178a1b30af59164192e501e2d8ac7ebefa81d",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 309,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Learning",
+    "Lecture",
+    "Real",
+    "Reinforcement",
+    "Reinforcement Learning"
+  ],
+  "key_concepts": [
+    "learning",
+    "lecture",
+    "implementation",
+    "real",
+    "implement",
+    "reinforcement",
+    "reinforcement learning",
+    "difference",
+    "difference learning",
+    "difference learning exploration",
+    "exploitation",
+    "exploration",
+    "exploration vs",
+    "exploration vs exploitation",
+    "learning exploration"
+  ],
+  "entity_count": 71,
+  "word_count": 309,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 216,
+      "density": 0.72,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.28,
+      "average_clustering": 0.9269565217391305,
+      "most_central_concepts": [
+        [
+          "learning",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "difference",
+          0.7083333333333333
+        ],
+        [
+          "difference learning",
+          0.7083333333333333
+        ],
+        [
+          "exploitation",
+          0.7083333333333333
+        ],
+        [
+          "exploration",
+          0.7083333333333333
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "learning",
+        "lecture"
+      ],
+      [
+        "learning",
+        "implement"
+      ],
+      [
+        "learning",
+        "implementation"
+      ],
+      [
+        "learning",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Reinforcement_Learning_Lecture_03"
+  },
+  "rag_document_id": "18a15d63-1de6-4d31-b081-b6d78b226186",
+  "processing_time_seconds": 0.508457
+}

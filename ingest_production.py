@@ -2,6 +2,10 @@ import asyncio
 import sys
 import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load env before importing other modules to ensure cache paths are set
+load_dotenv()
 from rich.console import Console
 from rich.panel import Panel
 from rich.prompt import Prompt
@@ -64,7 +68,7 @@ async def main():
     console.print("\n[bold]Starting Batch Ingestion...[/bold]")
     results = await pipeline.process_batch(
         files_to_process, 
-        max_concurrent=3  # Adjust based on GPU VRAM
+        max_concurrent=1  # Reduced to 1 to prevent memory errors
     )
 
     # Summary
@@ -76,10 +80,19 @@ async def main():
         f"Processed: {len(results)}\n"
         f"Success: {success_count}\n"
         f"Failed: {failure_count}\n"
-        f"Output Location: {output_dir}",
+        Output Location: {output_dir}",
         title="Summary",
         border_style="green"
     ))
+
+    # Save Vector Database
+    try:
+        vector_db_path = settings.OUTPUT_DIR / "vector_store"
+        if hasattr(pipeline, 'rag_system'):
+            pipeline.rag_system.vector_store.save(vector_db_path)
+            console.print(f"\n[bold green]Vector Database saved to {vector_db_path}[/bold green]")
+    except Exception as e:
+        console.print(f"\n[bold red]Failed to save Vector Database: {e}[/bold red]")
 
     # Save Indexing Info
     console.print("\n[bold]Usage Instruction:[/bold]")

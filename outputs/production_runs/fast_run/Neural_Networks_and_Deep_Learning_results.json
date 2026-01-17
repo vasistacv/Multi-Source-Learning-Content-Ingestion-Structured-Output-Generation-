@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Neural_Networks_and_Deep_Learning.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:46:18.220708",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Neural_Networks_and_Deep_Learning.txt",
+    "file_type": ".txt",
+    "file_size": 143,
+    "processed_at": "2026-01-17T13:46:16.953668",
+    "content_hash": "bd74439296fd1335d393f623c646d8bc1eea9f6304a7cae9c3eb99c570b62a1e",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 18,
+    "metadata": {
+      "line_count": 4,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 2,
+  "word_count": 18,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\Neural_Networks_and_Deep_Learning"
+  },
+  "rag_document_id": "bd5d0250-ca68-44ea-830b-c61f178d1d1e",
+  "processing_time_seconds": 3.991594
+}

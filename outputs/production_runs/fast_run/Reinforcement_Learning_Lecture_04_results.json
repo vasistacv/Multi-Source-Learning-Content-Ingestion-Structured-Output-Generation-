@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Reinforcement_Learning_Lecture_04.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:52:54.560188",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Reinforcement_Learning_Lecture_04.txt",
+    "file_type": ".txt",
+    "file_size": 2483,
+    "processed_at": "2026-01-17T13:52:54.291019",
+    "content_hash": "f02d4e59e4f59bd812cc4f72efabed79a3ac48d6ca14b74e35e5e5fe27ddc3ca",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 318,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Networks",
+    "Deep",
+    "Deep Networks",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "networks",
+    "deep",
+    "deep networks",
+    "lecture",
+    "learning",
+    "implementation",
+    "reinforcement",
+    "reinforcement learning",
+    "implement",
+    "dqn",
+    "dqn experience replay",
+    "experience",
+    "experience replay",
+    "experience replay target",
+    "replay"
+  ],
+  "entity_count": 81,
+  "word_count": 318,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 204,
+      "density": 0.8063241106719368,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1936758893280632,
+      "average_clustering": 0.91699604743083,
+      "most_central_concepts": [
+        [
+          "networks",
+          1.0
+        ],
+        [
+          "deep",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ],
+        [
+          "world applications",
+          1.0
+        ],
+        [
+          "learning",
+          0.6818181818181819
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "networks",
+        "deep"
+      ],
+      [
+        "networks",
+        "lecture"
+      ],
+      [
+        "networks",
+        "real"
+      ],
+      [
+        "networks",
+        "implementation"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Reinforcement_Learning_Lecture_04"
+  },
+  "rag_document_id": "aeb8334b-77a1-432f-b712-cdae80d37b14",
+  "processing_time_seconds": 0.626133
+}

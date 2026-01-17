@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2306.04338v1_Changing Data Sources in the Age of Machine Learning for Official Statistics.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:44:12.927011",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2306.04338v1_Changing Data Sources in the Age of Machine Learning for Official Statistics.pdf",
+    "file_type": ".pdf",
+    "file_size": 152328,
+    "processed_at": "2026-01-17T13:44:11.479638",
+    "content_hash": "e3ddf46417dfa25c2c1df0839a22e2de095184c955bef1fb0fa2c1bbcef05ae5",
+    "language": null,
+    "page_count": 8,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
+      "author": "Cedric De Boom, Michael Reusens",
+      "subject": "",
+      "creator": "LaTeX with hyperref",
+      "producer": "pdfTeX-1.40.25",
+      "creation_date": "D:20230608004723Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Data",
+    "12",
+    "Sources",
+    "Finally",
+    "Forexample"
+  ],
+  "key_concepts": [
+    "data",
+    "finally",
+    "forexample",
+    "12",
+    "sources",
+    "time",
+    "accuracy",
+    "15",
+    "inparticular",
+    "inthecontextofofficialstatistics",
+    "changes",
+    "data sources",
+    "16",
+    "making",
+    "learning"
+  ],
+  "entity_count": 304,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 173,
+      "density": 0.39770114942528734,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.6666666666666667,
+      "average_clustering": 0.7406601950792958,
+      "most_central_concepts": [
+        [
+          "data",
+          0.896551724137931
+        ],
+        [
+          "sources",
+          0.7931034482758621
+        ],
+        [
+          "learning",
+          0.7931034482758621
+        ],
+        [
+          "machine",
+          0.7586206896551724
+        ],
+        [
+          "machinelearning",
+          0.6896551724137931
+        ],
+        [
+          "changes",
+          0.6206896551724138
+        ],
+        [
+          "data sources",
+          0.6206896551724138
+        ],
+        [
+          "time",
+          0.5517241379310345
+        ],
+        [
+          "accuracy",
+          0.5172413793103449
+        ],
+        [
+          "technical",
+          0.5172413793103449
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "data",
+        "sources"
+      ],
+      [
+        "data",
+        "learning"
+      ],
+      [
+        "data",
+        "machine"
+      ],
+      [
+        "data",
+        "machinelearning"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2306.04338v1_Changing Data Sources in the Age of Machine Learning for Official Statistics"
+  },
+  "rag_document_id": "392e02fa-b289-4f1c-982b-896057039da3",
+  "processing_time_seconds": 6.511684
+}

@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_006_incident_postmortem.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:33:04.632967",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_006_incident_postmortem.txt",
+    "file_type": ".txt",
+    "file_size": 1673,
+    "processed_at": "2026-01-17T13:33:04.281558",
+    "content_hash": "fbfda64af18a264673de3836152dbed6e8103c86503050f181cb9b0a820a638f",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 219,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Mitigation",
+    "Timeline",
+    "Items",
+    "Action",
+    "Action Items"
+  ],
+  "key_concepts": [
+    "discussed",
+    "mitigation",
+    "bob",
+    "items",
+    "timeline",
+    "action",
+    "action items",
+    "meeting",
+    "charlie",
+    "cause",
+    "root",
+    "root cause",
+    "alice",
+    "team",
+    "progress"
+  ],
+  "entity_count": 42,
+  "word_count": 219,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 28,
+      "edge_count": 270,
+      "density": 0.7142857142857143,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.2936507936507937,
+      "average_clustering": 0.9034271732408378,
+      "most_central_concepts": [
+        [
+          "mitigation",
+          0.9259259259259258
+        ],
+        [
+          "items",
+          0.9259259259259258
+        ],
+        [
+          "action",
+          0.9259259259259258
+        ],
+        [
+          "action items",
+          0.9259259259259258
+        ],
+        [
+          "team",
+          0.8888888888888888
+        ],
+        [
+          "discussion",
+          0.8888888888888888
+        ],
+        [
+          "timeline",
+          0.8518518518518519
+        ],
+        [
+          "meeting",
+          0.8518518518518519
+        ],
+        [
+          "cause",
+          0.8518518518518519
+        ],
+        [
+          "root",
+          0.8518518518518519
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "mitigation",
+        "items"
+      ],
+      [
+        "mitigation",
+        "action"
+      ],
+      [
+        "mitigation",
+        "action items"
+      ],
+      [
+        "mitigation",
+        "team"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_006_incident_postmortem"
+  },
+  "rag_document_id": "5f07548d-7fb0-4794-9c48-979ce56f1958",
+  "processing_time_seconds": 0.706127
+}

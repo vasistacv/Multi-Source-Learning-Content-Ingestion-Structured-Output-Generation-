@@ -1,0 +1,1303 @@
+{
+  "nodes": [
+    {
+      "id": "fundamentals",
+      "label": "fundamentals",
+      "weight": 2.6300341828836147,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02889767237593324,
+      "eigenvector_centrality": 0.2414356496613093
+    },
+    {
+      "id": "mdp",
+      "label": "mdp",
+      "weight": 2.6300341828836147,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02889767237593324,
+      "eigenvector_centrality": 0.2414356496613093
+    },
+    {
+      "id": "mdp fundamentals",
+      "label": "mdp fundamentals",
+      "weight": 2.6300341828836147,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.02889767237593324,
+      "eigenvector_centrality": 0.2414356496613093
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1303398880552407,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.2367212038431736
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.9100754387269663,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18351914975677147
+    },
+    {
+      "id": "reinforcement",
+      "label": "reinforcement",
+      "weight": 1.1371745933715764,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18351914975677147
+    },
+    {
+      "id": "reinforcement learning",
+      "label": "reinforcement learning",
+      "weight": 1.1371745933715764,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.18351914975677147
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0627576009778814,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.2367212038431736
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.0142329726845238,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.2367212038431736
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.991944644151095,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.2367212038431736
+    },
+    {
+      "id": "techniques",
+      "label": "techniques",
+      "weight": 0.8885207799709898,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1835191497567715
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8495257126688212,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1835191497567715
+    },
+    {
+      "id": "actions",
+      "label": "actions",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0030742204655248135,
+      "eigenvector_centrality": 0.17712709541970045
+    },
+    {
+      "id": "bellman",
+      "label": "bellman",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0030742204655248135,
+      "eigenvector_centrality": 0.17712709541970045
+    },
+    {
+      "id": "bellman equations",
+      "label": "bellman equations",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0030742204655248135,
+      "eigenvector_centrality": 0.17712709541970045
+    },
+    {
+      "id": "equations",
+      "label": "equations",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0030742204655248135,
+      "eigenvector_centrality": 0.17712709541970045
+    },
+    {
+      "id": "rewards",
+      "label": "rewards",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0030742204655248135,
+      "eigenvector_centrality": 0.17712709541970045
+    },
+    {
+      "id": "states",
+      "label": "states",
+      "weight": 0.7224363618860622,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0030742204655248135,
+      "eigenvector_centrality": 0.17712709541970045
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5775674285055368,
+      "degree_centrality": 0.3913043478260869,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.09417529873633927
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5328219129496563,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.2367212038431736
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.49010696968474876,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1835191497567715
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3904029814673825,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.23672120384317358
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.3904029814673825,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.016600790513833993,
+      "eigenvector_centrality": 0.23672120384317358
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.34768803820247507,
+      "degree_centrality": 0.6956521739130435,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1835191497567715
+    }
+  ],
+  "edges": [
+    {
+      "source": "fundamentals",
+      "target": "mdp",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "mdp fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "fundamentals",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "fundamentals",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "fundamentals",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "actions",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "bellman",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "bellman equations",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "equations",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "rewards",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "states",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "fundamentals",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "fundamentals",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "fundamentals",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "fundamentals",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "mdp fundamentals",
+      "weight": 8
+    },
+    {
+      "source": "mdp",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "mdp",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "mdp",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "mdp",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "mdp",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "mdp",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "actions",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "bellman",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "bellman equations",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "equations",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "rewards",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "states",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "mdp",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "mdp",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "mdp",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "mdp",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "actions",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "bellman",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "bellman equations",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "equations",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "rewards",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "states",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "mdp fundamentals",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "bellman",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "bellman equations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "equations",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "rewards",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "states",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "reinforcement learning",
+      "weight": 3
+    },
+    {
+      "source": "reinforcement",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "actions",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "bellman",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "bellman equations",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "equations",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "rewards",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "states",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "bellman",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "bellman equations",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "equations",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "rewards",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "states",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "techniques",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "actions",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "bellman",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "bellman equations",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "equations",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "rewards",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "states",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "techniques",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "techniques",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "techniques",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "bellman",
+      "weight": 3
+    },
+    {
+      "source": "actions",
+      "target": "bellman equations",
+      "weight": 3
+    },
+    {
+      "source": "actions",
+      "target": "equations",
+      "weight": 3
+    },
+    {
+      "source": "actions",
+      "target": "rewards",
+      "weight": 3
+    },
+    {
+      "source": "actions",
+      "target": "states",
+      "weight": 3
+    },
+    {
+      "source": "actions",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "actions",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "bellman",
+      "target": "bellman equations",
+      "weight": 3
+    },
+    {
+      "source": "bellman",
+      "target": "equations",
+      "weight": 3
+    },
+    {
+      "source": "bellman",
+      "target": "rewards",
+      "weight": 3
+    },
+    {
+      "source": "bellman",
+      "target": "states",
+      "weight": 3
+    },
+    {
+      "source": "bellman",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bellman",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "bellman",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "bellman",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "bellman equations",
+      "target": "equations",
+      "weight": 3
+    },
+    {
+      "source": "bellman equations",
+      "target": "rewards",
+      "weight": 3
+    },
+    {
+      "source": "bellman equations",
+      "target": "states",
+      "weight": 3
+    },
+    {
+      "source": "bellman equations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bellman equations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "bellman equations",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "bellman equations",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "equations",
+      "target": "rewards",
+      "weight": 3
+    },
+    {
+      "source": "equations",
+      "target": "states",
+      "weight": 3
+    },
+    {
+      "source": "equations",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "equations",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "equations",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "equations",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "rewards",
+      "target": "states",
+      "weight": 3
+    },
+    {
+      "source": "rewards",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "rewards",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "rewards",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "rewards",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "states",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "states",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "states",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "states",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "advanced",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 220,
+    "is_connected": true
+  }
+}

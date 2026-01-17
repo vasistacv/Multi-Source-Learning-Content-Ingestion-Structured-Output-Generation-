@@ -12,6 +12,9 @@ class Settings(BaseSettings):
     
     OPENAI_API_KEY: Optional[str] = None
     HUGGINGFACE_API_KEY: Optional[str] = None
+    GROQ_API_KEY: Optional[str] = None
+    LLM_MODEL: str = Field(default="llama-3.3-70b-versatile")
+    EMBEDDING_MODEL: str = "all-MiniLM-L6-v2"
     
     NEO4J_URI: str = Field(default="bolt://localhost:7687")
     NEO4J_USER: str = Field(default="neo4j")
@@ -82,6 +85,7 @@ class Settings(BaseSettings):
     class Config:
         env_file = ".env"
         case_sensitive = True
+        extra = "ignore"
 
 
 settings = Settings()

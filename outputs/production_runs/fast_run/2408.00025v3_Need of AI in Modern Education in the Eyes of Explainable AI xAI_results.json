@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2408.00025v3_Need of AI in Modern Education in the Eyes of Explainable AI xAI.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:45:06.097362",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2408.00025v3_Need of AI in Modern Education in the Eyes of Explainable AI xAI.pdf",
+    "file_type": ".pdf",
+    "file_size": 1336399,
+    "processed_at": "2026-01-17T13:45:04.712481",
+    "content_hash": "f967ac00134171d6b8f42d9bc4e766df2fbd654a5b2e9fcc34051731304c02b1",
+    "language": null,
+    "page_count": 23,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "subject": "",
+      "creator": "LaTeX with hyperref",
+      "producer": "pdfTeX-1.40.25",
+      "creation_date": "D:20250106010633Z"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Model",
+    "Ai",
+    "Education",
+    "Feature",
+    "Https"
+  ],
+  "key_concepts": [
+    "model",
+    "ai",
+    "education",
+    "feature",
+    "https",
+    "figure",
+    "models",
+    "learning",
+    "xai",
+    "features",
+    "fairness",
+    "lime",
+    "machine",
+    "machine learning",
+    "data"
+  ],
+  "entity_count": 724,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 29,
+      "edge_count": 252,
+      "density": 0.6206896551724138,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.4014778325123152,
+      "average_clustering": 0.7424313033532263,
+      "most_central_concepts": [
+        [
+          "ai",
+          0.9642857142857142
+        ],
+        [
+          "model",
+          0.8928571428571428
+        ],
+        [
+          "decision",
+          0.8571428571428571
+        ],
+        [
+          "feature",
+          0.8214285714285714
+        ],
+        [
+          "models",
+          0.8214285714285714
+        ],
+        [
+          "using",
+          0.7857142857142857
+        ],
+        [
+          "lime",
+          0.75
+        ],
+        [
+          "explanation",
+          0.75
+        ],
+        [
+          "shap",
+          0.7142857142857142
+        ],
+        [
+          "data",
+          0.6785714285714285
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "ai",
+        "model"
+      ],
+      [
+        "ai",
+        "decision"
+      ],
+      [
+        "ai",
+        "feature"
+      ],
+      [
+        "ai",
+        "models"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2408.00025v3_Need of AI in Modern Education in the Eyes of Explainable AI xAI"
+  },
+  "rag_document_id": "a3a6a55d-ba32-4cef-a1df-7d2117fe808d",
+  "processing_time_seconds": 7.515599
+}

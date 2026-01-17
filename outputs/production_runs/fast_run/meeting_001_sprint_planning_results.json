@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_001_sprint_planning.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:31:24.756205",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_001_sprint_planning.txt",
+    "file_type": ".txt",
+    "file_size": 1670,
+    "processed_at": "2026-01-17T13:31:07.226112",
+    "content_hash": "e184b203a5b8e47a6913c445347cc7664fb07e225e9ff70edb91a6c51e3da271",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 218,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "**Summary of Sprint Planning Meeting**\n\nThe Sprint Planning meeting, held on January 10, 2026, was attended by Alice, Bob, Charlie, and Diana. The meeting focused on the product roadmap and user stories, with a duration of 30 minutes.\n\n**Key Discussion Points:**\n\n1. **Product Roadmap**: Alice presented the current status, highlighting progress, blockers, and proposed solutions related to velocity.\n2. **Velocity Concerns**: Bob raised concerns, suggested alternative approaches, and recommended additional research, referencing industry best practices.\n3. **Backlog Updates**: Charlie provided metrics, analytics, trends, and future projections for the backlog.\n4. **Team Discussion**: The team debated approaches, reached consensus on priority items, and assigned action items.\n\n**Action Items and Decisions:**\n\n* Action items were assigned to team members, including:\n\t+ Alice: Complete analysis of product roadmap by next week.\n\t+ Bob: Draft proposal for user stories improvements.\n\t+ Charlie: Schedule follow-up meeting on velocity.\n\t+ Team: Review documentation on backlog.\n* Decisions made included:\n\t+ Approving the proposed timeline for product roadmap.\n\t+ Allocating additional resources for user stories.\n\t+ Implementing velocity in phases.\n\t+ Scheduling a review checkpoint for backlog.\n\n**Next Steps:**\n\nA follow-up meeting is scheduled for January 15, 2026, to review progress, discuss blockers, and plan further. The team will focus on completing assigned action items and preparing for the next meeting.\n\n**Main Takeaways:**\n\n* The team discussed and agreed on the product roadmap and user stories.\n* Velocity was identified as a key area for improvement, with alternative approaches and additional research recommended.\n* The team assigned action items and made decisions on resource allocation and implementation phases.\n* A follow-up meeting is scheduled to review progress and plan further.",
+  "topics": [
+    "Velocity",
+    "Backlog",
+    "Team",
+    "Meeting",
+    "Product"
+  ],
+  "key_concepts": [
+    "discussed",
+    "velocity",
+    "backlog",
+    "charlie",
+    "bob",
+    "meeting",
+    "product",
+    "product roadmap",
+    "roadmap",
+    "alice",
+    "stories",
+    "user",
+    "user stories",
+    "team",
+    "items"
+  ],
+  "entity_count": 41,
+  "word_count": 218,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 286,
+      "density": 0.6574712643678161,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.3448275862068966,
+      "average_clustering": 0.9104383878569726,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9655172413793103
+        ],
+        [
+          "team",
+          0.8620689655172413
+        ],
+        [
+          "velocity",
+          0.8275862068965517
+        ],
+        [
+          "product",
+          0.8275862068965517
+        ],
+        [
+          "product roadmap",
+          0.8275862068965517
+        ],
+        [
+          "roadmap",
+          0.8275862068965517
+        ],
+        [
+          "meeting",
+          0.8275862068965517
+        ],
+        [
+          "stories",
+          0.8275862068965517
+        ],
+        [
+          "user",
+          0.8275862068965517
+        ],
+        [
+          "user stories",
+          0.8275862068965517
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "velocity"
+      ],
+      [
+        "discussion",
+        "product"
+      ],
+      [
+        "discussion",
+        "product roadmap"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_001_sprint_planning"
+  },
+  "rag_document_id": "ed68a5e1-d875-4a3d-a9c1-06195832fd15",
+  "processing_time_seconds": 17.957824
+}

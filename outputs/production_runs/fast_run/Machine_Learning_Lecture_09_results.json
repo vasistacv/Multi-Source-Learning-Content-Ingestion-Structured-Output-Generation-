@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_09.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:51:16.234775",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Machine_Learning_Lecture_09.txt",
+    "file_type": ".txt",
+    "file_size": 2516,
+    "processed_at": "2026-01-17T13:51:14.766445",
+    "content_hash": "bbbdf91f501fb962c9461b1aac2d7c4e75552868c9b6b57587af138db6f204f3",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 312,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Dimensionality",
+    "Dimensionality Reduction",
+    "Reduction",
+    "Lecture",
+    "Learning"
+  ],
+  "key_concepts": [
+    "dimensionality",
+    "dimensionality reduction",
+    "reduction",
+    "lecture",
+    "learning",
+    "real",
+    "implementation",
+    "machine",
+    "machine learning",
+    "implement",
+    "autoencoders",
+    "pca",
+    "pca sne",
+    "pca sne autoencoders",
+    "sne"
+  ],
+  "entity_count": 69,
+  "word_count": 312,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 245,
+      "density": 0.8166666666666667,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.1833333333333333,
+      "average_clustering": 0.9282608695652174,
+      "most_central_concepts": [
+        [
+          "dimensionality",
+          1.0
+        ],
+        [
+          "dimensionality reduction",
+          1.0
+        ],
+        [
+          "reduction",
+          1.0
+        ],
+        [
+          "lecture",
+          1.0
+        ],
+        [
+          "implement",
+          1.0
+        ],
+        [
+          "real",
+          1.0
+        ],
+        [
+          "implementation",
+          1.0
+        ],
+        [
+          "applications",
+          1.0
+        ],
+        [
+          "world",
+          1.0
+        ],
+        [
+          "learning",
+          0.7916666666666666
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "dimensionality",
+        "dimensionality reduction"
+      ],
+      [
+        "dimensionality",
+        "reduction"
+      ],
+      [
+        "dimensionality",
+        "lecture"
+      ],
+      [
+        "dimensionality",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Lecture_09"
+  },
+  "rag_document_id": "7c789406-bf59-48b1-8e6c-8799c41fdfab",
+  "processing_time_seconds": 4.226065
+}

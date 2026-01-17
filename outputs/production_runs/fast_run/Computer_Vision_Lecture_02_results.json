@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_02.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:47:28.455859",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_02.txt",
+    "file_type": ".txt",
+    "file_size": 2457,
+    "processed_at": "2026-01-17T13:47:27.089632",
+    "content_hash": "d2af2f46a01c7448e83a6f431b980f7b07e1b76ab8e381d702fdcfddadfa2495",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 315,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Architectures",
+    "Cnn",
+    "Cnn Architectures",
+    "Lecture",
+    "Alexnet"
+  ],
+  "key_concepts": [
+    "architectures",
+    "cnn",
+    "cnn architectures",
+    "lecture",
+    "real",
+    "implementation",
+    "computer",
+    "computer vision",
+    "vision",
+    "implement",
+    "alexnet",
+    "alexnet vgg",
+    "efficientnet",
+    "resnet",
+    "resnet efficientnet"
+  ],
+  "entity_count": 71,
+  "word_count": 315,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 23,
+      "edge_count": 199,
+      "density": 0.7865612648221344,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2134387351778657,
+      "average_clustering": 0.9054858185292968,
+      "most_central_concepts": [
+        [
+          "architectures",
+          1.0
+        ],
+        [
+          "cnn",
+          1.0
+        ],
+        [
+          "cnn architectures",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9545454545454546
+        ],
+        [
+          "implement",
+          0.9545454545454546
+        ],
+        [
+          "real",
+          0.9545454545454546
+        ],
+        [
+          "implementation",
+          0.9545454545454546
+        ],
+        [
+          "applications",
+          0.9545454545454546
+        ],
+        [
+          "world applications",
+          0.9545454545454546
+        ],
+        [
+          "computer",
+          0.7272727272727273
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "architectures",
+        "cnn"
+      ],
+      [
+        "architectures",
+        "cnn architectures"
+      ],
+      [
+        "architectures",
+        "lecture"
+      ],
+      [
+        "architectures",
+        "implement"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Computer_Vision_Lecture_02"
+  },
+  "rag_document_id": "a5c64a7b-552b-468d-9dae-a064681ec3bf",
+  "processing_time_seconds": 4.002589
+}

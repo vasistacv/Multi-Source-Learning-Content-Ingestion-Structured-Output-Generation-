@@ -1,0 +1,518 @@
+{
+  "nodes": [
+    {
+      "id": "scene",
+      "label": "scene",
+      "weight": 586.9283868743186,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.46428571428571425,
+      "eigenvector_centrality": 0.5166932865902031
+    },
+    {
+      "id": "04s",
+      "label": "04s",
+      "weight": 465.8066173445903,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.46428571428571425,
+      "eigenvector_centrality": 0.5166932865902031
+    },
+    {
+      "id": "658",
+      "label": "658",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "659",
+      "label": "659",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "660",
+      "label": "660",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "661",
+      "label": "661",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "666",
+      "label": "666",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "667",
+      "label": "667",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "669",
+      "label": "669",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "670",
+      "label": "670",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "671",
+      "label": "671",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "672",
+      "label": "672",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "673",
+      "label": "673",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "674",
+      "label": "674",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "675",
+      "label": "675",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "676",
+      "label": "676",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "677",
+      "label": "677",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "678",
+      "label": "678",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "679",
+      "label": "679",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "680",
+      "label": "680",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "681",
+      "label": "681",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "682",
+      "label": "682",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "683",
+      "label": "683",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "684",
+      "label": "684",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "686",
+      "label": "686",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "690",
+      "label": "690",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "691",
+      "label": "691",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "692",
+      "label": "692",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    },
+    {
+      "id": "693",
+      "label": "693",
+      "weight": 23.368040670353626,
+      "degree_centrality": 0.07142857142857142,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.13138240696041523
+    }
+  ],
+  "edges": [
+    {
+      "source": "scene",
+      "target": "04s",
+      "weight": 1170
+    },
+    {
+      "source": "scene",
+      "target": "658",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "659",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "660",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "661",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "666",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "667",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "669",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "670",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "671",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "672",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "673",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "674",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "675",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "676",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "677",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "678",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "679",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "680",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "681",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "682",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "683",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "684",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "686",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "690",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "691",
+      "weight": 25
+    },
+    {
+      "source": "scene",
+      "target": "692",
+      "weight": 14
+    },
+    {
+      "source": "scene",
+      "target": "693",
+      "weight": 1
+    },
+    {
+      "source": "04s",
+      "target": "658",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "659",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "660",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "661",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "666",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "667",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "669",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "670",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "671",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "672",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "673",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "674",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "675",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "676",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "677",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "678",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "679",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "680",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "681",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "682",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "683",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "684",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "686",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "690",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "691",
+      "weight": 26
+    },
+    {
+      "source": "04s",
+      "target": "692",
+      "weight": 15
+    },
+    {
+      "source": "04s",
+      "target": "693",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 55,
+    "is_connected": true
+  }
+}

@@ -1,0 +1,1650 @@
+{
+  "nodes": [
+    {
+      "id": "nlp",
+      "label": "nlp",
+      "weight": 37.73378862108748,
+      "degree_centrality": 0.9629629629629629,
+      "betweenness_centrality": 0.02128607175741414,
+      "eigenvector_centrality": 0.2302362877285395
+    },
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 31.533056263023923,
+      "degree_centrality": 0.9629629629629629,
+      "betweenness_centrality": 0.020415890972703448,
+      "eigenvector_centrality": 0.2301312205688367
+    },
+    {
+      "id": "clinical",
+      "label": "clinical",
+      "weight": 29.15352137156467,
+      "degree_centrality": 0.9629629629629629,
+      "betweenness_centrality": 0.01920697801165373,
+      "eigenvector_centrality": 0.23113288247493333
+    },
+    {
+      "id": "site",
+      "label": "site",
+      "weight": 18.304174984868116,
+      "degree_centrality": 0.9629629629629629,
+      "betweenness_centrality": 0.01920697801165373,
+      "eigenvector_centrality": 0.23113288247493333
+    },
+    {
+      "id": "development",
+      "label": "development",
+      "weight": 18.159199735792853,
+      "degree_centrality": 0.7037037037037037,
+      "betweenness_centrality": 0.006850872625131047,
+      "eigenvector_centrality": 0.17744601078368905
+    },
+    {
+      "id": "https",
+      "label": "https",
+      "weight": 17.889039303014222,
+      "degree_centrality": 0.4444444444444444,
+      "betweenness_centrality": 0.0010910792836383585,
+      "eigenvector_centrality": 0.11532077293474124
+    },
+    {
+      "id": "annotation",
+      "label": "annotation",
+      "weight": 17.676341827381492,
+      "degree_centrality": 0.8518518518518519,
+      "betweenness_centrality": 0.012068569616332311,
+      "eigenvector_centrality": 0.21019644769048484
+    },
+    {
+      "id": "algorithm",
+      "label": "algorithm",
+      "weight": 17.134451947575926,
+      "degree_centrality": 0.8518518518518519,
+      "betweenness_centrality": 0.010938197093300163,
+      "eigenvector_centrality": 0.21225533543801103
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "weight": 16.968195715945225,
+      "degree_centrality": 0.5925925925925926,
+      "betweenness_centrality": 0.004741841682515389,
+      "eigenvector_centrality": 0.14970531386753383
+    },
+    {
+      "id": "medical",
+      "label": "medical",
+      "weight": 16.37198774472072,
+      "degree_centrality": 0.5185185185185185,
+      "betweenness_centrality": 0.0030088722145031853,
+      "eigenvector_centrality": 0.13052357690173244
+    },
+    {
+      "id": "covid",
+      "label": "covid",
+      "weight": 14.597767034005477,
+      "degree_centrality": 0.9259259259259258,
+      "betweenness_centrality": 0.020564641027185023,
+      "eigenvector_centrality": 0.22063108695127062
+    },
+    {
+      "id": "research",
+      "label": "research",
+      "weight": 14.285443816193096,
+      "degree_centrality": 0.7037037037037037,
+      "betweenness_centrality": 0.006772147558975112,
+      "eigenvector_centrality": 0.1753561256186908
+    },
+    {
+      "id": "university",
+      "label": "university",
+      "weight": 13.371789543240906,
+      "degree_centrality": 0.48148148148148145,
+      "betweenness_centrality": 0.003369151006154525,
+      "eigenvector_centrality": 0.1202994930605463
+    },
+    {
+      "id": "n3c",
+      "label": "n3c",
+      "weight": 12.218025038993419,
+      "degree_centrality": 0.7777777777777777,
+      "betweenness_centrality": 0.008554087896722386,
+      "eigenvector_centrality": 0.19534902143179628
+    },
+    {
+      "id": "information",
+      "label": "information",
+      "weight": 12.149222951049289,
+      "degree_centrality": 0.6296296296296295,
+      "betweenness_centrality": 0.005771604891765776,
+      "eigenvector_centrality": 0.1582869621625437
+    },
+    {
+      "id": "process",
+      "label": "process",
+      "weight": 11.60438373599884,
+      "degree_centrality": 0.9259259259259258,
+      "betweenness_centrality": 0.016979749716049364,
+      "eigenvector_centrality": 0.22476767804226264
+    },
+    {
+      "id": "mayo",
+      "label": "mayo",
+      "weight": 11.48724746794528,
+      "degree_centrality": 0.7407407407407407,
+      "betweenness_centrality": 0.009056049949715107,
+      "eigenvector_centrality": 0.18262282511116945
+    },
+    {
+      "id": "using",
+      "label": "using",
+      "weight": 11.433798024936271,
+      "degree_centrality": 0.7777777777777777,
+      "betweenness_centrality": 0.008139451465243322,
+      "eigenvector_centrality": 0.19497193102918647
+    },
+    {
+      "id": "framework",
+      "label": "framework",
+      "weight": 11.350839614638629,
+      "degree_centrality": 0.8148148148148148,
+      "betweenness_centrality": 0.008927409945509494,
+      "eigenvector_centrality": 0.2042887506067703
+    },
+    {
+      "id": "nlp algorithm",
+      "label": "nlp algorithm",
+      "weight": 10.597172690345818,
+      "degree_centrality": 0.8518518518518519,
+      "betweenness_centrality": 0.010938197093300163,
+      "eigenvector_centrality": 0.21225533543801103
+    },
+    {
+      "id": "study",
+      "label": "study",
+      "weight": 9.964580673655448,
+      "degree_centrality": 0.8148148148148148,
+      "betweenness_centrality": 0.010250449836925454,
+      "eigenvector_centrality": 0.20333723611037433
+    },
+    {
+      "id": "notes",
+      "label": "notes",
+      "weight": 9.824081007006122,
+      "degree_centrality": 0.5555555555555556,
+      "betweenness_centrality": 0.0059442310384995155,
+      "eigenvector_centrality": 0.13504388021324193
+    },
+    {
+      "id": "multi",
+      "label": "multi",
+      "weight": 9.738012242379384,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.005743247265368935,
+      "eigenvector_centrality": 0.1688973036472559
+    },
+    {
+      "id": "19",
+      "label": "19",
+      "weight": 9.530269208270658,
+      "degree_centrality": 0.7777777777777777,
+      "betweenness_centrality": 0.011667641010275504,
+      "eigenvector_centrality": 0.19152340986427585
+    },
+    {
+      "id": "sites",
+      "label": "sites",
+      "weight": 9.144378423143632,
+      "degree_centrality": 0.8518518518518519,
+      "betweenness_centrality": 0.01185058959065998,
+      "eigenvector_centrality": 0.21049752329840132
+    },
+    {
+      "id": "error",
+      "label": "error",
+      "weight": 7.648168887626209,
+      "degree_centrality": 0.5185185185185185,
+      "betweenness_centrality": 0.0007641744695540575,
+      "eigenvector_centrality": 0.13735639115394271
+    },
+    {
+      "id": "symptoms",
+      "label": "symptoms",
+      "weight": 6.6690568455863755,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0032735478122607334,
+      "eigenvector_centrality": 0.1731517358361876
+    },
+    {
+      "id": "signs",
+      "label": "signs",
+      "weight": 6.250341119657358,
+      "degree_centrality": 0.6666666666666666,
+      "betweenness_centrality": 0.0032735478122607334,
+      "eigenvector_centrality": 0.1731517358361876
+    }
+  ],
+  "edges": [
+    {
+      "source": "nlp",
+      "target": "clinical",
+      "weight": 21
+    },
+    {
+      "source": "nlp",
+      "target": "covid",
+      "weight": 15
+    },
+    {
+      "source": "nlp",
+      "target": "research",
+      "weight": 10
+    },
+    {
+      "source": "nlp",
+      "target": "n3c",
+      "weight": 10
+    },
+    {
+      "source": "nlp",
+      "target": "process",
+      "weight": 21
+    },
+    {
+      "source": "nlp",
+      "target": "using",
+      "weight": 9
+    },
+    {
+      "source": "nlp",
+      "target": "framework",
+      "weight": 12
+    },
+    {
+      "source": "nlp",
+      "target": "study",
+      "weight": 11
+    },
+    {
+      "source": "nlp",
+      "target": "development",
+      "weight": 20
+    },
+    {
+      "source": "nlp",
+      "target": "data",
+      "weight": 17
+    },
+    {
+      "source": "nlp",
+      "target": "site",
+      "weight": 21
+    },
+    {
+      "source": "nlp",
+      "target": "algorithm",
+      "weight": 39
+    },
+    {
+      "source": "nlp",
+      "target": "mayo",
+      "weight": 8
+    },
+    {
+      "source": "nlp",
+      "target": "nlp algorithm",
+      "weight": 37
+    },
+    {
+      "source": "nlp",
+      "target": "multi",
+      "weight": 17
+    },
+    {
+      "source": "nlp",
+      "target": "sites",
+      "weight": 6
+    },
+    {
+      "source": "nlp",
+      "target": "information",
+      "weight": 6
+    },
+    {
+      "source": "nlp",
+      "target": "19",
+      "weight": 5
+    },
+    {
+      "source": "nlp",
+      "target": "annotation",
+      "weight": 16
+    },
+    {
+      "source": "nlp",
+      "target": "symptoms",
+      "weight": 8
+    },
+    {
+      "source": "nlp",
+      "target": "signs",
+      "weight": 8
+    },
+    {
+      "source": "nlp",
+      "target": "https",
+      "weight": 13
+    },
+    {
+      "source": "nlp",
+      "target": "error",
+      "weight": 5
+    },
+    {
+      "source": "nlp",
+      "target": "health",
+      "weight": 4
+    },
+    {
+      "source": "nlp",
+      "target": "medical",
+      "weight": 1
+    },
+    {
+      "source": "nlp",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "clinical",
+      "weight": 16
+    },
+    {
+      "source": "data",
+      "target": "site",
+      "weight": 14
+    },
+    {
+      "source": "data",
+      "target": "development",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "algorithm",
+      "weight": 7
+    },
+    {
+      "source": "data",
+      "target": "mayo",
+      "weight": 8
+    },
+    {
+      "source": "data",
+      "target": "using",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "nlp algorithm",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "multi",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "sites",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "research",
+      "weight": 8
+    },
+    {
+      "source": "data",
+      "target": "health",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "medical",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "covid",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "n3c",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "information",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "process",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "annotation",
+      "weight": 7
+    },
+    {
+      "source": "data",
+      "target": "framework",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "notes",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "study",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "19",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "symptoms",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "signs",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "https",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "clinical",
+      "target": "covid",
+      "weight": 9
+    },
+    {
+      "source": "clinical",
+      "target": "research",
+      "weight": 14
+    },
+    {
+      "source": "clinical",
+      "target": "n3c",
+      "weight": 4
+    },
+    {
+      "source": "clinical",
+      "target": "process",
+      "weight": 5
+    },
+    {
+      "source": "clinical",
+      "target": "using",
+      "weight": 7
+    },
+    {
+      "source": "clinical",
+      "target": "framework",
+      "weight": 2
+    },
+    {
+      "source": "clinical",
+      "target": "medical",
+      "weight": 4
+    },
+    {
+      "source": "clinical",
+      "target": "study",
+      "weight": 6
+    },
+    {
+      "source": "clinical",
+      "target": "site",
+      "weight": 9
+    },
+    {
+      "source": "clinical",
+      "target": "development",
+      "weight": 5
+    },
+    {
+      "source": "clinical",
+      "target": "algorithm",
+      "weight": 7
+    },
+    {
+      "source": "clinical",
+      "target": "mayo",
+      "weight": 3
+    },
+    {
+      "source": "clinical",
+      "target": "nlp algorithm",
+      "weight": 5
+    },
+    {
+      "source": "clinical",
+      "target": "multi",
+      "weight": 7
+    },
+    {
+      "source": "clinical",
+      "target": "sites",
+      "weight": 4
+    },
+    {
+      "source": "clinical",
+      "target": "health",
+      "weight": 5
+    },
+    {
+      "source": "clinical",
+      "target": "information",
+      "weight": 7
+    },
+    {
+      "source": "clinical",
+      "target": "19",
+      "weight": 5
+    },
+    {
+      "source": "clinical",
+      "target": "annotation",
+      "weight": 4
+    },
+    {
+      "source": "clinical",
+      "target": "symptoms",
+      "weight": 3
+    },
+    {
+      "source": "clinical",
+      "target": "signs",
+      "weight": 3
+    },
+    {
+      "source": "clinical",
+      "target": "error",
+      "weight": 1
+    },
+    {
+      "source": "clinical",
+      "target": "university",
+      "weight": 1
+    },
+    {
+      "source": "clinical",
+      "target": "notes",
+      "weight": 5
+    },
+    {
+      "source": "site",
+      "target": "covid",
+      "weight": 3
+    },
+    {
+      "source": "site",
+      "target": "n3c",
+      "weight": 3
+    },
+    {
+      "source": "site",
+      "target": "19",
+      "weight": 3
+    },
+    {
+      "source": "site",
+      "target": "sites",
+      "weight": 20
+    },
+    {
+      "source": "site",
+      "target": "development",
+      "weight": 14
+    },
+    {
+      "source": "site",
+      "target": "algorithm",
+      "weight": 23
+    },
+    {
+      "source": "site",
+      "target": "mayo",
+      "weight": 12
+    },
+    {
+      "source": "site",
+      "target": "using",
+      "weight": 10
+    },
+    {
+      "source": "site",
+      "target": "nlp algorithm",
+      "weight": 15
+    },
+    {
+      "source": "site",
+      "target": "multi",
+      "weight": 31
+    },
+    {
+      "source": "site",
+      "target": "framework",
+      "weight": 7
+    },
+    {
+      "source": "site",
+      "target": "research",
+      "weight": 4
+    },
+    {
+      "source": "site",
+      "target": "process",
+      "weight": 8
+    },
+    {
+      "source": "site",
+      "target": "annotation",
+      "weight": 8
+    },
+    {
+      "source": "site",
+      "target": "error",
+      "weight": 5
+    },
+    {
+      "source": "site",
+      "target": "study",
+      "weight": 2
+    },
+    {
+      "source": "site",
+      "target": "notes",
+      "weight": 3
+    },
+    {
+      "source": "site",
+      "target": "symptoms",
+      "weight": 2
+    },
+    {
+      "source": "site",
+      "target": "signs",
+      "weight": 2
+    },
+    {
+      "source": "site",
+      "target": "health",
+      "weight": 1
+    },
+    {
+      "source": "site",
+      "target": "medical",
+      "weight": 1
+    },
+    {
+      "source": "site",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "site",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "development",
+      "target": "framework",
+      "weight": 9
+    },
+    {
+      "source": "development",
+      "target": "study",
+      "weight": 3
+    },
+    {
+      "source": "development",
+      "target": "algorithm",
+      "weight": 15
+    },
+    {
+      "source": "development",
+      "target": "mayo",
+      "weight": 3
+    },
+    {
+      "source": "development",
+      "target": "using",
+      "weight": 5
+    },
+    {
+      "source": "development",
+      "target": "nlp algorithm",
+      "weight": 13
+    },
+    {
+      "source": "development",
+      "target": "multi",
+      "weight": 10
+    },
+    {
+      "source": "development",
+      "target": "sites",
+      "weight": 6
+    },
+    {
+      "source": "development",
+      "target": "process",
+      "weight": 11
+    },
+    {
+      "source": "development",
+      "target": "annotation",
+      "weight": 9
+    },
+    {
+      "source": "development",
+      "target": "information",
+      "weight": 3
+    },
+    {
+      "source": "development",
+      "target": "n3c",
+      "weight": 3
+    },
+    {
+      "source": "development",
+      "target": "research",
+      "weight": 2
+    },
+    {
+      "source": "development",
+      "target": "notes",
+      "weight": 1
+    },
+    {
+      "source": "development",
+      "target": "https",
+      "weight": 1
+    },
+    {
+      "source": "https",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "https",
+      "target": "n3c",
+      "weight": 3
+    },
+    {
+      "source": "https",
+      "target": "covid",
+      "weight": 6
+    },
+    {
+      "source": "https",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "https",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "https",
+      "target": "framework",
+      "weight": 1
+    },
+    {
+      "source": "https",
+      "target": "annotation",
+      "weight": 3
+    },
+    {
+      "source": "https",
+      "target": "19",
+      "weight": 2
+    },
+    {
+      "source": "https",
+      "target": "study",
+      "weight": 1
+    },
+    {
+      "source": "annotation",
+      "target": "information",
+      "weight": 2
+    },
+    {
+      "source": "annotation",
+      "target": "process",
+      "weight": 7
+    },
+    {
+      "source": "annotation",
+      "target": "study",
+      "weight": 3
+    },
+    {
+      "source": "annotation",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "annotation",
+      "target": "framework",
+      "weight": 2
+    },
+    {
+      "source": "annotation",
+      "target": "multi",
+      "weight": 3
+    },
+    {
+      "source": "annotation",
+      "target": "sites",
+      "weight": 4
+    },
+    {
+      "source": "annotation",
+      "target": "algorithm",
+      "weight": 11
+    },
+    {
+      "source": "annotation",
+      "target": "n3c",
+      "weight": 2
+    },
+    {
+      "source": "annotation",
+      "target": "nlp algorithm",
+      "weight": 10
+    },
+    {
+      "source": "annotation",
+      "target": "error",
+      "weight": 5
+    },
+    {
+      "source": "annotation",
+      "target": "notes",
+      "weight": 3
+    },
+    {
+      "source": "annotation",
+      "target": "covid",
+      "weight": 8
+    },
+    {
+      "source": "annotation",
+      "target": "19",
+      "weight": 4
+    },
+    {
+      "source": "annotation",
+      "target": "mayo",
+      "weight": 2
+    },
+    {
+      "source": "annotation",
+      "target": "symptoms",
+      "weight": 5
+    },
+    {
+      "source": "annotation",
+      "target": "signs",
+      "weight": 5
+    },
+    {
+      "source": "algorithm",
+      "target": "mayo",
+      "weight": 7
+    },
+    {
+      "source": "algorithm",
+      "target": "using",
+      "weight": 8
+    },
+    {
+      "source": "algorithm",
+      "target": "nlp algorithm",
+      "weight": 37
+    },
+    {
+      "source": "algorithm",
+      "target": "multi",
+      "weight": 18
+    },
+    {
+      "source": "algorithm",
+      "target": "sites",
+      "weight": 7
+    },
+    {
+      "source": "algorithm",
+      "target": "process",
+      "weight": 8
+    },
+    {
+      "source": "algorithm",
+      "target": "covid",
+      "weight": 7
+    },
+    {
+      "source": "algorithm",
+      "target": "n3c",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "framework",
+      "weight": 5
+    },
+    {
+      "source": "algorithm",
+      "target": "study",
+      "weight": 3
+    },
+    {
+      "source": "algorithm",
+      "target": "19",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "symptoms",
+      "weight": 7
+    },
+    {
+      "source": "algorithm",
+      "target": "signs",
+      "weight": 7
+    },
+    {
+      "source": "algorithm",
+      "target": "information",
+      "weight": 2
+    },
+    {
+      "source": "algorithm",
+      "target": "error",
+      "weight": 9
+    },
+    {
+      "source": "algorithm",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "algorithm",
+      "target": "university",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "university",
+      "weight": 4
+    },
+    {
+      "source": "health",
+      "target": "medical",
+      "weight": 4
+    },
+    {
+      "source": "health",
+      "target": "covid",
+      "weight": 3
+    },
+    {
+      "source": "health",
+      "target": "research",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "n3c",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "information",
+      "weight": 5
+    },
+    {
+      "source": "health",
+      "target": "process",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "framework",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "using",
+      "weight": 3
+    },
+    {
+      "source": "health",
+      "target": "study",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "sites",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "mayo",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "university",
+      "weight": 5
+    },
+    {
+      "source": "medical",
+      "target": "covid",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "n3c",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "process",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "notes",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "sites",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "19",
+      "weight": 1
+    },
+    {
+      "source": "covid",
+      "target": "research",
+      "weight": 2
+    },
+    {
+      "source": "covid",
+      "target": "n3c",
+      "weight": 12
+    },
+    {
+      "source": "covid",
+      "target": "process",
+      "weight": 3
+    },
+    {
+      "source": "covid",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "covid",
+      "target": "framework",
+      "weight": 5
+    },
+    {
+      "source": "covid",
+      "target": "19",
+      "weight": 16
+    },
+    {
+      "source": "covid",
+      "target": "sites",
+      "weight": 3
+    },
+    {
+      "source": "covid",
+      "target": "nlp algorithm",
+      "weight": 7
+    },
+    {
+      "source": "covid",
+      "target": "study",
+      "weight": 5
+    },
+    {
+      "source": "covid",
+      "target": "symptoms",
+      "weight": 14
+    },
+    {
+      "source": "covid",
+      "target": "signs",
+      "weight": 14
+    },
+    {
+      "source": "covid",
+      "target": "notes",
+      "weight": 4
+    },
+    {
+      "source": "covid",
+      "target": "error",
+      "weight": 6
+    },
+    {
+      "source": "covid",
+      "target": "university",
+      "weight": 1
+    },
+    {
+      "source": "covid",
+      "target": "mayo",
+      "weight": 3
+    },
+    {
+      "source": "covid",
+      "target": "information",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "n3c",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "process",
+      "weight": 3
+    },
+    {
+      "source": "research",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "framework",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "study",
+      "weight": 3
+    },
+    {
+      "source": "research",
+      "target": "information",
+      "weight": 2
+    },
+    {
+      "source": "research",
+      "target": "19",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "multi",
+      "weight": 4
+    },
+    {
+      "source": "research",
+      "target": "nlp algorithm",
+      "weight": 1
+    },
+    {
+      "source": "university",
+      "target": "mayo",
+      "weight": 4
+    },
+    {
+      "source": "university",
+      "target": "notes",
+      "weight": 2
+    },
+    {
+      "source": "university",
+      "target": "19",
+      "weight": 2
+    },
+    {
+      "source": "university",
+      "target": "nlp algorithm",
+      "weight": 2
+    },
+    {
+      "source": "university",
+      "target": "multi",
+      "weight": 1
+    },
+    {
+      "source": "n3c",
+      "target": "process",
+      "weight": 3
+    },
+    {
+      "source": "n3c",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "n3c",
+      "target": "framework",
+      "weight": 5
+    },
+    {
+      "source": "n3c",
+      "target": "19",
+      "weight": 5
+    },
+    {
+      "source": "n3c",
+      "target": "sites",
+      "weight": 3
+    },
+    {
+      "source": "n3c",
+      "target": "nlp algorithm",
+      "weight": 3
+    },
+    {
+      "source": "n3c",
+      "target": "study",
+      "weight": 5
+    },
+    {
+      "source": "n3c",
+      "target": "symptoms",
+      "weight": 2
+    },
+    {
+      "source": "n3c",
+      "target": "signs",
+      "weight": 2
+    },
+    {
+      "source": "information",
+      "target": "process",
+      "weight": 3
+    },
+    {
+      "source": "information",
+      "target": "using",
+      "weight": 3
+    },
+    {
+      "source": "information",
+      "target": "notes",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "nlp algorithm",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "multi",
+      "weight": 1
+    },
+    {
+      "source": "information",
+      "target": "framework",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "using",
+      "weight": 5
+    },
+    {
+      "source": "process",
+      "target": "framework",
+      "weight": 6
+    },
+    {
+      "source": "process",
+      "target": "study",
+      "weight": 2
+    },
+    {
+      "source": "process",
+      "target": "sites",
+      "weight": 5
+    },
+    {
+      "source": "process",
+      "target": "multi",
+      "weight": 4
+    },
+    {
+      "source": "process",
+      "target": "nlp algorithm",
+      "weight": 8
+    },
+    {
+      "source": "process",
+      "target": "error",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "mayo",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "19",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "symptoms",
+      "weight": 1
+    },
+    {
+      "source": "process",
+      "target": "signs",
+      "weight": 1
+    },
+    {
+      "source": "mayo",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "mayo",
+      "target": "nlp algorithm",
+      "weight": 5
+    },
+    {
+      "source": "mayo",
+      "target": "multi",
+      "weight": 7
+    },
+    {
+      "source": "mayo",
+      "target": "sites",
+      "weight": 5
+    },
+    {
+      "source": "mayo",
+      "target": "notes",
+      "weight": 6
+    },
+    {
+      "source": "mayo",
+      "target": "19",
+      "weight": 4
+    },
+    {
+      "source": "mayo",
+      "target": "symptoms",
+      "weight": 2
+    },
+    {
+      "source": "mayo",
+      "target": "signs",
+      "weight": 2
+    },
+    {
+      "source": "mayo",
+      "target": "error",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "framework",
+      "weight": 5
+    },
+    {
+      "source": "using",
+      "target": "nlp algorithm",
+      "weight": 5
+    },
+    {
+      "source": "using",
+      "target": "multi",
+      "weight": 6
+    },
+    {
+      "source": "using",
+      "target": "sites",
+      "weight": 7
+    },
+    {
+      "source": "using",
+      "target": "notes",
+      "weight": 5
+    },
+    {
+      "source": "using",
+      "target": "study",
+      "weight": 3
+    },
+    {
+      "source": "framework",
+      "target": "study",
+      "weight": 5
+    },
+    {
+      "source": "framework",
+      "target": "multi",
+      "weight": 6
+    },
+    {
+      "source": "framework",
+      "target": "sites",
+      "weight": 4
+    },
+    {
+      "source": "framework",
+      "target": "nlp algorithm",
+      "weight": 4
+    },
+    {
+      "source": "framework",
+      "target": "19",
+      "weight": 3
+    },
+    {
+      "source": "framework",
+      "target": "symptoms",
+      "weight": 3
+    },
+    {
+      "source": "framework",
+      "target": "signs",
+      "weight": 3
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "multi",
+      "weight": 11
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "sites",
+      "weight": 5
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "study",
+      "weight": 2
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "19",
+      "weight": 1
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "symptoms",
+      "weight": 7
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "signs",
+      "weight": 7
+    },
+    {
+      "source": "nlp algorithm",
+      "target": "error",
+      "weight": 5
+    },
+    {
+      "source": "study",
+      "target": "19",
+      "weight": 5
+    },
+    {
+      "source": "study",
+      "target": "symptoms",
+      "weight": 3
+    },
+    {
+      "source": "study",
+      "target": "signs",
+      "weight": 3
+    },
+    {
+      "source": "study",
+      "target": "multi",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "error",
+      "weight": 1
+    },
+    {
+      "source": "study",
+      "target": "sites",
+      "weight": 1
+    },
+    {
+      "source": "notes",
+      "target": "symptoms",
+      "weight": 1
+    },
+    {
+      "source": "notes",
+      "target": "signs",
+      "weight": 1
+    },
+    {
+      "source": "notes",
+      "target": "sites",
+      "weight": 3
+    },
+    {
+      "source": "notes",
+      "target": "19",
+      "weight": 4
+    },
+    {
+      "source": "multi",
+      "target": "sites",
+      "weight": 8
+    },
+    {
+      "source": "multi",
+      "target": "error",
+      "weight": 4
+    },
+    {
+      "source": "19",
+      "target": "sites",
+      "weight": 3
+    },
+    {
+      "source": "19",
+      "target": "symptoms",
+      "weight": 5
+    },
+    {
+      "source": "19",
+      "target": "signs",
+      "weight": 5
+    },
+    {
+      "source": "sites",
+      "target": "error",
+      "weight": 1
+    },
+    {
+      "source": "sites",
+      "target": "symptoms",
+      "weight": 2
+    },
+    {
+      "source": "sites",
+      "target": "signs",
+      "weight": 2
+    },
+    {
+      "source": "error",
+      "target": "symptoms",
+      "weight": 6
+    },
+    {
+      "source": "error",
+      "target": "signs",
+      "weight": 6
+    },
+    {
+      "source": "symptoms",
+      "target": "signs",
+      "weight": 14
+    }
+  ],
+  "metadata": {
+    "node_count": 28,
+    "edge_count": 283,
+    "is_connected": true
+  }
+}

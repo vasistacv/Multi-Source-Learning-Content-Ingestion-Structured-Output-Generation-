@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_001_ai_product_strategy_session.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:30:56.570382",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_001_ai_product_strategy_session.txt",
+    "file_type": ".txt",
+    "file_size": 3663,
+    "processed_at": "2026-01-17T13:30:55.947117",
+    "content_hash": "9d19d2315373dc5fc2059d5294864c317709cdf6f5c522dedc6d12d563972b70",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 538,
+    "metadata": {
+      "line_count": 84,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Rag",
+    "User",
+    "Ai",
+    "Data",
+    "Content"
+  ],
+  "key_concepts": [
+    "rag",
+    "ai",
+    "data",
+    "content",
+    "user",
+    "generation",
+    "week",
+    "00",
+    "michael rodriguez",
+    "michael",
+    "park",
+    "emily",
+    "summarization",
+    "sarah",
+    "document"
+  ],
+  "entity_count": 86,
+  "word_count": 538,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 30,
+      "edge_count": 217,
+      "density": 0.49885057471264366,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.542528735632184,
+      "average_clustering": 0.7427444968819986,
+      "most_central_concepts": [
+        [
+          "emily",
+          0.7931034482758621
+        ],
+        [
+          "user",
+          0.7586206896551724
+        ],
+        [
+          "sarah",
+          0.7586206896551724
+        ],
+        [
+          "data",
+          0.7241379310344828
+        ],
+        [
+          "michael",
+          0.7241379310344828
+        ],
+        [
+          "time",
+          0.6896551724137931
+        ],
+        [
+          "rag",
+          0.6206896551724138
+        ],
+        [
+          "engineering",
+          0.6206896551724138
+        ],
+        [
+          "ai",
+          0.5862068965517241
+        ],
+        [
+          "summarization",
+          0.5862068965517241
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "emily",
+        "user"
+      ],
+      [
+        "emily",
+        "sarah"
+      ],
+      [
+        "emily",
+        "data"
+      ],
+      [
+        "emily",
+        "michael"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_001_ai_product_strategy_session"
+  },
+  "rag_document_id": "6e05f0a9-06e2-4cfc-b890-dd4224275cde",
+  "processing_time_seconds": 0.949681
+}

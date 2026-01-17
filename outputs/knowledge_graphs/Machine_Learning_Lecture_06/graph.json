@@ -1,0 +1,1155 @@
+{
+  "nodes": [
+    {
+      "id": "bayes",
+      "label": "bayes",
+      "weight": 2.8835315121861127,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.038780663780663784,
+      "eigenvector_centrality": 0.2571553157310678
+    },
+    {
+      "id": "naive",
+      "label": "naive",
+      "weight": 2.61801574386832,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.038780663780663784,
+      "eigenvector_centrality": 0.2571553157310678
+    },
+    {
+      "id": "naive bayes",
+      "label": "naive bayes",
+      "weight": 2.61801574386832,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.038780663780663784,
+      "eigenvector_centrality": 0.2571553157310678
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.1234668969549286,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.026515151515151516,
+      "eigenvector_centrality": 0.25057152648350683
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.8964464272658879,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.332323511482858,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.026515151515151516,
+      "eigenvector_centrality": 0.25057152648350683
+    },
+    {
+      "id": "machine",
+      "label": "machine",
+      "weight": 1.24923632502292,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    },
+    {
+      "id": "machine learning",
+      "label": "machine learning",
+      "weight": 1.24923632502292,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.068645773543574,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.026515151515151516,
+      "eigenvector_centrality": 0.25057152648350683
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.9714028512164827,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.026515151515151516,
+      "eigenvector_centrality": 0.25057152648350683
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8392548162015151,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    },
+    {
+      "id": "bayes theorem",
+      "label": "bayes theorem",
+      "weight": 0.715251706840147,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "classifiers",
+      "label": "classifiers",
+      "weight": 0.715251706840147,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "independence",
+      "label": "independence",
+      "weight": 0.715251706840147,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "probabilistic",
+      "label": "probabilistic",
+      "weight": 0.715251706840147,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "probabilistic classifiers",
+      "label": "probabilistic classifiers",
+      "weight": 0.715251706840147,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "theorem",
+      "label": "theorem",
+      "weight": 0.715251706840147,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5591420838347728,
+      "degree_centrality": 0.4545454545454546,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12078100492724166
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5045351354940192,
+      "degree_centrality": 0.9545454545454546,
+      "betweenness_centrality": 0.026515151515151516,
+      "eigenvector_centrality": 0.25057152648350683
+    },
+    {
+      "id": "theoretical",
+      "label": "theoretical",
+      "weight": 0.48299943856354255,
+      "degree_centrality": 0.6818181818181819,
+      "betweenness_centrality": 0.0021645021645021645,
+      "eigenvector_centrality": 0.18907383005378145
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.46975951562279006,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    },
+    {
+      "id": "advanced",
+      "label": "advanced",
+      "weight": 0.33761148060782237,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.30437227760672075,
+      "degree_centrality": 0.6363636363636364,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17842667070124463
+    }
+  ],
+  "edges": [
+    {
+      "source": "bayes",
+      "target": "naive",
+      "weight": 8
+    },
+    {
+      "source": "bayes",
+      "target": "naive bayes",
+      "weight": 8
+    },
+    {
+      "source": "bayes",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "bayes",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "bayes",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "bayes",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "bayes",
+      "target": "bayes theorem",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "classifiers",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "independence",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "probabilistic",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "probabilistic classifiers",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "theorem",
+      "weight": 3
+    },
+    {
+      "source": "bayes",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "bayes",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "bayes",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "bayes",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "bayes",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "bayes",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "bayes",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "naive",
+      "target": "naive bayes",
+      "weight": 8
+    },
+    {
+      "source": "naive",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "naive",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "naive",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "naive",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "naive",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "naive",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "bayes theorem",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "classifiers",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "independence",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "probabilistic",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "probabilistic classifiers",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "theorem",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "naive",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "naive",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "naive",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "naive bayes",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "naive bayes",
+      "target": "learning",
+      "weight": 3
+    },
+    {
+      "source": "naive bayes",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "naive bayes",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "naive bayes",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "naive bayes",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "bayes theorem",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "classifiers",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "independence",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "probabilistic",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "probabilistic classifiers",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "theorem",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "naive bayes",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "naive bayes",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "naive bayes",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 4
+    },
+    {
+      "source": "lecture",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "bayes theorem",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "classifiers",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "independence",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "probabilistic",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "probabilistic classifiers",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "theorem",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "machine",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "bayes theorem",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "classifiers",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "independence",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "probabilistic",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "probabilistic classifiers",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "theorem",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "machine",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "machine learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "machine learning",
+      "weight": 3
+    },
+    {
+      "source": "machine",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "machine learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "machine learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "bayes theorem",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "classifiers",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "independence",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "probabilistic",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "probabilistic classifiers",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theorem",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "bayes theorem",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "classifiers",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "independence",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "probabilistic",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "probabilistic classifiers",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "theorem",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "bayes theorem",
+      "target": "classifiers",
+      "weight": 3
+    },
+    {
+      "source": "bayes theorem",
+      "target": "independence",
+      "weight": 3
+    },
+    {
+      "source": "bayes theorem",
+      "target": "probabilistic",
+      "weight": 3
+    },
+    {
+      "source": "bayes theorem",
+      "target": "probabilistic classifiers",
+      "weight": 3
+    },
+    {
+      "source": "bayes theorem",
+      "target": "theorem",
+      "weight": 3
+    },
+    {
+      "source": "bayes theorem",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "bayes theorem",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "bayes theorem",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "classifiers",
+      "target": "independence",
+      "weight": 3
+    },
+    {
+      "source": "classifiers",
+      "target": "probabilistic",
+      "weight": 3
+    },
+    {
+      "source": "classifiers",
+      "target": "probabilistic classifiers",
+      "weight": 3
+    },
+    {
+      "source": "classifiers",
+      "target": "theorem",
+      "weight": 3
+    },
+    {
+      "source": "classifiers",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "classifiers",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "classifiers",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "independence",
+      "target": "probabilistic",
+      "weight": 3
+    },
+    {
+      "source": "independence",
+      "target": "probabilistic classifiers",
+      "weight": 3
+    },
+    {
+      "source": "independence",
+      "target": "theorem",
+      "weight": 3
+    },
+    {
+      "source": "independence",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "independence",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "independence",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "probabilistic",
+      "target": "probabilistic classifiers",
+      "weight": 3
+    },
+    {
+      "source": "probabilistic",
+      "target": "theorem",
+      "weight": 3
+    },
+    {
+      "source": "probabilistic",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "probabilistic",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "probabilistic",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "probabilistic classifiers",
+      "target": "theorem",
+      "weight": 3
+    },
+    {
+      "source": "probabilistic classifiers",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "probabilistic classifiers",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "probabilistic classifiers",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "theorem",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "theorem",
+      "target": "theoretical",
+      "weight": 2
+    },
+    {
+      "source": "theorem",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "step",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "theoretical",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "advanced",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "advanced",
+      "weight": 2
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "advanced",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 23,
+    "edge_count": 192,
+    "is_connected": true
+  }
+}

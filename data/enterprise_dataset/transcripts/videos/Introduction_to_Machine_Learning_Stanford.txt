@@ -1,0 +1,201 @@
+VIDEO TRANSCRIPT
+=====================================
+Title: Introduction to Machine Learning
+Instructor: Prof. Andrew Ng, Stanford University
+Duration: 45:30
+Source: Educational Lecture Recording
+Format: MP4 Video with Audio Transcription
+
+FULL TRANSCRIPT WITH TIMESTAMPS
+================================
+
+[00:00] Prof. Andrew Ng:
+Welcome everyone to Introduction to Machine Learning. Today we're going to dive deep into 
+what machine learning really is and why it's transforming every industry from healthcare 
+to finance to autonomous vehicles.
+
+[00:30] So let's start with a question: What is machine learning? At its core, machine 
+learning is about getting computers to program themselves. Instead of us writing explicit 
+if-then rules, we give the computer examples and let it figure out the patterns.
+
+[01:15] Let me give you a concrete example. Suppose you want to predict housing prices. 
+The traditional programming approach would be: "If the house has 3 bedrooms and is in 
+ZIP code 94301, then price equals X." But how do you account for all the variables? 
+Square footage, number of bathrooms, age of house, proximity to schools, market trends?
+
+[02:00] With machine learning, we take a different approach. We feed the algorithm 
+thousands of examples of houses with their features and actual sale prices. The algorithm 
+learns the relationship between features and price automatically.
+
+[02:45] This is called supervised learning. We supervise the learning by providing 
+labeled examples - inputs paired with correct outputs. The algorithm's job is to learn 
+a function that maps inputs to outputs.
+
+[03:30] Let me formalize this mathematically. We have:
+- Input features X (bedrooms, square feet, location, etc.)
+- Output label Y (price)
+- Training data: (x₁, y₁), (x₂, y₂), ..., (xₙ, yₙ)
+
+Our goal is to learn a hypothesis function h such that h(x) approximates y.
+
+[04:15] For housing prices, we might start with linear regression. The hypothesis is:
+h(x) = θ₀ + θ₁x₁ + θ₂x₂ + ... + θₙxₙ
+
+Where θ represents our parameters - the weights we need to learn.
+
+[05:00] But how do we learn these parameters? This is where the cost function comes in. 
+We define a cost function J(θ) that measures how wrong our predictions are:
+
+J(θ) = (1/2m) Σ(h(x⁽ⁱ⁾) - y⁽ⁱ⁾)²
+
+This is called Mean Squared Error. Our goal is to minimize this cost function.
+
+[06:00] To minimize the cost, we use gradient descent. Imagine you're standing on a mountain 
+in the fog and want to reach the valley. You feel the ground around you and take a step 
+in the steepest downward direction. That's gradient descent.
+
+[06:45] Mathematically, we update our parameters using:
+θⱼ := θⱼ - α ∂J(θ)/∂θⱼ
+
+Where α is the learning rate - how big our steps are.
+
+[07:30] Let me show you a demo. [At this point, screen shows live coding in Python]
+
+import numpy as np
+
+def gradient_descent(X, y, learning_rate=0.01, iterations=1000):
+    m, n = X.shape
+    theta = np.zeros(n)
+    
+    for i in range(iterations):
+        predictions = X @ theta
+        errors = predictions - y
+        gradient = (1/m) * X.T @ errors
+        theta = theta - learning_rate * gradient
+    
+    return theta
+
+[10:00] Now let's talk about the different types of machine learning problems:
+
+1. **Supervised Learning**: We have labeled data
+   - Regression: Predicting continuous values (house prices, temperature)
+   - Classification: Predicting discrete categories (spam/not spam, cat/dog)
+
+2. **Unsupervised Learning**: No labels, find hidden structure
+   - Clustering: Group similar data points
+   - Dimensionality Reduction: Compress high-dimensional data
+   - Anomaly Detection: Find unusual patterns
+
+3. **Reinforcement Learning**: Learn through trial and error
+   - Agent takes actions in environment
+   - Receives rewards or punishments
+   - Goal: Maximize cumulative reward
+
+[12:30] Let's dive deeper into classification. Suppose we're building an email spam filter. 
+This is a binary classification problem: Spam or Not Spam.
+
+We can't use linear regression here because we need discrete outputs. Instead, we use 
+logistic regression, despite the name, it's a classification algorithm.
+
+[13:15] The key is the sigmoid function:
+σ(z) = 1 / (1 + e^(-z))
+
+This function squashes any value into the range [0, 1], which we can interpret as a 
+probability.
+
+[14:00] Our hypothesis becomes:
+h(x) = σ(θᵀx) = 1 / (1 + e^(-θᵀx))
+
+If h(x) ≥ 0.5, predict spam. Otherwise, not spam.
+
+[15:30] The cost function for logistic regression is different. We use log loss:
+J(θ) = -(1/m) Σ[y log(h(x)) + (1-y) log(1-h(x))]
+
+[18:00] Now, a crucial concept in machine learning: the bias-variance tradeoff.
+
+Imagine we're trying to fit a curve to data points. We could:
+1. Use a straight line (simple model) - might be too simple, misses patterns. This is HIGH BIAS.
+2. Use a 10th degree polynomial (complex model) - might fit training data perfectly but 
+   fail on new data. This is HIGH VARIANCE.
+
+[19:30] The sweet spot is in the middle. We want a model that:
+- Is complex enough to capture real patterns (low bias)
+- Is simple enough to generalize to new data (low variance)
+
+[21:00] How do we know if our model is doing well? We split our data:
+- Training set (60%): Learn parameters
+- Validation set (20%): Tune hyperparameters
+- Test set (20%): Final evaluation (never touch until the end!)
+
+[22:30] A fundamental technique is cross-validation. In k-fold cross-validation:
+1. Split data into k parts
+2. Train on k-1 parts, validate on 1
+3. Repeat k times, rotating which part is validation
+4. Average the results
+
+This gives us a more robust estimate of model performance.
+
+[25:00] Let me talk about feature engineering - one of the most important skills in 
+machine learning. Raw features are often not directly useful. We need to transform them.
+
+For example, in housing prices:
+- Create interaction features: bedrooms × bathrooms
+- Polynomial features: size²
+- Log transformations: log(price) for skewed distributions
+- One-hot encoding: Convert categorical variables to binary columns
+
+[28:00] Now I want to address a common mistake: p-hacking and data leakage.
+
+Data leakage is when information from the future or test set bleeds into your training. 
+For example, if predicting customer churn and you include "number of support calls in last 
+month" but a customer who already churned can't make calls - that's leakage!
+
+[30:00] Let's talk about regularization - a technique to prevent overfitting.
+
+In linear regression with many features, some weights can become very large, causing 
+overfitting. We add a penalty term to the cost function:
+
+J(θ) = (1/2m) Σ(h(x) - y)² + λΣθⱼ²
+
+The parameter λ controls the regularization strength. Larger λ means simpler models.
+
+[32:00] There are two types:
+- L2 Regularization (Ridge): Penalizes sum of squared weights
+- L1 Regularization (Lasso): Penalizes sum of absolute weights, can drive weights to zero
+
+[35:00] Before we wrap up, let me give you practical advice for your first ML project:
+
+1. Start simple. Try logistic regression before neural networks.
+2. Get the data pipeline right. Garbage in, garbage out.
+3. Look at your data. Plot distributions, check for missing values.
+4. Establish a baseline. Sometimes a simple heuristic is hard to beat.
+5. Iterate quickly. Don't spend weeks on a single model.
+
+[38:00] Common pitfalls to avoid:
+- Not shuffling your data before splitting
+- Forgetting to scale features (neural networks especially need this)
+- Tuning on the test set (you'll overfit!)
+- Ignoring class imbalance (99% not fraud, 1% fraud - naive classifier gets 99% accuracy!)
+
+[40:00] Let me leave you with this: Machine learning is powerful, but it's not magic. 
+It's statistics, optimization, and a lot of trial and error. The key is understanding 
+what's happening under the hood so you can debug when things go wrong.
+
+[42:00] In our next lecture, we'll dive into neural networks - the foundation of deep 
+learning. We'll build one from scratch in Python and understand backpropagation.
+
+For homework, implement gradient descent for linear regression on the Boston Housing dataset. 
+Experiment with different learning rates and plot your cost function over iterations.
+
+[44:00] Thank you everyone. Questions?
+
+[44:15] Student question: "How much data do we need for machine learning?"
+
+[44:30] Great question. The answer is: it depends on the complexity of the problem. 
+A rough rule of thumb is you want at least 10 times as many examples as you have features. 
+But for deep learning, you often need millions of examples. This is why pre-trained models 
+and transfer learning are so powerful - they leverage data someone else collected.
+
+[45:30] That's all for today. See you next week!
+
+[END OF RECORDING]

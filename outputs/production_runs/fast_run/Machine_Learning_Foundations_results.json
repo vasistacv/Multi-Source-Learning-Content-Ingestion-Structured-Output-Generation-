@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Machine_Learning_Foundations.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:45:50.000195",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\textbooks\\Machine_Learning_Foundations.txt",
+    "file_type": ".txt",
+    "file_size": 142,
+    "processed_at": "2026-01-17T13:45:48.641670",
+    "content_hash": "42b847a088e6ff609e168795bb6f7a3e32f1632e33cecfecce9464992ff1d098",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 15,
+    "metadata": {
+      "line_count": 4,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 1,
+  "word_count": 15,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\Machine_Learning_Foundations"
+  },
+  "rag_document_id": "0e4074ee-c9ee-49cd-bb1b-47e439d51072",
+  "processing_time_seconds": 3.884804
+}

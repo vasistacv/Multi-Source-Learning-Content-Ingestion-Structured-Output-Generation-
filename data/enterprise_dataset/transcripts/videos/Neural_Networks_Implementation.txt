@@ -1,0 +1,18 @@
+VIDEO TRANSCRIPT
+=====================================
+Title: Building Neural Networks from Scratch
+Instructor: Dr. Andrej Karpathy
+Duration: 55:00
+Source: Educational Lecture Recording
+Format: MP4 Video with Audio Transcription
+
+FULL TRANSCRIPT WITH TIMESTAMPS
+================================
+
+[00:00] Dr. Andrej Karpathy:
+Today we're building a neural network from absolute scratch - no frameworks, just NumPy and math.
+By the end, you'll understand every line of code in backpropagation.
+
+[Content continues with detailed implementation walkthrough...]
+
+[55:00] END OF RECORDING  

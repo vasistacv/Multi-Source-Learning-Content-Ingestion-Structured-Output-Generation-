@@ -1,0 +1,1613 @@
+{
+  "nodes": [
+    {
+      "id": "data",
+      "label": "data",
+      "weight": 11.435345166964312,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03795953458651871,
+      "eigenvector_centrality": 0.24485362737256372
+    },
+    {
+      "id": "knowledge",
+      "label": "knowledge",
+      "weight": 9.561473884019339,
+      "degree_centrality": 0.8571428571428571,
+      "betweenness_centrality": 0.018010296581725153,
+      "eigenvector_centrality": 0.22230142229832434
+    },
+    {
+      "id": "semantic",
+      "label": "semantic",
+      "weight": 9.02849924305369,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03795953458651871,
+      "eigenvector_centrality": 0.24485362737256372
+    },
+    {
+      "id": "mapping",
+      "label": "mapping",
+      "weight": 8.895219133663224,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03795953458651871,
+      "eigenvector_centrality": 0.24485362737256372
+    },
+    {
+      "id": "trajanoska",
+      "label": "trajanoska",
+      "weight": 7.317914083420621,
+      "degree_centrality": 0.46428571428571425,
+      "betweenness_centrality": 0.0002204585537918871,
+      "eigenvector_centrality": 0.13869486546542917
+    },
+    {
+      "id": "agents",
+      "label": "agents",
+      "weight": 7.18095961248966,
+      "degree_centrality": 0.8928571428571428,
+      "betweenness_centrality": 0.023594424388075182,
+      "eigenvector_centrality": 0.22709822579180133
+    },
+    {
+      "id": "graphs",
+      "label": "graphs",
+      "weight": 6.82385228411889,
+      "degree_centrality": 0.8214285714285714,
+      "betweenness_centrality": 0.01600590767257434,
+      "eigenvector_centrality": 0.21470785638161938
+    },
+    {
+      "id": "agent",
+      "label": "agent",
+      "weight": 6.799368836557835,
+      "degree_centrality": 0.9642857142857142,
+      "betweenness_centrality": 0.031039235602727675,
+      "eigenvector_centrality": 0.24026457175150626
+    },
+    {
+      "id": "graph",
+      "label": "graph",
+      "weight": 6.495976055446208,
+      "degree_centrality": 0.8928571428571428,
+      "betweenness_centrality": 0.021728154267836804,
+      "eigenvector_centrality": 0.22837789180614812
+    },
+    {
+      "id": "domain",
+      "label": "domain",
+      "weight": 6.14352885286955,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.008266204694776123,
+      "eigenvector_centrality": 0.1837062158826592
+    },
+    {
+      "id": "accuracy",
+      "label": "accuracy",
+      "weight": 5.640486533904519,
+      "degree_centrality": 0.5,
+      "betweenness_centrality": 0.004835067930306025,
+      "eigenvector_centrality": 0.13399559630602131
+    },
+    {
+      "id": "schema",
+      "label": "schema",
+      "weight": 5.634621696471103,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0065158973889132615,
+      "eigenvector_centrality": 0.15252077859076152
+    },
+    {
+      "id": "stojanov",
+      "label": "stojanov",
+      "weight": 5.337720402921773,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.12805134164117785
+    },
+    {
+      "id": "knowledge graph",
+      "label": "knowledge graph",
+      "weight": 5.131301264326394,
+      "degree_centrality": 0.7857142857142857,
+      "betweenness_centrality": 0.010630852099106067,
+      "eigenvector_centrality": 0.2104147423529662
+    },
+    {
+      "id": "databases",
+      "label": "databases",
+      "weight": 5.092060796681804,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.008728235315536903,
+      "eigenvector_centrality": 0.1948624494736848
+    },
+    {
+      "id": "tables",
+      "label": "tables",
+      "weight": 4.550968515009953,
+      "degree_centrality": 0.46428571428571425,
+      "betweenness_centrality": 0.0005814291528577243,
+      "eigenvector_centrality": 0.13915546429736408
+    },
+    {
+      "id": "spider",
+      "label": "spider",
+      "weight": 4.4963740171154525,
+      "degree_centrality": 0.3571428571428571,
+      "betweenness_centrality": 0.0016567794345572124,
+      "eigenvector_centrality": 0.09791587409887864
+    },
+    {
+      "id": "systems",
+      "label": "systems",
+      "weight": 4.432667205926014,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.0005542957923910304,
+      "eigenvector_centrality": 0.15904125021085921
+    },
+    {
+      "id": "high",
+      "label": "high",
+      "weight": 4.41269871740376,
+      "degree_centrality": 0.42857142857142855,
+      "betweenness_centrality": 0.0016859830351893842,
+      "eigenvector_centrality": 0.11962902162532044
+    },
+    {
+      "id": "integration",
+      "label": "integration",
+      "weight": 4.391654817534374,
+      "degree_centrality": 0.6785714285714285,
+      "betweenness_centrality": 0.00703738501357549,
+      "eigenvector_centrality": 0.1855197936072391
+    },
+    {
+      "id": "multi",
+      "label": "multi",
+      "weight": 4.294229813052986,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.03795953458651871,
+      "eigenvector_centrality": 0.24485362737256372
+    },
+    {
+      "id": "using",
+      "label": "using",
+      "weight": 3.9526322509599354,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.012756071089404422,
+      "eigenvector_centrality": 0.1886734602264868
+    },
+    {
+      "id": "knowledge graphs",
+      "label": "knowledge graphs",
+      "weight": 3.948407681211265,
+      "degree_centrality": 0.6428571428571428,
+      "betweenness_centrality": 0.004129820796487463,
+      "eigenvector_centrality": 0.17896528240549056
+    },
+    {
+      "id": "models",
+      "label": "models",
+      "weight": 3.821926098070362,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.0023136328691884247,
+      "eigenvector_centrality": 0.16379145984044816
+    },
+    {
+      "id": "llms",
+      "label": "llms",
+      "weight": 3.617346594719136,
+      "degree_centrality": 0.5357142857142857,
+      "betweenness_centrality": 0.0026550756709486866,
+      "eigenvector_centrality": 0.15287939791172991
+    },
+    {
+      "id": "data integration",
+      "label": "data integration",
+      "weight": 3.1127403933653777,
+      "degree_centrality": 0.5714285714285714,
+      "betweenness_centrality": 0.003257310003341749,
+      "eigenvector_centrality": 0.16265337481474373
+    },
+    {
+      "id": "vector",
+      "label": "vector",
+      "weight": 2.9798280657237903,
+      "degree_centrality": 0.39285714285714285,
+      "betweenness_centrality": 0.00018896447467876037,
+      "eigenvector_centrality": 0.11537895025870705
+    },
+    {
+      "id": "relational",
+      "label": "relational",
+      "weight": 2.896776485269289,
+      "degree_centrality": 0.7142857142857142,
+      "betweenness_centrality": 0.010787764557605826,
+      "eigenvector_centrality": 0.191014281147384
+    },
+    {
+      "id": "store",
+      "label": "store",
+      "weight": 2.739192403923627,
+      "degree_centrality": 0.39285714285714285,
+      "betweenness_centrality": 0.00018896447467876037,
+      "eigenvector_centrality": 0.11537895025870705
+    }
+  ],
+  "edges": [
+    {
+      "source": "data",
+      "target": "knowledge",
+      "weight": 13
+    },
+    {
+      "source": "data",
+      "target": "semantic",
+      "weight": 19
+    },
+    {
+      "source": "data",
+      "target": "mapping",
+      "weight": 10
+    },
+    {
+      "source": "data",
+      "target": "trajanoska",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "graphs",
+      "weight": 8
+    },
+    {
+      "source": "data",
+      "target": "agent",
+      "weight": 15
+    },
+    {
+      "source": "data",
+      "target": "graph",
+      "weight": 14
+    },
+    {
+      "source": "data",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "knowledge graph",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "multi",
+      "weight": 15
+    },
+    {
+      "source": "data",
+      "target": "knowledge graphs",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "relational",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "databases",
+      "weight": 11
+    },
+    {
+      "source": "data",
+      "target": "systems",
+      "weight": 3
+    },
+    {
+      "source": "data",
+      "target": "agents",
+      "weight": 9
+    },
+    {
+      "source": "data",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "schema",
+      "weight": 5
+    },
+    {
+      "source": "data",
+      "target": "tables",
+      "weight": 4
+    },
+    {
+      "source": "data",
+      "target": "integration",
+      "weight": 8
+    },
+    {
+      "source": "data",
+      "target": "data integration",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "llms",
+      "weight": 2
+    },
+    {
+      "source": "data",
+      "target": "domain",
+      "weight": 10
+    },
+    {
+      "source": "data",
+      "target": "spider",
+      "weight": 6
+    },
+    {
+      "source": "data",
+      "target": "high",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "vector",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "store",
+      "weight": 1
+    },
+    {
+      "source": "data",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "knowledge",
+      "target": "semantic",
+      "weight": 10
+    },
+    {
+      "source": "knowledge",
+      "target": "mapping",
+      "weight": 5
+    },
+    {
+      "source": "knowledge",
+      "target": "trajanoska",
+      "weight": 3
+    },
+    {
+      "source": "knowledge",
+      "target": "graphs",
+      "weight": 11
+    },
+    {
+      "source": "knowledge",
+      "target": "agent",
+      "weight": 13
+    },
+    {
+      "source": "knowledge",
+      "target": "graph",
+      "weight": 24
+    },
+    {
+      "source": "knowledge",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "knowledge",
+      "target": "knowledge graph",
+      "weight": 17
+    },
+    {
+      "source": "knowledge",
+      "target": "multi",
+      "weight": 6
+    },
+    {
+      "source": "knowledge",
+      "target": "knowledge graphs",
+      "weight": 8
+    },
+    {
+      "source": "knowledge",
+      "target": "relational",
+      "weight": 3
+    },
+    {
+      "source": "knowledge",
+      "target": "agents",
+      "weight": 8
+    },
+    {
+      "source": "knowledge",
+      "target": "databases",
+      "weight": 3
+    },
+    {
+      "source": "knowledge",
+      "target": "systems",
+      "weight": 4
+    },
+    {
+      "source": "knowledge",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "knowledge",
+      "target": "models",
+      "weight": 4
+    },
+    {
+      "source": "knowledge",
+      "target": "llms",
+      "weight": 3
+    },
+    {
+      "source": "knowledge",
+      "target": "integration",
+      "weight": 5
+    },
+    {
+      "source": "knowledge",
+      "target": "high",
+      "weight": 1
+    },
+    {
+      "source": "knowledge",
+      "target": "data integration",
+      "weight": 3
+    },
+    {
+      "source": "knowledge",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "knowledge",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "knowledge",
+      "target": "tables",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "mapping",
+      "weight": 12
+    },
+    {
+      "source": "semantic",
+      "target": "trajanoska",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "graphs",
+      "weight": 8
+    },
+    {
+      "source": "semantic",
+      "target": "agent",
+      "weight": 15
+    },
+    {
+      "source": "semantic",
+      "target": "graph",
+      "weight": 15
+    },
+    {
+      "source": "semantic",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "knowledge graph",
+      "weight": 6
+    },
+    {
+      "source": "semantic",
+      "target": "multi",
+      "weight": 10
+    },
+    {
+      "source": "semantic",
+      "target": "knowledge graphs",
+      "weight": 4
+    },
+    {
+      "source": "semantic",
+      "target": "relational",
+      "weight": 7
+    },
+    {
+      "source": "semantic",
+      "target": "agents",
+      "weight": 8
+    },
+    {
+      "source": "semantic",
+      "target": "databases",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "systems",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "using",
+      "weight": 4
+    },
+    {
+      "source": "semantic",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "schema",
+      "weight": 5
+    },
+    {
+      "source": "semantic",
+      "target": "tables",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "integration",
+      "weight": 5
+    },
+    {
+      "source": "semantic",
+      "target": "llms",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "domain",
+      "weight": 4
+    },
+    {
+      "source": "semantic",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "semantic",
+      "target": "high",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "data integration",
+      "weight": 2
+    },
+    {
+      "source": "semantic",
+      "target": "vector",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "store",
+      "weight": 3
+    },
+    {
+      "source": "semantic",
+      "target": "spider",
+      "weight": 2
+    },
+    {
+      "source": "mapping",
+      "target": "trajanoska",
+      "weight": 1
+    },
+    {
+      "source": "mapping",
+      "target": "graphs",
+      "weight": 4
+    },
+    {
+      "source": "mapping",
+      "target": "agent",
+      "weight": 14
+    },
+    {
+      "source": "mapping",
+      "target": "graph",
+      "weight": 8
+    },
+    {
+      "source": "mapping",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "mapping",
+      "target": "knowledge graph",
+      "weight": 5
+    },
+    {
+      "source": "mapping",
+      "target": "multi",
+      "weight": 9
+    },
+    {
+      "source": "mapping",
+      "target": "knowledge graphs",
+      "weight": 2
+    },
+    {
+      "source": "mapping",
+      "target": "relational",
+      "weight": 3
+    },
+    {
+      "source": "mapping",
+      "target": "agents",
+      "weight": 5
+    },
+    {
+      "source": "mapping",
+      "target": "databases",
+      "weight": 3
+    },
+    {
+      "source": "mapping",
+      "target": "systems",
+      "weight": 1
+    },
+    {
+      "source": "mapping",
+      "target": "using",
+      "weight": 3
+    },
+    {
+      "source": "mapping",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "mapping",
+      "target": "accuracy",
+      "weight": 6
+    },
+    {
+      "source": "mapping",
+      "target": "schema",
+      "weight": 7
+    },
+    {
+      "source": "mapping",
+      "target": "integration",
+      "weight": 3
+    },
+    {
+      "source": "mapping",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "mapping",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "mapping",
+      "target": "tables",
+      "weight": 2
+    },
+    {
+      "source": "mapping",
+      "target": "domain",
+      "weight": 4
+    },
+    {
+      "source": "mapping",
+      "target": "high",
+      "weight": 4
+    },
+    {
+      "source": "mapping",
+      "target": "vector",
+      "weight": 3
+    },
+    {
+      "source": "mapping",
+      "target": "store",
+      "weight": 3
+    },
+    {
+      "source": "mapping",
+      "target": "spider",
+      "weight": 3
+    },
+    {
+      "source": "trajanoska",
+      "target": "graphs",
+      "weight": 1
+    },
+    {
+      "source": "trajanoska",
+      "target": "agent",
+      "weight": 3
+    },
+    {
+      "source": "trajanoska",
+      "target": "graph",
+      "weight": 3
+    },
+    {
+      "source": "trajanoska",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "trajanoska",
+      "target": "knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "trajanoska",
+      "target": "multi",
+      "weight": 1
+    },
+    {
+      "source": "trajanoska",
+      "target": "knowledge graphs",
+      "weight": 1
+    },
+    {
+      "source": "trajanoska",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "trajanoska",
+      "target": "agents",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "graphs",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "agent",
+      "weight": 18
+    },
+    {
+      "source": "agents",
+      "target": "graph",
+      "weight": 8
+    },
+    {
+      "source": "agents",
+      "target": "knowledge graph",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "databases",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "systems",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "multi",
+      "weight": 6
+    },
+    {
+      "source": "agents",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "knowledge graphs",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "schema",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "tables",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "relational",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "integration",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "high",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "vector",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "store",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "domain",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "graphs",
+      "target": "agent",
+      "weight": 5
+    },
+    {
+      "source": "graphs",
+      "target": "graph",
+      "weight": 16
+    },
+    {
+      "source": "graphs",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "graphs",
+      "target": "knowledge graph",
+      "weight": 9
+    },
+    {
+      "source": "graphs",
+      "target": "multi",
+      "weight": 5
+    },
+    {
+      "source": "graphs",
+      "target": "knowledge graphs",
+      "weight": 8
+    },
+    {
+      "source": "graphs",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "graphs",
+      "target": "databases",
+      "weight": 1
+    },
+    {
+      "source": "graphs",
+      "target": "systems",
+      "weight": 2
+    },
+    {
+      "source": "graphs",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "graphs",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "graphs",
+      "target": "domain",
+      "weight": 3
+    },
+    {
+      "source": "graphs",
+      "target": "integration",
+      "weight": 2
+    },
+    {
+      "source": "graphs",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "graphs",
+      "target": "vector",
+      "weight": 3
+    },
+    {
+      "source": "graphs",
+      "target": "store",
+      "weight": 3
+    },
+    {
+      "source": "graphs",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "agent",
+      "target": "graph",
+      "weight": 14
+    },
+    {
+      "source": "agent",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "agent",
+      "target": "knowledge graph",
+      "weight": 9
+    },
+    {
+      "source": "agent",
+      "target": "multi",
+      "weight": 15
+    },
+    {
+      "source": "agent",
+      "target": "knowledge graphs",
+      "weight": 4
+    },
+    {
+      "source": "agent",
+      "target": "relational",
+      "weight": 5
+    },
+    {
+      "source": "agent",
+      "target": "databases",
+      "weight": 4
+    },
+    {
+      "source": "agent",
+      "target": "systems",
+      "weight": 1
+    },
+    {
+      "source": "agent",
+      "target": "using",
+      "weight": 3
+    },
+    {
+      "source": "agent",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "agent",
+      "target": "schema",
+      "weight": 3
+    },
+    {
+      "source": "agent",
+      "target": "tables",
+      "weight": 3
+    },
+    {
+      "source": "agent",
+      "target": "integration",
+      "weight": 5
+    },
+    {
+      "source": "agent",
+      "target": "domain",
+      "weight": 4
+    },
+    {
+      "source": "agent",
+      "target": "accuracy",
+      "weight": 4
+    },
+    {
+      "source": "agent",
+      "target": "high",
+      "weight": 5
+    },
+    {
+      "source": "agent",
+      "target": "data integration",
+      "weight": 2
+    },
+    {
+      "source": "agent",
+      "target": "vector",
+      "weight": 1
+    },
+    {
+      "source": "agent",
+      "target": "store",
+      "weight": 1
+    },
+    {
+      "source": "agent",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "graph",
+      "target": "stojanov",
+      "weight": 1
+    },
+    {
+      "source": "graph",
+      "target": "knowledge graph",
+      "weight": 17
+    },
+    {
+      "source": "graph",
+      "target": "multi",
+      "weight": 8
+    },
+    {
+      "source": "graph",
+      "target": "knowledge graphs",
+      "weight": 8
+    },
+    {
+      "source": "graph",
+      "target": "relational",
+      "weight": 4
+    },
+    {
+      "source": "graph",
+      "target": "databases",
+      "weight": 3
+    },
+    {
+      "source": "graph",
+      "target": "systems",
+      "weight": 3
+    },
+    {
+      "source": "graph",
+      "target": "using",
+      "weight": 6
+    },
+    {
+      "source": "graph",
+      "target": "models",
+      "weight": 3
+    },
+    {
+      "source": "graph",
+      "target": "llms",
+      "weight": 2
+    },
+    {
+      "source": "graph",
+      "target": "integration",
+      "weight": 5
+    },
+    {
+      "source": "graph",
+      "target": "data integration",
+      "weight": 3
+    },
+    {
+      "source": "graph",
+      "target": "domain",
+      "weight": 3
+    },
+    {
+      "source": "graph",
+      "target": "vector",
+      "weight": 6
+    },
+    {
+      "source": "graph",
+      "target": "store",
+      "weight": 5
+    },
+    {
+      "source": "graph",
+      "target": "schema",
+      "weight": 1
+    },
+    {
+      "source": "graph",
+      "target": "tables",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "databases",
+      "weight": 4
+    },
+    {
+      "source": "domain",
+      "target": "spider",
+      "weight": 7
+    },
+    {
+      "source": "domain",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "accuracy",
+      "weight": 5
+    },
+    {
+      "source": "domain",
+      "target": "high",
+      "weight": 3
+    },
+    {
+      "source": "domain",
+      "target": "integration",
+      "weight": 2
+    },
+    {
+      "source": "domain",
+      "target": "multi",
+      "weight": 7
+    },
+    {
+      "source": "domain",
+      "target": "knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "domain",
+      "target": "tables",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "multi",
+      "weight": 4
+    },
+    {
+      "source": "accuracy",
+      "target": "high",
+      "weight": 4
+    },
+    {
+      "source": "accuracy",
+      "target": "integration",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "schema",
+      "weight": 1
+    },
+    {
+      "source": "accuracy",
+      "target": "spider",
+      "weight": 2
+    },
+    {
+      "source": "schema",
+      "target": "databases",
+      "weight": 1
+    },
+    {
+      "source": "schema",
+      "target": "tables",
+      "weight": 2
+    },
+    {
+      "source": "schema",
+      "target": "multi",
+      "weight": 2
+    },
+    {
+      "source": "schema",
+      "target": "relational",
+      "weight": 3
+    },
+    {
+      "source": "schema",
+      "target": "integration",
+      "weight": 2
+    },
+    {
+      "source": "schema",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "schema",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "schema",
+      "target": "vector",
+      "weight": 1
+    },
+    {
+      "source": "schema",
+      "target": "store",
+      "weight": 1
+    },
+    {
+      "source": "stojanov",
+      "target": "knowledge graph",
+      "weight": 1
+    },
+    {
+      "source": "stojanov",
+      "target": "multi",
+      "weight": 1
+    },
+    {
+      "source": "stojanov",
+      "target": "knowledge graphs",
+      "weight": 1
+    },
+    {
+      "source": "stojanov",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "knowledge graph",
+      "target": "multi",
+      "weight": 4
+    },
+    {
+      "source": "knowledge graph",
+      "target": "knowledge graphs",
+      "weight": 8
+    },
+    {
+      "source": "knowledge graph",
+      "target": "relational",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "databases",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "systems",
+      "weight": 3
+    },
+    {
+      "source": "knowledge graph",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "llms",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "integration",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "data integration",
+      "weight": 2
+    },
+    {
+      "source": "knowledge graph",
+      "target": "tables",
+      "weight": 1
+    },
+    {
+      "source": "databases",
+      "target": "systems",
+      "weight": 2
+    },
+    {
+      "source": "databases",
+      "target": "multi",
+      "weight": 8
+    },
+    {
+      "source": "databases",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "databases",
+      "target": "knowledge graphs",
+      "weight": 1
+    },
+    {
+      "source": "databases",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "databases",
+      "target": "tables",
+      "weight": 3
+    },
+    {
+      "source": "databases",
+      "target": "relational",
+      "weight": 2
+    },
+    {
+      "source": "databases",
+      "target": "integration",
+      "weight": 1
+    },
+    {
+      "source": "databases",
+      "target": "spider",
+      "weight": 3
+    },
+    {
+      "source": "tables",
+      "target": "multi",
+      "weight": 2
+    },
+    {
+      "source": "tables",
+      "target": "relational",
+      "weight": 2
+    },
+    {
+      "source": "spider",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "spider",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "spider",
+      "target": "multi",
+      "weight": 2
+    },
+    {
+      "source": "spider",
+      "target": "high",
+      "weight": 1
+    },
+    {
+      "source": "systems",
+      "target": "multi",
+      "weight": 2
+    },
+    {
+      "source": "systems",
+      "target": "using",
+      "weight": 1
+    },
+    {
+      "source": "systems",
+      "target": "knowledge graphs",
+      "weight": 2
+    },
+    {
+      "source": "systems",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "systems",
+      "target": "integration",
+      "weight": 1
+    },
+    {
+      "source": "high",
+      "target": "integration",
+      "weight": 2
+    },
+    {
+      "source": "high",
+      "target": "multi",
+      "weight": 3
+    },
+    {
+      "source": "high",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "integration",
+      "target": "data integration",
+      "weight": 6
+    },
+    {
+      "source": "integration",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "integration",
+      "target": "multi",
+      "weight": 3
+    },
+    {
+      "source": "integration",
+      "target": "relational",
+      "weight": 2
+    },
+    {
+      "source": "multi",
+      "target": "knowledge graphs",
+      "weight": 3
+    },
+    {
+      "source": "multi",
+      "target": "relational",
+      "weight": 4
+    },
+    {
+      "source": "multi",
+      "target": "using",
+      "weight": 2
+    },
+    {
+      "source": "multi",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "multi",
+      "target": "vector",
+      "weight": 1
+    },
+    {
+      "source": "multi",
+      "target": "store",
+      "weight": 1
+    },
+    {
+      "source": "multi",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "multi",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "knowledge graphs",
+      "weight": 2
+    },
+    {
+      "source": "using",
+      "target": "models",
+      "weight": 2
+    },
+    {
+      "source": "using",
+      "target": "vector",
+      "weight": 2
+    },
+    {
+      "source": "using",
+      "target": "store",
+      "weight": 1
+    },
+    {
+      "source": "using",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "knowledge graphs",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "knowledge graphs",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "knowledge graphs",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "models",
+      "target": "llms",
+      "weight": 4
+    },
+    {
+      "source": "llms",
+      "target": "data integration",
+      "weight": 1
+    },
+    {
+      "source": "data integration",
+      "target": "relational",
+      "weight": 1
+    },
+    {
+      "source": "vector",
+      "target": "store",
+      "weight": 5
+    }
+  ],
+  "metadata": {
+    "node_count": 29,
+    "edge_count": 274,
+    "is_connected": true
+  }
+}

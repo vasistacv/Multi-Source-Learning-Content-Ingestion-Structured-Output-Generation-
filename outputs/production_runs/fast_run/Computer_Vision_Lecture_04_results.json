@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_04.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:47:57.159723",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\documents\\notes\\Computer_Vision_Lecture_04.txt",
+    "file_type": ".txt",
+    "file_size": 2460,
+    "processed_at": "2026-01-17T13:47:55.880171",
+    "content_hash": "a88a40759e4f1f3e8c5edfa380421f147b9a3c793f3c242ceeee2281650b5f34",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 312,
+    "metadata": {
+      "line_count": 85,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Segmentation",
+    "Semantic",
+    "Semantic Segmentation",
+    "Lecture",
+    "Fcn Net"
+  ],
+  "key_concepts": [
+    "segmentation",
+    "semantic",
+    "semantic segmentation",
+    "lecture",
+    "real",
+    "implementation",
+    "implement",
+    "computer",
+    "computer vision",
+    "vision",
+    "deeplab",
+    "fcn",
+    "fcn net",
+    "fcn net deeplab",
+    "net"
+  ],
+  "entity_count": 72,
+  "word_count": 312,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 25,
+      "edge_count": 233,
+      "density": 0.7766666666666666,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.2233333333333334,
+      "average_clustering": 0.9111310428701733,
+      "most_central_concepts": [
+        [
+          "segmentation",
+          1.0
+        ],
+        [
+          "semantic",
+          1.0
+        ],
+        [
+          "semantic segmentation",
+          1.0
+        ],
+        [
+          "lecture",
+          0.9583333333333333
+        ],
+        [
+          "real",
+          0.9583333333333333
+        ],
+        [
+          "implementation",
+          0.9583333333333333
+        ],
+        [
+          "implement",
+          0.9583333333333333
+        ],
+        [
+          "applications",
+          0.9583333333333333
+        ],
+        [
+          "world",
+          0.9583333333333333
+        ],
+        [
+          "computer",
+          0.75
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "segmentation",
+        "semantic"
+      ],
+      [
+        "segmentation",
+        "semantic segmentation"
+      ],
+      [
+        "segmentation",
+        "lecture"
+      ],
+      [
+        "segmentation",
+        "real"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Computer_Vision_Lecture_04"
+  },
+  "rag_document_id": "d61625ae-2436-4c12-849c-95e562006484",
+  "processing_time_seconds": 4.104866
+}

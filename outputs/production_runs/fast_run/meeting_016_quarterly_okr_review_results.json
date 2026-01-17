@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_016_quarterly_okr_review.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:37:51.109045",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_016_quarterly_okr_review.txt",
+    "file_type": ".txt",
+    "file_size": 79,
+    "processed_at": "2026-01-17T13:37:49.852218",
+    "content_hash": "f834b1480185a2692126951bb36ba448a59f587d2cd7c5f55954262fea8919a4",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 12,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 3,
+  "word_count": 12,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_016_quarterly_okr_review"
+  },
+  "rag_document_id": "8c9999a0-677e-48c1-bc56-ad9621b2e0aa",
+  "processing_time_seconds": 4.047475
+}

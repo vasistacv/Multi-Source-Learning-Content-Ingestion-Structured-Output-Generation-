@@ -1,0 +1,13 @@
+{
+  "dataset_name": "fraud_detection_transactions",
+  "rows": 2000,
+  "columns": [
+    "transaction_id",
+    "amount",
+    "merchant",
+    "timestamp",
+    "is_fraud"
+  ],
+  "description": "Synthetic dataset for fraud detection transactions",
+  "source": "Generated for ML training"
+}

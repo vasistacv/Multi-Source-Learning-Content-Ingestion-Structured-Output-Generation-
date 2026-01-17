@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_013_onboarding.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:37:00.291540",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_013_onboarding.txt",
+    "file_type": ".txt",
+    "file_size": 1663,
+    "processed_at": "2026-01-17T13:36:58.923438",
+    "content_hash": "9b7385448a5ca67088e43eb30ee039d463a4a64da544afca594c15d433f733d5",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 214,
+    "metadata": {
+      "line_count": 53,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Best",
+    "Best Practices",
+    "Practices",
+    "Training",
+    "Tools"
+  ],
+  "key_concepts": [
+    "discussed",
+    "best",
+    "best practices",
+    "practices",
+    "alice",
+    "training",
+    "bob",
+    "documentation",
+    "tools",
+    "charlie",
+    "meeting",
+    "team",
+    "items",
+    "follow",
+    "progress"
+  ],
+  "entity_count": 41,
+  "word_count": 214,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 27,
+      "edge_count": 224,
+      "density": 0.6381766381766382,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.3646723646723646,
+      "average_clustering": 0.894684225757198,
+      "most_central_concepts": [
+        [
+          "discussion",
+          0.9615384615384616
+        ],
+        [
+          "team",
+          0.8846153846153847
+        ],
+        [
+          "best",
+          0.8461538461538463
+        ],
+        [
+          "best practices",
+          0.8461538461538463
+        ],
+        [
+          "practices",
+          0.8461538461538463
+        ],
+        [
+          "training",
+          0.8076923076923077
+        ],
+        [
+          "documentation",
+          0.8076923076923077
+        ],
+        [
+          "meeting",
+          0.8076923076923077
+        ],
+        [
+          "01",
+          0.8076923076923077
+        ],
+        [
+          "2026",
+          0.8076923076923077
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "discussion",
+        "team"
+      ],
+      [
+        "discussion",
+        "best"
+      ],
+      [
+        "discussion",
+        "best practices"
+      ],
+      [
+        "discussion",
+        "practices"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_013_onboarding"
+  },
+  "rag_document_id": "36e3ef22-b932-4f0e-b933-f52d528216e9",
+  "processing_time_seconds": 4.129825
+}

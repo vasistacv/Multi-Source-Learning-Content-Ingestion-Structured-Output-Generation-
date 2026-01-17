@@ -1,0 +1,39 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_020_diversity_&_inclusion_initiative.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:39:29.712633",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\meetings\\meeting_020_diversity_&_inclusion_initiative.txt",
+    "file_type": ".txt",
+    "file_size": 94,
+    "processed_at": "2026-01-17T13:39:28.439245",
+    "content_hash": "872b3817b0459f6c6b570c1531dad037179d9128a57abd0be058be62ca382fa3",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 13,
+    "metadata": {
+      "line_count": 2,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [],
+  "key_concepts": [],
+  "entity_count": 2,
+  "word_count": 13,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 0,
+      "edge_count": 0,
+      "density": 0,
+      "is_connected": false
+    },
+    "learning_paths": [],
+    "output_directory": "outputs\\knowledge_graphs\\meeting_020_diversity_&_inclusion_initiative"
+  },
+  "rag_document_id": "2fd7effb-9147-4103-87fe-a8818468c9f4",
+  "processing_time_seconds": 3.959565
+}

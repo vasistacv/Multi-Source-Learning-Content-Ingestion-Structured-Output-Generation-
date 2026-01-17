@@ -1,7 +1,12 @@
 from typing import List, Dict, Any, Optional
 from abc import ABC, abstractmethod
-import chromadb
-from chromadb.config import Settings
+try:
+    import chromadb
+    from chromadb.config import Settings
+    CHROMADB_AVAILABLE = True
+except ImportError:
+    CHROMADB_AVAILABLE = False
+    
 import faiss
 import numpy as np
 from pathlib import Path
@@ -109,7 +114,7 @@ class ChromaDBStore(BaseVectorStore):
 
 
 class FAISSStore(BaseVectorStore):
-    def __init__(self, dimension: int = 768, index_type: str = "FlatL2"):
+    def __init__(self, dimension: int = 384, index_type: str = "FlatL2"):
         self.dimension = dimension
         self.index_type = index_type
         
@@ -184,7 +189,7 @@ class FAISSStore(BaseVectorStore):
         logger.warning("FAISS index rebuilt after deletion")
     
     def save(self, path: Path):
-        path.parent.mkdir(parents=True, exist_ok=True)
+        path.mkdir(parents=True, exist_ok=True)
         
         faiss.write_index(self.index, str(path / "index.faiss"))
         
@@ -219,8 +224,12 @@ class VectorStoreFactory:
         store_type = store_type or settings.VECTOR_DB_TYPE
         
         if store_type == "chromadb":
+            if not CHROMADB_AVAILABLE:
+                logger.warning("ChromaDB not available, falling back to FAISS")
+                return FAISSStore(**kwargs)
             return ChromaDBStore(**kwargs)
         elif store_type == "faiss":
             return FAISSStore(**kwargs)
         else:
             raise ValueError(f"Unknown vector store type: {store_type}")
+

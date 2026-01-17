@@ -1,0 +1,123 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Natural_Language_Processing_Tutorial.txt",
+  "file_type": ".txt",
+  "processed_at": "2026-01-17T13:40:16.839036",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\transcripts\\videos\\Natural_Language_Processing_Tutorial.txt",
+    "file_type": ".txt",
+    "file_size": 667,
+    "processed_at": "2026-01-17T13:40:15.509585",
+    "content_hash": "ad8afcf827def82992e3db5ad534310997de679a8bc90b72b23b5544be6d0ca9",
+    "language": null,
+    "page_count": null,
+    "duration": null,
+    "word_count": 74,
+    "metadata": {
+      "line_count": 20,
+      "is_markdown": false
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Nlp",
+    "Transformers",
+    "Attention",
+    "Bender",
+    "Emily"
+  ],
+  "key_concepts": [
+    "transformers",
+    "nlp",
+    "attention",
+    "bender",
+    "emily",
+    "emily bender",
+    "dr",
+    "transcript",
+    "video",
+    "38",
+    "38 45",
+    "45",
+    "recording",
+    "lecture",
+    "00"
+  ],
+  "entity_count": 17,
+  "word_count": 74,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 18,
+      "edge_count": 99,
+      "density": 0.6470588235294118,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.4313725490196079,
+      "average_clustering": 0.8765160765160764,
+      "most_central_concepts": [
+        [
+          "dr",
+          0.8235294117647058
+        ],
+        [
+          "transcript",
+          0.8235294117647058
+        ],
+        [
+          "video",
+          0.8235294117647058
+        ],
+        [
+          "lecture",
+          0.8235294117647058
+        ],
+        [
+          "bender",
+          0.7647058823529411
+        ],
+        [
+          "emily",
+          0.7647058823529411
+        ],
+        [
+          "emily bender",
+          0.7647058823529411
+        ],
+        [
+          "38",
+          0.7058823529411764
+        ],
+        [
+          "45",
+          0.7058823529411764
+        ],
+        [
+          "recording",
+          0.7058823529411764
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "dr",
+        "transcript"
+      ],
+      [
+        "dr",
+        "video"
+      ],
+      [
+        "dr",
+        "lecture"
+      ],
+      [
+        "dr",
+        "bender"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\Natural_Language_Processing_Tutorial"
+  },
+  "rag_document_id": "9ecf826e-5b49-4c94-97a8-3a216e33068a",
+  "processing_time_seconds": 4.070595
+}

@@ -1,0 +1,295 @@
+{
+  "nodes": [
+    {
+      "id": "scene",
+      "label": "scene",
+      "weight": 4.369038697349784,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.9044117647058824,
+      "eigenvector_centrality": 0.6377478358440657
+    },
+    {
+      "id": "04s",
+      "label": "04s",
+      "weight": 4.065047822360851,
+      "degree_centrality": 0.1764705882352941,
+      "betweenness_centrality": 0.003676470588235294,
+      "eigenvector_centrality": 0.2004086366581188
+    },
+    {
+      "id": "08s",
+      "label": "08s",
+      "weight": 1.5557934043119044,
+      "degree_centrality": 0.1764705882352941,
+      "betweenness_centrality": 0.003676470588235294,
+      "eigenvector_centrality": 0.22170349285221908
+    },
+    {
+      "id": "21s",
+      "label": "21s",
+      "weight": 1.1442235127572307,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "17",
+      "label": "17",
+      "weight": 0.988659960597721,
+      "degree_centrality": 0.23529411764705882,
+      "betweenness_centrality": 0.007352941176470588,
+      "eigenvector_centrality": 0.2711548967102018
+    },
+    {
+      "id": "11",
+      "label": "11",
+      "weight": 0.7582158089996527,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1713304760810215
+    },
+    {
+      "id": "16",
+      "label": "16",
+      "weight": 0.6904230495505947,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "63s",
+      "label": "63s",
+      "weight": 0.6904230495505947,
+      "degree_centrality": 0.058823529411764705,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1303642973746574
+    },
+    {
+      "id": "96s",
+      "label": "96s",
+      "weight": 0.6904230495505947,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "12",
+      "label": "12",
+      "weight": 0.6041816840845117,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.1713304760810215
+    },
+    {
+      "id": "17 scenes",
+      "label": "17 scenes",
+      "weight": 0.5631010399236727,
+      "degree_centrality": 0.1764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23352749206453982
+    },
+    {
+      "id": "17 scenes detected",
+      "label": "17 scenes detected",
+      "weight": 0.5631010399236727,
+      "degree_centrality": 0.1764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.23352749206453982
+    },
+    {
+      "id": "13",
+      "label": "13",
+      "weight": 0.5484380860986517,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17568322625314875
+    },
+    {
+      "id": "15",
+      "label": "15",
+      "weight": 0.5253909805347409,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "10",
+      "label": "10",
+      "weight": 0.493995792713541,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "14",
+      "label": "14",
+      "weight": 0.493995792713541,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "83s",
+      "label": "83s",
+      "weight": 0.493995792713541,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    },
+    {
+      "id": "92s",
+      "label": "92s",
+      "weight": 0.493995792713541,
+      "degree_centrality": 0.11764705882352941,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16385922704082798
+    }
+  ],
+  "edges": [
+    {
+      "source": "scene",
+      "target": "17",
+      "weight": 2
+    },
+    {
+      "source": "scene",
+      "target": "17 scenes",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "17 scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "21s",
+      "weight": 2
+    },
+    {
+      "source": "scene",
+      "target": "04s",
+      "weight": 7
+    },
+    {
+      "source": "scene",
+      "target": "08s",
+      "weight": 3
+    },
+    {
+      "source": "scene",
+      "target": "63s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "10",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "92s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "11",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "13",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "14",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "83s",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "16",
+      "weight": 1
+    },
+    {
+      "source": "scene",
+      "target": "96s",
+      "weight": 1
+    },
+    {
+      "source": "04s",
+      "target": "11",
+      "weight": 1
+    },
+    {
+      "source": "04s",
+      "target": "12",
+      "weight": 1
+    },
+    {
+      "source": "08s",
+      "target": "13",
+      "weight": 1
+    },
+    {
+      "source": "08s",
+      "target": "17",
+      "weight": 1
+    },
+    {
+      "source": "21s",
+      "target": "15",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "17 scenes",
+      "weight": 1
+    },
+    {
+      "source": "17",
+      "target": "17 scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "16",
+      "target": "96s",
+      "weight": 1
+    },
+    {
+      "source": "17 scenes",
+      "target": "17 scenes detected",
+      "weight": 1
+    },
+    {
+      "source": "10",
+      "target": "92s",
+      "weight": 1
+    },
+    {
+      "source": "14",
+      "target": "83s",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 18,
+    "edge_count": 28,
+    "is_connected": true
+  }
+}

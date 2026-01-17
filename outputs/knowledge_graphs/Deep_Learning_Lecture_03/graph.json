@@ -1,0 +1,1348 @@
+{
+  "nodes": [
+    {
+      "id": "optimization",
+      "label": "optimization",
+      "weight": 2.725106400827413,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020032339202299687,
+      "eigenvector_centrality": 0.2346449637141936
+    },
+    {
+      "id": "optimization algorithms",
+      "label": "optimization algorithms",
+      "weight": 2.646580914497318,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020032339202299687,
+      "eigenvector_centrality": 0.2346449637141936
+    },
+    {
+      "id": "algorithms",
+      "label": "algorithms",
+      "weight": 2.6412050033435577,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020032339202299687,
+      "eigenvector_centrality": 0.2346449637141936
+    },
+    {
+      "id": "lecture",
+      "label": "lecture",
+      "weight": 2.2315185979242167,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920825
+    },
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 2.1183536971479326,
+      "degree_centrality": 1.0,
+      "betweenness_centrality": 0.020032339202299687,
+      "eigenvector_centrality": 0.2346449637141936
+    },
+    {
+      "id": "real",
+      "label": "real",
+      "weight": 1.33034569093954,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920825
+    },
+    {
+      "id": "deep",
+      "label": "deep",
+      "weight": 1.191586144189773,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16268488843024903
+    },
+    {
+      "id": "deep learning",
+      "label": "deep learning",
+      "weight": 1.191586144189773,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16268488843024903
+    },
+    {
+      "id": "implement",
+      "label": "implement",
+      "weight": 1.0640534797453878,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920825
+    },
+    {
+      "id": "implementation",
+      "label": "implementation",
+      "weight": 0.973680449961118,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920825
+    },
+    {
+      "id": "performance",
+      "label": "performance",
+      "weight": 0.8403936155738327,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16268488843024906
+    },
+    {
+      "id": "adam",
+      "label": "adam",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "learning rate",
+      "label": "learning rate",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "learning rate schedules",
+      "label": "learning rate schedules",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "rate",
+      "label": "rate",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "rate schedules",
+      "label": "rate schedules",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "schedules",
+      "label": "schedules",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "sgd",
+      "label": "sgd",
+      "weight": 0.7169520425826936,
+      "degree_centrality": 0.7826086956521738,
+      "betweenness_centrality": 0.0025152712899748466,
+      "eigenvector_centrality": 0.1951974332595341
+    },
+    {
+      "id": "step",
+      "label": "step",
+      "weight": 0.5857335402840997,
+      "degree_centrality": 0.4782608695652174,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.11747690321066993
+    },
+    {
+      "id": "applications",
+      "label": "applications",
+      "weight": 0.5034576762149171,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920825
+    },
+    {
+      "id": "dataset",
+      "label": "dataset",
+      "weight": 0.48794078728231693,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16268488843024906
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "weight": 0.3701708418276319,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920817
+    },
+    {
+      "id": "world applications",
+      "label": "world applications",
+      "weight": 0.3701708418276319,
+      "degree_centrality": 0.9565217391304348,
+      "betweenness_centrality": 0.012576356449874239,
+      "eigenvector_centrality": 0.22894790765920817
+    },
+    {
+      "id": "result",
+      "label": "result",
+      "weight": 0.30699523721902333,
+      "degree_centrality": 0.6521739130434783,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.16268488843024906
+    }
+  ],
+  "edges": [
+    {
+      "source": "optimization",
+      "target": "optimization algorithms",
+      "weight": 8
+    },
+    {
+      "source": "optimization",
+      "target": "algorithms",
+      "weight": 8
+    },
+    {
+      "source": "optimization",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "optimization",
+      "target": "learning",
+      "weight": 5
+    },
+    {
+      "source": "optimization",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "optimization",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "adam",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "learning rate",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "learning rate schedules",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "rate",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "rate schedules",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "schedules",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "sgd",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "optimization",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "optimization",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "optimization",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "algorithms",
+      "weight": 8
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "learning",
+      "weight": 5
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "adam",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "learning rate",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "learning rate schedules",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "rate",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "rate schedules",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "schedules",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "sgd",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "optimization algorithms",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "lecture",
+      "weight": 5
+    },
+    {
+      "source": "algorithms",
+      "target": "learning",
+      "weight": 6
+    },
+    {
+      "source": "algorithms",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "implement",
+      "weight": 4
+    },
+    {
+      "source": "algorithms",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "adam",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "learning rate",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "learning rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "rate",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "algorithms",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "algorithms",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "algorithms",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning",
+      "weight": 5
+    },
+    {
+      "source": "lecture",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "lecture",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "adam",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "learning rate schedules",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "rate",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "rate schedules",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "schedules",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "sgd",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "lecture",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "lecture",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "deep",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "real",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "implement",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "adam",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "learning rate",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "learning rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "rate",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "learning",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "implement",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "implementation",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "adam",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "learning rate schedules",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "rate",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "rate schedules",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "schedules",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "sgd",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "real",
+      "target": "deep",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "deep learning",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "real",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "deep learning",
+      "weight": 3
+    },
+    {
+      "source": "deep",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implement",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "implementation",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "performance",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "dataset",
+      "weight": 2
+    },
+    {
+      "source": "deep learning",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "deep learning",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "implementation",
+      "weight": 4
+    },
+    {
+      "source": "implement",
+      "target": "adam",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "learning rate",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "learning rate schedules",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "rate",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "rate schedules",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "schedules",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "sgd",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implement",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implement",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "adam",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning rate",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "learning rate schedules",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "rate",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "rate schedules",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "schedules",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "sgd",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "performance",
+      "weight": 2
+    },
+    {
+      "source": "implementation",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "implementation",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "performance",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "adam",
+      "target": "learning rate",
+      "weight": 3
+    },
+    {
+      "source": "adam",
+      "target": "learning rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "adam",
+      "target": "rate",
+      "weight": 3
+    },
+    {
+      "source": "adam",
+      "target": "rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "adam",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "adam",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "adam",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "adam",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "adam",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "adam",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "learning rate",
+      "target": "learning rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning rate",
+      "target": "rate",
+      "weight": 3
+    },
+    {
+      "source": "learning rate",
+      "target": "rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning rate",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning rate",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "learning rate",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning rate",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning rate",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning rate",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "rate",
+      "weight": 3
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "learning rate schedules",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "rate",
+      "target": "rate schedules",
+      "weight": 3
+    },
+    {
+      "source": "rate",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "rate",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "rate",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "rate",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "rate",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "rate",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "rate schedules",
+      "target": "schedules",
+      "weight": 3
+    },
+    {
+      "source": "rate schedules",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "rate schedules",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "rate schedules",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "rate schedules",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "rate schedules",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "schedules",
+      "target": "sgd",
+      "weight": 3
+    },
+    {
+      "source": "schedules",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "schedules",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "schedules",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "schedules",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "sgd",
+      "target": "applications",
+      "weight": 1
+    },
+    {
+      "source": "sgd",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "sgd",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "sgd",
+      "target": "step",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "world",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "applications",
+      "target": "dataset",
+      "weight": 1
+    },
+    {
+      "source": "applications",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "world applications",
+      "weight": 1
+    },
+    {
+      "source": "dataset",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world",
+      "target": "world applications",
+      "weight": 2
+    },
+    {
+      "source": "world",
+      "target": "result",
+      "weight": 1
+    },
+    {
+      "source": "world applications",
+      "target": "result",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 24,
+    "edge_count": 229,
+    "is_connected": true
+  }
+}

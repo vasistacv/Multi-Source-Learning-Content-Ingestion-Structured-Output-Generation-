@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\1303.0042v1_Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Tel.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:40:51.186624",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\1303.0042v1_Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Tel.pdf",
+    "file_type": ".pdf",
+    "file_size": 241806,
+    "processed_at": "2026-01-17T13:40:49.823426",
+    "content_hash": "b94255b3a6d9b82da3e711d3038487d7878f3caae64326fe0db838d0ab952aa0",
+    "language": null,
+    "page_count": 5,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "subject": "",
+      "creator": "LaTeX with hyperref package",
+      "producer": "dvips + GPL Ghostscript GIT PRERELEASE 9.22",
+      "creation_date": "D:20180928230657-04'00'"
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Fermi",
+    "Po",
+    "Http",
+    "Students",
+    "Science"
+  ],
+  "key_concepts": [
+    "fermi",
+    "po",
+    "http",
+    "students",
+    "edu",
+    "science",
+    "program",
+    "education",
+    "universe",
+    "teachers",
+    "activities",
+    "fermi po",
+    "nasa",
+    "ssu",
+    "information"
+  ],
+  "entity_count": 400,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 29,
+      "edge_count": 281,
+      "density": 0.6921182266009852,
+      "is_connected": true,
+      "diameter": 2,
+      "average_shortest_path_length": 1.3078817733990147,
+      "average_clustering": 0.7790581825151615,
+      "most_central_concepts": [
+        [
+          "fermi",
+          1.0
+        ],
+        [
+          "po",
+          1.0
+        ],
+        [
+          "edu",
+          0.9642857142857142
+        ],
+        [
+          "students",
+          0.8928571428571428
+        ],
+        [
+          "education",
+          0.8928571428571428
+        ],
+        [
+          "universe",
+          0.8571428571428571
+        ],
+        [
+          "science",
+          0.8214285714285714
+        ],
+        [
+          "activities",
+          0.7857142857142857
+        ],
+        [
+          "2012",
+          0.7857142857142857
+        ],
+        [
+          "ssu",
+          0.75
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "fermi",
+        "po"
+      ],
+      [
+        "fermi",
+        "edu"
+      ],
+      [
+        "fermi",
+        "students"
+      ],
+      [
+        "fermi",
+        "education"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\1303.0042v1_Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Tel"
+  },
+  "rag_document_id": "6c9bfa5a-9b2f-47db-94d5-87b8cf00b7b9",
+  "processing_time_seconds": 6.145467
+}

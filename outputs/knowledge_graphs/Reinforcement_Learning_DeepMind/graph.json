@@ -1,0 +1,641 @@
+{
+  "nodes": [
+    {
+      "id": "learning",
+      "label": "learning",
+      "weight": 1.002218563912595,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.24561403508771928,
+      "eigenvector_centrality": 0.18151280483325924
+    },
+    {
+      "id": "reinforcement",
+      "label": "reinforcement",
+      "weight": 0.8367695707794098,
+      "degree_centrality": 0.42105263157894735,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17730886470170423
+    },
+    {
+      "id": "reinforcement learning",
+      "label": "reinforcement learning",
+      "weight": 0.8367695707794098,
+      "degree_centrality": 0.42105263157894735,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.17730886470170423
+    },
+    {
+      "id": "david",
+      "label": "david",
+      "weight": 0.6189004486474241,
+      "degree_centrality": 0.7368421052631579,
+      "betweenness_centrality": 0.03508771929824561,
+      "eigenvector_centrality": 0.29421924874971805
+    },
+    {
+      "id": "david silver",
+      "label": "david silver",
+      "weight": 0.6189004486474241,
+      "degree_centrality": 0.7368421052631579,
+      "betweenness_centrality": 0.03508771929824561,
+      "eigenvector_centrality": 0.29421924874971805
+    },
+    {
+      "id": "dr",
+      "label": "dr",
+      "weight": 0.6189004486474241,
+      "degree_centrality": 0.7368421052631579,
+      "betweenness_centrality": 0.03508771929824561,
+      "eigenvector_centrality": 0.29421924874971805
+    },
+    {
+      "id": "silver",
+      "label": "silver",
+      "weight": 0.6189004486474241,
+      "degree_centrality": 0.7368421052631579,
+      "betweenness_centrality": 0.03508771929824561,
+      "eigenvector_centrality": 0.29421924874971805
+    },
+    {
+      "id": "transcript",
+      "label": "transcript",
+      "weight": 0.6189004486474241,
+      "degree_centrality": 0.7368421052631579,
+      "betweenness_centrality": 0.03508771929824561,
+      "eigenvector_centrality": 0.29421924874971805
+    },
+    {
+      "id": "video",
+      "label": "video",
+      "weight": 0.6189004486474241,
+      "degree_centrality": 0.7368421052631579,
+      "betweenness_centrality": 0.03508771929824561,
+      "eigenvector_centrality": 0.29421924874971805
+    },
+    {
+      "id": "30",
+      "label": "30",
+      "weight": 0.5791754473570578,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25291434863745227
+    },
+    {
+      "id": "48",
+      "label": "48",
+      "weight": 0.5791754473570578,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25291434863745227
+    },
+    {
+      "id": "recording",
+      "label": "recording",
+      "weight": 0.5791754473570578,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25291434863745227
+    },
+    {
+      "id": "agents",
+      "label": "agents",
+      "weight": 0.5773502691896257,
+      "degree_centrality": 0.05263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 4.623874338843412e-11
+    },
+    {
+      "id": "agents learn",
+      "label": "agents learn",
+      "weight": 0.5773502691896257,
+      "degree_centrality": 0.05263157894736842,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 4.623874338843412e-11
+    },
+    {
+      "id": "00",
+      "label": "00",
+      "weight": 0.4890540615854937,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25291434863745227
+    },
+    {
+      "id": "content",
+      "label": "content",
+      "weight": 0.42720625161336534,
+      "degree_centrality": 0.15789473684210525,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.01818818470525486
+    },
+    {
+      "id": "content continues",
+      "label": "content continues",
+      "weight": 0.42720625161336534,
+      "degree_centrality": 0.15789473684210525,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.01818818470525486
+    },
+    {
+      "id": "continues",
+      "label": "continues",
+      "weight": 0.42720625161336534,
+      "degree_centrality": 0.15789473684210525,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.01818818470525486
+    },
+    {
+      "id": "audio",
+      "label": "audio",
+      "weight": 0.24452703079274685,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25291434863745227
+    },
+    {
+      "id": "audio transcription",
+      "label": "audio transcription",
+      "weight": 0.24452703079274685,
+      "degree_centrality": 0.5789473684210527,
+      "betweenness_centrality": 0.0,
+      "eigenvector_centrality": 0.25291434863745227
+    }
+  ],
+  "edges": [
+    {
+      "source": "learning",
+      "target": "reinforcement",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "reinforcement learning",
+      "weight": 2
+    },
+    {
+      "source": "learning",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "david",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "david silver",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "silver",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "content",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "content continues",
+      "weight": 1
+    },
+    {
+      "source": "learning",
+      "target": "continues",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "reinforcement learning",
+      "weight": 2
+    },
+    {
+      "source": "reinforcement",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "david",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "david silver",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement",
+      "target": "silver",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "david",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "david silver",
+      "weight": 1
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "silver",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "david silver",
+      "weight": 2
+    },
+    {
+      "source": "david",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "silver",
+      "weight": 2
+    },
+    {
+      "source": "david",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "48",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "david",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "dr",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "silver",
+      "weight": 2
+    },
+    {
+      "source": "david silver",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "48",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "david silver",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "transcript",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "dr",
+      "target": "silver",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "48",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "dr",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "transcript",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "video",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "48",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "silver",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "video",
+      "weight": 2
+    },
+    {
+      "source": "transcript",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "48",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "transcript",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "30",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "48",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "recording",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "video",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "48",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "30",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "30",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "48",
+      "target": "recording",
+      "weight": 2
+    },
+    {
+      "source": "48",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "48",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "48",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "00",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "recording",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "agents",
+      "target": "agents learn",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio",
+      "weight": 1
+    },
+    {
+      "source": "00",
+      "target": "audio transcription",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "content continues",
+      "weight": 1
+    },
+    {
+      "source": "content",
+      "target": "continues",
+      "weight": 1
+    },
+    {
+      "source": "content continues",
+      "target": "continues",
+      "weight": 1
+    },
+    {
+      "source": "audio",
+      "target": "audio transcription",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "node_count": 20,
+    "edge_count": 94,
+    "is_connected": false
+  }
+}

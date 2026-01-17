@@ -1,0 +1,127 @@
+{
+  "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2006.16189v4_DOME Recommendations for supervised machine learning validation in biology.pdf",
+  "file_type": ".pdf",
+  "processed_at": "2026-01-17T13:42:04.072286",
+  "metadata": {
+    "file_path": "d:\\Navgurukul\\data\\enterprise_dataset\\pdfs\\research_papers\\2006.16189v4_DOME Recommendations for supervised machine learning validation in biology.pdf",
+    "file_type": ".pdf",
+    "file_size": 683851,
+    "processed_at": "2026-01-17T13:42:02.582729",
+    "content_hash": "13d76454509e4bc1bc1501b6d254cede16789e199661d59a9540982866f4a734",
+    "language": null,
+    "page_count": 21,
+    "duration": null,
+    "word_count": null,
+    "metadata": {
+      "title": "",
+      "author": "",
+      "subject": "",
+      "creator": "",
+      "producer": "Skia/PDF m89",
+      "creation_date": ""
+    }
+  },
+  "summary": "",
+  "topics": [
+    "Data",
+    "Ml",
+    "Model",
+    "Learning",
+    "Set"
+  ],
+  "key_concepts": [
+    "data",
+    "ml",
+    "model",
+    "set",
+    "used",
+    "yes",
+    "methods",
+    "recommendations",
+    "test",
+    "learning",
+    "performance",
+    "training",
+    "evaluation",
+    "machine",
+    "machine learning"
+  ],
+  "entity_count": 992,
+  "word_count": null,
+  "flashcards": [],
+  "quiz_questions": [],
+  "knowledge_graph": {
+    "statistics": {
+      "node_count": 29,
+      "edge_count": 241,
+      "density": 0.5935960591133005,
+      "is_connected": true,
+      "diameter": 3,
+      "average_shortest_path_length": 1.435960591133005,
+      "average_clustering": 0.793443227206926,
+      "most_central_concepts": [
+        [
+          "data",
+          0.8928571428571428
+        ],
+        [
+          "ml",
+          0.8214285714285714
+        ],
+        [
+          "model",
+          0.8214285714285714
+        ],
+        [
+          "learning",
+          0.8214285714285714
+        ],
+        [
+          "set",
+          0.7857142857142857
+        ],
+        [
+          "machine",
+          0.7857142857142857
+        ],
+        [
+          "machine learning",
+          0.7857142857142857
+        ],
+        [
+          "pos",
+          0.7857142857142857
+        ],
+        [
+          "methods",
+          0.75
+        ],
+        [
+          "evaluation",
+          0.75
+        ]
+      ]
+    },
+    "learning_paths": [
+      [
+        "data",
+        "ml"
+      ],
+      [
+        "data",
+        "model"
+      ],
+      [
+        "data",
+        "learning"
+      ],
+      [
+        "data",
+        "set"
+      ]
+    ],
+    "output_directory": "outputs\\knowledge_graphs\\2006.16189v4_DOME Recommendations for supervised machine learning validation in biology"
+  },
+  "rag_document_id": "7b077261-9e30-455d-a542-82411dfa9d03",
+  "processing_time_seconds": 14.985136
+}
